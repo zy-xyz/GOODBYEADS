@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-08-19 09:06:45（北京时间）
+! Version: 2025-08-19 20:28:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18175
+! Total count: 18173
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -1073,7 +1073,6 @@
 @@||account.mcid.mynavi.jp^$stealth=referrer
 @@||account.microsoft.com/?refd=$stealth=3p-cookie
 @@||account.microsoft.com/auth/$stealth=3p-cookie
-@@||account.production-public.tubi.io^$stealth=3p-auth
 @@||account.withings.com^$stealth=ip
 @@||accounts.ea.com^$stealth
 @@||accounts.ea.com^$stealth=3p-cookie
@@ -2371,6 +2370,7 @@
 @@||apis.google.com/js/plusone.js$domain=pornhub.com
 @@||apis.google.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
 @@||apis.kostprice.com/fapi/$script,domain=gadgets.ndtv.com
+@@||apis.naver.com^$stealth=dpi
 @@||apis.quantcast.mgr.consensu.org/CookieAccess$domain=ladbible.com
 @@||apis.wavve.com/fz/streaming$domain=wavve.com,stealth=ip
 @@||apiservices.krxd.net/click_tracker^
@@ -6418,6 +6418,7 @@
 @@||fc-lc.xyz^$generichide
 @@||fc-zenit.ru/local/templates/new_html/css/nav-social-2/$~third-party
 @@||fc.lc^$generichide
+@@||fc2stream.tv/t/$stealth=referrer
 @@||fccbrea.org^*/swfaddress.js
 @@||fce365.info^$generichide
 @@||fcportables.com/wp-content/uploads/ad-inserter^
@@ -6800,7 +6801,6 @@
 @@||g.alicdn.com^*/banner_ad_
 @@||g.csdnimg.cn/lib/fuckadblock/3.2.1/fuckadblock.min.js
 @@||g.doubleclick.net/aclk?$popup,domain=bodas.com.mx|bodas.net|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|mariages.net|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|pianobuyer.com|weddingspot.co.uk|zillow.com
-@@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=bloomberg.com|chromatographyonline.com|formularywatch.com|journaldequebec.com|managedhealthcareexecutive.com|medicaleconomics.com|physicianspractice.com
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=bloomberg.com|chromatographyonline.com|formularywatch.com|journaldequebec.com|managedhealthcareexecutive.com|medicaleconomics.com|physicianspractice.com|samsclub.com
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?$domain=blog.nicovideo.jp|edy.rakuten.co.jp|tv-tokyo.co.jp|voici.fr
@@ -6827,7 +6827,6 @@
 @@||g.doubleclick.net/pagead/ads?gdpr=$subdocument,domain=decrypt.day
 @@||g.doubleclick.net/pagead/images/gmob/close-circle-30x30.png$image,domain=safeframe.googlesyndication.com
 @@||g.doubleclick.net/pagead/managed/js/gpt/$script,domain=adamtheautomator.com|allestoringen.be|allestoringen.nl|aussieoutages.com|canadianoutages.com|downdetector.ae|downdetector.ca|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.br|downdetector.dk|downdetector.es|downdetector.fi|downdetector.fr|downdetector.hk|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.no|downdetector.pl|downdetector.pt|downdetector.ru|downdetector.se|downdetector.sg|downdetector.tw|downdetector.web.tr|euronews.com|filmweb.pl|hoyme.jp|ictnews.org|journaldequebec.com|kino.de|mediaite.com|samsclub.com|spiegel.de|thestar.co.uk|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de|yorkshirepost.co.uk
-@@||g.doubleclick.net/pagead/managed/js/gpt/$script,domain=adamtheautomator.com|allestoringen.be|allestoringen.nl|aussieoutages.com|canadianoutages.com|downdetector.ae|downdetector.ca|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.br|downdetector.dk|downdetector.es|downdetector.fi|downdetector.fr|downdetector.hk|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.no|downdetector.pl|downdetector.pt|downdetector.ru|downdetector.se|downdetector.sg|downdetector.tw|downdetector.web.tr|euronews.com|filmweb.pl|hoyme.jp|ictnews.org|journaldequebec.com|kino.de|mediaite.com|spiegel.de|thestar.co.uk|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de|yorkshirepost.co.uk
 @@||g.doubleclick.net/pagead/managed/js/gpt/$script,domain=makeuseof.com|howtogeek.com
 @@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=blog.nicovideo.jp|laurelberninteriors.com|metropcs.mobi
 @@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=games.coolgames.com
@@ -6837,7 +6836,6 @@
 @@||g.doubleclick.net/tag/js/gpt.js$domain=koigaku.machicon.jp
 @@||g.doubleclick.net/tag/js/gpt.js$domain=soranews24.com
 @@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|adamtheautomator.com|bestiefy.com|blastingnews.com|blog.nicovideo.jp|bloomberg.com|chromatographyonline.com|cornwalllive.com|devclass.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|euronews.com|filmweb.pl|formularywatch.com|games.coolgames.com|gearpatrol.com|hoyme.jp|journaldequebec.com|kino.de|laurelberninteriors.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|metropcs.mobi|nycgo.com|olx.pl|physicianspractice.com|repretel.com|samsclub.com|spiegel.de|standard.co.uk|telsu.fi|theta.tv|weather.com|wralsportsfan.com
-@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|adamtheautomator.com|bestiefy.com|blastingnews.com|blog.nicovideo.jp|bloomberg.com|chromatographyonline.com|cornwalllive.com|devclass.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|euronews.com|filmweb.pl|formularywatch.com|games.coolgames.com|gearpatrol.com|hoyme.jp|journaldequebec.com|kino.de|laurelberninteriors.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|metropcs.mobi|nycgo.com|olx.pl|physicianspractice.com|repretel.com|spiegel.de|standard.co.uk|telsu.fi|theta.tv|weather.com|wralsportsfan.com
 @@||g.tbcdn.cn^
 @@||g17media.com/detect.html$domain=lcpdfr.com
 @@||g2a.com/toolbar/$document
@@ -8839,7 +8837,6 @@
 @@||idahostatesman.com^$generichide
 @@||idealsilhouette.com^$generichide
 @@||identity.mparticle.com/v*/identify$domain=cwseed.com
-@@||identity.mparticle.com/v*/identify$domain=nbc.com
 @@||identity.mparticle.com/v*/identify$domain=nbc.com|amcplus.com
 @@||identity.mparticle.com/v1/identify$domain=cwtv.com
 @@||identity.mparticle.com^$xmlhttprequest
@@ -9792,7 +9789,6 @@
 @@||jsrdn.com/s/$script,domain=distro.tv
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=cwseed.com
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=cwtv.com
-@@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=nbc.com
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=nbc.com|amcplus.com
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=weather.com
 @@||jstatic.3.cn^$domain=m.jd.com
@@ -10360,7 +10356,6 @@
 @@||logly.co.jp/recommend/$image,domain=sponichi.co.jp
 @@||logo.clearbit.com^
 @@||logo.clearbit.com^$image,domain=securitytrails.com
-@@||logo.clearbit.com^$image,third-party
 @@||logo.wine/a/logo/$image,~third-party
 @@||logos-world.net^$generichide
 @@||logowanie.play.pl^$stealth
@@ -14391,7 +14386,7 @@
 @@||sdk.privacy-center.org/*/loader.js$domain=video-streaming.orange.fr
 @@||sdk.privacy-center.org/*/loader.js?$domain=euronews.com
 @@||sdk.privacy-center.org/*/loader.js?$domain=krone.at|goplay.be
-@@||sdk.privacy-center.org/loader.js$domain=levante-emv.com|informacion.es|laprovincia.es
+@@||sdk.privacy-center.org/loader.js$domain=levante-emv.com|informacion.es|laprovincia.es|laopiniondezamora.es
 @@||sdk.privacy-center.org/loader.js$domain=nieuwsblad.be
 @@||sdk.privacy-center.org/loader.js$domain=standaard.be
 @@||sdk.privacy-center.org/sdk.*.js$domain=beinsports.com
@@ -14406,7 +14401,7 @@
 @@||sdk.privacy-center.org/sdk.*.js$domain=orf.at
 @@||sdk.privacy-center.org/sdk/$domain=gamepro.de
 @@||sdk.privacy-center.org/sdk/$domain=hbvl.be
-@@||sdk.privacy-center.org/sdk/$domain=levante-emv.com|informacion.es|laprovincia.es
+@@||sdk.privacy-center.org/sdk/$domain=levante-emv.com|informacion.es|laprovincia.es|laopiniondezamora.es
 @@||sdk.privacy-center.org/sdk/$domain=nationalgeographic.com.es|franceinfo.fr
 @@||sdk.privacy-center.org/sdk/$domain=video-streaming.orange.fr
 @@||sdk.privacy-center.org/sdk/$script,domain=ivoox.com
@@ -15760,6 +15755,7 @@
 @@||staticxx.facebook.com/connect/xd_arbiter/*.js?version=$domain=jkanime.net
 @@||staticxx.facebook.com/connect/xd_arbiter/*.js?version=$domain=shinden.pl
 @@||statisticsanddata.org/wp-content/plugins/complianz-gdpr/$script,stylesheet
+@@||stats.britishbaseball.org.uk^
 @@||stats.e-go.gr/rx.asp?$domain=megatv.com
 @@||stats.g.doubleclick.net/*/collect?$image,xmlhttprequest,domain=sheee.co.il
 @@||stats.g.doubleclick.net/dc.js$domain=dubizzle.com
@@ -16773,6 +16769,7 @@
 @@||tunovelaligera.com^$generichide
 @@||turbo.az^$stealth=referrer
 @@||turbogenerator.info/adblock.js$script
+@@||turbovidhls.com/t/$stealth=referrer
 @@||turiver.com^$generichide
 @@||turkanime.tv/ads.html$subdocument,domain=turkanime.tv
 @@||turkcell.api.useinsider.com/ins.js$domain=turkcell.com.tr
@@ -17940,6 +17937,7 @@
 @@||yams.akamaized.net^$stealth=referrer
 @@||yandex.*/clck/jsredir?from=yandex.*%3Bsearch%2F%3Bweb%3B%3B$~third-party,~xmlhttprequest,~image,~other
 @@||yandex.com/search/?$generichide
+@@||yandex.go.link^$removeparam=adj_t
 @@||yandex.ru/ads/system/adsdk.js$domain=gisher.org
 @@||yandex.ru/ads/system/context.js$domain=investing.com
 @@||yandex.ru/ads/system/context.js$domain=mathdf.com
