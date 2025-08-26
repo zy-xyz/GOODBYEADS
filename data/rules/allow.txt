@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-08-26 09:05:52（北京时间）
+! Version: 2025-08-26 20:30:18（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18189
+! Total count: 18194
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -1264,6 +1264,7 @@
 @@||adblockanalytics.com^$xmlhttprequest,domain=chd4.com
 @@||adblockanalytics.com^|$domain=pearos.xyz
 @@||adblockdetect.xyz^$script,domain=anitoonstv.com
+@@||adblockplus.org/img/cookie-notice.svg$domain=adblockplus.org
 @@||adblockplus.org/img/cookie-notice.svg$~third-party
 @@||adblockplus.org^$generichide
 @@||adbuck.cc/player/
@@ -3561,6 +3562,7 @@
 @@||cdn.amplitude.com/libs/amplitude-*-min.gz.js$domain=workflowy.com
 @@||cdn.ampproject.org/*/amp-consent*.js$domain=amarujala.com
 @@||cdn.ampproject.org/*/amp-consent*.js$domain=nordbayern.de
+@@||cdn.ampproject.org/*/amp-consent-*.mjs$domain=9to5toys.com
 @@||cdn.ampproject.org/v0.js$domain=amp.fakty.ua
 @@||cdn.ampproject.org/v0.js$domain=politnavigator.net
 @@||cdn.ampproject.org/v0/amp-consent-*.js$domain=edition.cnn.com
@@ -3701,7 +3703,7 @@
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=sony.de|pokemontcgpocket.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=spektrum.de
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=sportiva.shueisha.co.jp
-@@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=thoughtco.com
+@@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=thoughtco.com|www-thoughtco-com.translate.goog
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=tomthumb.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=tripadvisor.*
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=tvguide.com
@@ -4067,6 +4069,7 @@
 @@||cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js$domain=tvspielfilm.de
 @@||cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js$domain=tvtoday.de
 @@||cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js$domain=utopia.de
+@@||cdn.privacy-mgmt.com^$domain=9to5toys.com
 @@||cdn.privacy-mgmt.com^$domain=athlonsports.com
 @@||cdn.privacy-mgmt.com^$domain=berliner-kurier.de
 @@||cdn.privacy-mgmt.com^$domain=berliner-zeitung.de
@@ -5478,7 +5481,6 @@
 @@||datadoghq-browser-agent.com/datadog-rum-v*.js$domain=voici.fr|gala.fr
 @@||datadoghq-browser-agent.com/datadog-rum.js$domain=notonthehighstreet.com
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|hungryroot.com|usa.experian.com
-@@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|hungryroot.com|usa.experian.com
 @@||datadoghq-browser-agent.com^$script,domain=hungryroot.com
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
 @@||datalog.co.uk/js/ads.js$script
@@ -10037,6 +10039,7 @@
 @@||laivanduc.com^$generichide
 @@||lamitadmas1.net^$generichide
 @@||lamoda.ru^$elemhide,jsinject,extension,content,header=Set-Cookie:/qrator_jsr=/
+@@||lamoda.ru^$stealth=1p-cookie
 @@||lamycosphere.com/cdn/shop/*/assets/pixel.gif$image,~third-party
 @@||lanacion.com.ar/*module$removeparam=utm_source
 @@||lanacion.com.ar/?utm_source=navigation$removeparam
@@ -10226,7 +10229,6 @@
 @@||lirarate.org/tardisrocinante/screx.js
 @@||liriklaguindonesia.net^$generichide
 @@||list-manage.com/subscribe/post-json?
-@@||listing-search-wonen.funda.io/geo-wonen-alias-prod/_search/template$domain=funda.nl,stealth=referrer
 @@||listing-search-wonen.funda.io^$domain=funda.nl,stealth=referrer
 @@||litv.tv/ads/ads.js
 @@||litvp.com/checkStatus/$domain=emturbovid.com
@@ -11233,6 +11235,7 @@
 @@||mylivesignature.com^$generichide
 @@||mylogin.abc.net.au^$stealth=referrer
 @@||mymanga.io/css/ads.css$stylesheet
+@@||mynameiscanavar.site/embed/$stealth=referrer
 @@||myneobuxportal.com/wp-content/plugins/*/adblock-detector/advertisement.js
 @@||mynexity.fr/App_Themes/V3/js/Didomi.js
 @@||mynexity.fr/App_Themes/V3/js/Didomi.js$~third-party
@@ -11630,7 +11633,6 @@
 @@||okteve.com/*&*=*&*&_=$xmlhttprequest,~third-party
 @@||olacast.live^$stealth=referrer
 @@||olamovies.blog^$generichide
-@@||olamovies.mom^$generichide
 @@||olcdn.com/net/v1/gb2312/$script
 @@||olcdn.net/ads.adsense.ads1.js$script
 @@||oldskool.vip^$generichide
@@ -12124,6 +12126,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=fox.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebinchecker.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebnbcoin.com|exotictgirl.blogspot.com|bospedia.com|rockmods.net|aiimsneetshortnotes.com|arabseed.onl|miuiku.com|tatangga.com|flash-firmware.blogspot.com|rumahit.id|romfirmware.com|gsmfirmware.net|akwam.*|fc-lc.com|fc.lc|note1s.com|paste1s.com|ipacrack.com|traffic1s.com|adnews.me|ak4eg.*|xn--mgba7fjn.*|akw.to|ak4ar.*|nguyenvanbao.com|ak.sv|akw.cam|indokontraktor.com|shahee4u.cam|batch-kun.com|shahid4u.*|neosatsu.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebnbcoin.com|exotictgirl.blogspot.com|bospedia.com|rockmods.net|aiimsneetshortnotes.com|arabseed.onl|miuiku.com|tatangga.com|flash-firmware.blogspot.com|rumahit.id|romfirmware.com|gsmfirmware.net|akwam.*|fc-lc.com|fc.lc|note1s.com|paste1s.com|ipacrack.com|traffic1s.com|adnews.me|ak4eg.*|xn--mgba7fjn.*|akw.to|ak4ar.*|nguyenvanbao.com|ak.sv|akw.cam|indokontraktor.com|shahee4u.cam|batch-kun.com|shahid4u.*|neosatsu.com|shahidd4u.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freecoursesonline.me
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freeiptvgen.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freemagazines.top
@@ -12277,7 +12280,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=nsfw247.to
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=okdebrid.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=olamovies.blog
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=olamovies.mom
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=olarila.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=onehack.us
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=onehack.us|competentedigitale.ro
@@ -12619,6 +12621,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=scamwatcher.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=slashview.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=smallseotools.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=sms-ol.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=spigotunlocked.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=sshkit.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=ssstik.io
@@ -14385,6 +14388,7 @@
 @@||sdk.privacy-center.org/*/loader.js$domain=gmenhq.com|jaysjournal.com|aroundthefoghorn.com
 @@||sdk.privacy-center.org/*/loader.js$domain=ivoox.com
 @@||sdk.privacy-center.org/*/loader.js$domain=knack.be
+@@||sdk.privacy-center.org/*/loader.js$domain=laliga.com
 @@||sdk.privacy-center.org/*/loader.js$domain=mundodeportivo.com
 @@||sdk.privacy-center.org/*/loader.js$domain=naszemiasto.pl|dziennikbaltycki.pl|dzienniklodzki.pl|dziennikpolski24.pl|echodnia.eu|expressbydgoski.pl|expressilustrowany.pl|gazetakrakowska.pl|gazetalubuska.pl|gazetawroclawska.pl|gk24.pl|gloswielkopolski.pl|gol24.pl|gp24.pl|gra.pl|gs24.pl|kurierlubelski.pl|motofakty.pl|nowiny24.pl|nowosci.com.pl|nto.pl|polskatimes.pl|pomorska.pl|poranny.pl|sportowy24.pl|strefaagro.pl|strefabiznesu.pl|stronakobiet.pl|telemagazyn.pl|to.com.pl|wspolczesna.pl|stronazdrowia.pl|strefaedukacji.pl|stronapodrozy.pl|stronakuchni.pl|gra.pl|e-ogrodek.pl|shownews.pl|strefaobrony.pl
 @@||sdk.privacy-center.org/*/loader.js$domain=nationalgeographic.com.es|franceinfo.fr
@@ -14410,6 +14414,7 @@
 @@||sdk.privacy-center.org/sdk.*.js$domain=orf.at
 @@||sdk.privacy-center.org/sdk/$domain=gamepro.de
 @@||sdk.privacy-center.org/sdk/$domain=hbvl.be
+@@||sdk.privacy-center.org/sdk/$domain=laliga.com
 @@||sdk.privacy-center.org/sdk/$domain=latribune.fr
 @@||sdk.privacy-center.org/sdk/$domain=levante-emv.com|informacion.es|laprovincia.es|laopiniondezamora.es
 @@||sdk.privacy-center.org/sdk/$domain=nationalgeographic.com.es|franceinfo.fr
