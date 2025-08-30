@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-08-30 09:00:03（北京时间）
+! Version: 2025-08-30 20:24:32（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18212
+! Total count: 18213
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -599,6 +599,7 @@
 @@://doubleclick.com/|$xmlhttprequest,domain=watch.plex.tv
 @@://googleadservices.com^|
 @@://googlesyndication.com/|$domain=raenonx.cc
+@@://html-load.com/loader.min.js$domain=dogdrip.net|infinityfree.com|smsonline.cloud
 @@://html-load.com/loader.min.js$domain=infinityfree.com
 @@://img.souche.com/*.jpg
 @@://localhost/$generichide
@@ -3279,7 +3280,6 @@
 @@||bvdinfo.com/js/components/GDPR.js
 @@||by-promokod.by^$stealth=useragent
 @@||byfly.dualstack.speedtestcustom.com^$stealth=referrer
-@@||bytecdntp.com^$script,domain=51eshu.com|qingqingxs.top
 @@||bytecdntp.com^$script,domain=hushuge.com|51eshu.com|qingqingxs.top
 @@||bytedance.com/ttwid/union/register/
 @@||bytegoofy.com/ad/$domain=jinritemai.com
@@ -3704,6 +3704,7 @@
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=mtvuutiset.fi
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=nationalgeographic.de|nationalgeographic.es
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=outdoorsy.com
+@@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=registration.lovoo.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=rtl.nl
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=servustv.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=sn.at
@@ -4194,9 +4195,9 @@
 @@||cdn.static.zdbb.net/js/zd-email.min.js$domain=pcmag.com
 @@||cdn.statically.io/gh/ubo-coder/og/main/adsAPI.js$domain=infinityscans.xyz|infinityscans.net|infinityscans.org
 @@||cdn.statically.io/img^$stealth=referrer
-@@||cdn.staticfile.org^$domain=20me.net|fbqg.cc|xianguke.net|tellgillian.com|m-ia.net|cleavagecoverup.com|83kss.cc|memduh.net|56xiaoshuo.net|yourbiquge.com|00ksw.com|147xiaoshuo.com|91zww.com|bxwx.live|lzbao.net
 @@||cdn.staticfile.org^$domain=49gtk.cc|20me.net|fbqg.cc|xianguke.net|tellgillian.com|m-ia.net|cleavagecoverup.com|83kss.cc|memduh.net|56xiaoshuo.net|yourbiquge.com|00ksw.com|147xiaoshuo.com|91zww.com|bxwx.live|lzbao.net
 @@||cdn.staticfile.org^$domain=biqiuge5.org|49gtk.cc|20me.net|fbqg.cc|xianguke.net|tellgillian.com|m-ia.net|cleavagecoverup.com|83kss.cc|memduh.net|56xiaoshuo.net|yourbiquge.com|00ksw.com|147xiaoshuo.com|91zww.com|bxwx.live|lzbao.net
+@@||cdn.staticfile.org^$domain=yzbg.net|alexij.net|hshfm.com|biqiuge5.org|49gtk.cc|20me.net|fbqg.cc|xianguke.net|tellgillian.com|m-ia.net|cleavagecoverup.com|83kss.cc|memduh.net|56xiaoshuo.net|yourbiquge.com|00ksw.com|147xiaoshuo.com|91zww.com|bxwx.live|lzbao.net
 @@||cdn.staticfile.org^$script,domain=00ksw.com|147xiaoshuo.com|31xs.org|31xsxs.com|35xs.org|biquge18.com|biququ.info|manhuadui.com|qihaoqihao.com|rijutv.com|tsxsw.net|xbiqugexsw.com|xx31xs.org|ziyouge.com
 @@||cdn.staticfile.org^$script,domain=movieffm.net
 @@||cdn.stroeerdigitalgroup.de/metatag/live/ctc_golem_relaunch/metaTag.min.js$domain=golem.de
