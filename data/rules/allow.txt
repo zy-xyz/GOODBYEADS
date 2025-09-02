@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-09-02 09:04:06（北京时间）
+! Version: 2025-09-02 20:28:47（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18221
+! Total count: 18222
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -3672,6 +3672,7 @@
 @@||cdn.contentful.com/spaces^$stealth=3p-auth
 @@||cdn.conversant.mgr.consensu.org/gdpr/cmp/config/m/e/mentalfloss.com/config.js$domain=mentalfloss.com
 @@||cdn.cookielaw.org/$script,xmlhttprequest,domain=crunchyroll.com
+@@||cdn.cookielaw.org/consent/*.json$domain=milwaukeetool.eu
 @@||cdn.cookielaw.org/opt-out/otCCPAiab.js$domain=bikeforums.net
 @@||cdn.cookielaw.org/opt-out/otCCPAiab.js$domain=cwtv.com
 @@||cdn.cookielaw.org/opt-out/otCCPAiab.js$domain=nbclosangeles.com
@@ -5496,7 +5497,6 @@
 @@||datadoghq-browser-agent.com/datadog-rum-v*.js$domain=voici.fr|gala.fr
 @@||datadoghq-browser-agent.com/datadog-rum.js$domain=notonthehighstreet.com
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|goindigo.in|hungryroot.com|usa.experian.com
-@@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|hungryroot.com|usa.experian.com
 @@||datadoghq-browser-agent.com^$script,domain=hungryroot.com
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
 @@||datalog.co.uk/js/ads.js$script
@@ -8645,6 +8645,7 @@
 @@||hk.on.cc/js/v4/oncc-adbanner.js$domain=hk.on.cc
 @@||hk.on.cc/js/v4/urchin.js
 @@||hk.on.cc/mobile/js/lib/adbanner.js
+@@||hk.on.cc^$generichide
 @@||hk01.com^*/ga_trace.js
 @@||hk01.com^*/scripts/ga.js
 @@||hkjc.com/bannerad/
