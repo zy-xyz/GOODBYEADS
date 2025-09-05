@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-09-04 20:28:06（北京时间）
+! Version: 2025-09-05 09:01:39（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18234
+! Total count: 18231
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -4478,7 +4478,6 @@
 @@||choices.consentframework.com/js/*/cmp$domain=numerama.com
 @@||choices.consentframework.com/js/*/cmp$domain=systemed.fr
 @@||choices.consentframework.com^$domain=frandroid.com|numerama.com
-@@||chokersmalicho.com/*/*/*/$script,xmlhttprequest,domain=kio.ac
 @@||chompers.io/ads.js
 @@||chop-druzhina.ru/images/adv*.png
 @@||choralia.net/anymanagerrecover.js
@@ -10421,7 +10420,6 @@
 @@||love-stoorey210.net^$generichide
 @@||loveawake.com^$generichide
 @@||loverscum.com^$generichide
-@@||lovierthorax.com/*/*/*/$script,xmlhttprequest,domain=kio.ac
 @@||lovingsiren.com^$generichide
 @@||lowcygier.pl/wp-content/themes/graphene/js/ads.js$script
 @@||loxtk.com/gLoader.php?GID=$script,third-party
@@ -13470,7 +13468,6 @@
 @@||pro.hit.gemius.pl/gplayer.js$domain=nova.cz
 @@||pro.hit.gemius.pl/gstream.js$domain=embed.rtl.hu
 @@||pro.hit.gemius.pl/gstream.js$domain=ttv.pl
-@@||probableregret.com/*/*/*/$script,xmlhttprequest,domain=kio.ac
 @@||prod-cdn.wetransfer.net/assets/advertising*.js
 @@||prod.adobeccstatic.com/unav/*/AnalyticsProvider.*.bundle.js$domain=acrobat.adobe.com
 @@||prod.adspsp.com/adb.*.min.js$domain=healthline.com
