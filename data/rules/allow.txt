@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-09-06 20:23:47（北京时间）
+! Version: 2025-09-07 09:06:25（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18238
+! Total count: 18239
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -1470,6 +1470,7 @@
 @@||ads.imprezzer.com/js/$script,domain=mgronline.com
 @@||ads.juicyads.com/jsclients/jac.js$domain=lewd.ninja
 @@||ads.julephosting.de/podcasts/$domain=open.spotify.com
+@@||ads.julephosting.de/podcasts/$domain=otz.de
 @@||ads.kbmax.com^$domain=adspipe.com
 @@||ads.korri.fr/index.js$domain=dogefaucet.com
 @@||ads.lingxing.com^
