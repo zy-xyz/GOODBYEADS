@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-10-02 09:00:59（北京时间）
+! Version: 2025-10-02 20:26:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18311
+! Total count: 18313
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -3931,7 +3931,7 @@
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
 @@||cdn.jwplayer.com/*/media/$domain=pro.thestreet.com
 @@||cdn.kaizenplatform.net^$script,domain=navi.onamae.com
-@@||cdn.ketchjs.com/lanyard/$script,domain=cbs.com|cbsnews.com|chipotle.com|realtruck.com
+@@||cdn.ketchjs.com/lanyard/$script,domain=cbs.com|cbsnews.com|chipotle.com|realtruck.com|southpark.cc.com|southparkstudios.com
 @@||cdn.klambt.services/js/advertisement.js|
 @@||cdn.krxd.net/amp/remote.min.js$domain=static.telegraph.co.uk
 @@||cdn.krxd.net/controltag/*.js$domain=video.foxnews.com|video.foxbusiness.com
@@ -6365,6 +6365,7 @@
 @@||evkur.com.tr^$stealth=dpi
 @@||evolution-x.org^$generichide
 @@||evowars.io/ads.js
+@@||exacttarget.com^$domain=pub.msg.smbc.co.jp
 @@||exali.de/static/theme/assets/js/cookieBanner.js
 @@||exambd.net^$generichide
 @@||examsleague.co.in^$generichide
@@ -14019,6 +14020,7 @@
 @@||regapi.37.com/api/p_register.php?login_account=
 @@||registrierung.gmx.net^$stealth
 @@||registrierung.web.de^$stealth
+@@||registro.pse.com.co/PSENF/assets/js/fingerprint.min.js$script,domain=registro.pse.com.co
 @@||reichelt.de/*/cookie_consent.js
 @@||reifenrechner.at^$generichide
 @@||reimg.org/images^$image,stealth=referrer
