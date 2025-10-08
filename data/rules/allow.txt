@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-10-08 09:01:24（北京时间）
+! Version: 2025-10-08 20:29:23（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18337
+! Total count: 18339
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -1031,7 +1031,6 @@
 @@||a.realsrv.com/ads.js$domain=javcl.com
 @@||a.realsrv.com/video-slider.js$domain=daemon-hentai.com
 @@||a.realsrv.com/video-slider.js$domain=manga1000.com
-@@||a.realsrv.com^$domain=m.4khd.com
 @@||a.sellpoint.net^|
 @@||a.spolecznosci.net/pet?s=Shinden$domain=shinden.pl
 @@||a.usafacts.org/api/v4/Metrics$~third-party
@@ -3521,7 +3520,7 @@
 @@||cdn-a.ookbee.com/Shop/ookbee/file/cookieconsent.js$domain=ookbee.com
 @@||cdn-a.yieldlove.com/yieldlove-bidder.js?meczyki.pl_mobile$domain=meczyki.pl
 @@||cdn-aitg.widerplanet.com/js/wp_astg_$script,domain=larocheposay.co.kr
-@@||cdn-cookieyes.com/client_data/$script,xmlhttprequest,domain=ilovefreegle.org|tribexr.com
+@@||cdn-cookieyes.com/client_data/$script,xmlhttprequest
 @@||cdn-cookieyes.com/client_data/*/script.js$domain=try.makevisible.com
 @@||cdn-cookieyes.com^$domain=money.it
 @@||cdn-fck.tnaflix.com^$removeparam
@@ -4269,6 +4268,7 @@
 @@||cdn.tagdeliver.com/cipt/18911.js$domain=thepinknews.com
 @@||cdn.theatlantic.com/assets/static/*/js/advertisement.2.js
 @@||cdn.theguardian.tv/ad/*.m3u8$domain=theguardian.com
+@@||cdn.tiny.cloud/*/tinymce/*.js$stealth=referrer
 @@||cdn.trackjs.com/agent/v*/latest/t.js$domain=adshnk.com|adshrink.it
 @@||cdn.trackjs.com/agent/v*/latest/t.js$domain=delta.com
 @@||cdn.trackjs.com/releases/current/tracker.js$domain=express.com
@@ -8806,6 +8806,7 @@
 @@||html-load.com^$stealth=referrer
 @@||html5.5games.cc^$stealth=referrer,third-party
 @@||html5.gamedistribution.com/*/$stealth=referrer
+@@||htnovo.net^$generichide
 @@||htz-*upload.spac.me/pics_upload/$stealth=referrer
 @@||hu.adocean.pl/files/js/ado.js$domain=retroradio.hu
 @@||huaweiblog.de/wp-content/plugins/cookie-law-info/
@@ -10774,6 +10775,7 @@
 @@||mealty.ru/js/ga_events.js$~third-party
 @@||meanwell.com^$stealth=dpi
 @@||measure.medpex.de/gtm.js
+@@||meb.gov.tr^$stealth=dpi
 @@||mec.ca/media/javascript/resxclsx.js
 @@||medeberiya1.com^$generichide
 @@||medevel.com^$generichide
@@ -16115,7 +16117,6 @@
 @@||syndication.exoclick.com/ads-iframe-display.php$subdocument,domain=mobilevids.org
 @@||syndication.exoclick.com/splash.php?$popup,domain=hentaistream.com
 @@||syndication.exosrv.com/splash.php$domain=vqtube.com|taxi69.com
-@@||syndication.realsrv.com^$domain=m.4khd.com
 @@||synology-forum.de^$generichide
 @@||synonim.net/ads$script,xmlhttprequest,domain=synonim.net
 @@||syri.net/uploads/syri.net/images/*/300x150_*.jpg
@@ -18314,6 +18315,7 @@
 @@||zmovs.com/js/pop.js
 @@||znanija.com/app/scripts/wp-banners.js
 @@||zohopublic.com^*/ADManager_$subdocument,xmlhttprequest,domain=manageengine.com|zohopublic.com
+@@||zol-img.com.cn^$stealth=referrer,domain=zol.com.cn
 @@||zombicide.com^$stealth
 @@||zonatmo.com/index.php/view_uploads/$stealth=referrer
 @@||zone.msn.com/js/gameplayer/admanager.js$domain=zone.msn.com
