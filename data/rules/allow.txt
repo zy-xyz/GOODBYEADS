@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-10-09 09:02:20（北京时间）
+! Version: 2025-10-09 20:28:35（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18346
+! Total count: 18347
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -3888,7 +3888,6 @@
 @@||cdn.honor.ru/pms/pages/adsImages/$domain=honor.ru
 @@||cdn.hsmedia.ru/dist/$stealth=referrer,domain=maximonline.ru|woman.ru|parents.ru|vokrugsveta.ru|psychologies.ru|ellegirl.ru|wday.ru|marieclaire.ru
 @@||cdn.idevbase.com/static/$stealth=referrer,domain=ohttps.com
-@@||cdn.ing.de/ing-cms-ui/*/js/webtrekk-snwMKyfV.js
 @@||cdn.inside-handy.de/ih/top/
 @@||cdn.intergi.com/*/js/libs/cmg-prebid-*.new.js$domain=coolmathgames.com
 @@||cdn.intergi.com/hera/*.js$domain=thenextweb.com
@@ -8852,6 +8851,7 @@
 @@||hyperdebrid.net^$generichide
 @@||hypinvest.mijnhypotheekonline.nl/*/cookieconsent.stater.js
 @@||hypixel.net^$generichide
+@@||hzcdn.io/bff/static/vendor/sourcepoint-lib/index.*.js$script,domain=marktplaats.nl
 @@||i*.gmx.com/image
 @@||i*.imagetwist.com^$image,domain=imagetwist.com
 @@||i-funbox.com/images/
@@ -9657,6 +9657,7 @@
 @@||island.lk/userfiles/image/danweem/island.gif
 @@||islcollective.com/tpls/*/js/common/ads.js
 @@||isolaillyon.it^$generichide
+@@||istanbulsenin.istanbul^$stealth=dpi
 @@||isthischannelmonetized.com/wp-content/plugins/*/assets/js/bannerad.js
 @@||it-actual.ru/wp-content/*/ads.png
 @@||it-developer.in.ua^$generichide
@@ -14565,7 +14566,6 @@
 @@||sdk.privacy-center.org^$domain=abc.es
 @@||sdk.privacy-center.org^$domain=actu.fr
 @@||sdk.privacy-center.org^$domain=allocine.fr
-@@||sdk.privacy-center.org^$domain=as.com
 @@||sdk.privacy-center.org^$domain=atresplayer.com
 @@||sdk.privacy-center.org^$domain=bfmtv.com
 @@||sdk.privacy-center.org^$domain=bienpublic.com|lejsl.com
@@ -17232,6 +17232,7 @@
 @@||uwants.com/include/*/swfaddress.js
 @@||uwufufu.com/_nuxt/mixpanel.$~third-party
 @@||uyduportal.net^$generichide
+@@||uzaktanegitim.ibb.istanbul^$stealth=dpi
 @@||uze-ads.com/ads/$~third-party
 @@||uzmantv.com/metadata/$stealth=referrer
 @@||v.17173.com/advideo/*.mp4
