@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-10-09 20:28:35（北京时间）
+! Version: 2025-10-10 09:02:07（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18347
+! Total count: 18348
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -7114,7 +7114,7 @@
 @@||geolocation.onetrust.com/cookieconsentpub/$domain=new.cappex.com
 @@||geolocation.onetrust.com/cookieconsentpub/$domain=rte.ie
 @@||geolocation.onetrust.com/cookieconsentpub/$script,domain=rackroomshoes.com
-@@||geolocation.onetrust.com/cookieconsentpub/$xmlhttprequest,domain=airnewzealand.co.nz|bitbucket.org|cbsnews.com|cnbc.com|eksisozluk.com|metacritic.com|salesforce.com|teenvogue.com|tntsports.co.uk|vogue.co.jp|vogue.co.uk|vogue.com|vogue.com.tw|vogue.de|vogue.es|vogue.fr|vogue.in|vogue.it|vogue.mx|vogue.ph
+@@||geolocation.onetrust.com/cookieconsentpub/$xmlhttprequest,domain=airnewzealand.co.nz|bitbucket.org|cbsnews.com|cnbc.com|eksisozluk.com|ign.com|metacritic.com|salesforce.com|teenvogue.com|tntsports.co.uk|vogue.co.jp|vogue.co.uk|vogue.com|vogue.com.tw|vogue.de|vogue.es|vogue.fr|vogue.in|vogue.it|vogue.mx|vogue.ph
 @@||geolocation.onetrust.com/cookieconsentpub/*/geo/location$domain=allestoringen.be|allestoringen.nl|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de|downdetector.ae|downdetector.ca|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.com|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.ru|downdetector.se|downdetector.sg|downdetector.sk|downdetector.web.tr
 @@||geolocation.onetrust.com/cookieconsentpub/*/geo/location$domain=eurogamer.de
 @@||geolocation.onetrust.com/cookieconsentpub/*/geo/location$domain=giantbomb.com
@@ -12740,6 +12740,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=sshkit.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=ssstik.io
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=techacrobat.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=temp-mail.lol
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=theprodkeys.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=theteacherscorner.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=thichcode.net
