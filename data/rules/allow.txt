@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-10-24 20:30:25（北京时间）
+! Version: 2025-10-25 09:02:36（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 18386
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -1741,6 +1741,7 @@
 @@||airindia.com/content/air-india/*/cookie-policy/*/envconfig.model.json
 @@||airplaydirect.com/openx/www/images/$image
 @@||airportinfo.live/images/ads.gif
+@@||aisandbox-pa.googleapis.com/v1:checkAppAvailability$stealth=referrer
 @@||aixifan.com/acfun-H5/public/script/sensorsdata.
 @@||aixifan.com/acsdk/log.min.js?
 @@||aixifan.com/dotnet/20130418/script/fingerprint.
@@ -3349,6 +3350,7 @@
 @@||c.amazon-adsystem.com/aax2/apstag.js?_=$domain=skill4ltu.eu
 @@||c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js$domain=atozmath.com
 @@||c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js$domain=client.falixnodes.net
+@@||c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js$domain=falixnodes.net
 @@||c.betrad.com/geo/ba.js$domain=boston.com|calgaryherald.com|calgarysun.com|celebuzz.com|montrealgazette.com|saveur.com
 @@||c.betrad.com/geo/h1.js$domain=video.corriere.it
 @@||c.betrad.com/pub/c/*.js$domain=video.corriere.it
@@ -4234,6 +4236,7 @@
 @@||cdn.snigelweb.com/adconsent/adconsent.js$domain=notebookcheck-ru.com
 @@||cdn.snigelweb.com/adengine/calculator-online.net/loader.js$xmlhttprequest,domain=calculator-online.net
 @@||cdn.snigelweb.com/adengine/falixnodes.net/loader.js$domain=client.falixnodes.net
+@@||cdn.snigelweb.com/adengine/falixnodes.net/loader.js$domain=falixnodes.net
 @@||cdn.snigelweb.com/adengine/imagetotext.info/loader.js$domain=imagetotext.info
 @@||cdn.sophi.io/assets/$script,domain=nationalpost.com
 @@||cdn.sophi.io/assets/demeter/*/stable/*.js$domain=nationalpost.com
@@ -6041,7 +6044,6 @@
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|cnet.com|gamespot.com|tv.com
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|tv.com
 @@||dw.de/js/xtcore.js
-@@||dw.iask.com.cn^
 @@||dwebwj8qthne8.cloudfront.net/?wbewd=971059$domain=miraculum.ml
 @@||dwnserver.com/download/$stealth=referrer
 @@||dwstatic.com/b=amkit
@@ -9314,7 +9316,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=typingtest.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ultimedia.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=umterps.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=upns.online|upns.xyz|upns.one|isekaitube.cfd|upns.live|javlion.xyz|hlsfast.com|ultrastream.online|streamcasthub.store|w1tv.xyz|cdnstream.top|javboys.upn.one|coflix.upn.one|animeshqip.uns.bio|rpmvid.com|onion.upns.blog|securecdn.shop|embed4me.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=upns.online|upns.xyz|upns.one|isekaitube.cfd|upns.live|javlion.xyz|hlsfast.com|ultrastream.online|streamcasthub.store|w1tv.xyz|cdnstream.top|javboys.upn.one|coflix.upn.one|animeshqip.uns.bio|rpmvid.com|onion.upns.blog|securecdn.shop|embed4me.com|jhdanime.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=uptostream.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.capital.it
@@ -10268,6 +10269,7 @@
 @@||lib.hatenablog.com^$generichide
 @@||lib.wtg-ads.com/lib.min.js$domain=dnevnik.hr
 @@||lib.wtg-ads.com/prebid/prebid_*.js$domain=tvn.pl
+@@||lib.wtg-ads.com/publisher/kio.ac/sb_interstitial_wtg.js$domain=kio.ac
 @@||lib.wtg-ads.com/publisher/mmorpg.org.pl/lib.min.js$xmlhttprequest,domain=mmorpg.org.pl
 @@||libero.it^$generichide
 @@||libgen.li/ads.php
@@ -10445,7 +10447,6 @@
 @@||logic-immo.com/lib/xiti/xiti.js$script,~third-party
 @@||logicool.co.jp^$content
 @@||login-api.e-pages.dk^$stealth=referrer
-@@||login-ishare.iask.com.cn^
 @@||login-sh.aki-game.com^
 @@||login.abc.net.au/gs/webSdk/Api.aspx?$stealth=referrer
 @@||login.abc.net.au^$stealth=referrer
@@ -13146,7 +13147,6 @@
 @@||pibys.win/js/prebid-ads.js
 @@||pic*.cdncl.net^$stealth=referrer,domain=cowlevel.net
 @@||pic-tv6s.4p68.com^
-@@||pic.iask.cn^
 @@||picbucks.com/intermission/loadTargetUrl$xmlhttprequest
 @@||piccool.com/2home/phpAdsNew/
 @@||pichive.online^$subdocument,xmlhttprequest,stealth=referrer
@@ -14015,6 +14015,7 @@
 @@||reallyfreegeoip.org/json/$domain=thekitchensafe.com
 @@||realmofdarkness.net^$generichide
 @@||realsrv.com/video-outstream.js$domain=chutlunds.com
+@@||realsrv.com^$domain=4khd.com|uuss.uk|xxtt.ink
 @@||realtek.com/Download/SubmitDownloadRequest?downloadItemid=$stealth=ip
 @@||realtime-chart.info^$script,stealth
 @@||realtime-chart.info^$stealth=referrer
@@ -14067,6 +14068,7 @@
 @@||redirects.tradedoubler.com^$removeparam=utm_campaign
 @@||redirects.tradedoubler.com^$removeparam=utm_content
 @@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|zdnet.com
+@@||ref.rbauction.com^|
 @@||refer.discover.com^|
 @@||refi-reklama.razitko.cz^$domain=refi-reklama.razitko.cz
 @@||refifa.com^$generichide
@@ -15925,7 +15927,6 @@
 @@||static1-azcdn.newser.com/javascript/
 @@||static2-azcdn.newser.com/javascript/
 @@||static2.mfbcdn.net/assets/global/plugins/cookie-consent/js/cookieconsent.min.js$domain=myfxbook.com
-@@||static3.iask.cn^
 @@||static3.mfbcdn.net/assets/global/plugins/cookie-consent/js/cookieconsent.min.js$domain=myfxbook.com
 @@||static5.hsg.com.pl/adv-scroll-sidebar.js$domain=jelonka.com
 @@||staticdelivery.nexusmods.com/contents/LibScripts/*ad*.js
@@ -17747,7 +17748,6 @@
 @@||webzjac.reg.*.com^$stealth=referrer,domain=passport.youdao.com
 @@||webzjcaptcha.reg.*.com/api/$stealth=referrer,domain=passport.youdao.com
 @@||webzjcaptcha.reg.163.com^
-@@||wechat.ishare.iask.com.cn^
 @@||weekend.ee/static/*/push-notifications.chunk.js$~third-party
 @@||wefashion.com/on/demandware.static/*/cookieBanner.js
 @@||weheartit.com/ads.js^
