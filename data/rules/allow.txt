@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-11-04 20:31:24（北京时间）
+! Version: 2025-11-05 09:07:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18359
+! Total count: 18363
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -68,6 +68,7 @@
 @@.jpg#$domain=huhupan.com
 @@.jpg#$domain=ktmx.pro
 @@.jpg#$domain=marketmovers.it
+@@.js?fcd=true$domain=snopes.com
 @@.m3u8$domain=rapid-cloud.co,xmlhttprequest,stealth=referrer
 @@.m3u8$stealth,domain=luluvdo.com
 @@.m3u8$stealth=referrer,domain=edgedeliverynetwork.com
@@ -5933,6 +5934,7 @@
 @@||douglas.*/public/CookieBar.*.async.js$domain=douglas.de|douglas.at
 @@||douyucdn.cn^*-share-master/
 @@||dove-cameron.org^$generichide
+@@||dovkembed.pw/livetv/$stealth=referrer
 @@||down.cc/down/js/ad.js
 @@||down.mdiaload.com^$generichide
 @@||downfile.site/fuckadblock.js
@@ -7513,6 +7515,7 @@
 @@||google-analytics.com/analytics.js$domain=shop.kyivstar.ua
 @@||google-analytics.com/analytics.js$domain=shorterall.com
 @@||google-analytics.com/analytics.js$domain=skechers.com.tr
+@@||google-analytics.com/analytics.js$domain=snopes.com
 @@||google-analytics.com/analytics.js$domain=sochiautodrom.ru
 @@||google-analytics.com/analytics.js$domain=society6.com
 @@||google-analytics.com/analytics.js$domain=square-enix-games.com
@@ -7896,6 +7899,7 @@
 @@||googletagmanager.com/gtag/js?id=$domain=moegirl.org.cn
 @@||googletagmanager.com/gtag/js?id=$domain=rotana.net
 @@||googletagmanager.com/gtag/js?id=$domain=senda.pl
+@@||googletagmanager.com/gtag/js?id=$domain=snopes.com
 @@||googletagmanager.com/gtag/js?id=$domain=thehouseofportable.com
 @@||googletagmanager.com/gtag/js?id=$domain=thenewsfetcher.com
 @@||googletagmanager.com/gtag/js?id=$domain=view.epageview.com
@@ -11993,6 +11997,7 @@
 @@||p.jwpcdn.com/player/plugins/vast/v*/vast.js$domain=player.cartoonth12.com
 @@||p.jwpcdn.com^$script
 @@||p.sky.com^$domain=wowtv.de,stealth=referrer
+@@||p.typekit.net/p.css$stylesheet,domain=athleticpropulsionlabs.com|browserstack.com|bungie.net|business.untappd.com|getty.edu|petsafe.com|robertsspaceindustries.com
 @@||p.typekit.net/p.css$stylesheet,domain=athleticpropulsionlabs.com|browserstack.com|bungie.net|business.untappd.com|petsafe.com|robertsspaceindustries.com
 @@||p11.techlab-cdn.com^$domain=wizzair.com
 @@||p30download.ir^$stealth=dpi
@@ -14282,7 +14287,6 @@
 @@||s.nitropay.com/1.gif?*&adslot=$domain=tiermaker.com
 @@||s.nitropay.com/ads-*.js$domain=dankmemer.lol
 @@||s.nitropay.com/ads-*.js$domain=soccerguru.live
-@@||s.nitropay.com/ads-*.js$domain=th.gl
 @@||s.nitropay.com/ads-437.js$domain=wago.io
 @@||s.nitropay.com^$domain=app.axenthost.com
 @@||s.ntv.io/serve/load.js$domain=autosport.com
