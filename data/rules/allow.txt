@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-11-05 20:30:19（北京时间）
+! Version: 2025-11-06 09:06:23（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18371
+! Total count: 18377
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -4250,6 +4250,7 @@
 @@||cdn.statically.io/gh/ubo-coder/og/main/adsAPI.js$domain=infinityscans.xyz|infinityscans.net|infinityscans.org
 @@||cdn.statically.io/img^$stealth=referrer
 @@||cdn.staticfile.org^$domain=biquge77.net|yzbg.net|alexij.net|hshfm.com|biqiuge5.org|49gtk.cc|20me.net|fbqg.cc|xianguke.net|tellgillian.com|m-ia.net|cleavagecoverup.com|83kss.cc|memduh.net|56xiaoshuo.net|yourbiquge.com|00ksw.com|147xiaoshuo.com|91zww.com|bxwx.live|lzbao.net
+@@||cdn.staticfile.org^$domain=lakyworld.com|biquge77.net|yzbg.net|alexij.net|hshfm.com|biqiuge5.org|49gtk.cc|20me.net|fbqg.cc|xianguke.net|tellgillian.com|m-ia.net|cleavagecoverup.com|83kss.cc|memduh.net|56xiaoshuo.net|yourbiquge.com|00ksw.com|147xiaoshuo.com|91zww.com|bxwx.live|lzbao.net
 @@||cdn.staticfile.org^$script,domain=00ksw.com|147xiaoshuo.com|31xs.org|31xsxs.com|35xs.org|biquge18.com|biququ.info|manhuadui.com|qihaoqihao.com|rijutv.com|tsxsw.net|xbiqugexsw.com|xx31xs.org|ziyouge.com
 @@||cdn.staticfile.org^$script,domain=movieffm.net
 @@||cdn.stroeerdigitalgroup.de/metatag/live/ctc_golem_relaunch/metaTag.min.js$domain=golem.de
@@ -7344,6 +7345,7 @@
 @@||go4kora.com^$generichide
 @@||goalpro-demo.blogspot.com^$generichide
 @@||goalsarena.org^$generichide
+@@||goalsport.info^$generichide
 @@||gobits.io^$generichide
 @@||gocomics.com/assets/ad-dependencies-$script,~third-party
 @@||godaddy.com^$cookie=/^_ga_/
@@ -7905,6 +7907,7 @@
 @@||googletagmanager.com/gtag/js?id=$domain=rotana.net
 @@||googletagmanager.com/gtag/js?id=$domain=senda.pl
 @@||googletagmanager.com/gtag/js?id=$domain=snopes.com
+@@||googletagmanager.com/gtag/js?id=$domain=tab-maker.com,xmlhttprequest
 @@||googletagmanager.com/gtag/js?id=$domain=thehouseofportable.com
 @@||googletagmanager.com/gtag/js?id=$domain=thenewsfetcher.com
 @@||googletagmanager.com/gtag/js?id=$domain=view.epageview.com
@@ -9658,6 +9661,8 @@
 @@||iphoned.nl/wp-content/themes/bigspark/scripts/ads-frontend.min.js
 @@||ipinfo.io/static/images/use-cases/adtech.jpg$image,~third-party
 @@||ipip.net/ping.php?
+@@||iplark.com^$extension='AdGuard Popup Blocker'|'AdGuard Popup Blocker (Beta)'
+@@||iplark.com^$stealth=donottrack|java|location|push|useragent|webrtc
 @@||iplogger.org/templates/new/scripts/advertisement.js
 @@||ipqualityscore.com/api/$script,domain=carousell.com.hk
 @@||iprima.cz^$stealth=referrer
@@ -14526,6 +14531,7 @@
 @@||sdk.iad-*.braze.com/api/v3/content_cards/sync|$xmlhttprequest,domain=dairyqueen.com
 @@||sdk.iad-*.braze.com/api/v3/data/|$xmlhttprequest,domain=dairyqueen.com
 @@||sdk.mrf.io/statics/marfeel-sdk.js$domain=mundodeportivo.com
+@@||sdk.mrf.io/statics/marfeel-sdk.js$script,domain=computerhoy.20minutos.es|mundodeportivo.com
 @@||sdk.mrf.io/statics/marfeel-sdk.js$script,domain=mundodeportivo.com
 @@||sdk.privacy-center.org*/loader.js$domain=hbvl.be
 @@||sdk.privacy-center.org/*.js$domain=elmundo.es
