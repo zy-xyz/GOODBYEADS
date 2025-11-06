@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-11-06 09:06:23（北京时间）
+! Version: 2025-11-06 20:29:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18377
+! Total count: 18380
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -546,6 +546,7 @@
 @@/wp-content/themes/*/ads/*/sailthru.js$domain=healthy4pepole.com
 @@/wp-content/themes/ikisifirbirdokuz/match-center.php?id=$stealth=referrer
 @@/wp-content/themes/publisher/*/ads/static/adv/sailthru.js$domain=world2our.com|healthy4pepole.com|bluetechno.net
+@@/wp-content/themes/radio-hub/*.js$domain=tingfm.com
 @@/wp-content/themes/radio-hub/static/js/*.js$domain=tingfm.com
 @@/wp-content/themes/wp-mason/static/js/ads.js$~third-party
 @@/wp-content/uploads/*$image,stealth=referrer,domain=mangastic.cc
@@ -4408,6 +4409,7 @@
 @@||cdntvn.pl/adscript.js$domain=player.pl
 @@||cdntvn.pl/adscript.js?_=$domain=tvnturbo.pl
 @@||cdnv*.byteblaze.me^$stealth=referrer
+@@||cdnvideo*.shop^$stealth=referrer
 @@||cdnvideo.ru^$stealth
 @@||cdnyauction.buyee.jp^$stealth=referrer
 @@||cdp.pl/skin/*/cookies.js
@@ -6656,7 +6658,6 @@
 @@||flag.lab.amplitude.com^$domain=watch.outsideonline.com
 @@||flair.be/js/default/*_jq.$script
 @@||flashx.tv/js/-fleshlight2.js$script
-@@||flattr.com^$generichide
 @@||flickr.com/cookie_$stealth=3p-cookie
 @@||flickr.com/register_cookies.gne?$stealth=3p-cookie
 @@||flickr.com/signin/$stealth=3p-cookie
@@ -10469,6 +10470,7 @@
 @@||login.nvgs.nvidia.com^$stealth
 @@||login.nvidia.com^$stealth=3p-auth
 @@||login.sendpulse.com^|
+@@||login.swissid.ch^$stealth=dpi
 @@||login.uid.me^$domain=ucoz.ru,stealth=3p-cookie
 @@||login.vk.com/?act=openapi$domain=220vk.com,stealth=referrer
 @@||login.wmtransfer.com^$stealth=3p-cookie
@@ -14532,7 +14534,6 @@
 @@||sdk.iad-*.braze.com/api/v3/data/|$xmlhttprequest,domain=dairyqueen.com
 @@||sdk.mrf.io/statics/marfeel-sdk.js$domain=mundodeportivo.com
 @@||sdk.mrf.io/statics/marfeel-sdk.js$script,domain=computerhoy.20minutos.es|mundodeportivo.com
-@@||sdk.mrf.io/statics/marfeel-sdk.js$script,domain=mundodeportivo.com
 @@||sdk.privacy-center.org*/loader.js$domain=hbvl.be
 @@||sdk.privacy-center.org/*.js$domain=elmundo.es
 @@||sdk.privacy-center.org/*.js$domain=filmstarts.de
@@ -16027,6 +16028,7 @@
 @@||stream.nbcsports.com/assets/page/general/ads.js
 @@||stream.u-p.pw/hls/$stealth=referrer
 @@||stream.voidboost.$stealth=ip
+@@||stream1.store^$stealth=referrer
 @@||stream2watch.org/js/advertisement.js
 @@||stream2watch.ws/js/app.js
 @@||stream4free.eu/modules/mod_jpayday/js/doubleclick.js$script,domain=stream4free.eu
@@ -16737,6 +16739,7 @@
 @@||towtooma.net/*/master.m3u8$stealth=referrer
 @@||toy-people.com^$generichide
 @@||toyota.com/recall/static/js/custom/facebookPixel.js$~third-party
+@@||tp-link.com^$stealth=referrer
 @@||tpc.googlesyndication.com/archive/$image,subdocument,xmlhttprequest,domain=adstransparency.google.com
 @@||tpc.googlesyndication.com/archive/sadbundle/$image,domain=tpc.googlesyndication.com
 @@||tpc.googlesyndication.com/pagead/images/transparent.png$domain=computerbase.de
