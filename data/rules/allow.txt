@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-11-11 09:07:14（北京时间）
+! Version: 2025-11-11 20:29:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18395
+! Total count: 18407
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -755,6 +755,7 @@
 @@||0mniscient.github.io^$generichide
 @@||1.1.1.1/cdn-cgi/trace$xmlhttprequest,domain=myair.resmed.com|one.one.one.one
 @@||10.com.au/static/ads.js
+@@||10.com.au^$generichide
 @@||10010.cn^*/ad
 @@||10010.com/mall/common/js/fa.js?referer=
 @@||10010.com^$generichide
@@ -771,6 +772,7 @@
 @@||10drives.com/api/$stealth=referrer,domain=premiumebooks.*
 @@||10drives.com/downv*.php$stealth=referrer
 @@||10play.com.au/static/ads.js
+@@||10play.com.au^$generichide
 @@||10short.pro^$stealth=referrer
 @@||111.75.255.103/Scripts/Controls/PageView.js
 @@||112.2o7.net/b/ss/$image,domain=espn.com.br
@@ -3387,6 +3389,7 @@
 @@||cache2.delvenetworks.com/ps/c/v1/$domain=lapresse.ca
 @@||cachead.com/*.css
 @@||cadsecs.com/*.js$domain=dropgalaxy.com
+@@||caesarsgames.com/bundle/google-analytics.util.$domain=caesarsgames.com
 @@||caf.fr/*/smarttag.js
 @@||caf.fr^*/smarttag.js$script,~third-party
 @@||cafe.naver.com/ArticleRead.nhn$stealth=useragent
@@ -3716,6 +3719,7 @@
 @@||cdn.cookielaw.org/consent/*.json$domain=safeway.com
 @@||cdn.cookielaw.org/consent/*.json$domain=slate.com
 @@||cdn.cookielaw.org/consent/*.json$domain=southparkstudios.com.br|southpark.lat|southparkstudios.com|southpark.de
+@@||cdn.cookielaw.org/consent/*.json$domain=speedweek.com
 @@||cdn.cookielaw.org/consent/*.json$domain=timeextension.com
 @@||cdn.cookielaw.org/consent/*.json$domain=tvn.pl|discoverychannel.pl|tlcpolska.pl|tvnstyle.pl|tvn7.pl|tvnturbo.pl|tvnfabula.pl|hgtv.pl|foodnetwork.pl|travelchanneltv.pl|ttv.pl|metro.tv
 @@||cdn.cookielaw.org/consent/*.json$domain=usmagazine.com
@@ -3764,6 +3768,7 @@
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=servustv.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=sn.at
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=sony.de|pokemontcgpocket.com
+@@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=speedweek.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=spektrum.de
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=sportiva.shueisha.co.jp
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=thoughtco.com|www-thoughtco-com.translate.goog
@@ -7172,6 +7177,7 @@
 @@||geolocation.onetrust.com/cookieconsentpub/v1/geo/location$domain=nbclosangeles.com
 @@||geolocation.onetrust.com/cookieconsentpub/v1/geo/location$domain=paramountplus.com
 @@||geolocation.onetrust.com/cookieconsentpub/v1/geo/location$domain=slate.com
+@@||geolocation.onetrust.com/cookieconsentpub/v1/geo/location$domain=theverge.com
 @@||geolocation.onetrust.com/cookieconsentpub/v1/geo/location$domain=toteraz.pl
 @@||geolocation.onetrust.com/cookieconsentpub/v1/geo/location$domain=tripadvisor.*
 @@||geolocation.onetrust.com^$domain=tvguide.com
@@ -9148,6 +9154,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gameswf.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gamezhero.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gamoneinterrupted.com|urochsunloath.com|35volitantplimsoles5.com|antecoxalbobbing1010.com|cyamidpulverulence530.com|guidon40hyporadius9.com|bigclatterhomesguideservice.com|housecardsummerbutton.com|fittingcentermondaysunday.com|un-block-voe.net|voeunblk.com|voeunbl0ck.com|voeunblock2.com|voeunblock.com|voe-unblock.*|voe.sx|phenomenalityuniform.com|kathleenmemberhistory.com|paulkitchendark.com|edwardarriveoften.com|lukecomparetwo.com|kennethofficialitem.com|jamiesamewalk.com|johntryopen.com|morganoperationface.com|jayservicestuff.com|heatherdiscussionwhen.com|robertplacespace.com|alleneconomicmatter.com|josephseveralconcern.com|donaldlineelse.com|bethshouldercan.com|lisatrialidea.com|jessicaglassauthor.com|evelynthankregion.com|lorimuchbenefit.com|susanhavekeep.com|thomasalthoughhear.com|zacharycollectionmight.com|richardstorehalf.com|kimberlyonlocal.com|toddpartneranimal.com|jamessoundcost.com|brittneystandardwestern.com|sandratableother.com|robertordercharacter.com|maxfinishseveral.com|alejandrocenturyoil.com|heatherwholeinvolve.com|kristiesoundsimply.com|adrianmissionminute.com|nathanfromsubject.com|jennifercertaindevelopment.com|richardsignfish.com|sarahnewspaperbeat.com|diananatureforeign.com|jonathansociallike.com|mariatheserepublican.com|johnalwayssame.com|kellywhatcould.com|jilliandescribecompany.com|lukesitturn.com|mikaylaarealike.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gamoneinterrupted.com|urochsunloath.com|35volitantplimsoles5.com|antecoxalbobbing1010.com|cyamidpulverulence530.com|guidon40hyporadius9.com|bigclatterhomesguideservice.com|housecardsummerbutton.com|fittingcentermondaysunday.com|un-block-voe.net|voeunblk.com|voeunbl0ck.com|voeunblock2.com|voeunblock.com|voe-unblock.*|voe.sx|phenomenalityuniform.com|kathleenmemberhistory.com|paulkitchendark.com|edwardarriveoften.com|lukecomparetwo.com|kennethofficialitem.com|jamiesamewalk.com|johntryopen.com|morganoperationface.com|jayservicestuff.com|heatherdiscussionwhen.com|robertplacespace.com|alleneconomicmatter.com|josephseveralconcern.com|donaldlineelse.com|bethshouldercan.com|lisatrialidea.com|jessicaglassauthor.com|evelynthankregion.com|lorimuchbenefit.com|susanhavekeep.com|thomasalthoughhear.com|zacharycollectionmight.com|richardstorehalf.com|kimberlyonlocal.com|toddpartneranimal.com|jamessoundcost.com|brittneystandardwestern.com|sandratableother.com|robertordercharacter.com|maxfinishseveral.com|alejandrocenturyoil.com|heatherwholeinvolve.com|kristiesoundsimply.com|adrianmissionminute.com|nathanfromsubject.com|jennifercertaindevelopment.com|richardsignfish.com|sarahnewspaperbeat.com|diananatureforeign.com|jonathansociallike.com|mariatheserepublican.com|johnalwayssame.com|kellywhatcould.com|jilliandescribecompany.com|lukesitturn.com|mikaylaarealike.com|christopheruntilpoint.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gauchazh.clicrbs.com.br
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gaystream.pw
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gazetaolsztynska.pl
@@ -9566,6 +9573,7 @@
 @@||indiatoday.in/embed-live-tv?
 @@||indiegogo.com^$stealth=3p-cookie
 @@||indostarmedia.com^$generichide
+@@||ineureka.api.useinsider.com/api/web/search$domain=challenger.sg
 @@||inevent.com/js/wizard/pushNotification.js$script,~third-party
 @@||inews.co.uk^$generichide
 @@||inews.gtimg.com^
@@ -13590,6 +13598,7 @@
 @@||privat24.privatbank.ua^$stealth=referrer|3p-cookie
 @@||privatbank.ua/content/*/fp2.min.js$~third-party
 @@||privateinsta.com/javascript/rqrkrm.js$script
+@@||privtech.co.jp/blog/data
 @@||prizebitcoins.com/banner.gif$image
 @@||pro.gooooal.com/ad/ad_2.js
 @@||pro.hit.gemius.pl/gplayer.js$domain=nova.cz
@@ -15254,12 +15263,14 @@
 @@||site-banner.hange.jp/adshow?$domain=animallabo.hange.jp
 @@||siteanalytics.compete.com^$~third-party
 @@||siteapps.com^$script,domain=netcombo.com.br
+@@||siteintercept.qualtrics.com/$domain=idealo.de
 @@||sitelike.org^$generichide
 @@||sitenable.com/admega.php$script
 @@||sitenable.org/admega.php$script
 @@||siteseal.certerassl.com/validate/dynamic$stealth=referrer
 @@||siva-my.jsstatic.com/_ads/_static/$domain=jobstreet.com.my
 @@||sixt-neuwagen.de/static/*/js/lib/util/cookiePolicy/js/cookiePolicy.js
+@@||sizhiai.com/api/stat?$~third-party
 @@||sjsmitaa.org/bin/showads.
 @@||sk.adocean.pl/files/js/ado.js$domain=idnes.cz|novinky.cz
 @@||skelbiu-static.dgn.lt/static/css/inside_ad.css
@@ -17242,6 +17253,7 @@
 @@||usercentrics.eu^$domain=hornbach.de
 @@||usercentrics.eu^$domain=joyn.at
 @@||usercentrics.eu^$domain=kicker.de
+@@||usercentrics.eu^$domain=lebkuchen-schmidt.com
 @@||usercentrics.eu^$domain=liebscher-bracht.com
 @@||usercentrics.eu^$domain=lkz.de
 @@||usercentrics.eu^$domain=mercedes-benz.com.tr
