@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-11-20 09:05:06（北京时间）
+! Version: 2025-11-20 20:29:47（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18445
+! Total count: 18457
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -106,6 +106,7 @@
 @@.vmall.com/oauth
 @@.xyz/premiumtv/*.php$subdocument,xmlhttprequest,stealth=referrer
 @@.xyz/theporn/js/
+@@/*.m3u8$domain=pages.dev|inatspor.xyz|t24giris2.cfd,stealth=referrer
 @@/*.m3u8$domain=vidload.site,stealth=referrer
 @@/*/*-*/*.png$stealth=referrer,xmlhttprequest,domain=dbx.molystream.org
 @@/*/*-*/*.png$stealth=referrer,xmlhttprequest,domain=dizibox.tv
@@ -2966,6 +2967,7 @@
 @@||bdstatic.com^$domain=17k.com
 @@||bdstatic.com^$domain=doupocangqiong1.com
 @@||bdstatic.com^$domain=dq.tieba.com
+@@||bdstatic.com^$domain=feiguaks.com|17k.com
 @@||bdv.bidvertiser.com/BidVertiser.dbm?$domain=vanhut.tk
 @@||bea4.v.fwmrm.net/ad/u$domain=nbcsports.com
 @@||bea4.v.fwmrm.net^$domain=mylifetime.com
@@ -3737,6 +3739,7 @@
 @@||cdn.cookielaw.org/consent/*.json$domain=timeextension.com
 @@||cdn.cookielaw.org/consent/*.json$domain=tvn.pl|discoverychannel.pl|tlcpolska.pl|tvnstyle.pl|tvn7.pl|tvnturbo.pl|tvnfabula.pl|hgtv.pl|foodnetwork.pl|travelchanneltv.pl|ttv.pl|metro.tv
 @@||cdn.cookielaw.org/consent/*.json$domain=usmagazine.com
+@@||cdn.cookielaw.org/consent/*.json$domain=vox.com
 @@||cdn.cookielaw.org/consent/*.json$domain=wolverine.com|chacos.com|saucony.com|merrell.com
 @@||cdn.cookielaw.org/consent/*/otSDKStub.js$domain=soundcloud.com
 @@||cdn.cookielaw.org/opt-out/otCCPAiab.js$domain=bikeforums.net
@@ -3792,6 +3795,7 @@
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=tvguide.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=tvn.pl|discoverychannel.pl|tlcpolska.pl|tvnstyle.pl|tvn7.pl|tvnturbo.pl|tvnfabula.pl|hgtv.pl|foodnetwork.pl|travelchanneltv.pl|ttv.pl|metro.tv
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=vandenborre.be
+@@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=vox.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=wpb.shueisha.co.jp
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js^$domain=mytim.tim.it
 @@||cdn.cookielaw.org/scripttemplates^$domain=abus.com
@@ -7607,6 +7611,7 @@
 @@||google-analytics.com/analytics.js^$domain=pioneer-car.eu
 @@||google-analytics.com/collect$domain=freepic-downloader.com|freepikdownloader.com
 @@||google-analytics.com/collect?*ad-test$image,domain=cybermania.ws|spyro.blogu.co.uk|jobalertswithgbrar.com|radiofreehubcity.com|edoga.biz.hr
+@@||google-analytics.com/collect?*ad-test$image,domain=cybermania.ws|spyro.blogu.co.uk|jobalertswithgbrar.com|radiofreehubcity.com|edoga.biz.hr|chat.irc.in.th|rozgarnews.com
 @@||google-analytics.com/collect|$xmlhttprequest,domain=course-downloader.com
 @@||google-analytics.com/cx/api.js$domain=stern.de
 @@||google-analytics.com/debug/$domain=10bye.com
@@ -8651,6 +8656,7 @@
 @@||hdliveextra-a.akamaihd.net/*/showads*.js
 @@||hdliveextra-a.akamaihd.net/HD/scripts/*/config/ads.js
 @@||hdmomplayer.com/embed/$domain=dizimom.*,stealth=referrer
+@@||hdmovieplay.xyz/embed/$stealth=referrer
 @@||hdnumerique.com/tpl/jscript/advert.js
 @@||hdporncomics.com^$generichide
 @@||hdrez.com^$generichide
@@ -9575,6 +9581,7 @@
 @@||in.gr^$generichide
 @@||in.treasuredata.com/js/*?api_key$script,domain=retty.me
 @@||in.treasuredata.com/js/v*/event/fluentd_website/anchor_clicks_$domain=docs.fluentd.org
+@@||inatspor.xyz/channel.html$stealth=referrer
 @@||inazuma.co/campaign/js/heatmap.js$domain=monopoly.mcdonalds.co.uk
 @@||inbox.lv/advert/?actionID=imp_login
 @@||inc.com//js/ads.js$xmlhttprequest
@@ -12625,6 +12632,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tunein.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tutcourse.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tvappapk.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tvappapk.com|thesaltysoldier.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tw-calc.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=twcc.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ufacw.com
@@ -12846,6 +12854,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=zippyshare.day
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=zsexf.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,script,domain=cybermania.ws|spyro.blogu.co.uk|jobalertswithgbrar.com|radiofreehubcity.com|edoga.biz.hr
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,script,domain=cybermania.ws|spyro.blogu.co.uk|jobalertswithgbrar.com|radiofreehubcity.com|edoga.biz.hr|chat.irc.in.th|rozgarnews.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$~script,domain=namerobot.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?$domain=production-api.androidacy.com,stealth=referrer
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?adblocktest$domain=haafedk2.com
@@ -13023,6 +13032,7 @@
 @@||pagead2.googlesyndication.com^$domain=ytlarge.com
 @@||pagead2.googlesyndication.com^$script,domain=hackintosh.computer
 @@||pagerank.fr/js*/advert.js?$script
+@@||pages.dev^$stealth=referrer
 @@||pakkotoisto.com/js/siropu/am/ads.min.js$domain=pakkotoisto.com
 @@||palcurr.com^$generichide
 @@||pallok.com^$generichide
@@ -15018,6 +15028,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=tf1info.fr
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$xmlhttprequest,domain=bizjournals.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$xmlhttprequest,domain=cybermania.ws|spyro.blogu.co.uk|jobalertswithgbrar.com|radiofreehubcity.com|edoga.biz.hr
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$xmlhttprequest,domain=cybermania.ws|spyro.blogu.co.uk|jobalertswithgbrar.com|radiofreehubcity.com|edoga.biz.hr|chat.irc.in.th|rozgarnews.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$xmlhttprequest,domain=link.rota.cc
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$xmlhttprequest,domain=weshare.is
 @@||securepubads.g.doubleclick.net^$domain=hoyts.com.au
@@ -16590,6 +16601,7 @@
 @@||thepoorcoder.com^$generichide
 @@||theregister.co.uk/*_adtech_
 @@||therichest.com^$generichide
+@@||thesaltysoldier.com^$generichide
 @@||thesaurus.com/assets/ads.js
 @@||theseblogs.com/intermission/loadTargetUrl$xmlhttprequest
 @@||theseforums.com/intermission/loadTargetUrl$xmlhttprequest
