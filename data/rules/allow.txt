@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-11-21 20:29:11（北京时间）
+! Version: 2025-11-22 09:03:36（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18458
+! Total count: 18459
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -8628,7 +8628,6 @@
 @@||hb.vntsm.com/*/live/vms/*.js$domain=client.falixnodes.net
 @@||hb.vntsm.com/assets/venatus_gscale.png$domain=duellinksmeta.com
 @@||hb.vntsm.com/v4/live/vms/ad-manager.js$domain=aternos.org
-@@||hb.vntsm.com/v4/live/vms/sites/*/index.js$domain=satisfactory-calculator.com
 @@||hb.vntsm.com/v4/live/vms/sites/*/index.js$domain=satisfactory-calculator.com|pcoptimizedsettings.com
 @@||hb.vntsm.com/v4/live/vms/sites/aternos.org/*.js$domain=aternos.org
 @@||hb.vntsm.com/v4/live/vms/sites/skill4ltu.eu/index.js$domain=skill4ltu.eu
@@ -10585,6 +10584,7 @@
 @@||ltzn.9377.com^
 @@||lubetube.com^$generichide
 @@||luciferdonghua.in^$generichide
+@@||luciferplays.com/embed/$stealth=referrer
 @@||lulustream.com^$popup,domain=luluvdo.com
 @@||luluvdo.com^$stealth=useragent
 @@||luminalearning.com/affiliate-content/$image,~third-party
@@ -12283,6 +12283,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ekamus.info
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elfqrin.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elktob.online,xmlhttprequest
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elmarjaa.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=emailnator.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=empire-anime.com|empire-streaming.app|empire-streamz.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=emucr.com
