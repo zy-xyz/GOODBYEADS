@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-11-30 20:26:56（北京时间）
+! Version: 2025-12-01 09:19:42（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18565
+! Total count: 18569
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -38,7 +38,7 @@
 @@.cn/k/*$script,third-party,domain=autohome.com.cn|qq.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.co.uk/wp-banners.js$domain=advertiserandtimes.co.uk|northern-scot.co.uk|suffolknews.co.uk|kentonline.co.uk|cambridgeindependent.co.uk|fenlandcitizen.co.uk|granthamjournal.co.uk|stratford-herald.com|spaldingtoday.co.uk
-@@.com/*?*=*&*=*&*=*&*=*%*%*&*=*&*=*&*=*&*=*&*=*&*=*$domain=baidu.com|bilibili.com
+@@.com/*?*=*&*=*&*=*&*=*%*%*&*=*&*=*&*=*&*=*&*=*&*=*$domain=baidu.com|bilibili.com|youtube.com
 @@.com/*interstitial*.js$domain=reddit.com
 @@.com/ad.aspx|$domain=xdingdian.cc
 @@.com/ad/$~image,~script,~third-party,domain=sso-idp.evergent.com
@@ -691,6 +691,7 @@
 @@playlist/*/load-playlist$xmlhttprequest,stealth=referrer,domain=crackstreamer.net|1stream.eu|streameast.app|thecrackstreams.live|buffstreams.app
 @@playtv.fr$object-subrequest,domain=play.tv|playtv.fr
 @@plugins/blockalyzer-adblock-counter/img/ads/$image
+@@rr*--*.googlevideo.com$domain=youtube.com
 @@safari-extension://com.adguard.safari-$document
 @@safari-extension://com.adguard.safaridev-$document
 @@seg-*.*$domain=rapid-cloud.co,xmlhttprequest,stealth=referrer
@@ -5628,6 +5629,7 @@
 @@||datacloudmail.ru^$domain=cloud.mail.ru,stealth=3p-cookie|referrer
 @@||datacomp.sk^$stealth=dpi
 @@||datacrate18.xyz/file2/$stealth=referrer
+@@||datadoghq-browser-agent.com/*/datadog-logs.js$domain=crosset.onward.co.jp
 @@||datadoghq-browser-agent.com/datadog-logs-v*.js$domain=radiotimes.com
 @@||datadoghq-browser-agent.com/datadog-logs.js$domain=linktr.ee
 @@||datadoghq-browser-agent.com/datadog-rum-v*.js$domain=voici.fr|gala.fr
@@ -8981,7 +8983,6 @@
 @@||hypercomments.com/auth/$stealth=3p-cookie
 @@||hyperdebrid.net^$generichide
 @@||hypixel.net^$generichide
-@@||hzcdn.io/bff/static/vendor/sourcepoint-lib/index.*.js$script,domain=marktplaats.nl
 @@||i*.gmx.com/image
 @@||i*.imagetwist.com^$image,domain=imagetwist.com
 @@||i-funbox.com/images/
@@ -13362,6 +13363,7 @@
 @@||pladform.ru/player$subdocument
 @@||planet-streaming1.com^$generichide
 @@||planetazdorovo.ru/pics/transparent_pixel.png$image,~third-party
+@@||plans.humana.com/assets/analytics-events-$script,~third-party
 @@||plantswith.com^$generichide
 @@||plantyn.com/optiext/optiextension.dll$~third-party
 @@||platform-eu.cloud.coveo.com^$stealth=3p-auth,domain=fiskars.com
@@ -14868,6 +14870,8 @@
 @@||secure.livechatinc.com/customer/action/open_chat?$domain=direct.lc.chat
 @@||secure.livechatinc.com/customer/action/open_chat?$domain=kinguin.net
 @@||secure.logmein.com/scripts/Tracking/$script,domain=logme.in|logmein.com
+@@||secure.moneygram.com/embed/*/webAnalytics/pageMapping.json?$~third-party,xmlhttprequest
+@@||secure.moneygram.com/embed/*/webAnalytics/pageMappingOverrides.json?$~third-party,xmlhttprequest
 @@||secure.quantserve.com/quant.js$domain=fruitlab.com
 @@||secure.quantserve.com/quant.js$domain=listeamed.net|gaystream.click
 @@||secure.quantserve.com/quant.js$xmlhttprequest,domain=bigbuttshub2.top|bigbuttshubvideos.com
