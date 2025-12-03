@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-12-03 09:09:00（北京时间）
+! Version: 2025-12-03 20:31:00（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18576
+! Total count: 18564
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -220,7 +220,6 @@
 @@/adsbygoogle.$domain=moa.tw
 @@/adsbygoogle.js$script,domain=arabiaweather.com
 @@/adscript.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|pixelistes.com
-@@/adsense.js$~3p,domain=handjob.pro|lezbiyen-tube.com|mybigbeautifulwoman.com|mystreetgirl.com|sex-jav.com
 @@/adsense.js$~third-party,domain=handjob.pro|lezbiyen-tube.com|mybigbeautifulwoman.com|mystreetgirl.com|sex-jav.com
 @@/adsense/*$domain=piseneasy.com|taobao.com
 @@/adshow/*$domain=mndxy.org
@@ -542,7 +541,6 @@
 @@/wp-content/plugins/ad-ace//includes/adblock-detector/advertisement.js$~third-party
 @@/wp-content/plugins/ad-blocking-advisor/js/ads.js|
 @@/wp-content/plugins/ad-inserter/*$domain=plugincrack.com|buydekhke.com|isekaisubs.web.id|javhoho.com|udoyoshi.com|amyscans.com|adrianoluis.net|animecast.net|armyranger.com|boxylucha.com|duniailkom.com|enciclopediaonline.com|eyalo.com|fosslovers.com|fotopixel.es|freeiphone.fr|hairstylesthatwork.com|ichberlin.com|indostarmedia.com|ireez.com|keepkoding.com|latribunadeautomocion.es|linemarlin.com|lumpiastudio.com|mobility.com.ng|mygardening411.com|newstvonline.com|organismes.org|papagiovannipaoloii.altervista.org|pictasty.com|playlists.rocks|rencah.com|sarkarinaukry.com|seamanmemories.com|socialmediaverve.com|solnechnyj-kitaj.ru|thefoodstorydotcom.wpcomstaging.com|theorie-musik.de|topperpoint.com|transformator220.ru|vita-water.ru|googledrivelinks.com|ccthesims.com|papunika.com
-@@/wp-content/plugins/blockalyzer-adblock-counter/*$image,script,~3p,domain=~gaytube.com|~pornhub.com|~pornhubthbh7ap3u.onion|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
 @@/wp-content/plugins/blockalyzer-adblock-counter/*$image,script,~third-party,domain=~gaytube.com|~pornhub.com|~pornhubthbh7ap3u.onion|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
 @@/wp-content/plugins/bwp-minify/min/?*,wp-content$script,stylesheet,~third-party
 @@/wp-content/plugins/bwp-minify/min/?f=*/cookie-notice/*
@@ -630,7 +628,6 @@
 @@://www.sinya.com.tw^$stealth=ip
 @@://www3.doubleclick.net^|$xmlhttprequest
 @@://xewl.xyz/8mei/js/*.js?16
-@@://xhamster.$script,~3p
 @@://xhamster.$script,~third-party
 @@=mm_12852562_1778064_$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com
 @@=mm_12852562_1778064_$domain=taojinbi.taobao.com
@@ -2142,7 +2139,6 @@
 @@||anyporn.com/js/jquery.easy-autocomplete-my.js
 @@||anyporn.com/js/v*_all.js
 @@||anyporn.com/js/videopreview.js^
-@@||anyporn.com/js_ads/banner.js$~3p
 @@||anyporn.com/js_ads/banner.js$~third-party
 @@||anyporn.com/key.jsx
 @@||anyporn.com/player/kt_player.js
@@ -3657,7 +3653,6 @@
 @@||cdn.androidrepublic.org/js/siropu/am/ads.min.js
 @@||cdn.anilife.*/assets/img/cover/$domain=anilife.*,stealth=referrer
 @@||cdn.anilife.live/assets/img/$stealth=referrer,image,domain=anilife.*
-@@||cdn.animenewsnetwork.com/javascripts/ads.js$~3p
 @@||cdn.animenewsnetwork.com/javascripts/ads.js$~third-party
 @@||cdn.antenne.de/antenne-de/uploads^
 @@||cdn.appconsent.io/*.js$domain=commentcamarche.net
@@ -6582,7 +6577,6 @@
 @@||farmet.info/ads.php$subdocument
 @@||fashion-headline.com/js/jquery.smartbanner.js
 @@||fast-down.com^$generichide
-@@||fast.fonts.net/jsapi/core/mt.js$script,domain=abeautifuldominion.com|bkmedical.com|eclecticbars.co.uk|gables.com|itsolutions-inc.com|kinsfarmmarket.com|senate.gov
 @@||fast.fonts.net/jsapi/core/mt.js$script,domain=abeautifuldominion.com|bkmedical.com|eclecticbars.co.uk|gables.com|itsolutions-inc.com|kinsfarmmarket.com|senate.gov|toyotagazooracing.com
 @@||fastag.kotak.com^$stealth=dpi
 @@||fastcoin.ga^$generichide
@@ -7759,7 +7753,7 @@
 @@||google.com/adsense/search/ads.js$domain=news.biglobe.ne.jp
 @@||google.com/adsense/start/images/favicon.ico
 @@||google.com/analytics/web/
-@@||google.com/analytics/web/$document
+@@||google.com/analytics/web/$documentument
 @@||google.com/analytics/web/$~third-party
 @@||google.com/cse/cse.js$domain=m.hdzog.com
 @@||google.com/images/integrations/$image,~third-party
@@ -8611,6 +8605,7 @@
 @@||gurgle.zdbb.net/amp-targeting?__amp_source_origin=$domain=clevelandclinic.org
 @@||guru3d.com/core_javaload/
 @@||guru3d.com/core_javaload/$document
+@@||guru3d.com/core_javaload/$documentument
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||gvmp.de^$generichide
 @@||gvt1.com/videoplayback/id/*/source/gfp_video_ads/*/file.mp4$domain=rx.iscdn.net
@@ -9216,6 +9211,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cwseed.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dailystar.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=danet.vn
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=denik.cz
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=digitalspy.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dingit.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=discoveryplus.in
@@ -9716,7 +9712,6 @@
 @@||innpoland.pl^$generichide
 @@||inoreader.com^$genericblock,generichide
 @@||inpad.com.tw/data/adv/
-@@||inporn.com/*/embed.js$script,~3p
 @@||inporn.com/*/embed.js$script,~third-party
 @@||inpref.com/frosmo.xdm.html?
 @@||inpref.com/messageApi?
@@ -11067,6 +11062,7 @@
 @@||metabomb.net^$generichide
 @@||metalnaveia66.com^$generichide
 @@||metamani.blog15.fc2.com^$generichide
+@@||metashare.com/wp-content/plugins/real-cookie-banner-pro/
 @@||metasrc.com/assets/javascripts/ads.js
 @@||meteoblue.com/build/website/gpt.js
 @@||meteomedia.com^$generichide
@@ -13410,6 +13406,7 @@
 @@||play.wtk.insys.pl/Scripts/InsysPlayer.v0.1.0/adTest.png$image
 @@||playback.api.streaks.jp/*/projects/tver-*/medias/$domain=tver.jp,stealth=ip
 @@||playbitco.in/show_ads.js$script
+@@||playcloud1.asia^$stealth=referrer
 @@||playcode.io^$generichide
 @@||playep.pro/log_event$~third-party,xmlhttprequest
 @@||playep.pro/player/vendor/adblock.js
@@ -13586,13 +13583,11 @@
 @@||pornbimbo.com/player/player_ads.html
 @@||porndish.com^$generichide
 @@||porngun.net^$generichide
-@@||pornhub.*/*?*&ajax=$xhr
 @@||pornhub.*/*?*&ajax=$xmlhttprequest
-@@||pornhub.*/*?ajax=*&$xhr
 @@||pornhub.*/*?ajax=*&$xmlhttprequest
 @@||pornhub.*/devices/wankband^
 @@||pornhub.*/devices/wankband^$document
-@@||pornhub.*/recommended/ajax_rate?$~3p,xhr
+@@||pornhub.*/devices/wankband^$documentument
 @@||pornhub.*/recommended/ajax_rate?$~third-party,xmlhttprequest
 @@||pornhub.*/signup
 @@||pornhub.phncdn.com^$image,domain=pornhub.com|pornhub.org|pornhub.net|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
@@ -13603,7 +13598,6 @@
 @@||pornohype.cc/*/|$media,stealth=referrer
 @@||pornsocket.com/media/ads/site_ads.js
 @@||porntrex.com/*/?mode=async&action=js_stats&rand=$image,domain=porntrex.com
-@@||porntube.com/adb_detector.js|$~3p
 @@||porntube.com/adb_detector.js|$~third-party
 @@||pornxp.com^$stealth=ip
 @@||pornxp.eu^$stealth=ip
@@ -16361,7 +16355,7 @@
 @@||t7z.cupid.iqiyi.com/show2?$xhr,domain=m.iqiyi.com
 @@||t7z.cupid.iqiyi.com/show2?$xmlhttprequest,domain=m.iqiyi.com
 @@||t7z.cupid.iqiyi.com/show2?e$domain=m.iqiyi.com
-@@||t7z.cupid.iqiyi.com^$document,domain=iqiyi.com
+@@||t7z.cupid.iqiyi.com^$documentument,domain=iqiyi.com
 @@||t7z.cupid.iqiyi.com^$domain=iqiyi.com
 @@||tab.gladly.io/newtab/|$document,subdocument
 @@||tab.gladly.io/newtab/|$document,subdocument,badfilter
@@ -18245,15 +18239,10 @@
 @@||xg4ken.com/trk/*&adgroupid=
 @@||xhaccess.com^$script,~third-party
 @@||xhamster.com/ajax/
-@@||xhamster.com^$script,~3p
 @@||xhamster.com^$script,~third-party
-@@||xhamster.desi^$script,~3p
 @@||xhamster.desi^$script,~third-party
-@@||xhamster1.desi^$script,~3p
 @@||xhamster1.desi^$script,~third-party
-@@||xhamster2.com^$script,~3p
 @@||xhamster2.com^$script,~third-party
-@@||xhamster3.com^$script,~3p
 @@||xhamster3.com^$script,~third-party
 @@||xhbig.com^$script,~third-party
 @@||xhbranch5.com^$script,~third-party
@@ -18261,7 +18250,6 @@
 @@||xhcdn.com/*/fonts$font
 @@||xhchannel.com^$script,~third-party
 @@||xhmoon5.com^$script,~third-party
-@@||xhofficial.com^$script,~3p
 @@||xhofficial.com^$script,~third-party
 @@||xhscdn.com^$image,stealth=referrer,domain=xiaohongshu.com
 @@||xhspot.com^$script,~third-party
@@ -18306,6 +18294,7 @@
 @@||xvideos.*/profiles/$elemhide,jsinject,extension,xmlhttprequest
 @@||xvideos.com/*/?_=
 @@||xvideos.com/*/?_=$document
+@@||xvideos.com/*/?_=$documentument
 @@||xvideos.com/video-get-comments/
 @@||xweb.instagram.com/ads/preferences/
 @@||xxxdao.com^$generichide
@@ -18449,9 +18438,7 @@
 @@||youtube.com/ads/preferences/$popup
 @@||youtube.com/embed/$domain=masterani.me
 @@||youtube.com/get_video_info*&el=editpage
-@@||youtube.com/get_video_info?$xhr,domain=music.youtube.com|tv.youtube.com
 @@||youtube.com/get_video_info?$xmlhttprequest,domain=music.youtube.com|tv.youtube.com
-@@||youtube.com/get_video_info?*embedded$~3p,other
 @@||youtube.com/get_video_info?*embedded$~third-party
 @@||youtube.com/get_video_info?*embedded$~third-party,other
 @@||youtube.com/iframe_api?$stealth=referrer
@@ -18459,6 +18446,7 @@
 @@||youtube.com/live_chat?$stealth=referrer
 @@||youtube.com/my_video_ad
 @@||youtube.com/my_video_ad$document
+@@||youtube.com/my_video_ad$documentument
 @@||youtube.com/yts/jsbin/*$script,domain=breathecast.com|classicalite.com|crossmap.com|hallels.com|newseveryday.com|returnofkings.com
 @@||youtube.com^$domain=gsmarena.com
 @@||youtube.com^$stealth=referrer,third-party
