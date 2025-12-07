@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-12-06 20:27:11（北京时间）
+! Version: 2025-12-07 09:15:19（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18577
+! Total count: 18580
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -7758,6 +7758,7 @@
 @@||google.com/adsense/start/images/favicon.ico
 @@||google.com/analytics/web/
 @@||google.com/analytics/web/$documentument
+@@||google.com/analytics/web/$documentumentument
 @@||google.com/analytics/web/$~third-party
 @@||google.com/cse/cse.js$domain=m.hdzog.com
 @@||google.com/images/integrations/$image,~third-party
@@ -8609,7 +8610,7 @@
 @@||gurgle.zdbb.net/amp-targeting?__amp_source_origin=$domain=clevelandclinic.org
 @@||guru3d.com/core_javaload/
 @@||guru3d.com/core_javaload/$document
-@@||guru3d.com/core_javaload/$documentument
+@@||guru3d.com/core_javaload/$documentumentument
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||gvmp.de^$generichide
 @@||gvt1.com/videoplayback/id/*/source/gfp_video_ads/*/file.mp4$domain=rx.iscdn.net
@@ -13596,7 +13597,7 @@
 @@||pornhub.*/*?ajax=*&$xmlhttprequest
 @@||pornhub.*/devices/wankband^
 @@||pornhub.*/devices/wankband^$document
-@@||pornhub.*/devices/wankband^$documentument
+@@||pornhub.*/devices/wankband^$documentumentument
 @@||pornhub.*/recommended/ajax_rate?$~third-party,xmlhttprequest
 @@||pornhub.*/signup
 @@||pornhub.phncdn.com^$image,domain=pornhub.com|pornhub.org|pornhub.net|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
@@ -16366,6 +16367,7 @@
 @@||t7z.cupid.iqiyi.com/show2?$xmlhttprequest,domain=m.iqiyi.com
 @@||t7z.cupid.iqiyi.com/show2?e$domain=m.iqiyi.com
 @@||t7z.cupid.iqiyi.com^$documentument,domain=iqiyi.com
+@@||t7z.cupid.iqiyi.com^$documentumentument,domain=iqiyi.com
 @@||t7z.cupid.iqiyi.com^$domain=iqiyi.com
 @@||tab.gladly.io/newtab/|$document,subdocument
 @@||tab.gladly.io/newtab/|$document,subdocument,badfilter
@@ -18307,7 +18309,7 @@
 @@||xvideos.*/profiles/$elemhide,jsinject,extension,xmlhttprequest
 @@||xvideos.com/*/?_=
 @@||xvideos.com/*/?_=$document
-@@||xvideos.com/*/?_=$documentument
+@@||xvideos.com/*/?_=$documentumentument
 @@||xvideos.com/video-get-comments/
 @@||xweb.instagram.com/ads/preferences/
 @@||xxxdao.com^$generichide
@@ -18460,6 +18462,7 @@
 @@||youtube.com/my_video_ad
 @@||youtube.com/my_video_ad$document
 @@||youtube.com/my_video_ad$documentument
+@@||youtube.com/my_video_ad$documentumentument
 @@||youtube.com/yts/jsbin/*$script,domain=breathecast.com|classicalite.com|crossmap.com|hallels.com|newseveryday.com|returnofkings.com
 @@||youtube.com^$domain=gsmarena.com
 @@||youtube.com^$stealth=referrer,third-party
