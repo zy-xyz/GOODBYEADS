@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-12-12 20:31:36（北京时间）
+! Version: 2025-12-13 09:06:22（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18601
+! Total count: 18604
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -2104,6 +2104,7 @@
 @@||anisearch.*^$generichide
 @@||anitasrecipes.com/Content/Images/Recipes/$image,~third-party
 @@||anitoonstv.com/ver/banner.gif$image
+@@||anitube*.vip/playerricas.php$stealth=referrer
 @@||anitube.*^$generichide
 @@||anitube.vip/playerricas.php$stealth=referrer
 @@||aniview.com/api/$script,xmlhttprequest,domain=gamingbible.co.uk|ladbible.com|stirr.com
@@ -2806,6 +2807,7 @@
 @@||awin1.com^|
 @@||aws.amazon.com/*/*-ad
 @@||awsapprunner.com/users/$stealth=3p-auth
+@@||awsstatic.com/*/orchestrate.js$domain=aws.amazon.com
 @@||axenthost.com^$generichide
 @@||ay.delivery/client-v2.js$script,domain=diep.io
 @@||ay.delivery/manager/$domain=britannica.com
@@ -4335,6 +4337,7 @@
 @@||cdn.taboola.com/libtrc/impl.*.js$domain=welt.de
 @@||cdn.taboola.com/libtrc/tipranks-tipranks/loader.js$domain=tipranks.com
 @@||cdn.taboola.com/libtrc/unip/loader.js$domain=techedubyte.com
+@@||cdn.taboola.com/libtrc/unpkg/tfa.js$domain=/anitube\d+\.vip/
 @@||cdn.taboola.com/libtrc/vhb-handelsblatt/loader.js$domain=handelsblatt.com
 @@||cdn.taboola.com/libtrc^$domain=msn.com
 @@||cdn.taboola.com/magazine/$domain=taboolanews.com
