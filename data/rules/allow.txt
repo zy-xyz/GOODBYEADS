@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-12-16 09:11:50（北京时间）
+! Version: 2025-12-16 20:32:44（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18602
+! Total count: 18605
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -3763,6 +3763,7 @@
 @@||cdn.cookielaw.org/consent/$domain=ryobitools.eu
 @@||cdn.cookielaw.org/consent/$domain=ups.com
 @@||cdn.cookielaw.org/consent/*.json$domain=20min.ch
+@@||cdn.cookielaw.org/consent/*.json$domain=bostonglobe.com
 @@||cdn.cookielaw.org/consent/*.json$domain=dmax.de
 @@||cdn.cookielaw.org/consent/*.json$domain=ign.com
 @@||cdn.cookielaw.org/consent/*.json$domain=milwaukeetool.eu
@@ -3797,6 +3798,7 @@
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=bikeforums.net
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=blog.unity.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=bongo.be
+@@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=bostonglobe.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=breitbart.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=brightside.me
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=buienradar.nl
@@ -9313,6 +9315,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=inc.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=independent.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=iodonna.it
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=isekaitube.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ittf.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=iz.ru
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kanald.com.tr
