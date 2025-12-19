@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-12-18 20:31:41（北京时间）
+! Version: 2025-12-19 09:11:28（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18615
+! Total count: 18617
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -13643,6 +13643,7 @@
 @@||porntube.com/adb_detector.js|$~third-party
 @@||pornxp.com^$stealth=ip
 @@||pornxp.eu^$stealth=ip
+@@||pornxp.me/videos/$stealth=ip
 @@||pornxp.net^$stealth=ip
 @@||pornxxx.tv/ads.js
 @@||port.hu/js/advert.min.js
@@ -17964,6 +17965,7 @@
 @@||webzjac.reg.*.com^$stealth=referrer,domain=passport.youdao.com
 @@||webzjcaptcha.reg.*.com/api/$stealth=referrer,domain=passport.youdao.com
 @@||webzjcaptcha.reg.163.com^
+@@||weeab*.xyz^$stealth=referrer|ip,domain=japaneseasmr.com
 @@||weekend.ee/static/*/push-notifications.chunk.js$~third-party
 @@||wefashion.com/on/demandware.static/*/cookieBanner.js
 @@||weheartit.com/ads.js^
