@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-12-20 20:28:04（北京时间）
+! Version: 2025-12-21 09:15:22（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18625
+! Total count: 18628
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -64,6 +64,7 @@
 @@.google-analytics.com%2Fanalytics.js$domain=free.com.tw
 @@.googleadservices.*.js$domain=ponominalu.ru
 @@.html$xmlhttprequest,subdocument,stealth=referrer,domain=edgedeliverynetwork.com
+@@.html-load.com/player/*/70/$script,subdocument,xmlhttprequest
 @@.html?ad_$domain=jd.com|zol.com.cn
 @@.icu/js/gg.js$script,domain=kwoo50.icu|kwuu83.icu|ljt1.icu|ljt2.icu|ljt3.icu|ljt4.icu
 @@.instantservice.com$document
@@ -461,6 +462,7 @@
 @@/pop.js|$domain=pornve.com
 @@/prebid-js-$domain=mytvsuper.com|tvb.com|tvbs.com.tw
 @@/prebid.$script,domain=mingpao.com
+@@/prebid.min.js$~third-party,domain=advertape.net|tapepops.com|watchadsontape.com|advertisertape.com|tapeadvertisement.com|adblockplustape.xyz|tapelovesads.org|gettapeads.com|tapeadsenjoyer.com|noblocktape.com|antiadtape.com|tapewithadblock.org|streamadblocker.*|strtape.cloud|adblockeronstape.me|streamadblockplus.com|shavetape.*|adblockstrtape.link|adblockstrtech.link|adblockstreamtape.*|stape.fun|strcloud.link|streamtape.*|streamtape.com
 @@/premium*/*.php$subdocument,stealth=referrer,domain=stronstream.shop|sportzlive.shop
 @@/premium*/tracks-*.html$xmlhttprequest,stealth=referrer
 @@/progress.php?callback=$script,domain=ytmp3.cc
@@ -17404,6 +17406,7 @@
 @@||ups.com/WebTracking/
 @@||ups.xplosion.de/ctx$domain=ingame.de
 @@||ups.xplosion.de/ctx?event_id=$domain=tz.de
+@@||ups2up.fun^$generichide
 @@||upstream.to/ads/pop.js
 @@||upstream.to/advertisement/ads.js
 @@||upstream.to/embed-*.html$domain=javtiful.com
