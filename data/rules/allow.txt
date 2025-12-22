@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-12-22 09:13:53（北京时间）
+! Version: 2025-12-22 20:31:42（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18627
+! Total count: 18626
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -1452,7 +1452,6 @@
 @@||ads.adfox.ru/*/getCodeTest?$domain=tv.yandex.by|tv.yandex.kz|tv.yandex.ru
 @@||ads.adfox.ru/*/prepareCode?$domain=tv.yandex.by|tv.yandex.kz|tv.yandex.ru
 @@||ads.adfox.ru/crossdomain.xml$object-subrequest,domain=carambatv.ru
-@@||ads.adthrive.com/abd/abd.js$domain=redcurrantbakery.com
 @@||ads.adthrive.com/api/$domain=adamtheautomator.com|mediaite.com|packhacker.com|packinsider.com
 @@||ads.adthrive.com/builds/core/*/js/adthrive.min.js$domain=adamtheautomator.com|laurelberninteriors.com|mediaite.com|packhacker.com|packinsider.com
 @@||ads.adthrive.com/builds/core/*/prebid.min.js$domain=laurelberninteriors.com|mediaite.com
@@ -5508,7 +5507,6 @@
 @@||cxense.com/cx.cce.js$domain=tarzanweb.jp
 @@||cxense.com/cx.cce.js$domain=tn.com.ar
 @@||cxense.com/cx.js$domain=13.cl|bizjournals.com|businessinsider.de|businessinsider.jp|computerbild.de|cyclestyle.net|handelsblatt.com|inquirer.com|journaldequebec.com|ksml.fi|mainichi.jp|marketwatch.com|nikkansports.com|nippon.com|savonsanomat.fi|shueisha.co.jp|str.toyokeizai.net|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp|tvnet.lv|wsj.com
-@@||cxense.com/cx.js$domain=13.cl|bizjournals.com|businessinsider.de|businessinsider.jp|computerbild.de|cyclestyle.net|handelsblatt.com|inquirer.com|journaldequebec.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|str.toyokeizai.net|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp|tvnet.lv|wsj.com
 @@||cxense.com/cx.js$domain=mainichi.jp
 @@||cxense.com/cx.js$domain=nlab.itmedia.co.jp
 @@||cxense.com/cx.js$domain=shueisha.co.jp
@@ -7679,7 +7677,7 @@
 @@||google-analytics.com/analytics.js$domain=yargici.com
 @@||google-analytics.com/analytics.js$domain=zeelandnet.nl
 @@||google-analytics.com/analytics.js$domain=zolotoyvek.ua
-@@||google-analytics.com/analytics.js$script,redirect-rule,domain=mond.how
+@@||google-analytics.com/analytics.js$redirect-rule,script,domain=mond.how
 @@||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=coolermaster.com
 @@||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=mond.how
 @@||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=tv-media.at,important
@@ -15789,6 +15787,7 @@
 @@||ssl.pstatic.net/sstatic/sdyn.js$script,domain=search.naver.com
 @@||ssl.pstatic.net/tveta/libs/glad/prod/$script,xmlhttprequest,domain=chzzk.naver.com
 @@||ssl.sdcdn.com/cms/ads/*$domain=stardoll.com
+@@||sso.*.gov.vn^$stealth=dpi
 @@||sso.adperfect.com/client_authentication/?$elemhide,jsinject,extension,xmlhttprequest
 @@||sso.kinopoisk.ru^$stealth=3p-cookie
 @@||sso.myscript.com^$stealth=3p-auth
