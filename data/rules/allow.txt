@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-01-04 09:19:39（北京时间）
+! Version: 2026-01-04 20:29:08（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18677
+! Total count: 18678
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -134,7 +134,7 @@
 @@/:\/\/.*[.]wp[.]pl\/[a-z0-9_]+[.][a-z]+[/:&?]?/
 @@/?url=$subdocument,stealth=referrer,domain=agedm.vip
 @@/?utm_data=*&_=$xmlhttprequest,domain=sterham.net|casthill.net
-@@/?utm_source=*&utm_campaign=$domain=dlsite.com|yandex.*|yandex.by|yandex.com|yandex.eu|yandex.fr|yandex.kz|yandex.net|yandex.ru|yandex.tr|yandex.ua|yandex.uz
+@@/?utm_source=*&utm_campaign=$domain=dlsite.com|yandex.kz|yandex.ru|yandex.com|yandex.fr|yandex.tr|yandex.ru|yandex.by|yandex.eu|yandex.net|yandex.uz|yandex.ua
 @@/AdDefender/adwordstracking.js$script
 @@/Advertisement.css$stylesheet,domain=openload.co|openload.io|openload.tv
 @@/BTVQRA6OS11SO6ARQVTB/*.php$script,domain=up2stream.com
@@ -10625,6 +10625,7 @@
 @@||localizaagencia.com^$generichide
 @@||lockwood-avenue.com^*/cookielaw/$~third-party
 @@||loco.kr3m.com/f/$image,stealth=referrer
+@@||log.go.com/log$xmlhttprequest,domain=disneyvacationclub.disney.go.com
 @@||log.mmstat.com/eg.js$domain=youku.tv
 @@||log.mmstat.com/eg.js^$script
 @@||log.mmstat.com^
