@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-01-10 09:10:49（北京时间）
+! Version: 2026-01-10 20:28:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18695
+! Total count: 18698
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -1907,6 +1907,7 @@
 @@||almezoryae.com^$generichide
 @@||alnorum.xyz/hls2/$stealth=referrer
 @@||alp440.activehosted.com/f/embed.php$domain=openpeople.university
+@@||alp440.activehosted.com/f/embed.php$script,domain=openpeople.university
 @@||alphaapi.brandify.com/rest/clicktrack$xmlhttprequest,domain=traderjoes.com
 @@||alphavps.com/assets/js/services/CookiesConsent.min.js
 @@||alt-torrent.com^$generichide
@@ -1996,6 +1997,7 @@
 @@||an1me.nl^$generichide
 @@||anadolu.edu.tr/assets/js/jquery.smartbanner.js$~third-party
 @@||analogplanet.com^$elemhide
+@@||analysis.windows.net^
 @@||analysys.cn^$domain=analysys.cn
 @@||analytics-*.clickdimensions.com/*/pages/*.html$subdocument,domain=nhs.uk
 @@||analytics-*.clickdimensions.com/*/pages/*.html$subdocument,domain=techuk.org
@@ -2506,6 +2508,7 @@
 @@||app.sendgrid.com$document
 @@||app.sendgrid.com^$elemhide,jsinject
 @@||app.termly.io/embed-policy.min.js$domain=help.sanctions.io|jobscan.co|trinityschool.org
+@@||app.termly.io/resource-blocker/$domain=racer.com
 @@||app.tirelocator.ca/static/scripts/google-analytics.js
 @@||app.titsx.com*/search$domain=porn-plus.com
 @@||app.typetopia.com/media/ad/*.mp3|
@@ -4837,14 +4840,14 @@
 @@||cmp.inmobi.com/*/vendor-list-*.json$domain=ilgiornale.it
 @@||cmp.inmobi.com/*/vendor-list-*.json$domain=thefunpost.com
 @@||cmp.inmobi.com/GVL-v2/$domain=express.co.uk
-@@||cmp.inmobi.com/GVL-v3/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it
+@@||cmp.inmobi.com/GVL-v3/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
 @@||cmp.inmobi.com/choice/$script,domain=flash.gr|protothema.gr
 @@||cmp.inmobi.com/choice/*/choice.js$domain=express.co.uk
 @@||cmp.inmobi.com/choice/*/choice.js$domain=ilgiornale.it
 @@||cmp.inmobi.com/choice/*/choice.js$domain=thefunpost.com
 @@||cmp.inmobi.com/geoip$domain=express.co.uk
 @@||cmp.inmobi.com/geoip$domain=ilgiornale.it
-@@||cmp.inmobi.com/tcfv2/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it
+@@||cmp.inmobi.com/tcfv2/$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
 @@||cmp.inmobi.com/tcfv2/*.js$domain=express.co.uk
 @@||cmp.inmobi.com/tcfv2/*.js$domain=ilgiornale.it
 @@||cmp.inmobi.com/tcfv2/*.js$domain=thefunpost.com
@@ -4856,7 +4859,7 @@
 @@||cmp.inmobi.com^$domain=the-express.com
 @@||cmp.inmobi.com^$domain=vide-greniers.org
 @@||cmp.inmobi.com^*.json$xmlhttprequest,domain=flash.gr|protothema.gr
-@@||cmp.inmobi.com^*/choice.js$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it
+@@||cmp.inmobi.com^*/choice.js$domain=adnkronos.com|cornwalllive.com|cyprus-mail.com|dailystar.co.uk|ilgiornale.it|informazione.it|mirror.co.uk|mymovies.it|tuttoeuropei.com|video.lacnews24.it|video.milanofinanza.it
 @@||cmp.inmobi.com^|
 @@||cmp.osano.com/*/osano.js$domain=account.bhvr.com
 @@||cmp.osano.com/*/osano.js$domain=americastestkitchen.com
@@ -15401,6 +15404,7 @@
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
 @@||shop.bora-sauna.de/components/cookieconsent2/build/cookieconsent.min.js
 @@||shop.dangerfield.com.au/min/?*/cookiealert.css
+@@||shop.koelln.de/static/*/frontend/MyWebconcept/gv_koelln/de_DE/Amasty_GdprFrontendUi
 @@||shop.printweb.de/werbung^$domain=printweb.de
 @@||shopback.com.tw^$generichide
 @@||shopeemobile.com/shopee/*/modules/ads/
@@ -18654,7 +18658,6 @@
 @@||zhodinonews.by$stealth=ip
 @@||zhuti.xiaomi.com^
 @@||ziffdavis.com/edaa^$domain=youronlinechoices.com
-@@||ziffstatic.com^*/zdconsent.js$domain=allestoringen.be|allestoringen.nl|downdetector.ae|downdetector.ca|downdetector.cl|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.ph|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.ru|downdetector.se|downdetector.sg|downdetector.sk|downdetector.tw|downdetector.web.tr|humblebundle.com|ign.com|nintendolife.com|purexbox.com|pushsquare.com|speedtest.net|timeextension.com|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de
 @@||zillow.com/rental-manager/proxy/rental-manager-api/api/v1/users/freemium/analytics/pageViews$~third-party
 @@||zillowstatic.com/c/*/linktrack.js$domain=zillow.com
 @@||zinro.net/m/log.php
