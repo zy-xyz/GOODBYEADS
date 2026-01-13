@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-01-13 09:10:07（北京时间）
+! Version: 2026-01-13 20:34:11（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18705
+! Total count: 18708
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -2369,6 +2369,7 @@
 @@||api.schale.network^$stealth=referrer|3p-auth
 @@||api.service.cmp.usercentrics.eu/latest/1/cmp/$domain=sporteurope.tv
 @@||api.service.cmp.usercentrics.eu/latest/core/$domain=sporteurope.tv
+@@||api.service.cmp.usercentrics.eu^$domain=personio.com
 @@||api.slightcommunicativeinterconnectedness.xyz^
 @@||api.smartystreets.com/lookup$stealth=referrer,domain=att.com
 @@||api.spendino.de/admanager^
@@ -10566,6 +10567,7 @@
 @@||live.b8b8.tv/watch/js/adview*.js$script,~third-party
 @@||live.indiatimes.com/trackjs.cms
 @@||live.lequipe.fr/thirdparty/prebid.js$~third-party
+@@||live.mrf.io/statics/marfeel/gardac-sync.js$domain=muylinux.com
 @@||live.mrf.io/statics/marfeel/prebid-worker/webworker.js$domain=hipertextual.com
 @@||live.mrf.io/statics/marfeel/prebid-worker/webworker.js$domain=simpleflying.com
 @@||live.primis.tech/content/$domain=manchestereveningnews.co.uk
@@ -17988,6 +17990,7 @@
 @@||web.cmp.usercentrics.eu/cdcs/v/*/index.html$domain=sporteurope.tv
 @@||web.cmp.usercentrics.eu/tcf/stub.js$domain=sporteurope.tv
 @@||web.cmp.usercentrics.eu/ui/$domain=sporteurope.tv,script
+@@||web.cmp.usercentrics.eu^$domain=personio.com
 @@||web.facebook.com^$generichide
 @@||web.map-m.com/*/api?appKey=$domain=toyota.jp,stealth=referrer
 @@||web.np.playstation.com/api^$stealth=3p-auth
