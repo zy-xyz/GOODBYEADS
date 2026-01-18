@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-01-18 09:18:31（北京时间）
+! Version: 2026-01-18 20:29:06（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18731
+! Total count: 18734
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -5658,6 +5658,7 @@
 @@||dammu.tk^$domain=aloneteam.net
 @@||damnripped.com^$generichide
 @@||dan-ball.jp/*/img.gif$domain=dan-ball.jp
+@@||dan-ball.jp/en/javagame/mine/data/d.gif$image,~third-party
 @@||dangotoons.com^$generichide
 @@||danslescoulisses.com/fr/min/$stylesheet
 @@||daoju.qq.com/time/*/js/ad/
@@ -12625,6 +12626,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mixrootmods.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mmacore.tv
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mmsbee42.com|mmsmasala.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mmsmasala.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mobile-tracker-free.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=most-dnepr.info
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=moto.it|automoto.it
@@ -15201,6 +15203,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=league-funny.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=line.me
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=line.me|shahid.mbc.net
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=m2o.it
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=maharashtratimes.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=manchestereveningnews.co.uk
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=midomi.com
