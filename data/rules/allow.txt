@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-01-19 09:17:41（北京时间）
+! Version: 2026-01-19 20:36:29（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18733
+! Total count: 18741
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -5692,6 +5692,7 @@
 @@||data.sec.miui.com^
 @@||data.service.paypal.com^
 @@||data.simpleupload.net/download/$stealth=referrer
+@@||data.tnlycdn.com^$image,stealth=referrer,domain=toonily.com
 @@||datacloudmail.ru^$domain=cloud.mail.ru,stealth=3p-cookie|referrer
 @@||datacomp.sk^$stealth=dpi
 @@||datacrate18.xyz/file2/$stealth=referrer
@@ -8435,6 +8436,7 @@
 @@||googletagmanager.com/gtm.js$domain=upc.pl
 @@||googletagmanager.com/gtm.js$domain=upwork.com
 @@||googletagmanager.com/gtm.js$domain=userstyles.org
+@@||googletagmanager.com/gtm.js$domain=uzdevumi.lv
 @@||googletagmanager.com/gtm.js$domain=videotron.com
 @@||googletagmanager.com/gtm.js$domain=villeroy-boch.fr
 @@||googletagmanager.com/gtm.js$domain=vitringez.com
@@ -9006,6 +9008,7 @@
 @@||hoyts.com.au^$generichide
 @@||hp.com/in/*/ads/$script,stylesheet,~third-party
 @@||hp.com^*/caas-privacy-cookie-$script
+@@||hpa.gov.tw^$stealth=dpi
 @@||hq.sinajs.cn^$stealth=referrer,script,domain=finance.sina.com.cn
 @@||hqq.ac/e^$stealth=referrer
 @@||hqq.ac/js/adv/fuckadblock.js
@@ -9890,6 +9893,7 @@
 @@||ireland101.com/assets/js/prebid-add.js
 @@||isdspeed.qq.com/cgi-bin/r.cgi?flag1=
 @@||isekaisubs.web.id^$generichide
+@@||isekaitube.com^$generichide
 @@||island.lk/userfiles/image/danweem/island.gif
 @@||islcollective.com/tpls/*/js/common/ads.js
 @@||isolaillyon.it^$generichide
@@ -11374,6 +11378,7 @@
 @@||moegirl.org.cn^$cookie=_gid
 @@||moegirl.org.cn^$generichide
 @@||moeni.net^$stealth=webrtc
+@@||moex.ink^$image,stealth=referrer,domain=kxo.moe
 @@||mofl.pro^$stealth=referrer
 @@||mohanlalmovieshub.blogspot.com^$generichide
 @@||moika78.ru/wp-content/themes/envo-magazine-child/assets/dist/js/directadvert.js
@@ -11537,6 +11542,7 @@
 @@||mx-sh.net/advertisements.js
 @@||mx-sh.net^$generichide
 @@||mxcontent.net/*.mp4$media,stealth=referrer
+@@||mxomo.com^$image,stealth=referrer,domain=kxo.moe
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=eloan.co.il
 @@||mxpnl.com^$domain=dailysteals.com
@@ -17402,6 +17408,7 @@
 @@||udp2p.com^$generichide
 @@||uds.adobe-identity.com/userdocs/$stealth=3p-auth
 @@||ue.flipboard.com/usage?data=
+@@||uedas.com.tr^$stealth=dpi
 @@||ugdturner.com/xd.sjs$domain=nba.com
 @@||ugdturner.com/xd.sjs$domain=tbs.com
 @@||ui.ads.microsoft.com^
@@ -18617,6 +18624,7 @@
 @@||youtube.com/my_video_ad$documentumentument
 @@||youtube.com/yts/jsbin/*$script,domain=breathecast.com|classicalite.com|crossmap.com|hallels.com|newseveryday.com|returnofkings.com
 @@||youtube.com^$domain=gsmarena.com
+@@||youtube.com^$script,domain=primewire.mov
 @@||youtube.com^$stealth=referrer,third-party
 @@||youtube.googleapis.com/embed^$stealth=referrer
 @@||yoututosjeff.es^$generichide
