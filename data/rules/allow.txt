@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-01-20 09:12:56（北京时间）
+! Version: 2026-01-20 20:36:44（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18742
+! Total count: 18749
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -454,7 +454,9 @@
 @@/piwik-$domain=github.com
 @@/player/*$stealth=referrer,domain=ibomma.*
 @@/player/stats.php$domain=85po.com|85po.net|85xo.com|85xo.com|watchporn.to|viralpornhub.com|watchmdh.to|porn4fans.com
+@@/player/stats.php$domain=yesporn.vip|85po.com|85po.net|85xo.com|85xo.com|watchporn.to|viralpornhub.com|watchmdh.to|porn4fans.com
 @@/player_ads.html$domain=85po.com|85po.net|85xo.com|85xo.com|watchporn.to|viralpornhub.com|camwhoresbay.porn|watchmdh.to|ebalovo.porn|ebalovo.adult|camwhores.*|camlovers.tv|camhub.tv|pornissimo.org|porntn.com|femdomtb.com|pornoham.me|tubsexer.com|homegrownfreaks.net|pornfd.com|sexcams-24.com|watchmdh.to
+@@/player_ads.html$domain=yesporn.vip|85po.com|85po.net|85xo.com|85xo.com|watchporn.to|viralpornhub.com|camwhoresbay.porn|watchmdh.to|ebalovo.porn|ebalovo.adult|camwhores.*|camlovers.tv|camhub.tv|pornissimo.org|porntn.com|femdomtb.com|pornoham.me|tubsexer.com|homegrownfreaks.net|pornfd.com|sexcams-24.com|watchmdh.to
 @@/playlist.m3u8
 @@/playlist.m3u8$stealth=referrer|ip
 @@/playlist/*caxi.m3u8$xmlhttprequest,stealth=referrer,domain=crackstreamer.net|streameast.app|1stream.eu|buffstreams.app
@@ -2769,6 +2771,7 @@
 @@||ausujet.com/skins/common/ads.js
 @@||auth-id.nfl.com/gs/webSdk/Api.aspx$stealth=referrer
 @@||auth.*.commercetools.com^$stealth=3p-auth,domain=qt.io
+@@||auth.avs.io^$stealth=referrer
 @@||auth.gfx.ms^$document
 @@||auth.mail.ru^$stealth=useragent
 @@||auth.opera.com^$stealth=useragent
@@ -3812,8 +3815,10 @@
 @@||cdn.cookielaw.org/consent/*.json$domain=tvn.pl|discoverychannel.pl|tlcpolska.pl|tvnstyle.pl|tvn7.pl|tvnturbo.pl|tvnfabula.pl|hgtv.pl|foodnetwork.pl|travelchanneltv.pl|ttv.pl|metro.tv
 @@||cdn.cookielaw.org/consent/*.json$domain=usmagazine.com
 @@||cdn.cookielaw.org/consent/*.json$domain=vox.com
+@@||cdn.cookielaw.org/consent/*.json$domain=voxi.co.uk
 @@||cdn.cookielaw.org/consent/*.json$domain=wolverine.com|chacos.com|saucony.com|merrell.com
 @@||cdn.cookielaw.org/consent/*/otSDKStub.js$domain=soundcloud.com
+@@||cdn.cookielaw.org/consent/*/otSDKStub.js$domain=voxi.co.uk
 @@||cdn.cookielaw.org/opt-out/otCCPAiab.js$domain=bikeforums.net
 @@||cdn.cookielaw.org/opt-out/otCCPAiab.js$domain=cwtv.com
 @@||cdn.cookielaw.org/opt-out/otCCPAiab.js$domain=nbclosangeles.com
@@ -4905,7 +4910,6 @@
 @@||cmp.quantcast.com^$domain=beachcam.meo.pt
 @@||cmp.quantcast.com^$domain=comingsoon.it
 @@||cmp.quantcast.com^$domain=express.co.uk
-@@||cmp.quantcast.com^$domain=gpblog.com
 @@||cmp.quantcast.com^$domain=hideout.co
 @@||cmp.quantcast.com^$domain=minutesports.fr
 @@||cmp.quantcast.com^$domain=selfie.iol.pt
@@ -5147,6 +5151,7 @@
 @@||consent.cookiebot.com/uc.js$domain=traunsteiner-tagblatt.de
 @@||consent.cookiebot.com/uc.js$domain=trendsales.dk
 @@||consent.cookiebot.com/uc.js$domain=uno-fluechtlingshilfe.de
+@@||consent.cookiebot.com/uc.js$domain=uzdevumi.lv
 @@||consent.cookiebot.com/uc.js$domain=vcg.de
 @@||consent.cookiebot.com/uc.js$domain=werder.de
 @@||consent.cookiebot.com/uc.js$domain=wero-wallet.eu
@@ -12979,6 +12984,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=haaretz.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=hacksnation.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=helper-employer.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=hexanaut.io
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=howkteam.vn
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=ibmmainframes.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=incredibox.com
@@ -14950,6 +14956,7 @@
 @@||sdk.privacy-center.org^$domain=softonic.com
 @@||sdk.privacy-center.org^$domain=strategies.fr
 @@||sdk.privacy-center.org^$domain=sudinfo.be
+@@||sdk.privacy-center.org^$domain=tf1.fr
 @@||sdk.privacy-center.org^$domain=vanitatis.elconfidencial.com
 @@||sdk.privacy-center.org^$script,domain=20minutos.es|24sata.hr|abc.es|allocine.fr|as.com|atresplayer.com|aukro.cz|auto.it|autopista.es|beinsports.com|belfasttelegraph.co.uk|bfmtv.com|bonduelle.it|cas.sk|ciclismoafondo.es|cnews.fr|corrieredellosport.it|decathlon.pl|dnevnik.hr|dumpert.nl|dziennikwschodni.pl|dziennikzachodni.pl|ebuyclub.com|edreams.de|edreams.net|elcomercio.es|elconfidencial.com|elespanol.com|eltiempo.es|euronews.com|europe1.fr|filmweb.pl|fip.fr|flair.be|france24.com|franceculture.fr|franceinfo.fr|franceinter.fr|francetvinfo.fr|frandroid.com|funradio.fr|fyndiq.dk|fyndiq.fi|fyndiq.no|fyndiq.se|gamepro.de|gamestar.de|giphy.com|gloswielkopolski.pl|gofeminin.de|goplay.be|gva.be|hablandoenplata.es|hbvl.be|idealista.it|ivoox.com|jeanmarcmorandini.com|jeuxvideo.com|jofogas.hu|kotimikro.fi|krone.at|kurier.at|ladepeche.fr|lalibre.be|lasexta.com|lasprovincias.es|lavanguardia.com|leboncoin.fr|leparisien.fr|lequipe.fr|letelegramme.fr|marca.com|marianne.net|mein-mmo.de|melty.fr|metronieuws.nl|mitula.pt|motociclismo.es|mountainbike.es|movilzona.es|mundo-geo.es|mundodeportivo.com|mundogravel.es|na.se|naszemiasto.pl|nicematin.com|nieuwsblad.be|numerama.com|ondacero.es|onmeda.de|opodo.ch|opodo.co.uk|opodo.com|opodo.com.au|opodo.de|opodo.dk|opodo.es|opodo.fi|opodo.fr|opodo.it|opodo.nl|opodo.no|opodo.pl|opodo.se|opto.sic.pt|orpi.com|otempo.pt|podcasts.leparisien.fr|profil.at|publicsenat.fr|rainberrytv.com|recup.paylib.fr|revistaoxigeno.es|rfi.fr|rmcbfmplay.com|rtbf.be|rtl.be|rtl.fr|science-et-vie.com|sensacine.com|serially.it|sfgame.net|sncf-connect.com|softonic.com|softonic.ru|soycorredor.es|sportlife.es|standaard.be|strefabiznesu.pl|telegraaf.nl|tportal.hr|trailrun.es|triatlonweb.es|tuttosport.com|vecernji.hr|video-streaming.orange.fr|xataka.com
 @@||sdk.privacy-center.org^$script,domain=francetvinfo.fr
