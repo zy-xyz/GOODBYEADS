@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-01-28 09:14:40（北京时间）
+! Version: 2026-01-28 20:36:09（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18773
+! Total count: 18775
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -2392,6 +2392,7 @@
 @@||api.transcend.io/privacy/graphql$xmlhttprequest
 @@||api.tv.sohu.com/mobile_user/device^$app=com.sohu.sohuvideo
 @@||api.twitter.com/1.1/onboarding/referrer.json$~third-party
+@@||api.unity.com^$stealth=ip
 @@||api.useinsider.com/api/web/$xmlhttprequest
 @@||api.useinsider.com/sw.js$domain=gratis.com
 @@||api.useinsider.com^$domain=ing.com.tr
@@ -5187,6 +5188,7 @@
 @@||consent.cookiefirst.com/banner/$domain=juffing.at
 @@||consent.cookiefirst.com/sites$stealth=referrer
 @@||consent.cookiefirst.com/sites/$domain=juffing.at
+@@||consent.cookiefirst.com/sites/$script,domain=jafco.co.jp
 @@||consent.cookiefirst.com^$domain=blutspendedienst.com
 @@||consent.cookiefirst.com^$domain=lsm.lv
 @@||consent.cookiefirst.com^$domain=proaurum.de
