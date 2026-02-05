@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-02-04 20:43:51（北京时间）
+! Version: 2026-02-05 09:24:27（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18757
+! Total count: 18749
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -5575,7 +5575,6 @@
 @@||cy.com^$generichide
 @@||cyberdean.fr/js/advertisement.js
 @@||cyberleninka.ru/*.js$domain=cyberleninka.ru
-@@||cyberspace.world^$generichide
 @@||cybozu.com/*/event.gif?$~third-party
 @@||cyfostreams.com/advertisement.js
 @@||cyrk-zalewski.com.pl^*/CookieInfo.js$script
@@ -7358,7 +7357,6 @@
 @@||getexploits.com^$generichide
 @@||getflywheel.com/addons/google-analytics/$~third-party
 @@||getfree.co.in^$generichide
-@@||getfreebit.xyz^$generichide
 @@||getfreesmsnumber.com/js/advertisement.js^
 @@||getfreesmsnumber.com^$generichide
 @@||getgoods.de^*/emstrack.js
@@ -9492,6 +9490,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=railstream.net
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=repubblica.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=romaniatv.net
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=rpmplay.online
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=rte.ie
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=rtl.arkadiumhosted.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=rtl.it
@@ -10748,6 +10747,7 @@
 @@||looptorrent.net^$generichide
 @@||lootlinks.*/js/prebid-ads.js
 @@||lootup.me/assets/js/ads-prebid.js
+@@||lootup.me/assets/js/flashAd.js
 @@||lordz.io/ads.js
 @@||lostpod.space/static/streaming-playlists/$domain=videos.john-livingston.fr
 @@||loucasporcabelos.com.br^$stealth=referrer
@@ -10909,7 +10909,6 @@
 @@||mangapark.net^$image
 @@||mangarock.com/ads.js
 @@||mangarock.com^$generichide
-@@||mangaromance.eu^$generichide
 @@||mangasail.co/sites/all/themes/*/js/adsense-ads.js
 @@||mangasail.co/sites/all/themes/*/js/advertisement.js
 @@||mangasail.co/sites/default/files/*//*_adsense_
@@ -11605,7 +11604,6 @@
 @@||mygrad.app.io^$extension
 @@||myicloud.info^$generichide
 @@||myid.canon^$stealth=referrer
-@@||mylinkconverter.com^$generichide
 @@||mylivesignature.com/js/adblocker.js
 @@||mylivesignature.com^$generichide
 @@||mylogin.abc.net.au^$stealth=referrer
@@ -12350,7 +12348,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=8wayrun.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=9animes.ru
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=9ketsuki.info|fizyka.org|dayzrp.com|pipocas.tv|classic-retro-games.com|nulledpremium.com|forum.release-apk.com|userupload.in
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=9ketsuki.info|fizyka.org|dayzrp.com|pipocas.tv|cyberspace.world|classic-retro-games.com|nulledpremium.com|forum.release-apk.com|userupload.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=9sblog.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=abdoutech.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aconvert.com
@@ -14036,7 +14033,6 @@
 @@||pushpushgo.com/js/$script,domain=centrumriviera.pl
 @@||pussyspace.com/class/captcha/captcha.php$domain=pussyspace.com
 @@||pussytorrents.org/js/global/ads.js
-@@||putchumt.com^|$xmlhttprequest,domain=streamingcommunity.*
 @@||puui.qpic.cn^
 @@||puzzles-games-api.gp-prod.conde.digital^$domain=newyorker.com
 @@||puzzles-games-api.gp-prod.conde.digital^|
@@ -14175,7 +14171,6 @@
 @@||quicksounds.com^$generichide
 @@||quiz.marquiz.ru^$domain=skillfactory.ru
 @@||quizack.com/assets/img/ads.js
-@@||quizdiva.net^$generichide
 @@||quoteacademy.com^$generichide
 @@||qvc.de/wcsstore/*/content/javascript/gdpr.js
 @@||r-type.org/adverts/adv$image,domain=r-type.org
@@ -16356,7 +16351,6 @@
 @@||streambox*.xyz/cdn/down/$stealth=referrer,domain=ddizi.im
 @@||streambucket.xyz^$stealth=useragent
 @@||streaming-foot.me/js/adblock.js$script
-@@||streamingcommunity.$generichide
 @@||streamingcommunity.*/*.js
 @@||streamlive.to^$generichide
 @@||streamlord.com^$generichide
@@ -16849,7 +16843,6 @@
 @@||thememazing.com^$generichide
 @@||thememypc.net/wp-content/plugins/nervous-pleasure/assets/js/advertisement.min.js
 @@||themeparktourist.com^$generichide
-@@||themes-dl.com^$generichide
 @@||themes.googleusercontent.com/static/fonts/$domain=tweaktown.com
 @@||themeslide.com^$generichide
 @@||themezon.net/link.php$stealth=referrer
@@ -18025,7 +18018,6 @@
 @@||weathercn.com/*/static/js/
 @@||weathercn.com/*current.js
 @@||weathercn.com/*day*.js
-@@||weatherx.co.in^$generichide
 @@||web-ads.pulse.weatherbug.net/api/ads/targeting/$domain=weatherbug.com
 @@||web-ads.pulse.weatherbug.net/api/ads/targeting/v*/parameters?$domain=weatherbug.com
 @@||web-capture.net/ads.js
