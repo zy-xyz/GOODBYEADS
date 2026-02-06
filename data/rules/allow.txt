@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-02-05 20:45:14（北京时间）
+! Version: 2026-02-06 09:25:05（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18747
+! Total count: 18742
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -132,6 +132,7 @@
 @@/300x250.gif$domain=manwa1.vip|manwa2.vip|manwa3.vip|manwa4.vip|manwa5.vip|manwa6.vip|manwa7.vip|manwa8.vip|manwa9.vip|manwa10.vip|manwa.vip|manwa1.site|manwa2.site|manwa3.site|manwa4.site|manwa5.site|manwa6.site|manwa7.site|manwa8.site|manwa9.site|manwa10.site|manwa.site|manwa1.me|manwa2.me|manwa3.me|manwa4.me|manwa5.me|manwa6.me|manwa7.me|manwa8.me|manwa9.me|manwa10.me|manwa.me|mwcomic1.cc|mwcomic2.cc|mwcomic3.cc|mwcomic4.cc|mwcomic5.cc|mwcomic6.cc|mwcomic7.cc|mwcomic8.cc|mwcomic9.cc|mwcomic10.cc|mwcomic.cc|mwcomic1.biz|mwcomic2.biz|mwcomic3.biz|mwcomic4.biz|mwcomic5.biz|mwcomic6.biz|mwcomic7.biz|mwcomic8.biz|mwcomic9.biz|mwcomic10.biz|mwcomic.biz|mwcomic1.xyz|mwcomic2.xyz|mwcomic3.xyz|mwcomic4.xyz|mwcomic5.xyz|mwcomic6.xyz|mwcomic7.xyz|mwcomic8.xyz|mwcomic9.xyz|mwcomic10.xyz|mwcomic.xyz|mwcomic1.top|mwcomic2.top|mwcomic3.top|mwcomic4.top|mwcomic5.top|mwcomic6.top|mwcomic7.top|mwcomic8.top|mwcomic9.top|mwcomic10.top|mwcomic.top|manwa1.xyz|manwa2.xyz|manwa3.xyz|manwa4.xyz|manwa5.xyz|manwa6.xyz|manwa7.xyz|manwa8.xyz|manwa9.xyz|manwa10.xyz|manwa.xyz|mwcomic1.co|mwcomic2.co|mwcomic3.co|mwcomic4.co|mwcomic5.co|mwcomic6.co|mwcomic7.co|mwcomic8.co|mwcomic9.co|mwcomic10.co|mwcomic.co|mwcomic1.online|mwcomic2.online|mwcomic3.online|mwcomic4.online|mwcomic5.online|mwcomic6.online|mwcomic7.online|mwcomic8.online|mwcomic9.online|mwcomic10.online|mwcomic.online|manwafei1.cc|manwafei2.cc|manwafei3.cc|manwafei4.cc|manwafei5.cc|manwafei6.cc|manwafei7.cc|manwafei8.cc|manwafei9.cc|manwafei10.cc|manwafei.cc|manwafei1.com|manwafei2.com|manwafei3.com|manwafei4.com|manwafei5.com|manwafei6.com|manwafei7.com|manwafei8.com|manwafei9.com|manwafei10.com|manwafei.com|manwafei1.xyz|manwafei2.xyz|manwafei3.xyz|manwafei4.xyz|manwafei5.xyz|manwafei6.xyz|manwafei7.xyz|manwafei8.xyz|manwafei9.xyz|manwafei10.xyz|manwafei.xyz|manwafei1.top|manwafei2.top|manwafei3.top|manwafei4.top|manwafei5.top|manwafei6.top|manwafei7.top|manwafei8.top|manwafei9.top|manwafei10.top|manwafei.top|manwafei1.me|manwafei2.me|manwafei3.me|manwafei4.me|manwafei5.me|manwafei6.me|manwafei7.me|manwafei8.me|manwafei9.me|manwafei10.me|manwafei.me|manwafei1.site|manwafei2.site|manwafei3.site|manwafei4.site|manwafei5.site|manwafei6.site|manwafei7.site|manwafei8.site|manwafei9.site|manwafei10.site|manwafei.site|manwafei1.biz|manwafei2.biz|manwafei3.biz|manwafei4.biz|manwafei5.biz|manwafei6.biz|manwafei7.biz|manwafei8.biz|manwafei9.biz|manwafei10.biz|manwafei.biz|manwafei1.online|manwafei2.online|manwafei3.online|manwafei4.online|manwafei5.online|manwafei6.online|manwafei7.online|manwafei8.online|manwafei9.online|manwafei10.online|manwafei.online|manwaq1.vip|manwaq2.vip|manwaq3.vip|manwaq4.vip|manwaq5.vip|manwaq6.vip|manwaq7.vip|manwaq8.vip|manwaq9.vip|manwaq10.vip|manwaq.vip|manwaqq1.vip|manwaqq2.vip|manwaqq3.vip|manwaqq4.vip|manwaqq5.vip|manwaqq6.vip|manwaqq7.vip|manwaqq8.vip|manwaqq9.vip|manwaqq10.vip|manwaqq.vip|manwadb1.xyz|manwadb2.xyz|manwadb3.xyz|manwadb4.xyz|manwadb5.xyz|manwadb6.xyz|manwadb7.xyz|manwadb8.xyz|manwadb9.xyz|manwadb10.xyz|manwadb.xyz
 @@/91xj/js/t.91xj.js
 @@/:\/\/.*[.]wp[.]pl\/[a-z0-9_]+[.][a-z]+[/:&?]?/
+@@/?scode=*&stream=$stealth=referrer
 @@/?url=$subdocument,stealth=referrer,domain=agedm.vip
 @@/?utm_data=*&_=$xmlhttprequest,domain=sterham.net|casthill.net
 @@/?utm_source=*&utm_campaign=$domain=dlsite.com|yandex.kz|yandex.ru|yandex.com|yandex.fr|yandex.tr|yandex.ru|yandex.by|yandex.eu|yandex.net|yandex.uz|yandex.ua
@@ -4825,7 +4826,6 @@
 @@||cloudtime.to/banner.php$script
 @@||cloudvideo.tv/embed-$domain=139.99.120.222
 @@||cloudvideo.tv/embed-$stealth=referrer
-@@||clover-manga.com^$generichide
 @@||club.tgfcer.com^$generichide
 @@||cm-beacon.nakanohito.jp/cm/comment_$xmlhttprequest
 @@||cm-beacon.nakanohito.jp^|
@@ -5020,7 +5020,6 @@
 @@||colorcodedlyrics.com/wp-content/plugins/*/jetpack.css
 @@||colorcodedlyrics.com/wp-content/plugins/*/sharing.min.js
 @@||colorspire.com^$generichide
-@@||comandotorrent.tv^$generichide
 @@||combo.staticflickr.com/zz/*/cookie-banner-view/cookie-banner-view-min.js$domain=flickr.com
 @@||comcast.net^$stealth
 @@||comcastresidentialservices.tt.omtrdc.net/m2/comcastresidentialservices^$domain=xfinity.com
@@ -6254,7 +6253,6 @@
 @@||earnsato.com^$generichide
 @@||easternbank.com/sites/easternbank/files/google_tag/eastern_bank/google_tag.script.js$script,~third-party
 @@||easy-firmware.com/templates/default/html/*/assets/js/fingerprint2.min.js$script,~third-party
-@@||easyexploits.com^$generichide
 @@||easylife.tw/js/adblockDetector.js
 @@||easylife.tw^$generichide
 @@||easypari.fr^*/sitestat.js
@@ -6969,7 +6967,6 @@
 @@||freeride.se/img/admarket/$~third-party
 @@||freeserial-keys.blogspot.com^$generichide
 @@||freeshib.biz^$generichide
-@@||freesoft.id^$generichide
 @@||freesoftpdfdownload.blogspot.com^$generichide
 @@||freesteamkeys.com/ads.js
 @@||freetimelearning.com^$generichide
@@ -7094,6 +7091,7 @@
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=koigaku.machicon.jp
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=ukr.net
 @@||g.doubleclick.net/pagead/ads$subdocument,domain=sudokugame.org
+@@||g.doubleclick.net/pagead/ads?$domain=pvpoke-re.com
 @@||g.doubleclick.net/pagead/ads?$subdocument,xmlhttprequest,domain=pvpoke-re.com
 @@||g.doubleclick.net/pagead/ads?*&description_url=https%3A%2F%2Fgames.wkb.jp$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/pagead/ads?gdpr=$subdocument,domain=decrypt.day
@@ -10241,6 +10239,7 @@
 @@||kf.cn/ad/css/*.*.
 @@||kf.cn/ad/css/*.css
 @@||kf.cn/ad/css/images/
+@@||kfc.com^$stealth=ip
 @@||kfcclub.com.tw/checkout$stealth=webrtc
 @@||kfcclub.com.tw/web/*/ad
 @@||kfcorder.com.tw/web/Script/Analytics.js
@@ -10469,6 +10468,7 @@
 @@||legionscans.com^$generichide
 @@||leisurefire.github.io$elemhide,jsinject
 @@||lemall.com/adspace/
+@@||lematin.ch^$generichide
 @@||lemon.baidu.com^
 @@||lemonde.fr/*/advertisingbanner.js$xmlhttprequest
 @@||lenovo.com/_ui/desktop/common/js/AdobeAnalyticsEvent.js$script,~third-party
@@ -11178,7 +11178,6 @@
 @@||meta.wikimedia.org/wiki^
 @@||metabase.com^$removeparam=utm_term
 @@||metabomb.net^$generichide
-@@||metalnaveia66.com^$generichide
 @@||metamani.blog15.fc2.com^$generichide
 @@||metashare.com/wp-content/plugins/real-cookie-banner-pro/
 @@||metasrc.com/assets/javascripts/ads.js
@@ -13167,6 +13166,7 @@
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_$script,domain=panel.waifly.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=ff14angler.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads*.js$domain=forum.release-apk.com,important,stealth
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl$domain=pvpoke-re.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl$script,domain=pvpoke-re.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_$script,domain=rjno1.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=codingnepalweb.com
@@ -13377,7 +13377,6 @@
 @@||peimg.fr/js/ads.js$script,domain=pubeco.fr
 @@||penducado.com/styles/ads.css
 @@||pengantartidurkuh.blogspot.com^$generichide
-@@||pennbookcenter.com^$generichide
 @@||penta.a.one.impact-ad.jp^$script,domain=www3.nissan.co.jp
 @@||peperonity.net^$generichide
 @@||pepperjamnetwork.com/banners/$image,domain=extrarebates.com
@@ -13875,6 +13874,7 @@
 @@||prod.adspsp.com/adb.2418030m.min.js$domain=medicalnewstoday.com
 @@||prod.fennec.atp.fox/js/fennec.js$domain=freemcserver.net
 @@||prod.impartner.live^|
+@@||prod.kfc-digital.io/api/$stealth=ip
 @@||prod.pandateacher.com/web-fos/app/$xmlhttprequest,elemhide,jsinject,extension
 @@||prod.sfm.geforcenow.nvidiagrid.net^$stealth=3p-auth
 @@||prod.sixthcontinent.com/webapi/getaccesstoken$stealth=ip
@@ -15422,7 +15422,6 @@
 @@||sheinsz.ltwebstatic.com/*/libs/devices/fpv*.js$domain=shein.com
 @@||shemale6.com/player/stats.php$domain=shemale6.com
 @@||shenlongruanjian.com/website/js/fingerprint2.min.js
-@@||shiba.limited^$generichide
 @@||shibukei.com^$generichide
 @@||shieldsgazette.com^$generichide
 @@||shijue.me/advertise/getList?
@@ -17041,7 +17040,6 @@
 @@||torrage.info/torrent.php$popup,third-party
 @@||torrenting.com/js/advertisement*.js
 @@||torrentsafe.com/fingerprint2.min.js
-@@||torrentsmegafilmes.com^$generichide
 @@||torrentz.adclixx.net/mgid/ad.js
 @@||torrentz.adnetasia.com/mgid/ad.js
 @@||torrentz.adtrackers.net/mgid/ad.js
@@ -17456,7 +17454,6 @@
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 @@||union.video.qq.com/fcgi-bin/data?$script
 @@||union2.50bang.org^$third-party
-@@||unionmanga.xyz^$generichide
 @@||uniqlo.com^$jsinject,content
 @@||united.uimserv.net/*tagid$domain=web.de|gmx.net|gmx.at|gmx.ch|gmx.com
 @@||unity3diy.blogspot.com^$generichide
@@ -17825,7 +17822,6 @@
 @@||vipi.tv/ads.js
 @@||vipstatic.com/img/share/blank.png
 @@||viptools.es/assets/ads.js
-@@||viralfeed.xyz^$generichide
 @@||viralogic.xyz^$generichide
 @@||virginmedia.com/etc/designs/lgi-uk-mobile/*/cookie-disclaimer.min.$domain=virginmedia.com
 @@||virginmediatelevision.ie/*/cookienotice.js$script,~third-party
@@ -18670,7 +18666,6 @@
 @@||zappos.com/js/trackingPixel/mercentTracker.js
 @@||zatnawqy.net/intermission/loadTargetUrl$xmlhttprequest
 @@||zbj.com^
-@@||zcteam.id^$generichide
 @@||zdbb.net/edaa^$domain=youronlinechoices.com
 @@||zdbb.net/r/?*&mailing
 @@||zdf.de/zdf/flash/eplayer/player.swf?*/cgi-bin/ivw/
