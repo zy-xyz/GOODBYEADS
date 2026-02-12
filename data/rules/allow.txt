@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-02-11 20:55:24（北京时间）
+! Version: 2026-02-12 09:30:52（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18754
+! Total count: 18746
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -149,7 +149,6 @@
 @@/WebAd/*$domain=yongyoujia.com
 @@/[Ww]eb[Tt]racking/$~subdocument,domain=ups.com
 @@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
-@@/\.(gif|jpg|png|svg).*#.*\/ad\//$image,domain=mizugigurabia.com|aimasummd.blog.fc2.com|newssokuhou666.blog.fc2.com|touhoudougamatome.blog.fc2.com|metamani.blog15.fc2.com|youkaiwatch2345.blog.fc2.com|dokuo666.blog98.fc2.com|mysafe.stisda.ac.id|metamani.blog15.fc2.com|link.technics-goods.info|gfilex.blogspot.com|codare.fun|ads-ti9ni4.blogspot.com|bouamra.blogspot.com|thelibrarydigital.blogspot.com|www-daftarharga.blogspot.com|mediapemersatubangsa.com|love-stoorey210.net|ear-phone-review.com|tienganhedu.com|itdmusics.com|burnbutt.com|valuable.hatenablog.com|leechpremium.net|lib.hatenablog.com|gametter.com|btvsports.my|mini.surveyenquete.net
 @@/\.(gif|jpg|png|svg).*#.*\/ad\//$image,domain=mizugigurabia.com|aimasummd.blog.fc2.com|newssokuhou666.blog.fc2.com|touhoudougamatome.blog.fc2.com|metamani.blog15.fc2.com|youkaiwatch2345.blog.fc2.com|dokuo666.blog98.fc2.com|mysafe.stisda.ac.id|metamani.blog15.fc2.com|link.technics-goods.info|gfilex.blogspot.com|codare.fun|ads-ti9ni4.blogspot.com|thelibrarydigital.blogspot.com|www-daftarharga.blogspot.com|mediapemersatubangsa.com|love-stoorey210.net|ear-phone-review.com|tienganhedu.com|itdmusics.com|burnbutt.com|valuable.hatenablog.com|leechpremium.net|lib.hatenablog.com|gametter.com|mini.surveyenquete.net
 @@/\.(quest|shop|autos)\/.*\./$script,xmlhttprequest,domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*|currentcolorq2dv.*|determinemousecshe.*|publicspeed5c.*|limiteddollqjc.*
 @@/\/[js].?[js]\/.*\.js/$script,xmlhttprequest,domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*|currentcolorq2dv.*|determinemousecshe.*|publicspeed5c.*|limiteddollqjc.*
@@ -1360,6 +1359,7 @@
 @@||adkit.9pub.io/v2$script,domain=9now.nine.com.au
 @@||adligature.com^$domain=listeamed.net|gaystream.click
 @@||adligature.com^$xmlhttprequest,domain=bigbuttshub2.top|bigbuttshubvideos.com
+@@||adligature.com^$xmlhttprequest,domain=bigbuttshub2.top|bigbuttshubvideos.com|go.datapendidikan.com
 @@||adligature.com^|$xmlhttprequest,domain=vinomo.xyz
 @@||adligature.com^|$xmlhttprequest,domain=work.ink
 @@||adm.10jqka.com.cn^
@@ -1833,11 +1833,9 @@
 @@||akoam.net^$generichide
 @@||akoam.ws^$generichide
 @@||aktion-holz.de^$generichide
-@@||aktion-solar.com^$generichide
 @@||aktuality.sk^$generichide
 @@||aktualne.cz/embed_iframe/$csp=child-src *
 @@||aktualne.cz^$subdocument,domain=aktualne.cz
-@@||akw.cam^$generichide
 @@||akw.to^$generichide
 @@||akwam.$generichide
 @@||akwams.$generichide
@@ -2822,7 +2820,6 @@
 @@||avforums.com^$generichide
 @@||avgle.com/embed/$genericblock,generichide
 @@||avgle.com/embed/$stealth=referrer
-@@||avjamack.com^$generichide
 @@||avjamak.net^$generichide
 @@||avmask.com/eroex.js$script
 @@||avpgalaxy.net/advert.js
@@ -3267,7 +3264,6 @@
 @@||bostonglobe.com/login/js/lib/AppMeasurement.js$~third-party
 @@||bostonherald.com^*/webpush.js$script,~third-party
 @@||botprotect.io^$stealth=referrer,domain=robloxscripts.com
-@@||bouamra.blogspot.com^$generichide
 @@||boxberry.ru/tracking.service^
 @@||boxfaucet.com/banner.gif$image
 @@||boxfaucet.net/banner.gif$image
@@ -3346,7 +3342,6 @@
 @@||btt.community/assets/plugins/discourse-fingerprint-
 @@||btv.bg/static/bg/shared/js/admanager/ads.js
 @@||btvsports.lol^$generichide
-@@||btvsports.my^$generichide
 @@||bucket.fitwhey.com/Banners^$domain=fitwhey.com
 @@||budgetthuis.nl/*/label/*/js/cookieBar-*.js
 @@||budgetthuis.nl^*/cookieBar-$script,~third-party
@@ -5681,7 +5676,6 @@
 @@||darkbtc.info/banner.gif$image
 @@||darkino.online^$generichide
 @@||darmowa-bramkasms.pl/ad-server/$script
-@@||darmowa-telewizja.online^$generichide
 @@||dash.hyzen-cloud.com^$generichide
 @@||dashboard.jwplayer.com^$document
 @@||dashboard.mgid.com^$popup
@@ -5953,6 +5947,7 @@
 @@||diymediahome.org/*/adframe.min.js$script,~third-party
 @@||diysideas.com^$generichide
 @@||dizhi99.com^$generichide
+@@||dizifilmevreni.xyz/embed/$stealth=referrer
 @@||dizipal*.com^$generichide
 @@||dizzylab.net^$cookie=_ga
 @@||dizzylab.net^$cookie=_ga_Y1BLF2VWNB
@@ -6139,7 +6134,6 @@
 @@||dpm.zebestof.com/*/tag.js^$domain=journaldunet.com
 @@||dqmsl-search.net^$generichide
 @@||dqzsteel.com/Website/Image/guanggao/
-@@||dr-ios.com^$generichide
 @@||dr-sup.de/_Resources/Static/Packages/$stylesheet,~third-party
 @@||dragoart.com/ads.js$script,~third-party
 @@||dragonfly.opera.com/app/$document
@@ -9814,6 +9808,7 @@
 @@||ingka.com^$stealth=3p-auth,domain=ikea.com
 @@||ingress.com/intel?$document
 @@||injections.adguard.com^$document
+@@||injections.adguard.org^
 @@||inklinkor.com/tag.min.js$domain=aii.sh|oko.sh|tii.la
 @@||inklinkor.com/tag.min.js$domain=linkebr.com
 @@||inklinkor.com/tag.min.js$xmlhttprequest,domain=oei.la|lnbz.la|iir.la
@@ -10972,7 +10967,6 @@
 @@||martech.condenastdigital.com/lib/martech.js$script,domain=wired.com
 @@||martinfowler.com/articles/asyncJS.css$stylesheet,~third-party
 @@||marunouchi.com/_nuxt/CookieBanner.
-@@||mas-13.site^$generichide
 @@||mashtips.com/wp-content/plugins/ad-inserter/*/*.js
 @@||mashtips.com/wp-content/plugins/ad-inserter/images/ads.png
 @@||mashtips.com^$generichide
@@ -12221,7 +12215,6 @@
 @@||osuskins.net^$generichide
 @@||osym.gov.tr^$stealth=dpi
 @@||ot.gr^$generichide
-@@||otakuworldsite.blogspot.com^$generichide
 @@||other-languages.com^$generichide
 @@||otimundo.com^$generichide
 @@||otrs.com/wp-content/plugins/*wp-content/plugins/eu-cookie-law^
@@ -12527,7 +12520,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forum.release-apk.com,stealth,important
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=fox.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebinchecker.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebnbcoin.com|exotictgirl.blogspot.com|bospedia.com|rockmods.net|aiimsneetshortnotes.com|arabseed.onl|miuiku.com|tatangga.com|flash-firmware.blogspot.com|rumahit.id|romfirmware.com|gsmfirmware.net|akwam.*|fc-lc.com|fc.lc|note1s.com|paste1s.com|ipacrack.com|traffic1s.com|adnews.me|ak4eg.*|xn--mgba7fjn.*|akw.to|ak4ar.*|nguyenvanbao.com|ak.sv|akw.cam|indokontraktor.com|shahee4u.cam|batch-kun.com|shahid4u.*|neosatsu.com|shahidd4u.net|shahiid4u.net|shahid-4u.*|shaid4u.day|shahhid4u.cam|shhahid4u.*|sshahid4u.*|sshahid4u.day|sd4u.net|shah4u.*|shah4u.day|shaahed4u.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebnbcoin.com|exotictgirl.blogspot.com|bospedia.com|rockmods.net|aiimsneetshortnotes.com|arabseed.onl|miuiku.com|tatangga.com|flash-firmware.blogspot.com|rumahit.id|romfirmware.com|gsmfirmware.net|akwam.*|fc-lc.com|fc.lc|note1s.com|paste1s.com|ipacrack.com|traffic1s.com|adnews.me|ak4eg.*|xn--mgba7fjn.*|akw.to|ak4ar.*|nguyenvanbao.com|ak.sv|indokontraktor.com|shahee4u.cam|batch-kun.com|shahid4u.*|neosatsu.com|shahidd4u.net|shahiid4u.net|shahid-4u.*|shaid4u.day|shahhid4u.cam|shhahid4u.*|sshahid4u.*|sshahid4u.day|sd4u.net|shah4u.*|shah4u.day|shaahed4u.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freecoursesonline.me
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freeiptvgen.com
@@ -13448,7 +13440,6 @@
 @@||pictogo.net^$stealth=referrer,third-party
 @@||pigol.cn/myinc/js/wap.js
 @@||pikabu.ru/story/*_reklama_
-@@||pikafile.com^$generichide
 @@||pikio.pl^$generichide
 @@||pilet.elron.ee^$extension
 @@||pillsbury.com/Shared/StarterKit/Javascript/UnicaTag.js
@@ -15032,6 +15023,7 @@
 @@||secure.quantserve.com/quant.js$domain=fruitlab.com
 @@||secure.quantserve.com/quant.js$domain=listeamed.net|gaystream.click
 @@||secure.quantserve.com/quant.js$xmlhttprequest,domain=bigbuttshub2.top|bigbuttshubvideos.com
+@@||secure.quantserve.com/quant.js$xmlhttprequest,domain=bigbuttshub2.top|bigbuttshubvideos.com|go.datapendidikan.com
 @@||secure.quantserve.com/|$xmlhttprequest,domain=facciabuco.com
 @@||secure.selfwealth.com.au^$stealth=ip
 @@||securecard.jp/card_input.html$stealth=referrer
@@ -15860,6 +15852,7 @@
 @@||srvtrck.com/assets/css/LineIcons.css$domain=work.ink
 @@||srvtrck.com^$domain=listeamed.net|gaystream.click
 @@||srvtrck.com^$xmlhttprequest,domain=bigbuttshub2.top|bigbuttshubvideos.com
+@@||srvtrck.com^$xmlhttprequest,domain=bigbuttshub2.top|bigbuttshubvideos.com|go.datapendidikan.com
 @@||ss.phncdn.com^$script,domain=redtube.com|redtube.net
 @@||ssai.aniview.com^|
 @@||ssante.com^$generichide
@@ -16732,7 +16725,6 @@
 @@||telegraph.co.uk/template/ver1-0/js/webtrends/live/wtid.js
 @@||telekom.hu/fiokom/api/settings/consent-management/statement-block-groups$xmlhttprequest,domain=telekom.hu
 @@||telemetry.stytch.com/submit$domain=play.pixels.xyz
-@@||telemporio4.blogspot.com^$generichide
 @@||telepisodes.org^$generichide
 @@||telepolis.pl/js/ads_adv_telepolis_skrypt.js
 @@||teleportal.ua/vplayer/?hash=$stealth=referrer
@@ -16948,7 +16940,6 @@
 @@||tiom.pl/static/js/cookieconsent.min.js$~third-party
 @@||tionghoa.info^$generichide
 @@||tipico.de/js/modules/fingerprintjs2/fingerprint2.min.js$script,~third-party
-@@||tipslab.info^$generichide
 @@||tiroalpaloes.net^$generichide
 @@||tiroalpaloweb.xyz^$generichide
 @@||tirumalatirupatiyatra.in^$generichide
@@ -18176,6 +18167,7 @@
 @@||widgets.outbrain.com/outbrain.js$domain=techedubyte.com
 @@||widgets.outbrain.com/outbrain.js$domain=vinomo.xyz
 @@||widgets.outbrain.com/outbrain.js$xmlhttprequest,domain=bigbuttshub2.top|bigbuttshubvideos.com
+@@||widgets.outbrain.com/outbrain.js$xmlhttprequest,domain=bigbuttshub2.top|bigbuttshubvideos.com|go.datapendidikan.com
 @@||widgets.outbrain.com/outbrain.js$xmlhttprequest,domain=work.ink
 @@||widgets.outbrain.com^*/comScore/comScore.htm
 @@||widgets.trustedshops.com/reviews/tsSticker/$domain=koziol-shop.de
