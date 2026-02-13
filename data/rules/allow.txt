@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-02-12 20:53:00（北京时间）
+! Version: 2026-02-13 09:45:11（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18742
+! Total count: 18738
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -3360,7 +3360,6 @@
 @@||burnbutt.com^$generichide
 @@||burzowo.info/*.js?&
 @@||business-credits.cc^$generichide
-@@||business-mortgage.info^$generichide
 @@||business-mortgage.pw^$generichide
 @@||business-standard.com/ad/banner.js
 @@||business.financialpost.com^$generichide
@@ -5444,7 +5443,6 @@
 @@||crackle.com/vendor/AdManager.js$script,~third-party
 @@||crackle.com/vendor/adex.js
 @@||craftaro.com/build/assets/GoogleAd-*.js
-@@||cravesandflames.com^$generichide
 @@||crawlist.net^$generichide
 @@||crazy-factory.com/ajax_box_cookie_banner.php$~third-party
 @@||crazyblog.in^$generichide
@@ -12131,7 +12129,6 @@
 @@||onlinemschool.com^$generichide
 @@||onlineservice.ewr-gmbh.de/ui.components.extended/material/nli-cookie-banner/$script,~third-party
 @@||onlinetermine-agentur.allianz.de^$stealth=referrer
-@@||onlinetutorium.com^$generichide
 @@||onlinetyping.org/detroitchicago/cmbdv2.js
 @@||onlinevideoconverter.com^$generichide
 @@||onlytech.com/community/js/*/AdsenseBlockView.js$domain=onlytech.com
@@ -16374,7 +16371,6 @@
 @@||studioclassroom.com/ad/
 @@||studizba.com^$generichide
 @@||studydhaba.com^$generichide
-@@||sturls.com^$generichide
 @@||stvkr.com/v*/click-$popup,domain=pepper.*
 @@||stwater.co.uk/content/stw/en/homepage/jcr:content/cookie-banner.stw_props.json$domain=stwater.co.uk
 @@||stwater.co.uk^*/cookie-banner.stw_props.json$~third-party
