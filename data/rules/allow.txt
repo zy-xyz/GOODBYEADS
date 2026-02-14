@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-02-13 20:43:16（北京时间）
+! Version: 2026-02-14 09:24:54（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 18740
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -10754,7 +10754,6 @@
 @@||love-stoorey210.net^$generichide
 @@||loveawake.com^$generichide
 @@||lovegardenbirds.co.uk/static/*/Amasty_GdprFrontendUi/
-@@||loverscum.com^$generichide
 @@||lovingsiren.com^$generichide
 @@||lowcygier.pl/wp-content/themes/graphene/js/ads.js$script
 @@||loxtk.com/gLoader.php?GID=$script,third-party
@@ -10963,6 +10962,7 @@
 @@||marketplace.xbox.com^$document
 @@||marquiz.ru^$domain=logiccontact.space
 @@||marriedgames.com.br/wp-content/cache/*/js/advertising-*.js
+@@||martech.condenastdigital.com/lib/martech.js$domain=wired.com
 @@||martech.condenastdigital.com/lib/martech.js$script,domain=wired.com
 @@||martinfowler.com/articles/asyncJS.css$stylesheet,~third-party
 @@||marunouchi.com/_nuxt/CookieBanner.
@@ -11900,7 +11900,6 @@
 @@||nuevos-mu.ucoz.com^$generichide
 @@||nuggad.net^$domain=sportdeutschland.tv
 @@||nuggad.net^$domain=video.sport1.de
-@@||nulledpremium.com^$generichide
 @@||nulledteam.com/js/*/adsservice.js
 @@||nulledteam.com/js/SvgAdblockDetected/advertising.js
 @@||nulledteam.com^$generichide
@@ -12349,7 +12348,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=8wayrun.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=9animes.ru
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=9ketsuki.info|fizyka.org|dayzrp.com|pipocas.tv|classic-retro-games.com|forum.release-apk.com|userupload.in
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=9ketsuki.info|fizyka.org|dayzrp.com|pipocas.tv|classic-retro-games.com|nulledpremium.com|forum.release-apk.com|userupload.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=9sblog.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=abdoutech.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aconvert.com
@@ -12619,6 +12617,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=loudwire.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=loukoala.blogspot.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=love-stoorey210.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lulu0.ovh|vsex.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lumiafirmware.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lustesthd.*|bonsaiprolink.*
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=magdyman.com
@@ -12678,6 +12677,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=oneslidephotography.com|apasih.my.id|financekami.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=onperiscope.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=oromoyo.ai
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ostrow24.tv
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ovabee.com|yourimageshare.com|magicpsd.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=oxygenu.xyz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=paidinsurance.in
@@ -15752,6 +15752,7 @@
 @@||sovrn.com^$domain=3dpchip.com
 @@||sovrn.com^$domain=mens1069.com
 @@||sovrn.com^$domain=technewsrooms.com
+@@||sozcu.com.tr/lib/adsv2_dist/postDetailPageClient_tr.js$script
 @@||sozcu.com.tr^$generichide
 @@||sozcukbul.com^$generichide
 @@||sozi.cn/images/ad/tj
@@ -15962,7 +15963,6 @@
 @@||star-telegram.com^$generichide
 @@||star.c10r.facebook.com^
 @@||star.fallback.c10r.facebook.com^
-@@||starfaucet.net^$generichide
 @@||starfilx.in/wp-content/plugins/wccp-pro/$domain=starfilx.in
 @@||starhotels.com^*/cookiesdisclaimer.js$script
 @@||starlink.com/sst/gtag/js$script,~third-party
