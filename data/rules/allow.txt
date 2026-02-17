@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-02-17 09:28:05（北京时间）
+! Version: 2026-02-17 20:46:24（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18751
+! Total count: 18757
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -2399,6 +2399,7 @@
 @@||api.usercentrics.eu/consent-templates/*$domain=wetter.com
 @@||api.usercentrics.eu/gvl/$domain=kabeleinsdoku.de|kabeleinsdoku.at
 @@||api.usercentrics.eu/gvl/*.json$domain=joyn.de
+@@||api.usercentrics.eu/gvl/*.json$domain=wetter.com
 @@||api.usercentrics.eu/settings*/latest/languages.json$domain=sixx.de|prosiebenmaxx.de|sat1.de|prosieben.de|kabeleins.de|sixx.de|sat1gold.de|ran.de|joyn.de|sat1.at
 @@||api.usercentrics.eu/settings/$domain=dfbplay.tv
 @@||api.usercentrics.eu/settings/$domain=limango.pl
@@ -2939,6 +2940,7 @@
 @@||banner.infoey.com/adbanner.png$domain=phineypet.com
 @@||banners.s1.citilink.ru^$image,domain=citilink.ru
 @@||bannersnack.com/banners/$document,subdocument,domain=adventcards.co.uk|charitychristmascards.org|christmascardpacks.co.uk|kingsmead.com|kingsmeadcards.co.uk|nativitycards.co.uk|printedchristmascards.co.uk
+@@||baode.cc/css/js/tools.js
 @@||baozhang.baidu.com^
 @@||bapi.adsafeprotected.com/bapi?anId=*&auth_token=$domain=entrepreneur.com
 @@||bapi.adsafeprotected.com/dbapi?ias_callback=__IntegralAS_$domain=entrepreneur.com
@@ -3790,12 +3792,15 @@
 @@||cdn.cookie-script.com^$script,xmlhttprequest,domain=hellozdrowie.pl
 @@||cdn.cookiehub.eu/c2/*.$domain=ro.kruk.eu
 @@||cdn.cookielaw.org/$script,xmlhttprequest,domain=crunchyroll.com
+@@||cdn.cookielaw.org/*/otBannerSdk.js$domain=acrobat.adobe.com
+@@||cdn.cookielaw.org/*/otSDKStub.js$domain=acrobat.adobe.com
 @@||cdn.cookielaw.org/*/otSDKStub.js$domain=fortune.com
 @@||cdn.cookielaw.org/consent/$domain=lessentiel.lu
 @@||cdn.cookielaw.org/consent/$domain=nbcolympics.com
 @@||cdn.cookielaw.org/consent/$domain=ryobitools.eu
 @@||cdn.cookielaw.org/consent/$domain=ups.com
 @@||cdn.cookielaw.org/consent/*.json$domain=20min.ch
+@@||cdn.cookielaw.org/consent/*.json$domain=acrobat.adobe.com
 @@||cdn.cookielaw.org/consent/*.json$domain=bostonglobe.com
 @@||cdn.cookielaw.org/consent/*.json$domain=dmax.de
 @@||cdn.cookielaw.org/consent/*.json$domain=ign.com
@@ -6634,6 +6639,7 @@
 @@||facetoshi.live^$generichide
 @@||faculty.uml.edu/klevasseur/ads/
 @@||faculty.uml.edu^$image,stylesheet
+@@||faiusr.com^$image,stealth=referrer
 @@||fakt.pl/*&srcc=ucs$removeparam
 @@||fakt.pl/*?utm_source=$removeparam
 @@||fakt.pl/*srcc=$stealth=referrer
@@ -9539,6 +9545,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ultimedia.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=umterps.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=upns.online|upns.xyz|upns.one|isekaitube.cfd|upns.live|javlion.xyz|hlsfast.com|ultrastream.online|streamcasthub.store|w1tv.xyz|cdnstream.top|javboys.upn.one|coflix.upn.one|animeshqip.uns.bio|rpmvid.com|onion.upns.blog|securecdn.shop|embed4me.com|jhdanime.com|strp2p.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=upns.online|upns.xyz|upns.one|isekaitube.cfd|upns.live|javlion.xyz|hlsfast.com|ultrastream.online|streamcasthub.store|w1tv.xyz|cdnstream.top|javboys.upn.one|coflix.upn.one|animeshqip.uns.bio|rpmvid.com|onion.upns.blog|securecdn.shop|embed4me.com|jhdanime.com|strp2p.com|playeranimewatch.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=uptostream.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.capital.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.corriere.it
@@ -10618,7 +10625,6 @@
 @@||live.primis.tech/live/liveView.php$xmlhttprequest,domain=work.ink
 @@||live.primis.tech/main/js/deflate.min.js$domain=eurogamer.de
 @@||live.primis.tech^$domain=eurogamer.net|gbnews.com|independent.co.uk|klaq.com|loudwire.com|screencrush.com|the-independent.com|vg247.com|xxlmag.com
-@@||live.primis.tech^$script,domain=eurogamer.net|independent.co.uk|klaq.com|loudwire.com|screencrush.com|the-independent.com|vg247.com|xxlmag.com
 @@||live.primis.tech^$xmlhttprequest,domain=xxlmag.com
 @@||live.rezync.com^$script,domain=batteriesplus.com
 @@||live.statscore.com^$stealth=referrer,domain=polsatsport.pl
