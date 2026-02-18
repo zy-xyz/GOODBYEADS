@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-02-17 20:46:24（北京时间）
+! Version: 2026-02-18 09:30:29（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18757
+! Total count: 18753
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -3088,6 +3088,7 @@
 @@||bham.pl/templates/bham_res/js/adsbygoogle.js
 @@||bhaskar.com/adblock/*.js^
 @@||bhavanijewellery.in/ads9.gif$domain=atozmath.com
+@@||bhbikes.b-cdn.net/web/js/cookies-policy.js$domain=bhbikes.com
 @@||bhc.co.kr^$stealth=dpi
 @@||bhg.com/web/js-min/common/js/dwr/RemoteTargetingService.js
 @@||bhookedcrochet.com^$generichide
@@ -9544,7 +9545,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=typingtest.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ultimedia.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=umterps.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=upns.online|upns.xyz|upns.one|isekaitube.cfd|upns.live|javlion.xyz|hlsfast.com|ultrastream.online|streamcasthub.store|w1tv.xyz|cdnstream.top|javboys.upn.one|coflix.upn.one|animeshqip.uns.bio|rpmvid.com|onion.upns.blog|securecdn.shop|embed4me.com|jhdanime.com|strp2p.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=upns.online|upns.xyz|upns.one|isekaitube.cfd|upns.live|javlion.xyz|hlsfast.com|ultrastream.online|streamcasthub.store|w1tv.xyz|cdnstream.top|javboys.upn.one|coflix.upn.one|animeshqip.uns.bio|rpmvid.com|onion.upns.blog|securecdn.shop|embed4me.com|jhdanime.com|strp2p.com|playeranimewatch.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=uptostream.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.capital.it
@@ -12117,6 +12117,7 @@
 @@||onl.bz^
 @@||onli.anime-best.com^$stealth=referrer
 @@||online-archive-extractor.com^$generichide
+@@||online-arzt.gtv-europe.com/js/cookiebanner.js$~third-party
 @@||online-metrix.net/*/check.js$domain=secure.getcreditscore.com.au
 @@||online-metrix.net/*/tags.js$domain=secure.getcreditscore.com.au
 @@||online-metrix.net/*/tags.js$domain=smartsource.com
@@ -12400,7 +12401,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aumaletv.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=av-th.xyz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=avforums.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=avoiderrors.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=axilesoft.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=b2bhint.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=babiato.tech
@@ -13155,7 +13155,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=24sms.net
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=360haven.com
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=autobild.de
-@@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=avoiderrors.com
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=camera.aeonax.com
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=check-plagiarism.com
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=dausel.co
@@ -14385,6 +14384,7 @@
 @@||registro.pse.com.co/PSENF/assets/js/fingerprint.min.js$script,domain=registro.pse.com.co
 @@||reichelt.de/*/cookie_consent.js
 @@||reifenrechner.at^$generichide
+@@||reimg*.org/images/$image,stealth=referrer
 @@||reimg.org/images^$image,stealth=referrer
 @@||rek.www.wp.pl/*.gif$domain=wp.pl
 @@||reklama.studio^$domain=reklama.studio
@@ -15607,11 +15607,6 @@
 @@||smallseo.tools^$generichide
 @@||smallseotools.com^$generichide
 @@||smallseotools.com^$generichide,badfilter
-@@||smart.idmnet.pl/*/smartConfig_*.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl
-@@||smart.idmnet.pl/consent/*.json$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl
-@@||smart.idmnet.pl/consent/cmp-widget-latest.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl
-@@||smart.idmnet.pl/prebidBoilerplate.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl
-@@||smart.idmnet.pl/prebidBoilerplate_tmp.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl
 @@||smartadserver.com/ac?$domain=bildderfrau.de
 @@||smartadserver.com/ac^$domain=deezer.com
 @@||smartadserver.com/ac|$domain=shinden.pl
@@ -16614,6 +16609,7 @@
 @@||talktv.vn/resource/third-party/jwplayer/ads.js$object-subrequest
 @@||tam.cdn-go.cn/aegis-sdk/latest/aegis.min.js$domain=kf.qq.com
 @@||tam.cdn-go.cn/aegis-sdk/latest/aegis.min.js$domain=sm-unsubscribe.intlgame.com
+@@||tambour.co.il/wp-content/plugins/cookie-consent-acf/assets/cookie-consent.js$~third-party
 @@||tamilyogi.vip^$generichide
 @@||tampabay.com/resources/scripts/dfp/adbridg.js
 @@||tangdou.com/sample/share/advert?$domain=tangdoucdn.com
