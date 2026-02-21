@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-02-21 09:23:20（北京时间）
+! Version: 2026-02-21 20:33:52（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18751
+! Total count: 18752
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -4854,7 +4854,7 @@
 @@||cmp-assets.pubtech.ai/vendorList/$xmlhttprequest,domain=ilgiorno.it|ilrestodelcarlino.it|iltelegrafolivorno.it|lanazione.it|quotidiano.net
 @@||cmp-cdn.cookielaw.org^$domain=adshrink.it
 @@||cmp.bonniernews.se/*/loader.js$domain=sydsvenskan.se
-@@||cmp.bonniernews.se/sdk/*/modern/sdk.*.js$domain=sydsvenskan.se
+@@||cmp.bonniernews.se/sdk/$domain=sydsvenskan.se
 @@||cmp.datasign.co^$script,domain=info.yomiuri.co.jp
 @@||cmp.dmgmediaprivacy.co.uk/*/vendor-list.json$domain=gbnews.com
 @@||cmp.dmgmediaprivacy.co.uk/cmp/*/index.js$domain=gbnews.com
@@ -6468,6 +6468,7 @@
 @@||epnt.ebay.com/static/epn-smart-tools.js$xmlhttprequest,domain=theshedend.com
 @@||eporner.com^$~third-party
 @@||epst.hindustantimes.com/Js/_show_Ads.js
+@@||epstore.com/file_includes.php?path=*/pageview.js$script,~third-party
 @@||epubit.com/static/epubit/share/js/share.min.js
 @@||equifaxps.122.2o7.net^
 @@||erai-raws.info^$generichide
