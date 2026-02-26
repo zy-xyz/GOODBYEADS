@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-02-25 20:48:20（北京时间）
+! Version: 2026-02-26 09:26:42（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18768
+! Total count: 18772
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -14462,6 +14462,7 @@
 @@||rexdlfile.com/index.php?id=$stealth=referrer
 @@||rfksrv.com/rfk$domain=spirithalloween.com
 @@||rfksrv.com/rfk/js/*/init.js$script,domain=riteaid.com
+@@||rg-tiles.b-cdn.net^$stealth=referrer
 @@||rgu.ac.uk/media/mod_cookieconsent/js/cookieconsent.js$~third-party
 @@||rhtag.com^$image,subdocument,domain=bitzfree.com
 @@||rhymes-with.com^$generichide
@@ -15196,6 +15197,7 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_108.js^$domain=pocketnow.com
 @@||securepubads.g.doubleclick.net/pagead/$xmlhttprequest,domain=techcyan.com
 @@||securepubads.g.doubleclick.net/pagead/js/adsbygoogle.js$domain=veev.to|doods.to
+@@||securepubads.g.doubleclick.net/pagead/managed/$script,domain=metacritic.com
 @@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/$domain=fifetoday.co.uk
 @@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=abccar.com.tw
 @@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=britannica.com
@@ -15289,6 +15291,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=yorkshirepost.co.uk
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=line.me
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=metacritic.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=talksport.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=heise.de
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=meteoblue.com
@@ -16567,6 +16570,7 @@
 @@||tag.aticdn.net/piano-analytics.js$domain=yourstory.com
 @@||tag.aticdn.net/piano-analytics.js$script,domain=boerzoektvrouw.kro-ncrv.nl
 @@||tag.aticdn.net/piano-analytics.js$script,domain=toureiffel.paris
+@@||tag.aticdn.net^$script,domain=gouv.fr|openservices.enedis.fr|rte.ie|tv5monde.com|uktvplay.co.uk|visaconcierge.eu|yourstory.com
 @@||tag.aticdn.net^$script,domain=gouv.fr|rte.ie|tv5monde.com|uktvplay.co.uk|visaconcierge.eu|yourstory.com
 @@||tag.perfectaudience.com/serve/*.js$domain=asana.com
 @@||tag.search.sensefuel.live/search/$domain=bricomart.es
