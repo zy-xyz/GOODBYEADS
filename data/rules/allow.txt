@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-03-06 09:29:01（北京时间）
+! Version: 2026-03-06 20:40:05（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18817
+! Total count: 18811
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -13,6 +13,7 @@
 @@$stealth=useragent,app=top.rootu.lampa
 @@$subdocument,third-party,stealth=referrer,domain=sport.starsites.fun
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
+@@$subdocument,xmlhttprequest,stealth=referrer|flash,domain=pichive.online
 @@$websocket,domain=xvideos.com
 @@&ad_type=$domain=ultimate-guitar.com
 @@&http_referer=$domain=chaopx.com
@@ -3180,7 +3181,6 @@
 @@||bitcoinfaucet.network^$generichide
 @@||bitcoinker.com^$generichide
 @@||bitcoinpuddle.com/show_ads.js$script
-@@||bitcointrophy.com^$generichide
 @@||bitdefender.com/submit/$stealth
 @@||bitent.com/lock_html5/adPlayer/v*/adPlayer.js
 @@||bitent.com/lock_html5/adscontrol.js$domain=bitent.com
@@ -6292,7 +6292,6 @@
 @@||eapteka.ru/*/personal/$stealth=ip
 @@||ear-phone-review.com^$generichide
 @@||earn4files.com^$generichide
-@@||earnsato.com^$generichide
 @@||easternbank.com/sites/easternbank/files/google_tag/eastern_bank/google_tag.script.js$script,~third-party
 @@||easy-firmware.com/templates/default/html/*/assets/js/fingerprint2.min.js$script,~third-party
 @@||easylife.tw/js/adblockDetector.js
@@ -7163,7 +7162,6 @@
 @@||gainbtc.click^$generichide
 @@||gakushuin.ac.jp/ad/common/$~third-party
 @@||galaxy.gala100.net^$generichide
-@@||galaxycrypto.net^$generichide
 @@||galleries.bz/intermission/loadTargetUrl$xmlhttprequest
 @@||gamaniak.com/js/check_adsense.js$script
 @@||gambar123.com/pic/$image,domain=semprot.com|semprotyuk.com
@@ -8367,6 +8365,7 @@
 @@||googletagmanager.com/gtm.js$domain=nordvpn.com
 @@||googletagmanager.com/gtm.js$domain=northantstelegraph.co.uk
 @@||googletagmanager.com/gtm.js$domain=northwell.edu
+@@||googletagmanager.com/gtm.js$domain=nowtv.com.tr
 @@||googletagmanager.com/gtm.js$domain=nrj-play.fr
 @@||googletagmanager.com/gtm.js$domain=nunnbush.com
 @@||googletagmanager.com/gtm.js$domain=nykaa.com
@@ -8925,7 +8924,6 @@
 @@||herzum.com/node_modules/.vite/deps/react-cookie-consent.js$~third-party
 @@||hes-goal.net^$generichide
 @@||hes-goals.tv^$generichide
-@@||hesgoal.com/advertisement.js
 @@||heute.de/zdf/flash/eplayer/player.swf?*/cgi-bin/ivw/
 @@||heyapakabar.com^$generichide
 @@||heypoorplayer.com/wp-content/plugins/enlightened-mine/assets/js/advertisement.min.js?
@@ -8950,7 +8948,6 @@
 @@||hintertuxergletscher.at/typo3conf/ext/bh/Resources/Public/*/cookie-popup.$domain=hintertuxergletscher.at
 @@||hiperinfo.pl/popup3.js
 @@||hisse.net^$generichide
-@@||hisseyorumlari.com^$generichide
 @@||histock.tw/JScript/AD/
 @@||history.com^$generichide
 @@||history.com^$generichide,badfilter
@@ -10316,7 +10313,6 @@
 @@||kikra.jp.com^$generichide
 @@||kilimall.co.tz/sensorsdata.min.js$~third-party
 @@||kilimall.com*/js/sensorsdata.min.js$script,domain=kilimall.co.ke
-@@||kiminime.com^$generichide
 @@||kincho.co.jp/cm/img/bnr_ad_$image,~third-party
 @@||kinepolis.*/js/smart-app-banner.js$~third-party
 @@||kinescope.io/embed/$stealth=referrer
@@ -10685,7 +10681,6 @@
 @@||liveapi.cleverpush.com/websocket$websocket,domain=heise.de
 @@||livefootball77.blogspot.co.id^$generichide
 @@||livefyre.com/wjs/v1.0/javascripts/CommentCount.js$domain=mlb.com
-@@||livehd7.com^$generichide
 @@||liveindex.org/wp-content/plugins/imedia-basic/*.js
 @@||liveinternet.ru/code$generichide,genericblock,domain=liveinternet.ru
 @@||livejasmin.com/en/promotion/get?noRedirect=*&streamType=$domain=pt.protoawe.com
@@ -11078,7 +11073,6 @@
 @@||mc.yandex.ru/watch/$xmlhttprequest,domain=mtstv.mts.ru
 @@||mc.yandex.ru/webwisor/$domain=metrika.yandex.ru|metrika.yandex.by|metrika.yandex.kz|metrika.yandex.com.tr
 @@||mc.yandex.ru^$domain=planeta.ru
-@@||mcadventuretime.com^$generichide
 @@||mcbar.cn^$generichide
 @@||mcc.xunliandata.com/mci-reward/static/img/ad.
 @@||mccc11.com^$generichide
@@ -11962,11 +11956,11 @@
 @@||nullforums.net/js/*/uvb-tag-ad.js
 @@||nullpress.net^$generichide
 @@||numerama.com/ads.js
-@@||nusantaraproject.my.id^$generichide
 @@||nutrija.com/js/*_backtotop.js$script,~third-party
 @@||nutritiondata.self.com/ads/js/cn.dart.bun.min.js
 @@||nuxt.com/_nuxt/SocialLinks.$script,~third-party
 @@||nv7s.com/key=*/referer=$media,stealth=referrer
+@@||nvidia.*/drivers/results/$stealth=3p-auth
 @@||nvidia.cn^*-300x250-
 @@||nvidia.com/*/drivers/results/$stealth=referrer
 @@||nvidia.custhelp.com^$stealth=referrer
@@ -12122,6 +12116,7 @@
 @@||onceagain.mooo.com/prebid.js$domain=bigbtc.win
 @@||ondemand.sas.com^$subdocument
 @@||onecdn.io/b/client/*/cookie-banner.$domain=myoreflextherapie-heidelberg.de|krmr.it
+@@||onecdn.io/b/client/*/cookie-banner.$domain=paulpadel.com
 @@||onedrive.live.com^$generichide
 @@||onehack.us^$generichide
 @@||oneline.nextday.media^|
@@ -12904,6 +12899,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=twcc.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ufacw.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ujszo.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ukussa.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ultimateclassicrock.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=unityassetpack.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=unityassets4free.com
@@ -13488,6 +13484,7 @@
 @@||picbucks.com/intermission/loadTargetUrl$xmlhttprequest
 @@||piccool.com/2home/phpAdsNew/
 @@||pichive.online^$subdocument,xmlhttprequest,stealth=referrer
+@@||pichive.online^$subdocument,xmlhttprequest,stealth=referrer|flash
 @@||picholes.online/*/*.jpg$xmlhttprequest,stealth=referrer
 @@||picjs.xyz^$stealth=referrer,domain=vikacg.com
 @@||picmix.com/js/fuckadblock.js
@@ -15036,7 +15033,7 @@
 @@||sdk.privacy-center.org^$domain=sudinfo.be
 @@||sdk.privacy-center.org^$domain=tf1.fr
 @@||sdk.privacy-center.org^$domain=vanitatis.elconfidencial.com
-@@||sdk.privacy-center.org^$script,domain=20minutos.es|24sata.hr|abc.es|allocine.fr|as.com|atresplayer.com|aukro.cz|auto.it|autopista.es|beinsports.com|belfasttelegraph.co.uk|bfmtv.com|bonduelle.it|cas.sk|ciclismoafondo.es|cnews.fr|corrieredellosport.it|decathlon.pl|dnevnik.hr|dumpert.nl|dziennikwschodni.pl|dziennikzachodni.pl|ebuyclub.com|edreams.de|edreams.net|elcomercio.es|elconfidencial.com|elespanol.com|eltiempo.es|euronews.com|europe1.fr|filmweb.pl|fip.fr|flair.be|france24.com|franceculture.fr|franceinfo.fr|franceinter.fr|francetvinfo.fr|frandroid.com|funradio.fr|fyndiq.dk|fyndiq.fi|fyndiq.no|fyndiq.se|gamepro.de|gamestar.de|giphy.com|gloswielkopolski.pl|gofeminin.de|goplay.be|gva.be|hablandoenplata.es|hbvl.be|idealista.it|ivoox.com|jeanmarcmorandini.com|jeuxvideo.com|jofogas.hu|kotimikro.fi|krone.at|kurier.at|ladepeche.fr|lalibre.be|lasexta.com|lasprovincias.es|lavanguardia.com|leboncoin.fr|leparisien.fr|lequipe.fr|letelegramme.fr|marca.com|marianne.net|maxjeune-tgvinoui.sncf|mein-mmo.de|melty.fr|metronieuws.nl|mitula.pt|motociclismo.es|mountainbike.es|movilzona.es|mundo-geo.es|mundodeportivo.com|mundogravel.es|na.se|naszemiasto.pl|nicematin.com|nieuwsblad.be|numerama.com|ondacero.es|onmeda.de|opodo.ch|opodo.co.uk|opodo.com|opodo.com.au|opodo.de|opodo.dk|opodo.es|opodo.fi|opodo.fr|opodo.it|opodo.nl|opodo.no|opodo.pl|opodo.se|opto.sic.pt|orpi.com|otempo.pt|podcasts.leparisien.fr|profil.at|publicsenat.fr|rainberrytv.com|recup.paylib.fr|revistaoxigeno.es|rfi.fr|rmcbfmplay.com|rtbf.be|rtl.be|rtl.fr|science-et-vie.com|sensacine.com|serially.it|sfgame.net|sncf-connect.com|softonic.com|softonic.ru|soycorredor.es|sportlife.es|standaard.be|strefabiznesu.pl|telegraaf.nl|theweathernetwork.com|tportal.hr|trailrun.es|triatlonweb.es|tuttosport.com|vecernji.hr|video-streaming.orange.fr|xataka.com
+@@||sdk.privacy-center.org^$script,domain=20minutos.es|24sata.hr|abc.es|allocine.fr|as.com|atresplayer.com|aukro.cz|auto.it|autopista.es|beinsports.com|belfasttelegraph.co.uk|bfmtv.com|bonduelle.it|cas.sk|ciclismoafondo.es|cnews.fr|corrieredellosport.it|decathlon.pl|dnevnik.hr|dumpert.nl|dziennikwschodni.pl|dziennikzachodni.pl|ebuyclub.com|edreams.de|edreams.net|elcomercio.es|elconfidencial.com|elespanol.com|eltiempo.es|euronews.com|europe1.fr|filmweb.pl|fip.fr|flair.be|france24.com|franceculture.fr|franceinfo.fr|franceinter.fr|francetvinfo.fr|frandroid.com|funradio.fr|fyndiq.dk|fyndiq.fi|fyndiq.no|fyndiq.se|gamepro.de|gamestar.de|giphy.com|gloswielkopolski.pl|gofeminin.de|goplay.be|gva.be|hablandoenplata.es|hbvl.be|idealista.it|ivoox.com|jeanmarcmorandini.com|jeuxvideo.com|jofogas.hu|kotimikro.fi|krone.at|kurier.at|ladepeche.fr|lalibre.be|lasexta.com|lasprovincias.es|lavanguardia.com|leboncoin.fr|leparisien.fr|lequipe.fr|letelegramme.fr|marca.com|marianne.net|maxjeune-tgvinoui.sncf|mein-mmo.de|melty.fr|metronieuws.nl|mitula.pt|motociclismo.es|mountainbike.es|movilzona.es|mundo-geo.es|mundodeportivo.com|mundogravel.es|na.se|naszemiasto.pl|nicematin.com|nieuwsblad.be|numerama.com|ondacero.es|onmeda.de|opodo.ch|opodo.co.uk|opodo.com|opodo.com.au|opodo.de|opodo.dk|opodo.es|opodo.fi|opodo.fr|opodo.it|opodo.nl|opodo.no|opodo.pl|opodo.se|opto.sic.pt|orpi.com|otempo.pt|podcasts.leparisien.fr|profil.at|publicsenat.fr|rainberrytv.com|recup.paylib.fr|revistaoxigeno.es|rfi.fr|rmcbfmplay.com|rtbf.be|rtl.be|rtl.fr|science-et-vie.com|sensacine.com|serially.it|sfgame.net|sncf-connect.com|softonic.com|softonic.ru|soycorredor.es|sportlife.es|standaard.be|strefabiznesu.pl|telegraaf.nl|tf1.fr|theweathernetwork.com|tportal.hr|trailrun.es|triatlonweb.es|tuttosport.com|vecernji.hr|video-streaming.orange.fr|xataka.com
 @@||sdk.privacy-center.org^$script,domain=francetvinfo.fr
 @@||sdk.privacy-center.org^$script,domain=frandroid.com
 @@||sdk.privacy-center.org^$script,domain=movilzona.es
@@ -15380,7 +15377,6 @@
 @@||sentireascoltare.com^$generichide
 @@||sentry.ftshp.xyz/api/3/envelope/?sentry_key=$xmlhttprequest,domain=footshop.ro
 @@||seo-fast.ru/js/adv.js
-@@||seosocialnews.info^$generichide
 @@||seosprint.net/style/img/ad-
 @@||seosprint.net/style/img/adv/$domain=seosprint.net
 @@||seoulland.co.kr^$stealth=dpi
@@ -16651,6 +16647,7 @@
 @@||tags.crwdcntrl.net^|
 @@||tags.news.com.au/prod/adblock/adblock.js
 @@||tags.news.com.au/prod/heartbeat/$script
+@@||tags.news.com.au/prod/newskey/generator.html?origin
 @@||tags.stepstone.com/utag/de/prod/utag.js$domain=stepstone.de
 @@||tags.t.tailtarget.com/t3m.js?$domain=superesportes.com.br
 @@||tags.tiqcdn.com/utag/*/utag.sync.js$domain=bankofamerica.com|hsbc.co.uk|samsung.com|sony.jp|visible.com|vmware.com
@@ -17525,7 +17522,6 @@
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 @@||union.video.qq.com/fcgi-bin/data?$script
 @@||union2.50bang.org^$third-party
-@@||uniqlo.com^$jsinject,content
 @@||united.uimserv.net/*tagid$domain=web.de|gmx.net|gmx.at|gmx.ch|gmx.com
 @@||unity3diy.blogspot.com^$generichide
 @@||universeguide.com/abdetect.js
@@ -17881,7 +17877,6 @@
 @@||vidtech.cbsinteractive.com^*/AkamaiAnalytics.swf$domain=kuathletics.com|mutigers.com|okstate.com
 @@||vidtube.pro/embed$subdocument,stealth=referrer
 @@||vieon.vn^$generichide
-@@||vietgamemod.net^$generichide
 @@||vietget.net^$generichide
 @@||viglink.com^$domain=dealsrunner.com
 @@||vijesti.me^$generichide
@@ -18112,7 +18107,6 @@
 @@||web1s.asia^$generichide
 @@||webaksiyon.com/cdn/plugins/advert/advert.js
 @@||webapi.ctfile.com/getfile.php$stealth=referrer,domain=ct.999wan.wang
-@@||webassistance.eu^$generichide
 @@||webassistanceita.com^$generichide
 @@||webaudioapi.com/samples/$stealth=webrtc
 @@||webbtelescope.org/files/live/sites/webb/$image,~third-party
