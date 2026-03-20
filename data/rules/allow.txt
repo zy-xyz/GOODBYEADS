@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-03-19 20:46:46（北京时间）
+! Version: 2026-03-20 09:27:06（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18834
+! Total count: 18831
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -2113,7 +2113,6 @@
 @@||animeland.us/bg.jpg
 @@||animeland.us/pa.js
 @@||animerikosuper.blogspot.com^$generichide
-@@||animesanka.club^$generichide
 @@||animeshouse.net/mp4doo/$stealth=referrer
 @@||animesrbija.com^$generichide
 @@||animetake.tv^$elemhide
@@ -12782,6 +12781,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=populistpress.com|canadafreepress.com|thelibertydaily.com|writerscafe.org|populist.press|welovetrump.com|grammarist.com|protrumpnews.com|gamersheroes.com|letocard.fr|100percentfedup.com|thepalmierireport.com|kresy.pl|beforeitsnews.com|thepatriotjournal.com|phoenixnewtimes.com|thepoke.co.uk|comicallyincorrect.com|thegatewaypundit.com|toptenz.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=porn4f.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=portmiamiwebcam.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=powerleagueprodigy.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pracezdopravy.cz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pradjadj.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=premid.app
@@ -13583,7 +13583,6 @@
 @@||places.nbnco.net.au/places/$stealth=referrer
 @@||pladform.ru/dive/$xmlhttprequest
 @@||pladform.ru/player$subdocument
-@@||planet-streaming1.com^$generichide
 @@||planetazdorovo.ru/pics/transparent_pixel.png$image,~third-party
 @@||plans.humana.com/assets/analytics-events-$script,~third-party
 @@||plantswith.com^$generichide
@@ -16954,7 +16953,6 @@
 @@||thepiratebay.org/static/main.js$script,~third-party
 @@||thepiratebay.org^$subdocument
 @@||thepiratebay.org^$~script,domain=thepiratebay.org
-@@||thepoorcoder.com^$generichide
 @@||theregister.co.uk/*_adtech_
 @@||therichest.com^$generichide
 @@||thesaltysoldier.com^$generichide
@@ -17582,7 +17580,6 @@
 @@||upload.far7net.com^$generichide
 @@||upload.forumfree.net^$stealth=referrer
 @@||upload.wikimedia.org/wikipedia/$image,media
-@@||upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Doramad_Advertisement.jpg
 @@||upload.xchina.io/*.jepg$image,domain=8se.me|crxs.me|xbookcn.org|xchina-cn.com|xchina.*|xchina.blog|xchina.co|xchina.com|xchina.fit|xchina.fun|xchina.ink|xchina.site|xchina.store|xchina.tv|xchina001.com|xchina001.site|xchina002.com|xchina002.comxchina.fun|xchina002.site|xchina003.com|xchina003.site
 @@||upload.xchina.io/*.jpg$image,domain=8se.me|crxs.me|xbookcn.org|xchina-cn.com|xchina.*|xchina.blog|xchina.co|xchina.com|xchina.fit|xchina.fun|xchina.ink|xchina.site|xchina.store|xchina.tv|xchina001.com|xchina001.site|xchina002.com|xchina002.comxchina.fun|xchina002.site|xchina003.com|xchina003.site
 @@||uploadbox.io/js/advertisement.js
