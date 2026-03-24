@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-03-23 20:51:55（北京时间）
+! Version: 2026-03-24 09:25:38（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18833
+! Total count: 18838
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -473,6 +473,7 @@
 @@/prebid-js-$domain=mytvsuper.com|tvb.com|tvbs.com.tw
 @@/prebid.$script,domain=mingpao.com
 @@/prebid.min.js$~third-party,domain=advertape.net|tapepops.com|watchadsontape.com|advertisertape.com|tapeadvertisement.com|adblockplustape.xyz|tapelovesads.org|gettapeads.com|tapeadsenjoyer.com|noblocktape.com|antiadtape.com|tapewithadblock.org|streamadblocker.*|strtape.cloud|adblockeronstape.me|streamadblockplus.com|shavetape.*|adblockstrtape.link|adblockstrtech.link|adblockstreamtape.*|stape.fun|strcloud.link|streamtape.*|streamtape.com
+@@/prebid.min.js$~third-party,domain=tpead.net|advertape.net|tapepops.com|watchadsontape.com|advertisertape.com|tapeadvertisement.com|adblockplustape.xyz|tapelovesads.org|gettapeads.com|tapeadsenjoyer.com|noblocktape.com|antiadtape.com|tapewithadblock.org|streamadblocker.*|strtape.cloud|adblockeronstape.me|streamadblockplus.com|shavetape.*|adblockstrtape.link|adblockstrtech.link|adblockstreamtape.*|stape.fun|strcloud.link|streamtape.*|streamtape.com
 @@/premium*/*.php$subdocument,stealth=referrer,domain=stronstream.shop|sportzlive.shop
 @@/premium*/tracks-*.html$xmlhttprequest,stealth=referrer
 @@/progress.php?callback=$script,domain=ytmp3.cc
@@ -778,7 +779,7 @@
 @@|www3.doubleclick.net^|
 @@||$xmlhttprequest,domain=last.fm
 @@||*.yt2api.com/api/$domain=ytapi.cc,stealth=referrer
-@@||*/abd.js^$domain=sallysbakingaddiction.com|natashaskitchen.com|spendwithpennies.com|tastesbetterfromscratch.com|themediterraneandish.com|thewoksoflife.com|downshiftology.com|onceuponachef.com|halfbakedharvest.com|skinnytaste.com
+@@||*/abd.js^$domain=amybakesbread.com|downshiftology.com|halfbakedharvest.com|krollskorner.com|natashaskitchen.com|onceuponachef.com|sallysbakingaddiction.com|simply-delicious-food.com|skinnytaste.com|spendwithpennies.com|tastesbetterfromscratch.com|themediterraneandish.com|thewoksoflife.com|titlecaseconverter.com|whec.com
 @@||*/assets/js/common/juqery/
 @@||*hubst.guru/uploads/$stealth=referrer
 @@||*mh.online/*.webp$stealth=referrer
@@ -1628,6 +1629,7 @@
 @@||adscale.de/getads.js$image,domain=dasolo.org
 @@||adscendmedia.com/gwjs.php?aff=$script,third-party
 @@||adsco.re/p$domain=shorterall.com
+@@||adsco.re/p$script,domain=fc-lc.xyz
 @@||adsco.re^$domain=shinden.pl
 @@||adsdk.microsoft.com/ast/ast.js$script,domain=prisjakt.no
 @@||adsense.woso.cn^$~3p
@@ -3413,6 +3415,7 @@
 @@||c.ad6media.fr/l.js$domain=fan-de-cinema.com
 @@||c.ad6media.fr/l.js$domain=scan-manga.com
 @@||c.ad6media.fr/l.js$script,domain=fit.sh
+@@||c.adsco.re$script,domain=fc-lc.xyz
 @@||c.adsco.re/|$domain=adshnk.com
 @@||c.adsco.re/|$script,domain=hotfrog.*
 @@||c.adsco.re^$domain=shorterall.com
@@ -10526,6 +10529,7 @@
 @@||learn.inesdi.com/webapps/privacy-disclosure/js/cookieconsent.js$~third-party
 @@||learn.khanacademy.org^|
 @@||learn.microsoft.com/video/media/*_960.jpg|$image,domain=learn.microsoft.com
+@@||learner.mycreds.ca/assets/*/cookiesConsent.json$xmlhttprequest
 @@||learner.mycreds.ca/assets/js/services/cookiesConsent.min.js$~third-party
 @@||learner.mycreds.ca/r/assets/*/cookiesConsent.json$~third-party
 @@||learnmania.org/js/*.js?_v=$script,~third-party
@@ -15083,6 +15087,7 @@
 @@||sealserver.trustwave.com/seal.js$domain=zoom.us
 @@||seamanmemories.com^$generichide
 @@||search-module.s3.us-east-2.amazonaws.com/pubs/trib/adblockdetect.js
+@@||search-myfonts-api.monotype.com^$stealth=referrer
 @@||search.brave.com/search$xmlhttprequest
 @@||search.powergap.de/indexes/$stealth=3p-auth
 @@||search.spotxchange.com/vmap/*&content_page_url=www.bsfuji.tv$xmlhttprequest,domain=imasdk.googleapis.com
