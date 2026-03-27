@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-03-27 09:49:51（北京时间）
+! Version: 2026-03-27 20:48:07（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18852
+! Total count: 18854
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -432,6 +432,7 @@
 @@/js/wap.js$domain=23ddw.app|23ddw.cc|23ddw.cn|23ddw.co|23ddw.com|23ddw.info|23ddw.la|23ddw.me|23ddw.net|23ddw.org|23ddw.so|23ddw.tw|23ddw.us|3yt.app|3yt.cc|3yt.cn|3yt.co|3yt.com|3yt.info|3yt.la|3yt.me|3yt.net|3yt.org|3yt.so|3yt.tw|3yt.us|81zw.app|81zw.cc|81zw.cn|81zw.co|81zw.com|81zw.info|81zw.la|81zw.me|81zw.net|81zw.org|81zw.so|81zw.tw|81zw.us|88106.app|88106.cc|88106.cn|88106.co|88106.com|88106.info|88106.la|88106.me|88106.net|88106.org|88106.so|88106.tw|88106.us|99xs.app|99xs.cc|99xs.cn|99xs.co|99xs.com|99xs.info|99xs.la|99xs.me|99xs.net|99xs.org|99xs.so|99xs.tw|99xs.us|biqivge.app|biqivge.cc|biqivge.cn|biqivge.co|biqivge.com|biqivge.info|biqivge.la|biqivge.me|biqivge.net|biqivge.org|biqivge.so|biqivge.tw|biqivge.us|biquge.app|biquge.cc|biquge.cn|biquge.co|biquge.com|biquge.info|biquge.la|biquge.me|biquge.net|biquge.org|biquge.so|biquge.tw|biquge.us|biqugecd.app|biqugecd.cc|biqugecd.cn|biqugecd.co|biqugecd.com|biqugecd.info|biqugecd.la|biqugecd.me|biqugecd.net|biqugecd.org|biqugecd.so|biqugecd.tw|biqugecd.us|biqugu.app|biqugu.cc|biqugu.cn|biqugu.co|biqugu.com|biqugu.info|biqugu.la|biqugu.me|biqugu.net|biqugu.org|biqugu.so|biqugu.tw|biqugu.us|biqukai.app|biqukai.cc|biqukai.cn|biqukai.co|biqukai.com|biqukai.info|biqukai.la|biqukai.me|biqukai.net|biqukai.org|biqukai.so|biqukai.tw|biqukai.us|biquuge.app|biquuge.cc|biquuge.cn|biquuge.co|biquuge.com|biquuge.info|biquuge.la|biquuge.me|biquuge.net|biquuge.org|biquuge.so|biquuge.tw|biquuge.us|bookpao.app|bookpao.cc|bookpao.cn|bookpao.co|bookpao.com|bookpao.info|bookpao.la|bookpao.me|bookpao.net|bookpao.org|bookpao.so|bookpao.tw|bookpao.us|bqduo.app|bqduo.cc|bqduo.cn|bqduo.co|bqduo.com|bqduo.info|bqduo.la|bqduo.me|bqduo.net|bqduo.org|bqduo.so|bqduo.tw|bqduo.us|ddbqglxt.app|ddbqglxt.cc|ddbqglxt.cn|ddbqglxt.co|ddbqglxt.com|ddbqglxt.info|ddbqglxt.la|ddbqglxt.me|ddbqglxt.net|ddbqglxt.org|ddbqglxt.so|ddbqglxt.tw|ddbqglxt.us|dingdian.app|dingdian.cc|dingdian.cn|dingdian.co|dingdian.com|dingdian.info|dingdian.la|dingdian.me|dingdian.net|dingdian.org|dingdian.so|dingdian.tw|dingdian.us|doupocangqiong.app|doupocangqiong.cc|doupocangqiong.cn|doupocangqiong.co|doupocangqiong.com|doupocangqiong.info|doupocangqiong.la|doupocangqiong.me|doupocangqiong.net|doupocangqiong.org|doupocangqiong.so|doupocangqiong.tw|doupocangqiong.us|gzfzzw.app|gzfzzw.cc|gzfzzw.cn|gzfzzw.co|gzfzzw.com|gzfzzw.info|gzfzzw.la|gzfzzw.me|gzfzzw.net|gzfzzw.org|gzfzzw.so|gzfzzw.tw|gzfzzw.us|huojixs.app|huojixs.cc|huojixs.cn|huojixs.co|huojixs.com|huojixs.info|huojixs.la|huojixs.me|huojixs.net|huojixs.org|huojixs.so|huojixs.tw|huojixs.us|ibiquta.app|ibiquta.cc|ibiquta.cn|ibiquta.co|ibiquta.com|ibiquta.info|ibiquta.la|ibiquta.me|ibiquta.net|ibiquta.org|ibiquta.so|ibiquta.tw|ibiquta.us|kbookzw.app|kbookzw.cc|kbookzw.cn|kbookzw.co|kbookzw.com|kbookzw.info|kbookzw.la|kbookzw.me|kbookzw.net|kbookzw.org|kbookzw.so|kbookzw.tw|kbookzw.us|kudushu.app|kudushu.cc|kudushu.cn|kudushu.co|kudushu.com|kudushu.info|kudushu.la|kudushu.me|kudushu.net|kudushu.org|kudushu.so|kudushu.tw|kudushu.us|liudatxt.app|liudatxt.cc|liudatxt.cn|liudatxt.co|liudatxt.com|liudatxt.info|liudatxt.la|liudatxt.me|liudatxt.net|liudatxt.org|liudatxt.so|liudatxt.tw|liudatxt.us|luoqiu.app|luoqiu.cc|luoqiu.cn|luoqiu.co|luoqiu.com|luoqiu.info|luoqiu.la|luoqiu.me|luoqiu.net|luoqiu.org|luoqiu.so|luoqiu.tw|luoqiu.us|maxshuku.app|maxshuku.cc|maxshuku.cn|maxshuku.co|maxshuku.com|maxshuku.info|maxshuku.la|maxshuku.me|maxshuku.net|maxshuku.org|maxshuku.so|maxshuku.tw|maxshuku.us|mhtxs.app|mhtxs.cc|mhtxs.cn|mhtxs.co|mhtxs.com|mhtxs.info|mhtxs.la|mhtxs.me|mhtxs.net|mhtxs.org|mhtxs.so|mhtxs.tw|mhtxs.us|pksge.app|pksge.cc|pksge.cn|pksge.co|pksge.com|pksge.info|pksge.la|pksge.me|pksge.net|pksge.org|pksge.so|pksge.tw|pksge.us|qishuta.app|qishuta.cc|qishuta.cn|qishuta.co|qishuta.com|qishuta.info|qishuta.la|qishuta.me|qishuta.net|qishuta.org|qishuta.so|qishuta.tw|qishuta.us|shukuge.app|shukuge.cc|shukuge.cn|shukuge.co|shukuge.com|shukuge.info|shukuge.la|shukuge.me|shukuge.net|shukuge.org|shukuge.so|shukuge.tw|shukuge.us|stxsw.app|stxsw.cc|stxsw.cn|stxsw.co|stxsw.com|stxsw.info|stxsw.la|stxsw.me|stxsw.net|stxsw.org|stxsw.so|stxsw.tw|stxsw.us|tangsanshu.app|tangsanshu.cc|tangsanshu.cn|tangsanshu.co|tangsanshu.com|tangsanshu.info|tangsanshu.la|tangsanshu.me|tangsanshu.net|tangsanshu.org|tangsanshu.so|tangsanshu.tw|tangsanshu.us|wxshuku.app|wxshuku.cc|wxshuku.cn|wxshuku.co|wxshuku.com|wxshuku.info|wxshuku.la|wxshuku.me|wxshuku.net|wxshuku.org|wxshuku.so|wxshuku.tw|wxshuku.us|xbiqugu.app|xbiqugu.cc|xbiqugu.cn|xbiqugu.co|xbiqugu.com|xbiqugu.info|xbiqugu.la|xbiqugu.me|xbiqugu.net|xbiqugu.org|xbiqugu.so|xbiqugu.tw|xbiqugu.us|xs5300.app|xs5300.cc|xs5300.cn|xs5300.co|xs5300.com|xs5300.info|xs5300.la|xs5300.me|xs5300.net|xs5300.org|xs5300.so|xs5300.tw|xs5300.us|xszww2.app|xszww2.cc|xszww2.cn|xszww2.co|xszww2.com|xszww2.info|xszww2.la|xszww2.me|xszww2.net|xszww2.org|xszww2.so|xszww2.tw|xszww2.us|xwbxsw1.app|xwbxsw1.cc|xwbxsw1.cn|xwbxsw1.co|xwbxsw1.com|xwbxsw1.info|xwbxsw1.la|xwbxsw1.me|xwbxsw1.net|xwbxsw1.org|xwbxsw1.so|xwbxsw1.tw|xwbxsw1.us|yetianlian.app|yetianlian.cc|yetianlian.cn|yetianlian.co|yetianlian.com|yetianlian.info|yetianlian.la|yetianlian.me|yetianlian.net|yetianlian.org|yetianlian.so|yetianlian.tw|yetianlian.us|ygshu.app|ygshu.cc|ygshu.cn|ygshu.co|ygshu.com|ygshu.info|ygshu.la|ygshu.me|ygshu.net|ygshu.org|ygshu.so|ygshu.tw|ygshu.us|yunxs.app|yunxs.cc|yunxs.cn|yunxs.co|yunxs.com|yunxs.info|yunxs.la|yunxs.me|yunxs.net|yunxs.org|yunxs.so|yunxs.tw|yunxs.us
 @@/js/wp-banners.js$domain=articlerewritertool.com|spinbot.com|free-article-spinner.com
 @@/kcarting-tally?&random=$domain=coveryourtracks.eff.org
+@@/key=*referer*.mp4$stealth=referrer,domain=01tube.com|inporn.com|porn-latina.com|lesbigo.com|xjav.tube|vr-porn.tube|porntop.com|fuxxx.com
 @@/key=*referer*videos*.mp4$stealth=referrer,domain=01tube.com|inporn.com|porn-latina.com|lesbigo.com|xjav.tube|vr-porn.tube
 @@/layui.js$domain=23ddw.app|23ddw.cc|23ddw.cn|23ddw.co|23ddw.com|23ddw.info|23ddw.la|23ddw.me|23ddw.net|23ddw.org|23ddw.so|23ddw.tw|23ddw.us|3yt.app|3yt.cc|3yt.cn|3yt.co|3yt.com|3yt.info|3yt.la|3yt.me|3yt.net|3yt.org|3yt.so|3yt.tw|3yt.us|81zw.app|81zw.cc|81zw.cn|81zw.co|81zw.com|81zw.info|81zw.la|81zw.me|81zw.net|81zw.org|81zw.so|81zw.tw|81zw.us|88106.app|88106.cc|88106.cn|88106.co|88106.com|88106.info|88106.la|88106.me|88106.net|88106.org|88106.so|88106.tw|88106.us|99xs.app|99xs.cc|99xs.cn|99xs.co|99xs.com|99xs.info|99xs.la|99xs.me|99xs.net|99xs.org|99xs.so|99xs.tw|99xs.us|biqivge.app|biqivge.cc|biqivge.cn|biqivge.co|biqivge.com|biqivge.info|biqivge.la|biqivge.me|biqivge.net|biqivge.org|biqivge.so|biqivge.tw|biqivge.us|biquge.app|biquge.cc|biquge.cn|biquge.co|biquge.com|biquge.info|biquge.la|biquge.me|biquge.net|biquge.org|biquge.so|biquge.tw|biquge.us|biqugecd.app|biqugecd.cc|biqugecd.cn|biqugecd.co|biqugecd.com|biqugecd.info|biqugecd.la|biqugecd.me|biqugecd.net|biqugecd.org|biqugecd.so|biqugecd.tw|biqugecd.us|biqugu.app|biqugu.cc|biqugu.cn|biqugu.co|biqugu.com|biqugu.info|biqugu.la|biqugu.me|biqugu.net|biqugu.org|biqugu.so|biqugu.tw|biqugu.us|biqukai.app|biqukai.cc|biqukai.cn|biqukai.co|biqukai.com|biqukai.info|biqukai.la|biqukai.me|biqukai.net|biqukai.org|biqukai.so|biqukai.tw|biqukai.us|biquuge.app|biquuge.cc|biquuge.cn|biquuge.co|biquuge.com|biquuge.info|biquuge.la|biquuge.me|biquuge.net|biquuge.org|biquuge.so|biquuge.tw|biquuge.us|bookpao.app|bookpao.cc|bookpao.cn|bookpao.co|bookpao.com|bookpao.info|bookpao.la|bookpao.me|bookpao.net|bookpao.org|bookpao.so|bookpao.tw|bookpao.us|bqduo.app|bqduo.cc|bqduo.cn|bqduo.co|bqduo.com|bqduo.info|bqduo.la|bqduo.me|bqduo.net|bqduo.org|bqduo.so|bqduo.tw|bqduo.us|ddbqglxt.app|ddbqglxt.cc|ddbqglxt.cn|ddbqglxt.co|ddbqglxt.com|ddbqglxt.info|ddbqglxt.la|ddbqglxt.me|ddbqglxt.net|ddbqglxt.org|ddbqglxt.so|ddbqglxt.tw|ddbqglxt.us|dingdian.app|dingdian.cc|dingdian.cn|dingdian.co|dingdian.com|dingdian.info|dingdian.la|dingdian.me|dingdian.net|dingdian.org|dingdian.so|dingdian.tw|dingdian.us|doupocangqiong.app|doupocangqiong.cc|doupocangqiong.cn|doupocangqiong.co|doupocangqiong.com|doupocangqiong.info|doupocangqiong.la|doupocangqiong.me|doupocangqiong.net|doupocangqiong.org|doupocangqiong.so|doupocangqiong.tw|doupocangqiong.us|gzfzzw.app|gzfzzw.cc|gzfzzw.cn|gzfzzw.co|gzfzzw.com|gzfzzw.info|gzfzzw.la|gzfzzw.me|gzfzzw.net|gzfzzw.org|gzfzzw.so|gzfzzw.tw|gzfzzw.us|huojixs.app|huojixs.cc|huojixs.cn|huojixs.co|huojixs.com|huojixs.info|huojixs.la|huojixs.me|huojixs.net|huojixs.org|huojixs.so|huojixs.tw|huojixs.us|ibiquta.app|ibiquta.cc|ibiquta.cn|ibiquta.co|ibiquta.com|ibiquta.info|ibiquta.la|ibiquta.me|ibiquta.net|ibiquta.org|ibiquta.so|ibiquta.tw|ibiquta.us|kbookzw.app|kbookzw.cc|kbookzw.cn|kbookzw.co|kbookzw.com|kbookzw.info|kbookzw.la|kbookzw.me|kbookzw.net|kbookzw.org|kbookzw.so|kbookzw.tw|kbookzw.us|kudushu.app|kudushu.cc|kudushu.cn|kudushu.co|kudushu.com|kudushu.info|kudushu.la|kudushu.me|kudushu.net|kudushu.org|kudushu.so|kudushu.tw|kudushu.us|liudatxt.app|liudatxt.cc|liudatxt.cn|liudatxt.co|liudatxt.com|liudatxt.info|liudatxt.la|liudatxt.me|liudatxt.net|liudatxt.org|liudatxt.so|liudatxt.tw|liudatxt.us|luoqiu.app|luoqiu.cc|luoqiu.cn|luoqiu.co|luoqiu.com|luoqiu.info|luoqiu.la|luoqiu.me|luoqiu.net|luoqiu.org|luoqiu.so|luoqiu.tw|luoqiu.us|maxshuku.app|maxshuku.cc|maxshuku.cn|maxshuku.co|maxshuku.com|maxshuku.info|maxshuku.la|maxshuku.me|maxshuku.net|maxshuku.org|maxshuku.so|maxshuku.tw|maxshuku.us|mhtxs.app|mhtxs.cc|mhtxs.cn|mhtxs.co|mhtxs.com|mhtxs.info|mhtxs.la|mhtxs.me|mhtxs.net|mhtxs.org|mhtxs.so|mhtxs.tw|mhtxs.us|pksge.app|pksge.cc|pksge.cn|pksge.co|pksge.com|pksge.info|pksge.la|pksge.me|pksge.net|pksge.org|pksge.so|pksge.tw|pksge.us|qishuta.app|qishuta.cc|qishuta.cn|qishuta.co|qishuta.com|qishuta.info|qishuta.la|qishuta.me|qishuta.net|qishuta.org|qishuta.so|qishuta.tw|qishuta.us|shukuge.app|shukuge.cc|shukuge.cn|shukuge.co|shukuge.com|shukuge.info|shukuge.la|shukuge.me|shukuge.net|shukuge.org|shukuge.so|shukuge.tw|shukuge.us|stxsw.app|stxsw.cc|stxsw.cn|stxsw.co|stxsw.com|stxsw.info|stxsw.la|stxsw.me|stxsw.net|stxsw.org|stxsw.so|stxsw.tw|stxsw.us|tangsanshu.app|tangsanshu.cc|tangsanshu.cn|tangsanshu.co|tangsanshu.com|tangsanshu.info|tangsanshu.la|tangsanshu.me|tangsanshu.net|tangsanshu.org|tangsanshu.so|tangsanshu.tw|tangsanshu.us|wxshuku.app|wxshuku.cc|wxshuku.cn|wxshuku.co|wxshuku.com|wxshuku.info|wxshuku.la|wxshuku.me|wxshuku.net|wxshuku.org|wxshuku.so|wxshuku.tw|wxshuku.us|xbiqugu.app|xbiqugu.cc|xbiqugu.cn|xbiqugu.co|xbiqugu.com|xbiqugu.info|xbiqugu.la|xbiqugu.me|xbiqugu.net|xbiqugu.org|xbiqugu.so|xbiqugu.tw|xbiqugu.us|xs5300.app|xs5300.cc|xs5300.cn|xs5300.co|xs5300.com|xs5300.info|xs5300.la|xs5300.me|xs5300.net|xs5300.org|xs5300.so|xs5300.tw|xs5300.us|xszww2.app|xszww2.cc|xszww2.cn|xszww2.co|xszww2.com|xszww2.info|xszww2.la|xszww2.me|xszww2.net|xszww2.org|xszww2.so|xszww2.tw|xszww2.us|xwbxsw1.app|xwbxsw1.cc|xwbxsw1.cn|xwbxsw1.co|xwbxsw1.com|xwbxsw1.info|xwbxsw1.la|xwbxsw1.me|xwbxsw1.net|xwbxsw1.org|xwbxsw1.so|xwbxsw1.tw|xwbxsw1.us|yetianlian.app|yetianlian.cc|yetianlian.cn|yetianlian.co|yetianlian.com|yetianlian.info|yetianlian.la|yetianlian.me|yetianlian.net|yetianlian.org|yetianlian.so|yetianlian.tw|yetianlian.us|ygshu.app|ygshu.cc|ygshu.cn|ygshu.co|ygshu.com|ygshu.info|ygshu.la|ygshu.me|ygshu.net|ygshu.org|ygshu.so|ygshu.tw|ygshu.us|yunxs.app|yunxs.cc|yunxs.cn|yunxs.co|yunxs.com|yunxs.info|yunxs.la|yunxs.me|yunxs.net|yunxs.org|yunxs.so|yunxs.tw|yunxs.us
 @@/libs/advertisement.js$domain=getfree.co.in|bagi.co.in|aztecafaucet.space|multifaucet.org|dogestar.website|claimbits.io|i-bits.io|gobits.io|faucet.shorterall.com|simplyfaucet.xyz|tv3.lv
@@ -4121,7 +4122,6 @@
 @@||cdn.jsdelivr.net/npm/videojs-contrib-ads/dist/videojs.ads.min.js$domain=yandexcdn.com
 @@||cdn.jsdelivr.net^$script,domain=35xss.com
 @@||cdn.jsdelivr.net^$script,domain=movieffm.net
-@@||cdn.jsdelivr.net^$script,domain=movieffm.net|yemancomic.com
 @@||cdn.jsdelivr.net^*/cookie-consent.js$domain=fluentify.com|notdiamond.ai|webtic.it
 @@||cdn.jsdelivr.net^*/cookieconsent.min.js$domain=electrobueno.com|papekenworth.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
@@ -5263,14 +5263,14 @@
 @@||consent.trustarc.com/asset/notice.js$domain=philips.de
 @@||consent.trustarc.com/asset/notice.js$domain=weather.com
 @@||consent.trustarc.com/asset/notice.js/$domain=concur.de
-@@||consent.trustarc.com/asset/notice.js/$domain=elmex.pl|colgate.pl|meridol.pl|hillspet.pl
+@@||consent.trustarc.com/asset/notice.js/$domain=elmex.pl|colgate.pl|meridol.pl|hillspet.pl|delonghi.com
 @@||consent.trustarc.com/asset/notice.js/$domain=philips-hue.com
 @@||consent.trustarc.com/get$domain=fortune.com
 @@||consent.trustarc.com/get$domain=philips-hue.com
 @@||consent.trustarc.com/iab/$domain=fortune.com
 @@||consent.trustarc.com/notice$domain=concur.de
 @@||consent.trustarc.com/notice$domain=concursolutions.com
-@@||consent.trustarc.com/notice$domain=elmex.pl|colgate.pl|meridol.pl|hillspet.pl
+@@||consent.trustarc.com/notice$domain=elmex.pl|colgate.pl|meridol.pl|hillspet.pl|delonghi.com
 @@||consent.trustarc.com/notice$domain=formula1.com
 @@||consent.trustarc.com/notice$domain=fortune.com
 @@||consent.trustarc.com/notice$domain=philips.de
@@ -7075,6 +7075,7 @@
 @@||ftp.bmp.ovh^
 @@||ftuapps.dev^$generichide
 @@||ftuapps.io^$generichide
+@@||fu-cdn.com/key=$stealth=referrer
 @@||fuckadblock.sitexw.fr/beta/fuckadblock.js$domain=fuckadblock.sitexw.fr
 @@||fuckadblock.sitexw.fr^$generichide
 @@||fullanimes.net/ad_banner.js
@@ -10684,6 +10685,7 @@
 @@||liulanmi.com/wp-content/uploads/*/StatCounter-
 @@||liumingye.cn^$generichide
 @@||live-buyback-order-api.live-api.recommerce.cloud/product?$stealth=3p-auth
+@@||live-video.net^$stealth=3p-auth
 @@||live.b8b8.tv/watch/js/adview*.js$script,~third-party
 @@||live.indiatimes.com/trackjs.cms
 @@||live.lequipe.fr/thirdparty/prebid.js$~third-party
@@ -11433,7 +11435,6 @@
 @@||mmacore.tv^$generichide
 @@||mmcref.pl/?$removeparam=utm_medium
 @@||mmee04.com^$generichide
-@@||mmff30.com^$generichide
 @@||mmgd.xyz^$generichide
 @@||mmm.dk^$elemhide
 @@||mmo-population.com^$generichide
@@ -11583,6 +11584,7 @@
 @@||msmxtended.org^$generichide
 @@||msn.com/advertisement.ad.js
 @@||msn.com/c.gif?rid=$image,domain=my.msn.com
+@@||msn.com^$app=msedgewebview2.exe,removeparam=ocid
 @@||msn.wrating.com/a1.js
 @@||msn.wrating.com^
 @@||mssl.fwmrm.net/*/AdManager.js?$domain=nhl.com|dtmts.com
@@ -14627,7 +14629,6 @@
 @@||rudaw.net/images/pixel.gif$~third-party
 @@||rule34hentai.net/cdn-cgi/challenge-platform/orchestrate/$domain=rule34hentai.net
 @@||rule34hentai.net/fluidplayer.min.js$domain=rule34hentai.net
-@@||rule34hentai.net^$generichide
 @@||rulesofcheaters.net^$generichide
 @@||rulu.co/*.php$generichide
 @@||rulu.co^$generichide
@@ -16520,7 +16521,6 @@
 @@||super-ethanol.com^$generichide
 @@||supercachecdn.com/play/$media,stealth=referrer,domain=pornmedium.com
 @@||supercloudsms.com^*/a_d
-@@||supercloudsms.com^*/ad
 @@||superpsx.com^$generichide
 @@||superrichthailand.com/cookie-policy/cookie-policy.js
 @@||superrichthailand.com/privacy-policy/privacy-policy.js
@@ -17998,6 +17998,8 @@
 @@||vodakpsdhdsdrm-vh.akamaihd.net/z/clips/$stealth=3p-cookie
 @@||voelkner.de/min/?b=themes/voelkner/css/*/cookie_consent.css$domain=voelkner.de
 @@||voipsipclient.blogspot.nl^$generichide
+@@||volces.com/*^upload$stealth=3p-auth
+@@||volces.com/*^upload$stealth=3p-cache
 @@||voldffgkdsllkjthlkjt.b-cdn.net/ads/ads.js
 @@||volvo-club.cz^$generichide
 @@||vox-xov-cdn-*.$xmlhttprequest,stealth=referrer,domain=nepu.to
