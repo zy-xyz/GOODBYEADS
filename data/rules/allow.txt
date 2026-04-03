@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-04-03 09:49:01（北京时间）
+! Version: 2026-04-03 20:47:42（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18872
+! Total count: 18878
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -2000,7 +2000,7 @@
 @@||amigosmuseoreinasofia.org/assets/js/cookiecuttr/jquery.cookie.js
 @@||aminhaconta.xl.pt/Campaigns/Blockers/ads.html$subdocument,document=record.xl.pt
 @@||amplitude.com/libs/$script,domain=b2c.voegol.com.br|elconfidencial.com|kink.com|pdfexpert.com|xe.com
-@@||ampproject.org^*/amp-consent-$domain=9to5google.com|9to5mac.com|amp-lasexta-com.cdn.ampproject.org|connectthewatts.com|dronedj.com|electrek.co|lelum.pl|martdroid.de|spaceexplored.com|www-history-com.cdn.ampproject.org
+@@||ampproject.org^*/amp-consent-$domain=9to5google.com|9to5mac.com|amp-lasexta-com.cdn.ampproject.org|connectthewatts.com|dronedj.com|electrek.co|lelum.pl|martdroid.de|ringsidenews.com|spaceexplored.com|www-history-com.cdn.ampproject.org
 @@||ams.cdn.arkadiumhosted.com/advertisement/display/stable/display-ads.js$domain=arkadium.com
 @@||ams.cdn.arkadiumhosted.com/advertisement/display/stable/display-ads.js$domain=bestforpuzzles.com
 @@||ams.cdn.arkadiumhosted.com/advertisement/display/stable/display-ads.js$domain=crosswordsolver.org
@@ -2370,7 +2370,6 @@
 @@||api.mapbox.com^$stealth=referrer,domain=tunein.com
 @@||api.mapbox.com^$xmlhttprequest,stealth,domain=weather.com
 @@||api.mapy.*/maptiles/$stealth=referrer
-@@||api.mapy.cz/*/maptiles/$stealth=referrer
 @@||api.mapy.cz^$stealth
 @@||api.mercari.jp/experiments/get_running_experiments_by_name$xmlhttprequest,domain=jp.mercari.com
 @@||api.mercari.jp^$stealth=3p-auth
@@ -3293,6 +3292,7 @@
 @@||bookscool.com/*/advertisement.js
 @@||bookwalker.com.tw/images/p_img/pc_ad*.png$~3p
 @@||bookwalker.com.tw/images/p_img/pc_ad*.png$~third-party
+@@||boot.dev^$generichide
 @@||bootcss.com^$script,domain=bimibimi.tv|kan-tv.com|wnacg.com
 @@||bootcss.com^$script,domain=kan-tv.com
 @@||bordeaux.futurecdn.net/bordeaux.js$script,domain=gamesradar.com|tomsguide.com
@@ -4874,7 +4874,6 @@
 @@||cloudflare.com/cdn-cgi/trace$domain=net.ljxnet.cn
 @@||cloudflare.com^*/cookieconsent.min.js$domain=bab.la|firkloveren.no|satkurier.pl
 @@||cloudflare.com^*/cookieconsent.min.js$domain=cards.thm.de|ehftv.com|pixelexperience.org|pixieset.com|rijbewijskeuringennederland.nl|sammobile.com|xnview.com
-@@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl
 @@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl|zeam.com
 @@||cloudflare.net^$script,domain=colamanga.com
 @@||cloudflareinsights.com/beacon.min.js$script,domain=app.uniswap.org
@@ -5566,6 +5565,7 @@
 @@||crunchyroll.adtrackers.net/vast?fg=
 @@||crunchyroll.bannertrack.net/vast?fg=
 @@||crunchyroll.com/*/ads_enabled_flag.js$script
+@@||crunchyrollcdn.com^$stealth=referrer,domain=crunchyroll.com
 @@||crunchyrollsvc.com^$stealth=3p-auth
 @@||crunchyscan.fr^$generichide
 @@||crwdcntrl.net/*callback=setPIDForPlayer$domain=static.rtl.nl
@@ -5614,6 +5614,7 @@
 @@||cults3d.com/packs/js/quantcast-$~third-party
 @@||culturanimation.com^$stealth=referrer
 @@||cumberlink.com^$generichide
+@@||curiositystream.com.first-party-js.datadome.co^$script,domain=curiositystream.com
 @@||curiositystream.com^$generichide
 @@||curos.ca/res/*/resources/scripts/lib/fingerprint.js$domain=curos.ca
 @@||curos.ca/res/*/resources/scripts/lib/fingerprint.js$~third-party
@@ -8061,6 +8062,7 @@
 @@||googleapis.com/youtube/$stealth=referrer,domain=learnlinux.tv
 @@||googleapis.com/youtube/*/search?key=$stealth=referrer
 @@||googleapis.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
+@@||googleapiscdn.com/player/*animevietsub.$generichide
 @@||googledrive.com$document
 @@||googledrivelinks.com^$generichide
 @@||googleoptimize.com/optimize.js$domain=binglee.com.au|grasshopper.com|in.bookmyshow.com|inquirer.com|investing.com|lacomer.com.mx|lodgecastiron.com|tentree.ca|virginmedia.com
@@ -12623,6 +12625,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=fox.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebinchecker.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebnbcoin.com|exotictgirl.blogspot.com|bospedia.com|rockmods.net|aiimsneetshortnotes.com|arabseed.onl|miuiku.com|tatangga.com|flash-firmware.blogspot.com|rumahit.id|romfirmware.com|gsmfirmware.net|akwam.*|fc-lc.com|fc.lc|note1s.com|paste1s.com|ipacrack.com|traffic1s.com|adnews.me|ak4eg.*|xn--mgba7fjn.*|akw.to|ak4ar.*|nguyenvanbao.com|ak.sv|indokontraktor.com|shahee4u.cam|batch-kun.com|shahid4u.*|neosatsu.com|shahidd4u.net|shahiid4u.net|shahid-4u.*|shaid4u.day|shahhid4u.cam|shhahid4u.*|sshahid4u.*|sshahid4u.day|sd4u.net|shah4u.*|shah4u.day|shaahed4u.net|shiid4u.day|shhahhed4u.net|shahheid4u.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebnbcoin.com|exotictgirl.blogspot.com|bospedia.com|rockmods.net|aiimsneetshortnotes.com|arabseed.onl|miuiku.com|tatangga.com|flash-firmware.blogspot.com|rumahit.id|romfirmware.com|gsmfirmware.net|akwam.*|fc-lc.com|fc.lc|note1s.com|paste1s.com|ipacrack.com|traffic1s.com|adnews.me|ak4eg.*|xn--mgba7fjn.*|akw.to|ak4ar.*|nguyenvanbao.com|ak.sv|indokontraktor.com|shahee4u.cam|batch-kun.com|shahid4u.*|neosatsu.com|shahidd4u.net|shahiid4u.net|shahid-4u.*|shaid4u.day|shahhid4u.cam|shhahid4u.*|sshahid4u.*|sshahid4u.day|sd4u.net|shah4u.*|shah4u.day|shaahed4u.net|shiid4u.day|shhahhed4u.net|shahheid4u.net|shaheiid4u.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freecoursesonline.me
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freeiptvgen.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freemagazines.top
@@ -13153,6 +13156,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=spotidown.app
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=sshkit.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=ssstik.io
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=storage.googleapiscdn.com|stream.googleapiscdn.com|animevietsub.id
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=stream.googleapiscdn.com|animevietsub.id
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=talksport.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=techacrobat.com
@@ -17716,6 +17720,7 @@
 @@||userreport.com/SystemSettings.js$domain=csb.app
 @@||userreport.com/computools/launcher.js$domain=csb.app
 @@||userreport.com/userreport.js$domain=csb.app
+@@||usersdrive.com/aclib.js
 @@||userservice-api.channel5.com^$stealth=3p-auth
 @@||userstore.nvidia.com/v1/clientData$stealth=3p-auth
 @@||userupload.in^$generichide
@@ -18243,6 +18248,7 @@
 @@||westerndigital-privacy.my.onetrust.com^$domain=westerndigital.com
 @@||westjet.com/js/webstats.js
 @@||westword.com/js_cache/ads.js
+@@||wetransfer.com/api/web-metrics$domain=wetransfer.com
 @@||wetransfer.net/api/v*/$stealth=3p-auth
 @@||wettercom-c1.livespotting.com/memfs/$image,xmlhttprequest,stealth=referrer
 @@||wettercomassets.com/wcomv5/images/footer/$domain=wetter.com
