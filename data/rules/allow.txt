@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-04-06 09:54:39（北京时间）
+! Version: 2026-04-06 20:56:15（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18880
+! Total count: 18881
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -7407,6 +7407,7 @@
 @@||geolocation.onetrust.com/cookieconsentpub/v*/geo/location$domain=ted.com
 @@||geolocation.onetrust.com/cookieconsentpub/v*/geo/location$domain=tvn24.pl
 @@||geolocation.onetrust.com/cookieconsentpub/v*/geo/location$domain=wowbiz.ro
+@@||geolocation.onetrust.com/cookieconsentpub/v1/geo/location$domain=bostonglobe.com
 @@||geolocation.onetrust.com/cookieconsentpub/v1/geo/location$domain=cbssports.com
 @@||geolocation.onetrust.com/cookieconsentpub/v1/geo/location$domain=cnet.com
 @@||geolocation.onetrust.com/cookieconsentpub/v1/geo/location$domain=intel.com
@@ -11840,6 +11841,7 @@
 @@||netto-online.de/jquery/webanalytics/xtcore.js
 @@||netusers.cz/js/reklama.02.js?
 @@||networkworld.com^*/demandbase.js
+@@||neuralanalog--audio-processing-pipeline-api.modal.run/upload-url$stealth=3p-auth
 @@||nevcoins.club/static/js/noadblock.js
 @@||nevcoins.club^$generichide
 @@||neveitalia.it/assets/images/logo-gds-bianco.svg
@@ -12134,7 +12136,6 @@
 @@||olx.ua/*/observed/getads/?json=
 @@||olx.ua/i2/ajax/ad/
 @@||olx.ua/static/olxua/naspersclassifieds-regional/olxeu-atlas-web/static/js/xgemius.js
-@@||olxliban.com/en/ads/
 @@||om-apis.sk-pay.co.kr^$stealth=3p-auth,app=com.elevenst
 @@||omahasteaks.com/html/scripts/*/js/os/advertisements.js
 @@||omappapi.com/app/campaign-views/*-optin.json$domain=app.monstercampaigns.com
@@ -12367,6 +12368,7 @@
 @@||p.jwpcdn.com/player/*.js$domain=akwam.*
 @@||p.jwpcdn.com/player/plugins/vast/v*/vast.js$domain=player.cartoonth12.com
 @@||p.jwpcdn.com^$script
+@@||p.liadm.com/click?$document
 @@||p.sky.com^$domain=wowtv.de,stealth=referrer
 @@||p.typekit.net/p.css$stylesheet,domain=athleticpropulsionlabs.com|browserstack.com|bungie.net|business.untappd.com|getty.edu|petsafe.com|robertsspaceindustries.com
 @@||p11.techlab-cdn.com^$domain=wizzair.com
@@ -12563,6 +12565,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=decrypt.day
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dgb.lol
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=digiclown.com|sattanewss.com|djflpduniya.com|gadix.in|raftarsamachar.in|cinedesi.in|health.blueridgegeorgia.us|openhouseperthinsurance.com|spatsify.com|marathivacancy.com|cyberlynews.com|bongguider.com|inklix.com|india.studentshelp.in|india.bgmiproconfig.com|web.quizrent.com|india.ctfest.org|hindi.sarkarijobinformation.com|health.wikizinsider.online|india.sharpexamz.in|autorisuchna.in|india.bgmiproconfig.com|techarmor.xyz|india.gujaratcareerhub.in|gadialert.in|v.thetch.in|india.reportmarathi.in|india.newsguides.in|health.gujaratcareerhub.in|uploadhub.dad|india.livegaminghub.com|bhumibihar.co.in|web.wblaxmibhandar.com|health.bgmiproconfig.com|india.hindivigyan.in|main.24jobalert.com|health.bgmiproconfig.com|health.sarkarijobinformation.com|main.wblaxmibhandar.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=digiclown.com|sattanewss.com|djflpduniya.com|gadix.in|raftarsamachar.in|cinedesi.in|health.blueridgegeorgia.us|openhouseperthinsurance.com|spatsify.com|marathivacancy.com|cyberlynews.com|bongguider.com|inklix.com|india.studentshelp.in|india.bgmiproconfig.com|web.quizrent.com|india.ctfest.org|hindi.sarkarijobinformation.com|health.wikizinsider.online|india.sharpexamz.in|autorisuchna.in|india.bgmiproconfig.com|techarmor.xyz|india.gujaratcareerhub.in|gadialert.in|v.thetch.in|india.reportmarathi.in|india.newsguides.in|health.gujaratcareerhub.in|uploadhub.dad|india.livegaminghub.com|bhumibihar.co.in|web.wblaxmibhandar.com|health.bgmiproconfig.com|india.hindivigyan.in|main.24jobalert.com|health.bgmiproconfig.com|health.sarkarijobinformation.com|main.wblaxmibhandar.com|home.wblaxmibhandar.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=digitalinformationworld.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=diglink.blogspot.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dishy.co.ke
@@ -12961,7 +12964,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ukussa.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ultimateclassicrock.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=unityassetpack.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=unityassets4free.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=unlockapk.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=up-4ever.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=updato.com
@@ -15795,7 +15797,6 @@
 @@||snrcdn.net/sdk/3.0/synerise-javascript-sdk.min.js$domain=komputronik.pl
 @@||snssdk.com/video/drm/v*/play_licenses
 @@||snva.jp/javascripts/reco/$script,domain=abc-mart.net|store.charle.co.jp
-@@||snva.jp/javascripts/reco/$script,domain=store.charle.co.jp
 @@||snyk.io^$cookie=ajs_anonymous_id
 @@||so-magazyn.pl^$generichide
 @@||so-net.ne.jp/access/hikari/minico/ad/images/$~third-party
@@ -16543,6 +16544,7 @@
 @@||suntory.co.jp/beer/kinmugi/css2020/ad.css?
 @@||suntory.co.jp/beer/kinmugi/img/ad/$image,~third-party
 @@||supabase.co/auth/v*/user|$stealth=3p-auth
+@@||supabase.co/rest/v*/audio_files$stealth=3p-auth
 @@||super-ethanol.com^$generichide
 @@||supercachecdn.com/play/$media,stealth=referrer,domain=pornmedium.com
 @@||supercloudsms.com^*/a_d
@@ -16565,7 +16567,6 @@
 @@||suratkargo.com.tr^$stealth=dpi
 @@||surfguru.com^$generichide
 @@||surirt.com/ad/ads.php?id=$script,domain=surirt.com
-@@||surrit.com^$image,stealth=referrer,domain=missav.live
 @@||surrit.com^$image,xmlhttprequest,stealth=referrer,domain=missav.live|missav.ws
 @@||survey.devographics.com^$stealth=useragent
 @@||survey.g.doubleclick.net^$script,domain=sporcle.com
