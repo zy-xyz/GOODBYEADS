@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-04-15 09:54:21（北京时间）
+! Version: 2026-04-15 21:10:38（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18916
+! Total count: 18913
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -339,7 +339,7 @@
 @@/favicon.ico$domain=lubetube.com
 @@/favicon.ico$third-party,domain=thehouseofportable.com
 @@/file$xmlhttprequest,stealth=referrer,domain=streameeeeee.site|videostr.net
-@@/file2/$xmlhttprequest,stealth=referrer,domain=vidora.stream
+@@/file2/*$xmlhttprequest,stealth=referrer,domain=vidora.stream
 @@/file2/*==/*$xmlhttprequest,stealth=referrer,domain=megacloud.*
 @@/fingerprint.$domain=abchina.com
 @@/fingerprint2.$domain=nfmovies.com
@@ -371,7 +371,7 @@
 @@/hls/*$stealth=referrer,domain=closeload.top
 @@/hls/*.m3u8$stealth=referrer
 @@/hls/*.ts$stealth=referrer,domain=techclips.net
-@@/hls2/$xmlhttprequest,stealth=referrer,domain=vidora.stream
+@@/hls2/*$xmlhttprequest,stealth=referrer,domain=vidora.stream
 @@/home/ads/*$domain=esunbank.com.tw
 @@/html/images/blank.png$image,domain=mocospace.com
 @@/https?:\/\/(www\.)?sonixgvn\.net\/.{1,15}\.js$/$script,~third-party,domain=sonixgvn.net
@@ -3594,7 +3594,6 @@
 @@||carrefourpl.snrpage.com^$removeparam=utm_source
 @@||carsales.com.au/afx_prid/$domain=carsales.com.au
 @@||carsensor.net/usedcar/modules/clicklog_top_lp_revo.php$xmlhttprequest
-@@||cart.books.com.tw/member/login$stealth=java
 @@||cart.books.com.tw/member/login$stealth=java|flash
 @@||cart.hostinger.com/assets/CookieConsent-*.css$domain=cart.hostinger.com
 @@||cartoon.porn^$generichide
@@ -3865,6 +3864,7 @@
 @@||cdn.cookielaw.org/consent/$domain=ryobitools.eu
 @@||cdn.cookielaw.org/consent/$domain=ups.com
 @@||cdn.cookielaw.org/consent/$xmlhttprequest,domain=aljazeera.com
+@@||cdn.cookielaw.org/consent/$xmlhttprequest,domain=bostad.stockholm.se
 @@||cdn.cookielaw.org/consent/*.json$domain=20min.ch
 @@||cdn.cookielaw.org/consent/*.json$domain=acrobat.adobe.com
 @@||cdn.cookielaw.org/consent/*.json$domain=bostonglobe.com
@@ -3912,6 +3912,7 @@
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=bikeforums.net
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=blog.unity.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=bongo.be
+@@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=bostad.stockholm.se
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=bostonglobe.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=breitbart.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=brightside.me
@@ -7070,7 +7071,6 @@
 @@||freereceivesms.com/*.js
 @@||freereceivesms.com/weborama.js
 @@||freeride.se/img/admarket/$~third-party
-@@||freeserial-keys.blogspot.com^$generichide
 @@||freeshib.biz^$generichide
 @@||freesoftpdfdownload.blogspot.com^$generichide
 @@||freesteamkeys.com/ads.js
@@ -9372,7 +9372,6 @@
 @@||imasdk.googleapis.com/js/core/bridge*.html$domain=m.au.ign.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$domain=twitch.tv
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~airtelxstream.in|~danet.vn|~einthusan.tv|~spotify.com
-@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~airtelxstream.in|~danet.vn|~spotify.com
 @@||imasdk.googleapis.com/js/core/dai_iframe3$domain=southpark.cc.com
 @@||imasdk.googleapis.com/js/sdkloader/*$script,domain=mindgames.com|htmlgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3$domain=rotana.net
@@ -9980,7 +9979,6 @@
 @@||integrations.fitanalytics.com/shop/modivo/pdp.js$domain=modivo.*
 @@||intelcorporationproductione*.org.coveo.com/rest/search/$stealth=3p-auth
 @@||intelyvale.com.mx/ads/images/$domain=valesdegasolina.mx
-@@||intercelestial.com^$generichide
 @@||interfans.org^$generichide
 @@||interia.hit.gemius.pl/hitredir/$domain=interia.pl
 @@||interia.hit.gemius.pl/redot.gif?$domain=m.interia.pl
@@ -11340,7 +11338,6 @@
 @@||mettablog.com^$generichide
 @@||mexa.sh/advertisements.js
 @@||mexa.sh^$generichide
-@@||mexashare.com/advertisements.js
 @@||mf.advantage.as/if/imcreat.php$domain=mobilmania.cz
 @@||mf.advantage.as/if/imshow.php$domain=f1sport.autorevue.cz
 @@||mfah.org^$stealth=dpi
@@ -11807,14 +11804,12 @@
 @@||native.sharethrough.com/assets/sfp.js$domain=looper.com
 @@||natlawreview.com^$generichide
 @@||natro.com^$stealth=dpi
-@@||naturalbd.com^$generichide
 @@||natureetdecouvertes.com^*/pixel.png$~third-party
 @@||nav.files.bbci.co.uk/orbit-webmodules/*/*/cookie-library.min.js$domain=bbc.co.uk
 @@||naver.com^$stealth=dpi
 @@||naver.net/wcslog.js$domain=fragpunk.com|m.tv.naver.com
 @@||navratdoreality.cz^$generichide
 @@||nazolog.com^$generichide
-@@||nb-music.net^$generichide
 @@||nbaapi.neulion.com/api_nba/$stealth=3p-auth,domain=nba.com
 @@||nbcolympics.com/profiles/olympics/*$domain=nbcolympics.com
 @@||nbcudigitaladops.com/hosted/pubads.js$script,domain=nbc.com
@@ -13243,7 +13238,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$xmlhttprequest,domain=scamdoc.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$xmlhttprequest,domain=testadmit.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
-@@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=freeserial-keys.blogspot.com
 @@||pagead2.googlesyndication.com/pagead/js/lidar.js$domain=freewarefiles.com
 @@||pagead2.googlesyndication.com/pagead/js/r*/r*/show_ads_impl.js$script,domain=articlerewritertool.com
 @@||pagead2.googlesyndication.com/pagead/js/r*/r*/show_ads_impl.js$script,domain=big-coin.eu
@@ -13623,6 +13617,8 @@
 @@||pix04.revsci.net/E05510/a4/0/0/pcx.js?$domain=video.foxbusiness.com
 @@||pix04.revsci.net^*.js?$domain=t-online.de
 @@||pix2.services.tvn.pl/pix2.js$domain=tvn24.pl|ttv.pl|tvnturbo.pl
+@@||pixabay.com/content-partner/$stealth=3p-cache
+@@||pixabay.com/content-partner/$stealth=3p-cache|referrer,domain=canva.com
 @@||pixel.adsafeprotected.com/services/pub$domain=reuters.com
 @@||pixel.adsafeprotected.com/services/pub?$xmlhttprequest,removeparam=anId,domain=reuters.com
 @@||pixel.adsafeprotected.com/services/pub?$xmlhttprequest,removeparam=slot,domain=reuters.com
@@ -15003,6 +14999,7 @@
 @@||sdk.privacy-center.org/*/loader.js$domain=numerama.com
 @@||sdk.privacy-center.org/*/loader.js$domain=orange.fr
 @@||sdk.privacy-center.org/*/loader.js$domain=orf.at
+@@||sdk.privacy-center.org/*/loader.js$domain=plus.rtl.de
 @@||sdk.privacy-center.org/*/loader.js$domain=theweathernetwork.com
 @@||sdk.privacy-center.org/*/loader.js$domain=video-streaming.orange.fr
 @@||sdk.privacy-center.org/*/loader.js?$domain=euronews.com
@@ -15029,6 +15026,7 @@
 @@||sdk.privacy-center.org/sdk/$domain=levante-emv.com|informacion.es|laprovincia.es|laopiniondezamora.es
 @@||sdk.privacy-center.org/sdk/$domain=nationalgeographic.com.es|franceinfo.fr
 @@||sdk.privacy-center.org/sdk/$domain=orange.fr
+@@||sdk.privacy-center.org/sdk/$domain=plus.rtl.de
 @@||sdk.privacy-center.org/sdk/$domain=theweathernetwork.com
 @@||sdk.privacy-center.org/sdk/$domain=video-streaming.orange.fr
 @@||sdk.privacy-center.org/sdk/$script,domain=ivoox.com
@@ -16045,6 +16043,7 @@
 @@||ssl.p.jwpcdn.com/player/v/*/googima.js$xmlhttprequest,domain=play.nova.bg
 @@||ssl.p.jwpcdn.com/player/v/*/vast.js$xmlhttprequest,domain=idlixvip.asia
 @@||ssl.p.jwpcdn.com/player/v/8.36.2/googima.js$script,domain=vidara.to|vidara.so
+@@||ssl.p.jwpcdn.com/player/v/8.36.2/googima.js$script,domain=vidara.to|vidara.so|xca.cymru
 @@||ssl.p.jwpcdn.com^$domain=bdsmstreak.com
 @@||ssl.pstatic.net/sstatic/sdyn.js$script,domain=search.naver.com
 @@||ssl.pstatic.net/tveta/libs/glad/prod/$script,xmlhttprequest,domain=chzzk.naver.com
@@ -17472,7 +17471,6 @@
 @@||tutsnode.net^$generichide
 @@||tuttosport.com^$generichide
 @@||tv-asahi.co.jp/ch/js/scrolltopcontrol.js$script,~third-party
-@@||tv-onlinehd.com^$generichide
 @@||tv.ads.spotx.tv^$domain=rakuten.tv
 @@||tv.bili96.co^
 @@||tv.kakao.com^$stealth
@@ -18126,7 +18124,6 @@
 @@||wallpapershacker.com/js/adsbygoogle.js$script
 @@||wallpapershome.com/scripts/ads.js
 @@||wallpapershome.com^$generichide
-@@||wallpapersite.com/scripts/ads.js
 @@||wallpaperwaifu.com^$generichide
 @@||walmart.com/__ssobj/core.js
 @@||walmart.com/b/ss/
