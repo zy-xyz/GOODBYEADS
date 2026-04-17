@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-04-16 21:17:36（北京时间）
+! Version: 2026-04-17 09:58:22（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18908
+! Total count: 18909
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -577,6 +577,7 @@
 @@/wp-content/plugins/wp-rocket/*$image,~third-party
 @@/wp-content/themes/*/ads/*/sailthru.js$domain=healthy4pepole.com
 @@/wp-content/themes/ikisifirbirdokuz/match-center.php?id=$stealth=referrer
+@@/wp-content/themes/publisher/*/ads/static/adv/sailthru.js$domain=healthy4pepole.com
 @@/wp-content/themes/publisher/*/ads/static/adv/sailthru.js$domain=world2our.com|healthy4pepole.com|bluetechno.net
 @@/wp-content/themes/radio-hub/*.js$domain=tingfm.com
 @@/wp-content/themes/wp-mason/static/js/ads.js$~third-party
@@ -12305,7 +12306,6 @@
 @@||opex.xplan.iress.com.au/js/xiled/util/pageview.js$~third-party
 @@||ops.prismamediadigital.com/js/advertisement.js$xmlhttprequest,domain=voici.fr
 @@||opt.semasio.net/optsvc^$domain=youronlinechoices.com
-@@||optad360.io/*/*.min.js$xmlhttprequest,domain=realmadryt.pl
 @@||optim.pro/reklama/
 @@||optimatic.com/iframe.html$subdocument,domain=pch.com
 @@||optimatic.com/redux/optiplayer-$domain=pch.com
@@ -12690,6 +12690,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hackr.io
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hausbau-forum.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=healdad.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=healthy4pepole.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hecker.likesyou.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=heidisql.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hentaigasm.com
@@ -13172,7 +13173,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=programmingeeksclub.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=quackr.io
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=rajsayt.xyz
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=realmadryt.pl
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=reviewjournal.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=s0ft4pc.com|portable4pc.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=scamwatcher.com
@@ -16408,6 +16408,7 @@
 @@||staticdelivery.nexusmods.com/contents/LibScripts/*ad*.js
 @@||staticfiles.rtl.nl/lib/rtl.jsapi/pubads_impl_70r.js$script,domain=rtlxl.nl
 @@||statics.zcool.com.cn/track/sensors.$script,~third-party
+@@||staticsns.cdn.bcebos.com/amis/$image,domain=pan.baidu.com
 @@||staticxx.facebook.com/connect/xd_arbiter/*.js?version=$domain=animeflv.net
 @@||staticxx.facebook.com/connect/xd_arbiter/*.js?version=$domain=jkanime.net
 @@||staticxx.facebook.com/connect/xd_arbiter/*.js?version=$domain=shinden.pl
