@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-04-21 09:59:12（北京时间）
+! Version: 2026-04-21 21:09:17（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18918
+! Total count: 18919
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -4986,7 +4986,7 @@
 @@||cmp.osano.com^$domain=buffalonews.com
 @@||cmp.osano.com^$domain=telesign.com
 @@||cmp.osano.com^$script,domain=account.bhvr.com|everand.com|guidepoint.com|lucidchart.com|midnight.gd|scribd.com|sonesta.com
-@@||cmp.osano.com^*/osano.js$domain=stltoday.com
+@@||cmp.osano.com^*/osano.js$domain=alltrails.com|stltoday.com
 @@||cmp.pubtech.ai/*/pubtech-cmp-v2*.js$script,domain=everyeye.it
 @@||cmp.pubtech.ai/*/pubtech-cmp-v2.js$script,domain=ilrestodelcarlino.it|quotidiano.net|lanazione.it|ilgiorno.it|iltelegrafolivorno.it
 @@||cmp.pubtech.ai/124/pubtech-cmp-v2.js$domain=ilgiorno.it|ilrestodelcarlino.it|iltelegrafolivorno.it|lanazione.it|quotidiano.net
@@ -13481,6 +13481,7 @@
 @@||pastpapers.papacambridge.com^$generichide
 @@||patchedfiles.com^$generichide
 @@||patreonusercontent.com/*.gif?token-$image,domain=patreon.com
+@@||patreonusercontent.com^$image,domain=patreon.com
 @@||patrick-wied.at/static/heatmapjs/src/heatmap.js
 @@||paula2.com/WS2/dnfiles/Banners/
 @@||pawastreams.info/gamer/*.php$subdocument,stealth=referrer
