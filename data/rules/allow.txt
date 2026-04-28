@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-04-27 21:25:03（北京时间）
+! Version: 2026-04-28 10:14:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18922
+! Total count: 18923
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -4792,6 +4792,7 @@
 @@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|gold.ac.uk|kit.co|marylebonevillage.com|msi.com|pilates.com|ram.ac.uk|romania-insider.com|shop.ordnancesurvey.co.uk|stagecoachbus.com|videogameschronicle.com
 @@||civilservicejobs.service.gov.uk^$stealth=dpi
 @@||cizgifilmlerizle.com/getvid?$stealth=referrer
+@@||cizgipass100.online/embed$subdocument,stealth=referrer,domain=yeniwatch.net.tr
 @@||cj.dotomi.com^|
 @@||cl*.k5a.io^$script,xmlhttprequest,domain=finansavisen.no
 @@||cl-*.k5a.io/*.js^$domain=tv2.no
@@ -5791,7 +5792,6 @@
 @@||data-*.herz-fuer-tiere.de/*/bootstrap/loader.js$domain=herz-fuer-tiere.de
 @@||data-*.herz-fuer-tiere.de^|
 @@||data-*.rtl.de/iomm/latest/bootstrap/stub.js$domain=rtl.de
-@@||data.adpresenter.de^$domain=xswiper.com
 @@||data.adpresenter.de^$domain=xswiper.com|sexeey.com
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||data.alicloudccp.com^$stealth,domain=aliyundrive.com
@@ -6586,6 +6586,9 @@
 @@||erpsoftwarelink.blogspot.com^$generichide
 @@||erreguete.gal^$generichide
 @@||error-report.com^$xmlhttprequest,domain=9gag.com
+@@||error-report.com^$xmlhttprequest,domain=dreadcentral.com
+@@||error-report.com^$xmlhttprequest,domain=mr2oc.com
+@@||error-report.com^$xmlhttprequest,domain=pcgamesn.com
 @@||escapegames24.com^$generichide
 @@||eshentai.tv/ad_banner.js
 @@||esia.gosuslugi.ru^$stealth
@@ -12706,7 +12709,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hqq.ac
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hqq.to
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=htmlsave.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=huavod.com|huaren.live|tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=idol69.net|xcamcovid.com|fc2ppv.stream|blackwidof.org|sweetie-fox.com|hentaicovid.com|pig69.com|fikfok.net|ai18.pics|javball.com|javtele.net|cnxx.me|cosplay18.pics|cnpics.org|3minx.com|javsunday.com|porn4f.org|hentaipig.com|555fap.com|kin8-av.com|javbee.*|fikfok.net|porn-pig.com|hentai4f.com|cn-av.com|kr-av.com|hentaixnx.com|hentai-sub.com|chinese-pics.com|anime-jav.com|xxpics.org|hentaicovid.org|gofile.download|cosplay-xxx.com|s-porn.com|shentai-anime.com|chinese-pics.vip|hentai-manga.org|cosplaytele.vip
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=iembra2or.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ifate.com
@@ -13129,7 +13131,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=edumailfree.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egybist.site|egy-best.site|egybist.online
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=elahmad.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=esportstales.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=facciabuco.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=falpus.com|fooak.com|upfiles-urls.com|upfiles.app|upfion.com
