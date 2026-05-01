@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-05-01 10:29:35（北京时间）
+! Version: 2026-05-01 21:04:54（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18940
+! Total count: 18939
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -1105,6 +1105,7 @@
 @@||ab.blogs.es/abtest.png$domain=trendencias.com|xataka.com
 @@||ab.blogs.es/abtest.png$image,domain=xataka.com|trendencias.com
 @@||ab.blogs.es/abtest.png?editorialRecommendations$domain=applesfera.com
+@@||abacus.api.useinsider.com/get-purchase-stats$domain=rossmann.com.tr
 @@||abchina.com^*ad
 @@||abcmalayalam.com^$generichide
 @@||abcnews.com/assets/js/prebid.min.js$~third-party
@@ -9489,7 +9490,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.word.tips
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gameswf.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gamezhero.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gamoneinterrupted.com|urochsunloath.com|35volitantplimsoles5.com|antecoxalbobbing1010.com|cyamidpulverulence530.com|guidon40hyporadius9.com|bigclatterhomesguideservice.com|housecardsummerbutton.com|fittingcentermondaysunday.com|un-block-voe.net|voeunblk.com|voeunbl0ck.com|voeunblock2.com|voeunblock.com|voe-unblock.*|voe.sx|phenomenalityuniform.com|kathleenmemberhistory.com|paulkitchendark.com|edwardarriveoften.com|lukecomparetwo.com|kennethofficialitem.com|jamiesamewalk.com|johntryopen.com|morganoperationface.com|jayservicestuff.com|heatherdiscussionwhen.com|robertplacespace.com|alleneconomicmatter.com|josephseveralconcern.com|donaldlineelse.com|bethshouldercan.com|lisatrialidea.com|jessicaglassauthor.com|evelynthankregion.com|lorimuchbenefit.com|susanhavekeep.com|thomasalthoughhear.com|zacharycollectionmight.com|richardstorehalf.com|kimberlyonlocal.com|toddpartneranimal.com|jamessoundcost.com|brittneystandardwestern.com|sandratableother.com|robertordercharacter.com|maxfinishseveral.com|alejandrocenturyoil.com|heatherwholeinvolve.com|kristiesoundsimply.com|adrianmissionminute.com|nathanfromsubject.com|jennifercertaindevelopment.com|richardsignfish.com|sarahnewspaperbeat.com|diananatureforeign.com|jonathansociallike.com|mariatheserepublican.com|johnalwayssame.com|kellywhatcould.com|jilliandescribecompany.com|lukesitturn.com|mikaylaarealike.com|christopheruntilpoint.com|walterprettytheir.com|crystaltreatmenteast.com|lauradaydo.com|lancewhosedifficult.com|dianaavoidthey.com|jefferycontrolmodel.com|jessicaclearout.com|marissasharecareer.com|ianrequireadult.com|charlestoughrace.com|timmaybealready.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gamoneinterrupted.com|urochsunloath.com|35volitantplimsoles5.com|antecoxalbobbing1010.com|cyamidpulverulence530.com|guidon40hyporadius9.com|bigclatterhomesguideservice.com|housecardsummerbutton.com|fittingcentermondaysunday.com|un-block-voe.net|voeunblk.com|voeunbl0ck.com|voeunblock2.com|voeunblock.com|voe-unblock.*|voe.sx|phenomenalityuniform.com|kathleenmemberhistory.com|paulkitchendark.com|edwardarriveoften.com|lukecomparetwo.com|kennethofficialitem.com|jamiesamewalk.com|johntryopen.com|morganoperationface.com|jayservicestuff.com|heatherdiscussionwhen.com|robertplacespace.com|alleneconomicmatter.com|josephseveralconcern.com|donaldlineelse.com|bethshouldercan.com|lisatrialidea.com|jessicaglassauthor.com|evelynthankregion.com|lorimuchbenefit.com|susanhavekeep.com|thomasalthoughhear.com|zacharycollectionmight.com|richardstorehalf.com|kimberlyonlocal.com|toddpartneranimal.com|jamessoundcost.com|brittneystandardwestern.com|sandratableother.com|robertordercharacter.com|maxfinishseveral.com|alejandrocenturyoil.com|heatherwholeinvolve.com|kristiesoundsimply.com|adrianmissionminute.com|nathanfromsubject.com|jennifercertaindevelopment.com|richardsignfish.com|sarahnewspaperbeat.com|diananatureforeign.com|jonathansociallike.com|mariatheserepublican.com|johnalwayssame.com|kellywhatcould.com|jilliandescribecompany.com|lukesitturn.com|mikaylaarealike.com|christopheruntilpoint.com|walterprettytheir.com|crystaltreatmenteast.com|lauradaydo.com|lancewhosedifficult.com|dianaavoidthey.com|jefferycontrolmodel.com|jessicaclearout.com|marissasharecareer.com|ianrequireadult.com|charlestoughrace.com|timmaybealready.com|richardquestionbuilding.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gauchazh.clicrbs.com.br
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gaystream.pw
@@ -9855,7 +9855,6 @@
 @@||imgbox.com/site_ads.js
 @@||imgdrive.net/anex/alt2.js
 @@||imgonline.com.ua/*advert*.js
-@@||imgs-2.2xstorage.com$image,stealth=referrer
 @@||imgs-2.2xstorage.com^$image,stealth=referrer
 @@||imgs-2.virus2hub.com^$image,stealth=referrer
 @@||imgslib.link^$image,xmlhttprequest,stealth=referrer
@@ -16022,7 +16021,6 @@
 @@||srnet.eu/ads2.js$script
 @@||srnk.co/js/ads.js$xmlhttprequest
 @@||srs.blastingnews.com/js/adv/_compiled.js$script
-@@||srv.*/*/*.png$stealth=referrer,domain=vctplay.site
 @@||srv.*/*/*.png$xmlhttprequest,stealth=referrer
 @@||srv.clickfuse.com/showads/adunit.php$domain=aha-music.com
 @@||srv.clickfuse.com/showads/showad.js$domain=aha-music.com
@@ -18315,6 +18313,7 @@
 @@||wettercomassets.com/wcomv5/images/footer/$domain=wetter.com
 @@||wettercomassets.com/wcomv5/js/advertising/ads.js
 @@||weviral.org^$generichide
+@@||wf.typesquare.com^$font,domain=app.studio.design|morisawafonts.com
 @@||wf.typesquare.com^$font,domain=morisawafonts.com
 @@||wfirma.pl/*/add/*?_=$other
 @@||wfirma.pl/*/add/*?_=$xmlhttprequest,elemhide,jsinject,extension
