@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-05-11 10:33:42（北京时间）
+! Version: 2026-05-11 22:34:42（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18966
+! Total count: 18970
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -382,6 +382,7 @@
 @@/html/images/blank.png$image,domain=mocospace.com
 @@/https?:\/\/(www\.)?sonixgvn\.net\/.{1,15}\.js$/$script,~third-party,domain=sonixgvn.net
 @@/iframe.php$stealth=referrer,domain=dizilla.*
+@@/iframe.php$stealth=referrer,domain=dizilla.*|dizillahd.*
 @@/image/*$xmlhttprequest,stealth=referrer,domain=turkanime.co
 @@/image/20*-*-*/*/$domain=1688.com|coolapk.com|galleryepic.com|galleryepic.one|galleryepic.xyz|kuaikanmanhua.com|mvxzsp.com|qnxz.top|taobao.com|tmall.com|tudou.com|weme-quan.com|youku.com|znds.com
 @@/image/ad/*$domain=gashpoint.com
@@ -7154,6 +7155,7 @@
 @@||fundingchoicesmessages.google.com/f/*=$script,domain=youpouch.com,stealth=referrer
 @@||fundingchoicesmessages.google.com/f^$domain=adshnk.com
 @@||fundingchoicesmessages.google.com/i/$script,domain=9to5mac.com|fanatik.com.tr|globo.com|kledgeb.blogspot.com
+@@||fundingchoicesmessages.google.com/i/$script,domain=decrypt.day
 @@||fundingchoicesmessages.google.com/i/$script,domain=fplstatistics.com
 @@||fundingchoicesmessages.google.com/i/pub-*?*=$domain=now.gg|now.us
 @@||fundingchoicesmessages.google.com^$domain=rocketnews24.com|soranews24.com|youpouch.com,stealth=referrer
@@ -7877,6 +7879,7 @@
 @@||google-analytics.com/analytics.js^$domain=pioneer-car.eu
 @@||google-analytics.com/collect$domain=freepic-downloader.com|freepikdownloader.com
 @@||google-analytics.com/collect$domain=uploadg.com
+@@||google-analytics.com/collect$image,domain=simpmusic.org
 @@||google-analytics.com/collect?*ad-test$image,domain=cybermania.ws|spyro.blogu.co.uk|jobalertswithgbrar.com|radiofreehubcity.com|edoga.biz.hr|chat.irc.in.th|rozgarnews.com
 @@||google-analytics.com/collect|$xmlhttprequest,domain=course-downloader.com
 @@||google-analytics.com/cx/api.js$domain=stern.de
@@ -16570,6 +16573,7 @@
 @@||streamlord.com^$generichide
 @@||streammovie.club/video/$stealth=referrer
 @@||streampass.org^$stealth=referrer
+@@||streampeaker.org/DDL/$media,stealth=referrer
 @@||streamsb.net/pop.js
 @@||streamtape.*/ad.js
 @@||streamtape.com^$popup,domain=streamtape.to
