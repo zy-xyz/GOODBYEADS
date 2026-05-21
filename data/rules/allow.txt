@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-05-20 22:45:38（北京时间）
+! Version: 2026-05-21 10:41:58（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18990
+! Total count: 18991
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -151,7 +151,6 @@
 @@/WebAd/*$domain=yongyoujia.com
 @@/[Ww]eb[Tt]racking/$~subdocument,domain=ups.com
 @@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
-@@/\.(gif|jpg|png|svg).*#.*\/ad\//$image,domain=mizugigurabia.com|aimasummd.blog.fc2.com|newssokuhou666.blog.fc2.com|touhoudougamatome.blog.fc2.com|metamani.blog15.fc2.com|youkaiwatch2345.blog.fc2.com|dokuo666.blog98.fc2.com|mysafe.stisda.ac.id|metamani.blog15.fc2.com|link.technics-goods.info|gfilex.blogspot.com|codare.fun|ads-ti9ni4.blogspot.com|thelibrarydigital.blogspot.com|www-daftarharga.blogspot.com|mediapemersatubangsa.com|love-stoorey210.net|ear-phone-review.com|tienganhedu.com|itdmusics.com|burnbutt.com|valuable.hatenablog.com|leechpremium.net|lib.hatenablog.com|gametter.com|mini.surveyenquete.net
 @@/\.(gif|jpg|png|svg).*#.*\/ad\//$image,domain=mizugigurabia.com|aimasummd.blog.fc2.com|newssokuhou666.blog.fc2.com|touhoudougamatome.blog.fc2.com|metamani.blog15.fc2.com|youkaiwatch2345.blog.fc2.com|dokuo666.blog98.fc2.com|mysafe.stisda.ac.id|metamani.blog15.fc2.com|link.technics-goods.info|gfilex.blogspot.com|codare.fun|ads-ti9ni4.blogspot.com|thelibrarydigital.blogspot.com|www-daftarharga.blogspot.com|mediapemersatubangsa.com|love-stoorey210.net|ear-phone-review.com|tienganhedu.com|itdmusics.com|burnbutt.com|valuable.hatenablog.com|leechpremium.net|lib.hatenablog.com|gametter.com|mini.surveyenquete.net|opatil.com
 @@/\.(quest|shop|autos)\/.*\./$script,xmlhttprequest,domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*|currentcolorq2dv.*|determinemousecshe.*|publicspeed5c.*|limiteddollqjc.*
 @@/\/[js].?[js]\/.*\.js/$script,xmlhttprequest,domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*|currentcolorq2dv.*|determinemousecshe.*|publicspeed5c.*|limiteddollqjc.*
@@ -267,6 +266,7 @@
 @@/adx.$domain=tanx.com
 @@/analytics.php?$domain=xcar.com.cn
 @@/angular-facebook.js
+@@/anime$xmlhttprequest,stealth=referrer,domain=vidwish.live|megaplay.buzz
 @@/api/ad/*$domain=pinduoduo.com
 @@/api/ads?$domain=nmkjxy.com
 @@/api/blockdata$domain=sohu.com
@@ -526,6 +526,7 @@
 @@/static/stream*.png$stealth=referrer,xmlhttprequest,domain=streamocean.online|streambtw.com
 @@/storage/js/*.js$~third-party,domain=wowmail.app|inipulsa.my.id|anon.tools|s-nr.dk
 @@/store_ad/*$domain=pcstore.com.tw
+@@/stream$xmlhttprequest,stealth=referrer,domain=kwik.cx
 @@/stream/*/*.m3u8$xmlhttprequest,domain=faselhd.cafe
 @@/stream/*/*.ts$xmlhttprequest,domain=faselhd.cafe
 @@/stylesheet/*$xmlhttprequest,stealth=referrer,domain=gamingzen.xyz
@@ -9205,7 +9206,6 @@
 @@||htlb.casalemedia.com/openrtb/pbjs$domain=youmath.it
 @@||htlbid.com/*/motherjones.com/htlbid.js$domain=motherjones.com
 @@||htlbid.com^*/htlbid.js$domain=hodinkee.com
-@@||html-load.com/core.js^$script,domain=voici.fr|femmeactuelle.fr|caminteresse.fr
 @@||html-load.com^
 @@||html-load.com^$stealth=referrer
 @@||html5.5games.cc^$stealth=referrer,third-party
@@ -9438,6 +9438,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=1player.store
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=20min.ch|lessentiel.lu
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|airtelxstream.in|antena3.ro|api.screen9.com|asianctv.upns.pro|asianembed.cam|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|digi24.ro|distro.tv|doubtnut.com|einthusan.tv|etonline.com|farfeshplus.com|fastcompany.com|filmweb.pl|france24.com|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|haberler.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|jilliandescribecompany.com|klix.ba|ktla.com|kxan.com|laurelberninteriors.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|newsweek.com|njbeachcams.com|open.video|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|realmadrid.com|rfi.fr|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|spiele.heise.de|sportsbull.jp|sportsport.ba|stirr.com|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.abcnyheter.no|tv.finansavisen.no|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|utsports.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|airtelxstream.in|antena3.ro|api.screen9.com|asianctv.upns.pro|asianembed.cam|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|digi24.ro|distro.tv|doubtnut.com|einthusan.tv|etonline.com|farfeshplus.com|fastcompany.com|filmweb.pl|france24.com|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|haberler.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|jilliandescribecompany.com|klix.ba|ktla.com|kxan.com|laurelberninteriors.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|newsweek.com|open.video|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|realmadrid.com|rfi.fr|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|spiele.heise.de|sportsbull.jp|sportsport.ba|stirr.com|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.abcnyheter.no|tv.finansavisen.no|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|utsports.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=24h.com.vn
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=3bmeteo.com
@@ -13408,7 +13409,6 @@
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=mojevideo.sk
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=opensubtitles.org
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=panoramaviewer.1bestlink.net
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=rim-world.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=scanner.thetimetube.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=searchftps.net
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=texteditor.nsspot.net
@@ -18454,6 +18454,7 @@
 @@||windowsbulletin.com^$generichide
 @@||windowscentral.com/sites/all/libraries/adblockdetection/adblockDetector.min.js
 @@||windowscentral.com/sites/wpcentral.com/files/advagg_js/$script
+@@||windowsforum.kr/prebid.js
 @@||wings.io/lib/advertisement.js
 @@||winiso.pl/sailthru.js
 @@||winsetupfromusb.com/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js.js
