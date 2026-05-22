@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-05-22 10:43:30（北京时间）
+! Version: 2026-05-22 22:25:31（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18998
+! Total count: 19004
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -113,6 +113,7 @@
 @@.ts^$stealth=referrer|useragent
 @@.vaughnsoft.net/abvs.php?a=
 @@.vmall.com/oauth
+@@.xyz/embed-*.html$stealth=referrer
 @@.xyz/premiumtv/*.php$subdocument,xmlhttprequest,stealth=referrer
 @@.xyz/theporn/js/
 @@/*.m3u8$domain=pages.dev|inatspor.xyz|t24giris2.cfd,stealth=referrer
@@ -471,8 +472,10 @@
 @@/pdc_s_code.js$domain=adobe.com
 @@/piwik-$domain=github.com
 @@/player/*$stealth=referrer,domain=ibomma.*
-@@/player/stats.php$domain=camwhores.tv|viralxxxporn.com|thothub.vip|yesporn.vip|85po.com|85po.net|85xo.com|85xo.com|watchporn.to|viralpornhub.com|watchmdh.to|porn4fans.com|porno24.to
-@@/player_ads.html$domain=camwhores.tv|viralxxxporn.com|thothub.vip|yesporn.vip|85po.com|85po.net|85xo.com|85xo.com|watchporn.to|viralpornhub.com|camwhoresbay.porn|watchmdh.to|ebalovo.porn|ebalovo.adult|camlovers.tv|camhub.tv|pornissimo.org|porntn.com|femdomtb.com|pornoham.me|tubsexer.com|homegrownfreaks.net|pornfd.com|sexcams-24.com|watchmdh.to|porno24.to
+@@/player/stats.php$domain=boysxclusive.com|camwhores.tv|viralxxxporn.com|thothub.vip|yesporn.vip|85po.com|85po.net|85xo.com|85xo.com|watchporn.to|viralpornhub.com|watchmdh.to|porn4fans.com|porno24.to|fyxxr.to
+@@/player/stats.php$domain=camwhores.tv|viralxxxporn.com|thothub.vip|yesporn.vip|85po.com|85po.net|85xo.com|85xo.com|watchporn.to|viralpornhub.com|watchmdh.to|porn4fans.com|porno24.to|fyxxr.to
+@@/player_ads.html$domain=boysxclusive.com|camwhores.tv|viralxxxporn.com|thothub.vip|yesporn.vip|85po.com|85po.net|85xo.com|85xo.com|watchporn.to|viralpornhub.com|camwhoresbay.porn|watchmdh.to|ebalovo.porn|ebalovo.adult|camlovers.tv|camhub.tv|pornissimo.org|porntn.com|femdomtb.com|pornoham.me|tubsexer.com|homegrownfreaks.net|pornfd.com|sexcams-24.com|watchmdh.to|porno24.to|fyxxr.to
+@@/player_ads.html$domain=camwhores.tv|viralxxxporn.com|thothub.vip|yesporn.vip|85po.com|85po.net|85xo.com|85xo.com|watchporn.to|viralpornhub.com|camwhoresbay.porn|watchmdh.to|ebalovo.porn|ebalovo.adult|camlovers.tv|camhub.tv|pornissimo.org|porntn.com|femdomtb.com|pornoham.me|tubsexer.com|homegrownfreaks.net|pornfd.com|sexcams-24.com|watchmdh.to|porno24.to|fyxxr.to
 @@/playlist.m3u8
 @@/playlist.m3u8$stealth=referrer|ip
 @@/playlist/*caxi.m3u8$xmlhttprequest,stealth=referrer,domain=crackstreamer.net|streameast.app|1stream.eu|buffstreams.app
@@ -2004,6 +2007,7 @@
 @@||amazoncustomerservice.d2.sc.omtrdc.net^$domain=amazon.es
 @@||amc-widgets.crowdtwist.com/widgets/t/account-
 @@||amebame.com/pub/ads/$image,domain=abema.tv|ameba.jp|ameblo.jp
+@@||amenrecorder.com/invoke.js$xmlhttprequest,domain=filexstream.sujanbotx.workers.dev
 @@||america.cgtn.com^$generichide
 @@||amgload.net/z|$domain=sinoptik.ua|gismeteo.ua
 @@||amhcdn.net/*/*.mp4$stealth=referrer
@@ -2543,7 +2547,6 @@
 @@||app.canada.com/video/assets/js/lib/advertisement.js
 @@||app.clarity.so^$~third-party
 @@||app.clickfunnels.com/assets/lander.js$script,domain=painprophet.com|propanefitness.com
-@@||app.clickfunnels.com/assets/lander.js$script,domain=propanefitness.com
 @@||app.conceptboard.com^*/SocialIcons.js$xmlhttprequest
 @@||app.datapacket.com^$content
 @@||app.erevie.pl/assets/CookieConsent-$~third-party
@@ -2715,6 +2718,7 @@
 @@||aseanlegacy.net/senzement/senzement.js.php
 @@||ashesofcreation.com/show-ad.js$script
 @@||asia-*.inside-graph.com^$domain=lenovo.com
+@@||asiangayporn.tv/embed/$stealth=referrer
 @@||asianporn.li^$generichide
 @@||ask.qcloudimg.com^$stealth=referrer,domain=cloud.tencent.com
 @@||ask4movie.*^$generichide
@@ -3725,6 +3729,7 @@
 @@||cdn.adligature.com^$script,xmlhttprequest,domain=work.ink
 @@||cdn.adoptum.net/ado.js$domain=sms24.me|sms24.info
 @@||cdn.adpushup.com/46258/adpushup.js$xmlhttprequest,domain=tejtime24.com
+@@||cdn.adpushup.com/adpushup.js$xmlhttprequest,domain=filexstream.sujanbotx.workers.dev
 @@||cdn.adrise.tv/js/ads.js$domain=tubitv.com
 @@||cdn.adsafeprotected.com/*.*.js$domain=gentside.com|gentside.de|gentside.co.uk|gentside.com.br|maxisciences.com|ohmymag.com|ohmymag.de
 @@||cdn.adsafeprotected.com/*.js$domain=gentside.com|ohmymag.com
@@ -5377,7 +5382,7 @@
 @@||consentmanager.net^$domain=gutefrage.net
 @@||consentmanager.net^$domain=parkerlebnis.de
 @@||consentmanager.net^$domain=well.pl
-@@||consentmanager.net^$script,subdocument,domain=bauhaus.se|bike-magazin.de|bluray-disc.de|cyberport.at|cyberport.de|dailybuzz.nl|dw.com|eat.de|empfohlen.de|lippu.fi|mediaite.com|morgenpost.de|nius.de|nwzonline.de|play3.de|racingnews365.com|spar.hu|teslamag.de|test.de|testerup.com|vaterland.li|vijesti.hrt.hr|vkmag.com|webfail.com|winfuture.de
+@@||consentmanager.net^$script,subdocument,domain=bauhaus.se|bike-magazin.de|bluray-disc.de|cyberport.at|cyberport.de|dailybuzz.nl|dw.com|eat.de|empfohlen.de|eventim.ro|lippu.fi|mediaite.com|morgenpost.de|nius.de|nwzonline.de|play3.de|racingnews365.com|spar.hu|teslamag.de|test.de|testerup.com|vaterland.li|vijesti.hrt.hr|vkmag.com|webfail.com|winfuture.de
 @@||consents.usercentrics.eu/consent*?controllerId=$domain=sixx.de|prosiebenmaxx.de|sat1.de|prosieben.de|kabeleins.de|sixx.de|sat1gold.de|ran.de|joyn.de|sat1.at
 @@||conservationmag.org^$generichide
 @@||consilium.europa.eu/assets/chunk/cookie-banner.js$~third-party
@@ -5693,7 +5698,6 @@
 @@||cxense.com/cx.cce.js$domain=tarzanweb.jp
 @@||cxense.com/cx.cce.js$domain=tn.com.ar
 @@||cxense.com/cx.js$domain=13.cl|bizjournals.com|businessinsider.de|businessinsider.jp|computerbild.de|cyclestyle.net|diamond.jp|gizmodo.jp|handelsblatt.com|hochi.news|inquirer.com|journaldequebec.com|ksml.fi|mainichi.jp|marketwatch.com|nikkansports.com|nippon.com|savonsanomat.fi|shueisha.co.jp|str.toyokeizai.net|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp|tvnet.lv|wsj.com
-@@||cxense.com/cx.js$domain=13.cl|bizjournals.com|businessinsider.de|businessinsider.jp|computerbild.de|cyclestyle.net|diamond.jp|handelsblatt.com|hochi.news|inquirer.com|journaldequebec.com|ksml.fi|mainichi.jp|marketwatch.com|nikkansports.com|nippon.com|savonsanomat.fi|shueisha.co.jp|str.toyokeizai.net|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp|tvnet.lv|wsj.com
 @@||cxense.com/cx.js$domain=mainichi.jp
 @@||cxense.com/cx.js$domain=nlab.itmedia.co.jp
 @@||cxense.com/cx.js$domain=shueisha.co.jp
@@ -8142,7 +8146,6 @@
 @@||googleapis.com/youtube/$stealth=referrer,domain=learnlinux.tv
 @@||googleapis.com/youtube/*/search?key=$stealth=referrer
 @@||googleapis.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
-@@||googleapiscdn.com/player/*animevietsub.$generichide
 @@||googledrive.com$document
 @@||googledrivelinks.com^$generichide
 @@||googleoptimize.com/optimize.js$domain=binglee.com.au|grasshopper.com|in.bookmyshow.com|inquirer.com|investing.com|lacomer.com.mx|lodgecastiron.com|tentree.ca|virginmedia.com
@@ -9535,7 +9538,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gameswf.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gamezhero.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gamoneinterrupted.com|urochsunloath.com|35volitantplimsoles5.com|antecoxalbobbing1010.com|cyamidpulverulence530.com|guidon40hyporadius9.com|bigclatterhomesguideservice.com|housecardsummerbutton.com|fittingcentermondaysunday.com|un-block-voe.net|voeunblk.com|voeunbl0ck.com|voeunblock2.com|voeunblock.com|voe-unblock.*|voe.sx|phenomenalityuniform.com|kathleenmemberhistory.com|paulkitchendark.com|edwardarriveoften.com|lukecomparetwo.com|kennethofficialitem.com|jamiesamewalk.com|johntryopen.com|morganoperationface.com|jayservicestuff.com|heatherdiscussionwhen.com|robertplacespace.com|alleneconomicmatter.com|josephseveralconcern.com|donaldlineelse.com|bethshouldercan.com|lisatrialidea.com|jessicaglassauthor.com|evelynthankregion.com|lorimuchbenefit.com|susanhavekeep.com|thomasalthoughhear.com|zacharycollectionmight.com|richardstorehalf.com|kimberlyonlocal.com|toddpartneranimal.com|jamessoundcost.com|brittneystandardwestern.com|sandratableother.com|robertordercharacter.com|maxfinishseveral.com|alejandrocenturyoil.com|heatherwholeinvolve.com|kristiesoundsimply.com|adrianmissionminute.com|nathanfromsubject.com|jennifercertaindevelopment.com|richardsignfish.com|sarahnewspaperbeat.com|diananatureforeign.com|jonathansociallike.com|mariatheserepublican.com|johnalwayssame.com|kellywhatcould.com|jilliandescribecompany.com|lukesitturn.com|mikaylaarealike.com|christopheruntilpoint.com|walterprettytheir.com|crystaltreatmenteast.com|lauradaydo.com|lancewhosedifficult.com|dianaavoidthey.com|jefferycontrolmodel.com|jessicaclearout.com|marissasharecareer.com|ianrequireadult.com|charlestoughrace.com|timmaybealready.com|richardquestionbuilding.com|charlessheimprove.com|brittanyaheadnew.com|maryspecialwatch.com|benjaminreducecommunity.com|nicholasbreakplan.com|rebeccasciencestreet.com|bryantenunder.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gamoneinterrupted.com|urochsunloath.com|35volitantplimsoles5.com|antecoxalbobbing1010.com|cyamidpulverulence530.com|guidon40hyporadius9.com|bigclatterhomesguideservice.com|housecardsummerbutton.com|fittingcentermondaysunday.com|un-block-voe.net|voeunblk.com|voeunbl0ck.com|voeunblock2.com|voeunblock.com|voe-unblock.*|voe.sx|phenomenalityuniform.com|kathleenmemberhistory.com|paulkitchendark.com|edwardarriveoften.com|lukecomparetwo.com|kennethofficialitem.com|jamiesamewalk.com|johntryopen.com|morganoperationface.com|jayservicestuff.com|heatherdiscussionwhen.com|robertplacespace.com|alleneconomicmatter.com|josephseveralconcern.com|donaldlineelse.com|bethshouldercan.com|lisatrialidea.com|jessicaglassauthor.com|evelynthankregion.com|lorimuchbenefit.com|susanhavekeep.com|thomasalthoughhear.com|zacharycollectionmight.com|richardstorehalf.com|kimberlyonlocal.com|toddpartneranimal.com|jamessoundcost.com|brittneystandardwestern.com|sandratableother.com|robertordercharacter.com|maxfinishseveral.com|alejandrocenturyoil.com|heatherwholeinvolve.com|kristiesoundsimply.com|adrianmissionminute.com|nathanfromsubject.com|jennifercertaindevelopment.com|richardsignfish.com|sarahnewspaperbeat.com|diananatureforeign.com|jonathansociallike.com|mariatheserepublican.com|johnalwayssame.com|kellywhatcould.com|jilliandescribecompany.com|lukesitturn.com|mikaylaarealike.com|christopheruntilpoint.com|walterprettytheir.com|crystaltreatmenteast.com|lauradaydo.com|lancewhosedifficult.com|dianaavoidthey.com|jefferycontrolmodel.com|jessicaclearout.com|marissasharecareer.com|ianrequireadult.com|charlestoughrace.com|timmaybealready.com|richardquestionbuilding.com|charlessheimprove.com|brittanyaheadnew.com|maryspecialwatch.com|benjaminreducecommunity.com|nicholasbreakplan.com|rebeccasciencestreet.com|kathyinformationwhether.com|kathyinformationwhether.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gauchazh.clicrbs.com.br
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gaystream.pw
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gaystream.pw|vidplayer.live
@@ -11820,6 +11822,7 @@
 @@||myssl.com/scripts/analyze.js
 @@||mytotalconnectcomfort.com^$stealth=dpi
 @@||mytuner-radio.com^$generichide
+@@||mytvsuper.com^$generichide
 @@||myuploadedpremium.de^$generichide
 @@||myvi.ru/player/$stealth
 @@||myvidplay.com^$generichide
@@ -13190,6 +13193,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=facciabuco.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=falpus.com|fooak.com|upfiles-urls.com|upfiles.app|upfion.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=fastssh.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=filexstream.sujanbotx.workers.dev
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=flixscans.*
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=fsbot.xyz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=fuucdayo.com
@@ -14766,6 +14770,7 @@
 @@||rymg.net^$image,stealth=referrer,domain=mangasehri.net
 @@||rzd.ru^$stealth=3p-cookie
 @@||s*-prod.glasgowlive.co.uk/*/prebid.js$domain=glasgowlive.co.uk
+@@||s*.*.xyz/hls2/*.m3u8$stealth=referrer
 @@||s*.5playdisk.ru/*/files/*.apk$stealth=ip
 @@||s*.adform.net/banners/scripts/adx.js$domain=delfi.ee
 @@||s*.bpwco.com^$xmlhttprequest,stealth=referrer
@@ -17574,6 +17579,7 @@
 @@||tvappapk.com^$generichide
 @@||tvarticles.org^$generichide
 @@||tvb.com/social/share_
+@@||tvb.com^$generichide
 @@||tvb.com^*/videojs.ads.
 @@||tvbanywherena.com^$generichide
 @@||tvcatchup.com^$generichide
