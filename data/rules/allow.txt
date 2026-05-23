@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-05-23 10:29:05（北京时间）
+! Version: 2026-05-23 21:09:33（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19003
+! Total count: 19006
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -4549,6 +4549,7 @@
 @@||cdn.us*.exponea.com^|
 @@||cdn.usefathom.com/script.js$domain=sharpen-free-design-generator.netlify.app
 @@||cdn.usefathom.com/script.js$domain=tangiblewp.com
+@@||cdn.vhx.tv/assets/vite/CookieBanner.*.js$domain=watch.dropout.tv
 @@||cdn.videoplaza.tv/contrib/de-ipd/svm/homadConfigVideoplaza-rtl.json$domain=rtl.de
 @@||cdn.videoplaza.tv/contrib/no-vg/svm/homadConfigVideoplaza-vgtv.json^$domain=vgtv.no
 @@||cdn.vidible.tv/stage/js/$domain=dev.vidible.tv
@@ -6072,6 +6073,7 @@
 @@||discoveryplus.in/*/ads/banner_ad.js
 @@||discretemath.org/ads/
 @@||discretemath.org^$image,stylesheet
+@@||dishtv.in/scripts/adobeAnalytics.js$~third-party
 @@||disney.aicdn.live/videos/$stealth=referrer
 @@||disneyplus.com^$generichide
 @@||disneyplus.com^$generichide,badfilter
@@ -9060,6 +9062,7 @@
 @@||hhgregg.com/wcsstore/MadisonsStorefrontAssetStore/javascript/Analytics/AnalyticsTagDataObject.js
 @@||hhkungfu.tv^$generichide
 @@||hideandseek.world/js/prebid-ads.js
+@@||hidencloud.com^$generichide
 @@||hidive.com^|
 @@||highcharts.com.cn/highcharts/modules/heatmap.js
 @@||highresolutionmusic.com^$generichide
