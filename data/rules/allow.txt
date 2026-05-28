@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-05-27 23:01:31（北京时间）
+! Version: 2026-05-28 10:33:57（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19035
+! Total count: 19031
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -153,7 +153,6 @@
 @@/[Ww]eb[Tt]racking/$~subdocument,domain=ups.com
 @@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
 @@/\.(gif|jpg|png|svg).*#.*\/ad\//$image,domain=mizugigurabia.com|aimasummd.blog.fc2.com|newssokuhou666.blog.fc2.com|touhoudougamatome.blog.fc2.com|metamani.blog15.fc2.com|youkaiwatch2345.blog.fc2.com|dokuo666.blog98.fc2.com|mysafe.stisda.ac.id|metamani.blog15.fc2.com|link.technics-goods.info|gfilex.blogspot.com|codare.fun|ads-ti9ni4.blogspot.com|thelibrarydigital.blogspot.com|www-daftarharga.blogspot.com|mediapemersatubangsa.com|ear-phone-review.com|tienganhedu.com|itdmusics.com|burnbutt.com|valuable.hatenablog.com|leechpremium.net|lib.hatenablog.com|gametter.com|mini.surveyenquete.net|opatil.com
-@@/\.(gif|jpg|png|svg).*#.*\/ad\//$image,domain=mizugigurabia.com|aimasummd.blog.fc2.com|newssokuhou666.blog.fc2.com|touhoudougamatome.blog.fc2.com|metamani.blog15.fc2.com|youkaiwatch2345.blog.fc2.com|dokuo666.blog98.fc2.com|mysafe.stisda.ac.id|metamani.blog15.fc2.com|link.technics-goods.info|gfilex.blogspot.com|codare.fun|ads-ti9ni4.blogspot.com|thelibrarydigital.blogspot.com|www-daftarharga.blogspot.com|mediapemersatubangsa.com|love-stoorey210.net|ear-phone-review.com|tienganhedu.com|itdmusics.com|burnbutt.com|valuable.hatenablog.com|leechpremium.net|lib.hatenablog.com|gametter.com|mini.surveyenquete.net|opatil.com
 @@/\.(quest|shop|autos)\/.*\./$script,xmlhttprequest,domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*|currentcolorq2dv.*|determinemousecshe.*|publicspeed5c.*|limiteddollqjc.*
 @@/\/[js].?[js]\/.*\.js/$script,xmlhttprequest,domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*|currentcolorq2dv.*|determinemousecshe.*|publicspeed5c.*|limiteddollqjc.*
 @@/\/\d\d\d\d\d$/$xmlhttprequest,script,other,third-party,domain=jujmanga.com
@@ -3686,6 +3685,7 @@
 @@||cdn*.pw/stream2/cdn-*/index.m3u8$stealth=ip|referrer
 @@||cdn*.vb*rexhammond.pw/stream*/cdn*$stealth=ip
 @@||cdn-*.convertexperiments.com/js^$domain=xda-developers.com
+@@||cdn-*.pixel-sus-4k-image.com/stream/$stealth=referrer
 @@||cdn-a.yieldlove.com/yieldlove-bidder.js?meczyki.pl_mobile$domain=meczyki.pl
 @@||cdn-aitg.widerplanet.com/js/wp_astg_$script,domain=larocheposay.co.kr
 @@||cdn-cookieyes.com/client_data/$script,xmlhttprequest
@@ -6819,7 +6819,6 @@
 @@||fakt.pl/*srcc=$stealth=referrer
 @@||fakt.pl^$generichide,badfilter
 @@||faktykaliskie.pl^$generichide
-@@||fakyu.net^$generichide
 @@||famfonts.com^$generichide
 @@||familyhandyman.com$generichide
 @@||familyporner.com/jesojof/js/prebid-ads.js
@@ -10969,7 +10968,6 @@
 @@||lostpod.space/static/streaming-playlists/$domain=videos.john-livingston.fr
 @@||lostproject.club/*/subtitles/$stealth=referrer
 @@||loucasporcabelos.com.br^$stealth=referrer
-@@||love-stoorey210.net^$generichide
 @@||loveawake.com^$generichide
 @@||lovegardenbirds.co.uk/static/*/Amasty_GdprFrontendUi/
 @@||lovingsiren.com^$generichide
@@ -12851,7 +12849,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lootlink.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=loudwire.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=loukoala.blogspot.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=love-stoorey210.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lulu0.ovh|vsex.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lumiafirmware.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lustesthd.*|bonsaiprolink.*
@@ -13614,7 +13611,6 @@
 @@||penducado.com/styles/ads.css
 @@||pengantartidurkuh.blogspot.com^$generichide
 @@||penta.a.one.impact-ad.jp^$script,domain=www3.nissan.co.jp
-@@||peperonity.net^$generichide
 @@||pepperjamnetwork.com/banners/$image,domain=extrarebates.com
 @@||pepperjamnetwork.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||per*.segmentify.com^$app=com.carrefoursa.ecommerce
