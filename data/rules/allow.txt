@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-07-09 10:15:20（北京时间）
+! Version: 2026-07-09 22:40:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19231
+! Total count: 19232
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -1967,6 +1967,7 @@
 @@||allegro.pl/affiliate?redirect_url=$removeparam=utm_source
 @@||allfaucet.xyz^$generichide
 @@||allhomecinema.com^$generichide
+@@||allinonerebornvip.blogspot.com^$generichide
 @@||allkaicerteam.com^$generichide
 @@||allkpop.com/ads/ads.js
 @@||alllaw.112.2o7.net^
@@ -5362,6 +5363,7 @@
 @@||consent.cookiebot.com/uc.js$domain=cineplex.de
 @@||consent.cookiebot.com/uc.js$domain=clo3d.com
 @@||consent.cookiebot.com/uc.js$domain=comenzi.bebetei.ro
+@@||consent.cookiebot.com/uc.js$domain=compo.de
 @@||consent.cookiebot.com/uc.js$domain=continente.pt
 @@||consent.cookiebot.com/uc.js$domain=creator.fronius.com
 @@||consent.cookiebot.com/uc.js$domain=dasinvestment.com
@@ -5466,6 +5468,7 @@
 @@||consentcdn.cookiebot.com/consentconfig/$domain=uno-fluechtlingshilfe.de
 @@||consentcdn.cookiebot.com/consentconfig/$xmlhttprequest,domain=asket.com
 @@||consentcdn.cookiebot.com/sdk/$domain=shop-apotheke.com
+@@||consentcdn.cookiebot.com^$domain=compo.de
 @@||consentcdn.cookiebot.com^$domain=popsci.com
 @@||consentmanager.mgr.consensu.org/delivery/$domain=swm.de
 @@||consentmanager.mgr.consensu.org/delivery/$stylesheet,xmlhttprequest,domain=sourceforge.net
@@ -6944,6 +6947,7 @@
 @@||fast.fonts.net/jsapi/core/mt.js$script,domain=abeautifuldominion.com|bkmedical.com|eclecticbars.co.uk|gables.com|itsolutions-inc.com|kinsfarmmarket.com|senate.gov|toyotagazooracing.com
 @@||fastag.kotak.com^$stealth=dpi
 @@||fastcoin.ga^$generichide
+@@||fastly-analytics.com/debug_resolver$xmlhttprequest,domain=fastly-debug.com
 @@||fastly.net/js/_ads/prebid-*-min.js$domain=spanishdict.com
 @@||fastmail.com^$generichide
 @@||fastrapidleech.com/*/adsbygoogle.js$script
@@ -8513,6 +8517,7 @@
 @@||googletagmanager.com/gtm.js$domain=gillette.de
 @@||googletagmanager.com/gtm.js$domain=givingfuel.com|regfox.com|ticketspice.com|redpodium.com
 @@||googletagmanager.com/gtm.js$domain=glamusha.ru
+@@||googletagmanager.com/gtm.js$domain=globaltools.dk|globaltools.no|globaltools.se
 @@||googletagmanager.com/gtm.js$domain=globo.com
 @@||googletagmanager.com/gtm.js$domain=gocomics.com
 @@||googletagmanager.com/gtm.js$domain=godaddy.com
@@ -9675,7 +9680,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.metv.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.miamiherald.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.word.tips
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gameswf.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gamezhero.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gauchazh.clicrbs.com.br
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gaystream.pw
@@ -13279,7 +13283,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=yodu.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=youneed.win
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ytstv.me
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=z-lib.io
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=za.gl
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=zdopravy.cz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=zefoy.com
@@ -13360,7 +13363,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=cosplay18.pics
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=couponscorpion.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=dessi.io
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=dudestream.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=edumailfree.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=egotter.com
@@ -18381,7 +18383,6 @@
 @@||voyeurhouse.life^$generichide
 @@||vplayer.ilsemedia.nl/swf/im_player.swf?
 @@||vpnconnect.ru$jsinject,elemhide,extension
-@@||vpnjantit.com^$generichide
 @@||vpnsplit.com/ads/advertisement.js
 @@||vpobede.ru/assets/images/footer-social/$~third-party,xmlhttprequest
 @@||vporn.com^$domain=vporn.com,important
