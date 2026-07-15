@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-07-15 09:48:08（北京时间）
+! Version: 2026-07-15 21:21:50（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19236
+! Total count: 19233
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -74,6 +74,7 @@
 @@.jpg#$domain=huhupan.com
 @@.jpg#$domain=ktmx.pro
 @@.jpg#$domain=marketmovers.it
+@@.jpg|$third-party,xmlhttprequest,stealth=referrer,domain=embdmstrplayer.com
 @@.js$xmlhttprequest,stealth=referrer,domain=roxiestreams.*
 @@.js?fcd=true$domain=snopes.com
 @@.m3u8$domain=gimy.com.tv|gimy.com.tw|gimy.tv
@@ -92,6 +93,7 @@
 @@.mp4$domain=crunchyroll.com,stealth=referrer
 @@.mp4$media,stealth=referrer,domain=api.animeuzayi.com
 @@.mp4$media,stealth=referrer,domain=sekai.one
+@@.mp4%3Fsign%3$third-party,media,stealth=referrer,domain=vidrock.ru
 @@.mp4?headers$media,stealth=referrer,domain=vidlink.pro
 @@.my.salesforce-setup.com/_ui/common/config/field/*/d?id=*&type=
 @@.myvi.ru^$stealth
@@ -463,6 +465,8 @@
 @@/libs/advertisement.js$domain=getfree.co.in|bagi.co.in|aztecafaucet.space|multifaucet.org|dogestar.website|claimbits.io|i-bits.io|gobits.io|faucet.shorterall.com|simplyfaucet.xyz|tv3.lv
 @@/libs/advertisement1.js$domain=faucet.shorterall.com
 @@/live/*.m3u8$xmlhttprequest,stealth=referrer,domain=weakspell.to|weakspell.org|streamocean.online|weakspell.to
+@@/live/*.m3u8$xmlhttprequest,stealth=referrer,domain=weakspell.to|weakspell.org|weakspell.to
+@@/live/*.ts|$xmlhttprequest,stealth=referrer,domain=weakspell.org
 @@/live/*.ts|$xmlhttprequest,stealth=referrer,domain=weakspell.org|streamocean.online
 @@/live/*/*jpeg|$xmlhttprequest,stealth=referrer,domain=weakspell.org|weakspell.to
 @@/log/report/*$script,domain=bilibili.com
@@ -840,7 +844,6 @@
 @@||10086.cn^$generichide
 @@||10086.cn^*/ad$~3p
 @@||10086.cn^*/ad$~third-party
-@@||100count.net/*/linko/advertisement.js
 @@||101soundboards.com^$generichide
 @@||109.163.231.44^$generichide
 @@||109.236.92.205^*.m3u8$stealth=referrer
@@ -2302,6 +2305,7 @@
 @@||api-v*.trbo.com/r.php$domain=o2online.de
 @@||api-v*.trbo.com^|
 @@||api.*.commercetools.com^$stealth=3p-auth,domain=qt.io
+@@||api.*/seed?mediaId=$third-party,xmlhttprequest,stealth=referrer
 @@||api.1plus1.video^$stealth=referrer|ip
 @@||api.academia.edu/v0/users/*/stats$script
 @@||api.adguard-dns.io/api/
@@ -5091,7 +5095,6 @@
 @@||cmp.dmgmediaprivacy.co.uk/*/vendor-list.json$domain=gbnews.com
 @@||cmp.dmgmediaprivacy.co.uk/cmp/*/index.js$domain=gbnews.com
 @@||cmp.dmgmediaprivacy.co.uk^$domain=dailymail.co.uk
-@@||cmp.dmgmediaprivacy.co.uk^$domain=inews.co.uk
 @@||cmp.dmgmediaprivacy.co.uk^$domain=metro.co.uk
 @@||cmp.faktor.mgr.consensu.org/dist/*/portal.html?vendorListLocation=$domain=omroepwest.nl
 @@||cmp.faktor.mgr.consensu.org/dist/*/portal.html?vendorListLocation=$domain=weeronline.nl
@@ -7226,9 +7229,6 @@
 @@||free-sms-receive.com/static/ad/ads.js$domain=free-sms-receive.com
 @@||freean.us/intermission/loadTargetUrl$xmlhttprequest
 @@||freeapps4y.blogspot.com^$generichide
-@@||freebcc.org/assets/img/ad_468x60_*.png
-@@||freebcc.org/claim/vendor/ads/ads.js
-@@||freebcc.org/static/ads/popunder.js
 @@||freebitco.in^$generichide
 @@||freebitcoin.win/static/deliver_ads/popunder_moon_ads_*.js$~third-party
 @@||freebitcoin.win^$generichide
@@ -11215,7 +11215,6 @@
 @@||magiccandles.eu/service/adv/popunder/ads.js$domain=filext.com
 @@||magicvalley.com^$generichide
 @@||magni.itv.com/playlist/$stealth=ip
-@@||mahimeta.com/networks/ad_code.php$domain=biggboss13.io
 @@||mahimeta.com/networks/ad_code.php$domain=farescd.com
 @@||mahitimanch.in^$generichide
 @@||maidenhead-advertiser.co.uk^$generichide
@@ -13849,7 +13848,6 @@
 @@||pips.taboola.com^|$xmlhttprequest,domain=lephoceen.fr
 @@||pisupisu.pl/*/adsbygoogle.js
 @@||pisupisu.pl^$generichide
-@@||pitbullofficial.com^$generichide
 @@||piwik.pro/images/
 @@||piwik.windit.de/piwik.js$domain=livespotting.tv
 @@||pix04.revsci.net/E05510/a4/0/0/pcx.js?$domain=video.foxbusiness.com
@@ -17620,7 +17618,6 @@
 @@||traffichaus.com/scripts/banner-ad.js
 @@||trafficmanager.anyclip.com^$domain=content.dictionary.com
 @@||trafficmanager.anyclip.com^$domain=zerotackle.com
-@@||trailblaze.my.salesforce-setup.com/_ui/common/config/field/*/d?id=*&type=
 @@||trailrunnermag.com^$stealth=dpi
 @@||trakel.org/*/image_resize.php?ad=
 @@||trakus.org/kods_bird/uye/image_resize.php?ad=
