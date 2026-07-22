@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-07-22 09:59:56（北京时间）
+! Version: 2026-07-22 21:29:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19255
+! Total count: 19258
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -506,6 +506,7 @@
 @@/premium*/tracks-*.html$xmlhttprequest,stealth=referrer
 @@/progress.php?callback=$script,domain=ytmp3.cc
 @@/proxy?data=$third-party,xmlhttprequest,stealth=referrer,domain=flixer.*
+@@/proxy?data=$third-party,xmlhttprequest,stealth=referrer,domain=hexa.su
 @@/pub/ad/*$domain=ruten.com.tw
 @@/pub1/??$domain=banggo.com
 @@/pubads*theguardian.com
@@ -6805,6 +6806,7 @@
 @@||eu.spgo.io/*~/aaa$~image
 @@||eu4cn.com^$generichide
 @@||euoptout.mookie1.com^$domain=optout.mookie1.com
+@@||eurofirany.com.pl/static/$domain=eurofirany.com.pl
 @@||eurogamer.pt^$generichide
 @@||euromaster.de/v/$script,~third-party
 @@||euromaster.de/v/*/jquery/
@@ -11941,6 +11943,7 @@
 @@||my.gumtree.com/login$stealth=1p-cookie
 @@||my.leadpages.net/template/$script,domain=weddingjams.com|thesaturdaypaper.com.au|careercontessa.com
 @@||my.leadpages.net^*/public/
+@@||my.microsoftpersonalcontent.com^$stealth=3p-auth
 @@||my.minecraft.net/static/site/minecraft/privacy^
 @@||my.nextdns.io^$stealth=dpi
 @@||my.onvista.de^$stealth=dpi
