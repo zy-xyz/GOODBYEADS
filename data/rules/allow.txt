@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-07-27 10:13:54（北京时间）
+! Version: 2026-07-27 22:16:32（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19270
+! Total count: 19280
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -2363,7 +2363,10 @@
 @@||api.captchme.net/api/media$image
 @@||api.channel.io/front/$stealth=useragent,domain=laftel.net
 @@||api.chartbeat.com^$script,domain=financialpost.com|wcpo.com|couriermail.com.au|betabeat.com
+@@||api.clerk.io/v*/log/$domain=apotera.no
 @@||api.clerk.io/v*/log/$domain=avxperten.at|avxperten.be|avxperten.com|avxperten.cy|avxperten.cz|avxperten.de|avxperten.dk|avxperten.ee|avxperten.es|avxperten.fi|avxperten.fr|avxperten.gr|avxperten.hr|avxperten.hu|avxperten.it|avxperten.lt|avxperten.lu|avxperten.lv|avxperten.nl|avxperten.no|avxperten.pl|avxperten.pt|avxperten.ro|avxperten.se|avxperten.si|avxperten.sk
+@@||api.clerk.io/v*/log/$domain=industrivarer.no
+@@||api.clerk.io/v*/log/$domain=jaktdepotet.no
 @@||api.clerk.io/v*/log/click?$domain=fjellandhandel.no
 @@||api.clerk.io/v*/log/click?payload=$domain=ringo.no
 @@||api.cognitive.microsofttranslator.com/translate?
@@ -5881,6 +5884,7 @@
 @@||d2r1yp2w7bby2u.cloudfront.net/js/a.js$domain=lottiefiles.com
 @@||d2r1yp2w7bby2u.cloudfront.net/js/a.js$domain=sonyliv.com
 @@||d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js$domain=tatacliq.com
+@@||d2rs.com^$subdocument,stealth=referrer,domain=jetfilmizle.*
 @@||d2ty8gaf6rmowa.cloudfront.net/ad/ads.js
 @@||d2ujtyf7wfmq6y.cloudfront.net/ads/ads.html$domain=reisefrage.net|motorradfrage.net|autofrage.net|sportlerfrage.net|gesundheitsfrage.net|finanzfrage.net|computerfrage.net|gutefrage.net
 @@||d2wy8f7a9ursnm.cloudfront.net/v8/bugsnag.min.js$script,domain=forecastapp.com
@@ -8903,6 +8907,7 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=phonearena.com
 @@||googletagservices.com/tag/js/gpt.js$domain=proximus.be
 @@||googletagservices.com/tag/js/gpt.js$domain=scotsman.com,badfilter
+@@||googletagservices.com/tag/js/gpt.js$domain=smart.siendu.com
 @@||googletagservices.com/tag/js/gpt.js$domain=techrepublic.com
 @@||googletagservices.com/tag/js/gpt.js$domain=thestar.co.uk
 @@||googletagservices.com/tag/js/gpt.js$domain=topuniversities.com
@@ -9512,6 +9517,7 @@
 @@||idealsilhouette.com^$generichide
 @@||identity.mparticle.com/v*/identify$domain=cwseed.com
 @@||identity.mparticle.com/v*/identify$domain=nbc.com|amcplus.com
+@@||identity.mparticle.com/v*/identify$domain=nbc.com|amcplus.com|ifc.com
 @@||identity.mparticle.com/v1/identify$domain=cwtv.com
 @@||identity.mparticle.com^$xmlhttprequest
 @@||identity.oraclecloud.com//sso/v*/sdk/authenticate$stealth=3p-auth,domain=v2.ereg.ets.org
@@ -10507,6 +10513,7 @@
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=cwseed.com
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=cwtv.com
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=nbc.com|amcplus.com
+@@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=nbc.com|amcplus.com|ifc.com
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=weather.com
 @@||jstatic.3.cn^$domain=m.jd.com
 @@||jswenhui.com^*/ad/
@@ -13172,6 +13179,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=slink.bid
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smallseotools.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smallseotools.com,badfilter
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smart.siendu.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sms-receive.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sms24.me|sms24.info
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smsget.net
@@ -16580,6 +16588,7 @@
 @@||static.doubleclick.net/instream/ad_status.js$domain=linkneverdie.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=nasdaqfutures.org,xmlhttprequest
 @@||static.doubleclick.net/instream/ad_status.js$domain=shineads.in
+@@||static.doubleclick.net/instream/ad_status.js$domain=smart.siendu.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=sonixgvn.net
 @@||static.doubleclick.net/instream/ad_status.js$domain=stfly.biz
 @@||static.doubleclick.net/instream/ad_status.js$domain=techedubyte.com
@@ -18280,6 +18289,7 @@
 @@||videocore.tv/playlist.smil$document
 @@||videohidefree.online/embed/$stealth=referrer
 @@||videoo.info/show_ads.js$script,domain=videoo.info
+@@||videopark.top^$subdocument,stealth=referrer,domain=jetfilmizle.*
 @@||videoplayer.persgroep.be/v*/player/ad_smartads_.js
 @@||videoplaza.tv/creatives/assets*.mp4^$domain=expressen.se
 @@||videoplaza.tv/crossdomain.xml
