@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-08-12 09:18:02（北京时间）
+! Version: 2026-08-12 20:53:50（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19338
+! Total count: 19337
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -179,6 +179,7 @@
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/thumbs_5\/\d{1,2}(?:\(m=e[0-9A-Za-z]{5,7}aaaa\)\(mh=[-_0-9A-Za-z]{16}\))?\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/[a-z]?jz\/(?:[0-9a-f]\/){3,5}[0-9a-f]{42}-?(?:\d{2,3}|(?:(?:\d{3,4}-){3}h264)?\.(?:mp4-\d{1,2}|flv-\d))\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/sb\/t\/\d{6,8}\/\d\/\d\/w:300\/t\d{1,2}-enh\/(?:[0-9a-z]+-)*[0-9a-z]+\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
+@@/^https:\/\/imgbb.zip\/ib\/[a-z0-9]{15}_[0-9]{10}\.jpg$/$image,third-party,stealth=referrer,domain=rogmovies.*|xprimehub.*|vegamovies.*|1vegamovies.cc|rogmovies.cv|xprimehub.bond
 @@/^https:\/\/imgbb.zip\/ib\/[a-z0-9]{15}_[0-9]{10}\.jpg$/$image,third-party,stealth=referrer,domain=rogmovies.*|xprimehub.*|vegamovies.*|vegamovies.catering|rogmovies.cv|xprimehub.bond
 @@/^https:\/\/mshale\.com\/[a-f0-9]{8}\/[a-zA-Z0-9]+$/$match-case,stealth=referrer|searchqueries
 @@/^https:\/\/st\.pussyspace\.(?:com|net)\/upload\/cat\.image\/[_3a-z]{2,16}\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
@@ -588,7 +589,6 @@
 @@/uploads/ads/*$domain=newauto46.ru
 @@/urchin.js$domain=on.cc
 @@/usr/themes/Mirages/css/
-@@/v/*-*/*p/*.png$stealth=referrer,media
 @@/v/*-*/*p/*.png$stealth=referrer,media,xmlhttprequest
 @@/v/*.gif$stealth=referrer,xmlhttprequest,domain=player.bunny-frame.online
 @@/v/*.html$stealth=referrer,xmlhttprequest,domain=player.bunny-frame.online
@@ -718,6 +718,7 @@
 @@?type=*&id=$third-party,stealth=referrer,domain=nextbox.uno|next-box.su
 @@?url=$xmlhttprequest,media,stealth=referrer,domain=cinezo.live
 @@^abcheck=$domain=animeshqip.org
+@@^probe=$script,domain=coinadster.com
 @@^stream^$xmlhttprequest,media,stealth=referrer,domain=cinesrc.st
 @@^utm_source=aff^$popup,domain=gamble.co.uk|gokkeninonlinecasino.nl|top5casinosites.co.uk
 @@^vast^$domain=4gtv.tv,~script,~image
@@ -1991,7 +1992,6 @@
 @@||allabout.co.jp/mtx_cnt.js$script,~third-party
 @@||alladvices.ru/wp-content/plugins/angwp/assets/dev/js/advertising.js
 @@||allanalpass.com/intermission/loadTargetUrl$xmlhttprequest
-@@||allarewin.space/assets/ads-*.js
 @@||allegro.pl/affiliate?redirect_url=$removeparam=clickId
 @@||allegro.pl/affiliate?redirect_url=$removeparam=utm_campaign
 @@||allegro.pl/affiliate?redirect_url=$removeparam=utm_source
@@ -7068,7 +7068,6 @@
 @@||feyorra.top^$generichide
 @@||fforfree.net^$generichide
 @@||fharr.com^$generichide
-@@||fhd.*.xyz/v/*.png$stealth=referrer
 @@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
 @@||fichub.com/plugins/adobe/lib/VisitorAPI.js$domain=natgeotv.com
 @@||fifa.com^*/webanalytics.js?
@@ -9926,6 +9925,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tubitv.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tunegenie.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tunein.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvbanywherena.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvid.in
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvn24.pl|tvn.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvp.pl|tvp.info
@@ -13524,7 +13524,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=wouterplanet.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=www.msn.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=ytapi.cc
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=zeroupload.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=zippyshare.day
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=zsexf.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,script,domain=cybermania.ws|spyro.blogu.co.uk|jobalertswithgbrar.com|radiofreehubcity.com|edoga.biz.hr|chat.irc.in.th|rozgarnews.com
