@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-08-18 08:50:16（北京时间）
+! Version: 2026-08-18 20:31:05（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19342
+! Total count: 19354
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -100,6 +100,7 @@
 @@.mp4$media,stealth=referrer,domain=sekai.one
 @@.mp4%3Fsign%3$third-party,media,stealth=referrer,domain=vidrock.ru
 @@.mp4?$media,stealth=referrer,domain=vidlink.pro
+@@.mp4?sign=$media,stealth=referrer,domain=themoviebox.org|movieboxonline.net|123moviesfree.club|netnaija.film|m2box.org|netfilm.world
 @@.my.salesforce-setup.com/_ui/common/config/field/*/d?id=*&type=
 @@.myvi.ru^$stealth
 @@.net/click-$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
@@ -181,6 +182,7 @@
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/[a-z]?jz\/(?:[0-9a-f]\/){3,5}[0-9a-f]{42}-?(?:\d{2,3}|(?:(?:\d{3,4}-){3}h264)?\.(?:mp4-\d{1,2}|flv-\d))\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/sb\/t\/\d{6,8}\/\d\/\d\/w:300\/t\d{1,2}-enh\/(?:[0-9a-z]+-)*[0-9a-z]+\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/imgbb.zip\/ib\/[a-z0-9]{15}_[0-9]{10}\.jpg$/$image,third-party,stealth=referrer,domain=rogmovies.*|xprimehub.*|vegamovies.*|new1.vegamovies.futbol|rogmovies.cv|xprimehub.bond
+@@/^https:\/\/imgbb.zip\/ib\/[a-z0-9]{15}_[0-9]{10}\.jpg$/$image,third-party,stealth=referrer,domain=rogmovies.*|xprimehub.*|vegamovies.*|new2.vegamovies.futbol|rogmovies.cv|xprimehub.bond
 @@/^https:\/\/mshale\.com\/[a-f0-9]{8}\/[a-zA-Z0-9]+$/$match-case,stealth=referrer|searchqueries
 @@/^https:\/\/st\.pussyspace\.(?:com|net)\/upload\/cat\.image\/[_3a-z]{2,16}\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/st\.pussyspace\.(?:com|net)\/upload\/poster_img_url\/par\/c3Rhci9[%0-9A-Za-z]{16,32}&size_width\/par\/160\/l\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
@@ -2389,7 +2391,6 @@
 @@||api.channel.io/front/$stealth=useragent,domain=laftel.net
 @@||api.chartbeat.com^$script,domain=financialpost.com|wcpo.com|couriermail.com.au|betabeat.com
 @@||api.clerk.io/v*/log/$domain=apotera.no
-@@||api.clerk.io/v*/log/$domain=avxperten.at|avxperten.be|avxperten.com|avxperten.cy|avxperten.cz|avxperten.de|avxperten.dk|avxperten.ee|avxperten.es|avxperten.fi|avxperten.fr|avxperten.gr|avxperten.hr|avxperten.hu|avxperten.it|avxperten.lt|avxperten.lu|avxperten.lv|avxperten.nl|avxperten.no|avxperten.pl|avxperten.pt|avxperten.ro|avxperten.se|avxperten.si|avxperten.sk
 @@||api.clerk.io/v*/log/$domain=avxperten.at|avxperten.be|avxperten.com|avxperten.cy|avxperten.cz|avxperten.de|avxperten.dk|avxperten.ee|avxperten.es|avxperten.fi|avxperten.fr|avxperten.gr|avxperten.hr|avxperten.hu|avxperten.it|avxperten.lt|avxperten.lu|avxperten.lv|avxperten.nl|avxperten.no|avxperten.pl|avxperten.pt|avxperten.ro|avxperten.se|avxperten.si|avxperten.sk|brukas.no
 @@||api.clerk.io/v*/log/$domain=industrivarer.no
 @@||api.clerk.io/v*/log/$domain=jaktdepotet.no
@@ -3587,6 +3588,7 @@
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=standard.co.uk
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=tasteofhome.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=thedailybeast.com
+@@||c.amazon-adsystem.com/aax2/apstag.js$domain=theroot.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=time.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=upfilesgo.com|upplinks.net|upfion.com|upfiles.app|upfiles-urls.com|falpus.com|fooak.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=venge.io
@@ -3941,7 +3943,6 @@
 @@||cdn.clarip.com/frontier/cookieconsent/$domain=flyfrontier.com
 @@||cdn.clarip.com^$stealth=useragent,domain=jcrew.com
 @@||cdn.clerk.io/clerk.js$domain=apotera.no
-@@||cdn.clerk.io/clerk.js$domain=avxperten.at|avxperten.be|avxperten.com|avxperten.cy|avxperten.cz|avxperten.de|avxperten.dk|avxperten.ee|avxperten.es|avxperten.fi|avxperten.fr|avxperten.gr|avxperten.hr|avxperten.hu|avxperten.it|avxperten.lt|avxperten.lu|avxperten.lv|avxperten.nl|avxperten.no|avxperten.pl|avxperten.pt|avxperten.ro|avxperten.se|avxperten.si|avxperten.sk
 @@||cdn.clerk.io/clerk.js$domain=avxperten.at|avxperten.be|avxperten.com|avxperten.cy|avxperten.cz|avxperten.de|avxperten.dk|avxperten.ee|avxperten.es|avxperten.fi|avxperten.fr|avxperten.gr|avxperten.hr|avxperten.hu|avxperten.it|avxperten.lt|avxperten.lu|avxperten.lv|avxperten.nl|avxperten.no|avxperten.pl|avxperten.pt|avxperten.ro|avxperten.se|avxperten.si|avxperten.sk|brukas.no
 @@||cdn.clerk.io/clerk.js$domain=batteribyen.dk|batterionline.no|batterionline.se
 @@||cdn.clerk.io/clerk.js$domain=dehardloopwinkel.nl
@@ -4777,6 +4778,7 @@
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock^$domain=fotbolltransfers.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery$domain=opensubtitles.org
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*/jquery.min.js$domain=ouo.press|ouo.io
+@@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs-contrib-ads.min.js$domain=theroot.com
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.css$domain=abcya.com
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.js$domain=radiojavan.com
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.js$domain=wtk.pl
@@ -7006,6 +7008,7 @@
 @@||faq-widget.nakanohito.jp/faqwidget.js$domain=keio-passport.co.jp
 @@||faq.subaru.jp^$stealth=dpi
 @@||faq.viewcard.co.jp^$stealth=dpi
+@@||farfarout.org/farfarout-api/$xmlhttprequest,stealth=referrer
 @@||farmet.info/ads.php$subdocument
 @@||fashion-headline.com/js/jquery.smartbanner.js
 @@||fast*.vidplus.dev/file*/*?host=$xmlhttprequest,stealth=referrer
@@ -8094,6 +8097,7 @@
 @@||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=tv-media.at,important
 @@||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=upc.pl
 @@||google-analytics.com/analytics.js$stealth=referrer,domain=tv-media.at
+@@||google-analytics.com/analytics.js$xmlhttprequest,domain=moviesdl.cc
 @@||google-analytics.com/analytics.js$xmlhttprequest,domain=tryigit.dev
 @@||google-analytics.com/analytics.js^$domain=accountkiller.com
 @@||google-analytics.com/analytics.js^$domain=cosstores.com
@@ -8267,6 +8271,7 @@
 @@||googleads.g.doubleclick.net/pagead/ads$domain=next-episode.net
 @@||googleads.g.doubleclick.net/pagead/ads$subdocument,domain=rjno1.com
 @@||googleads.g.doubleclick.net/pagead/ads$subdocument,third-party,domain=~afreesms.com
+@@||googleads.g.doubleclick.net/pagead/ads$xmlhttprequest,domain=moviesdl.cc
 @@||googleads.g.doubleclick.net/pagead/ads?*&url=http*.4gtv.tv*&output=xml_vast*.4gtv.tv$domain=imasdk.googleapis.com
 @@||googleads.g.doubleclick.net/pagead/ads?ads$domain=freebinchecker.com
 @@||googleads.g.doubleclick.net/pagead/ads?ads$domain=freevocabulary.com
@@ -8661,6 +8666,7 @@
 @@||googletagmanager.com/gtm.js$domain=m.kinomax.ru
 @@||googletagmanager.com/gtm.js$domain=m.papajohns.ru
 @@||googletagmanager.com/gtm.js$domain=m2o.it|deejay.it|capital.it
+@@||googletagmanager.com/gtm.js$domain=magasiner.familiprix.com
 @@||googletagmanager.com/gtm.js$domain=mainichi.jp
 @@||googletagmanager.com/gtm.js$domain=make.dmm.com
 @@||googletagmanager.com/gtm.js$domain=makitani.net
@@ -9930,6 +9936,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tenceretv.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=texastech.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=theplayerstribune.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=theroot.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=theticket.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=timesnownews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=titans.com.au
@@ -11640,6 +11647,7 @@
 @@||mf.advantage.as/if/imshow.php$domain=f1sport.autorevue.cz
 @@||mfah.org^$stealth=dpi
 @@||mfbcdn.net/scripts/ads.js$domain=myfxbook.com
+@@||mfcdn*.xyz^$image,stealth=referrer,domain=mangafire.to
 @@||mfcdn.net/store/$stealth=referrer,domain=fanfox.net
 @@||mfstatic.cz/js/advantage.min.js$domain=mobilmania.cz
 @@||mgcashgate.com/cpalocker/?$domain=free-movie-home.com
@@ -13483,6 +13491,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=maxcheaters.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=mbjremix.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=minorpatch.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=moviesdl.cc
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=mtg-print.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=nohat.cc|psd.world|png.is
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=now.gg|now.us
@@ -16555,6 +16564,7 @@
 @@||static.adman.gr^$domain=naftemporiki.gr
 @@||static.admysports.com/hb/site/als/hb_allosurf.js$domain=allosurf.net
 @@||static.ads-twitter.com/ads.js$domain=cinehd.app
+@@||static.ads-twitter.com/ads.js$xmlhttprequest,domain=moviesdl.cc
 @@||static.ads-twitter.com/oct.js$domain=boston.com|calgaryherald.com|calgarysun.com|celebuzz.com|montrealgazette.com|saveur.com
 @@||static.ads-twitter.com/oct.js$domain=itemmania.in.th
 @@||static.ads-twitter.com/uwt.js$domain=cms.nova.cz
@@ -18480,6 +18490,7 @@
 @@||voldffgkdsllkjthlkjt.b-cdn.net/ads/ads.js
 @@||volvo-club.cz^$generichide
 @@||vox-xov-cdn-*.$xmlhttprequest,stealth=referrer,domain=nepu.*
+@@||vox-xov-cdn-*.$xmlhttprequest,stealth=referrer,domain=nepu.*|4k.beer
 @@||voxfm.pl^$generichide
 @@||voxmusic.tv/html/js/adv.bbelements.js$script,domain=voxmusic.tv
 @@||voyeur-house.fun^$generichide
@@ -18857,6 +18868,7 @@
 @@||wouterplanet.com/scripts/ads-front.min.js$domain=wouterplanet.com
 @@||wouterplanet.com^$generichide
 @@||wowclassicbis.com^$generichide
+@@||wowpic*.store^$image,stealth=referrer,domain=comix.*
 @@||wp.com/_static/*/gaAddons.js
 @@||wp.hit.gemius.pl/gdejs/xgde.js$domain=wp.pl
 @@||wp.pl/*-FwkqOxhmGz4XCSo7GGYbPhcJKjsYZhs-$script,domain=pilot.wp.pl
