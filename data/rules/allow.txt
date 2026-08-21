@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-08-21 08:54:52（北京时间）
+! Version: 2026-08-21 20:32:54（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19362
+! Total count: 19373
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -4033,6 +4033,7 @@
 @@||cdn.cookielaw.org/consent/*.json$domain=soundcloud.com
 @@||cdn.cookielaw.org/consent/*.json$domain=southparkstudios.com.br|southpark.lat|southparkstudios.com|southpark.de
 @@||cdn.cookielaw.org/consent/*.json$domain=speedweek.com
+@@||cdn.cookielaw.org/consent/*.json$domain=ssga.com
 @@||cdn.cookielaw.org/consent/*.json$domain=timeextension.com
 @@||cdn.cookielaw.org/consent/*.json$domain=tntsports.co.uk
 @@||cdn.cookielaw.org/consent/*.json$domain=trustpilot.com
@@ -4102,6 +4103,7 @@
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=speedweek.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=spektrum.de
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=sportiva.shueisha.co.jp
+@@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=ssga.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=thoughtco.com|www-thoughtco-com.translate.goog
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=tntsports.co.uk
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=tomthumb.com
@@ -5482,8 +5484,11 @@
 @@||consent.cookiefirst.com/banner.js$domain=juffing.at
 @@||consent.cookiefirst.com/banner.js$stealth=referrer
 @@||consent.cookiefirst.com/banner/$domain=juffing.at
+@@||consent.cookiefirst.com/banner/$script,domain=stiftung-gesundheitswissen.de
+@@||consent.cookiefirst.com/consentBanner.js$script,domain=stiftung-gesundheitswissen.de
 @@||consent.cookiefirst.com/sites$stealth=referrer
 @@||consent.cookiefirst.com/sites/$domain=juffing.at
+@@||consent.cookiefirst.com/sites/$domain=stiftung-gesundheitswissen.de
 @@||consent.cookiefirst.com/sites/$script,domain=jafco.co.jp
 @@||consent.cookiefirst.com^$domain=blutspendedienst.com
 @@||consent.cookiefirst.com^$domain=lsm.lv
@@ -6546,6 +6551,7 @@
 @@||dydog.org/*/DPlayer.min.css
 @@||dydog.org/*/DPlayer.min.js
 @@||dygassets.dygdigital.com/player-new/
+@@||dynaccent.net^$subdocument,stealth=referrer,domain=sportsonlinee.*|sportsonline.*
 @@||dynamic-images-picturehappy.*.amazonaws.com^$stealth=referrer,domain=picturehappy.lv
 @@||dynamicpapers.com^$generichide
 @@||dynamicyield.com/scripts/*/dy-coll-nojq-min.js$domain=gigasport.at|gigasport.ch|gigasport.de
@@ -7667,6 +7673,7 @@
 @@||geolocation.onetrust.com/cookieconsentpub/*/geo/location$domain=healthline.com
 @@||geolocation.onetrust.com/cookieconsentpub/*/geo/location$domain=ign.com
 @@||geolocation.onetrust.com/cookieconsentpub/*/geo/location$domain=nintendolife.com
+@@||geolocation.onetrust.com/cookieconsentpub/*/geo/location$domain=ssga.com
 @@||geolocation.onetrust.com/cookieconsentpub/*/geo/location$domain=tomthumb.com
 @@||geolocation.onetrust.com/cookieconsentpub/*/geo/location$domain=zdf.de|3sat.de
 @@||geolocation.onetrust.com/cookieconsentpub/v*/geo/location$domain=apnews.com
@@ -9289,6 +9296,7 @@
 @@||hightechbuzz.net^$generichide
 @@||hikari.faq.rakuten.net^$stealth=dpi
 @@||hikmall.com/js/sensorsdata.min.js
+@@||hilton.com^$cookie=/^AMCVS?_.*AdobeOrg/
 @@||hinagiku-u.ed.jp/wp54/wp-content/themes/hinagiku/images/$image,~third-party
 @@||hindi.business-standard.com^$generichide
 @@||hindustantimes.com/res/js/*ads*
@@ -14355,6 +14363,7 @@
 @@||privacyportal.cookiepro.com/request/*/consentreceipts
 @@||privacyportal.onetrust.com/request/*/consentreceipts$domain=eurogamer.de
 @@||privacyportal.onetrust.com/request/v*/consentreceipts$domain=channel5.com
+@@||privacyportal.onetrust.com/request/v*/consentreceipts$domain=ssga.com
 @@||privat24.privatbank.ua^$stealth=referrer|3p-cookie
 @@||privatbank.ua/content/*/fp2.min.js$~third-party
 @@||privateinsta.com/javascript/rqrkrm.js$script
@@ -14444,6 +14453,7 @@
 @@||pub.doubleverify.com/dvtag/$domain=time.com
 @@||pub.doubleverify.com/dvtag/$script,domain=bbc.com|time.com
 @@||pub.doubleverify.com/dvtag/*/pub.js$domain=bbc.com
+@@||pub.doubleverify.com/dvtag/*/pub.js$xmlhttprequest,domain=bizjournals.com
 @@||pub.doubleverify.com/dvtag/signals/*/pub.json$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com|uniladtech.com
 @@||pub.doubleverify.com/signals/pub.js$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com|uniladtech.com
 @@||pub.doubleverify.com/signals/pub.json$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com|uniladtech.com
@@ -18862,6 +18872,7 @@
 @@||workers.dev/*/file2/$xmlhttprequest,stealth=referrer
 @@||workers.dev/?url=*&referer=$stealth=referrer
 @@||workers.dev/media-proxy?$xmlhttprequest,stealth=referrer,domain=cinemove.cc
+@@||workers.dev^$xmlhttprequest,stealth=referrer,domain=embed.st
 @@||workers.dev^$xmlhttprequest,third-party,stealth=referrer,domain=cinelove.live|netplayz.top
 @@||workingtitlefilms.com/site-content/plugins/nbcu-plugins/bwp-minify/$stylesheet
 @@||world4.eu/wp-content/plugins/ad-inserter-pro/images/ads.png
