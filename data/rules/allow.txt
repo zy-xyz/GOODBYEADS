@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-09-02 10:19:16（北京时间）
+! Version: 2026-09-02 23:46:47（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19421
+! Total count: 19424
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -103,7 +103,6 @@
 @@.mp4%3Fsign%3$third-party,media,stealth=referrer,domain=vidrock.ru
 @@.mp4?$media,stealth=referrer,domain=vidlink.pro
 @@.mp4?sign=$media,stealth=referrer,domain=officialmoviebox.com|movieboxonline.net|123moviesfree.club|netnaija.film|m2box.org|netfilm.world
-@@.mp4?sign=$media,stealth=referrer,domain=themoviebox.org|movieboxonline.net|123moviesfree.club|netnaija.film|m2box.org|netfilm.world
 @@.my.salesforce-setup.com/_ui/common/config/field/*/d?id=*&type=
 @@.myvi.ru^$stealth
 @@.net/click-$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
@@ -2448,6 +2447,7 @@
 @@||api.cxense.com/public/widget/data?json=$domain=journaldequebec.com
 @@||api.cxense.com/public/widget/data?json=$domain=lavoz.com.ar
 @@||api.cxense.com/public/widget/data?json=$domain=milenio.com
+@@||api.cxense.com/public/widget/data?json=$domain=nikkansports.com
 @@||api.cxense.com/public/widget/data?json=$domain=onetz.de
 @@||api.cxense.com/public/widget/data?json=$domain=pcgames.de
 @@||api.cxense.com/public/widget/data?json=$domain=s.response.jp
@@ -4200,6 +4200,7 @@
 @@||cdn.cxense.com/cx.cce.js$domain=journaldemontreal.com
 @@||cdn.cxense.com/cx.cce.js$domain=lopinion.fr
 @@||cdn.cxense.com/cx.cce.js$domain=milenio.com
+@@||cdn.cxense.com/cx.cce.js$domain=nikkansports.com
 @@||cdn.cxense.com/cx.cce.js$domain=president.jp
 @@||cdn.cxense.com/cx.cce.js$domain=tvnet.lv
 @@||cdn.cxense.com/cx.cce.js$domain=variety.com
@@ -5887,6 +5888,7 @@
 @@||cwtv.com^$generichide
 @@||cx30-forum.de/js/CW/adsbygoogle.js
 @@||cx30-forum.de^$generichide
+@@||cxense.com/cx.cce.js$domain=bizjournals.com|businessinsider.de|cxpublic.com|diamond.jp|handelsblatt.com|hochi.news|inquirer.com|mainichi.jp|marketwatch.com|nikkansports.com|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tvnet.lv|wsj.com
 @@||cxense.com/cx.cce.js$domain=bizjournals.com|businessinsider.de|cxpublic.com|diamond.jp|handelsblatt.com|hochi.news|inquirer.com|mainichi.jp|marketwatch.com|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tvnet.lv|wsj.com
 @@||cxense.com/cx.cce.js$domain=tarzanweb.jp
 @@||cxense.com/cx.cce.js$domain=tn.com.ar
@@ -5899,6 +5901,7 @@
 @@||cxense.com/cx.js$script,domain=tv-tokyo.co.jp
 @@||cxense.com/document/search?
 @@||cxense.com/persisted/execute$domain=nippon.com
+@@||cxense.com/public/widget/$domain=bizjournals.com|businessinsider.de|businessinsider.jp|computerbild.de|cxpublic.com|cyclestyle.net|diamond.jp|friday.gold|friday.kodansha.co.jp|handelsblatt.com|hochi.news|inquirer.com|journaldequebec.com|ksml.fi|mainichi.jp|marketwatch.com|nikkansports.com|nippon.com|rikejo.jp|savonsanomat.fi|shueisha.co.jp|tn.com.ar|tvnet.lv|wsj.com
 @@||cxense.com/public/widget/$domain=bizjournals.com|businessinsider.de|businessinsider.jp|computerbild.de|cxpublic.com|cyclestyle.net|diamond.jp|friday.gold|friday.kodansha.co.jp|handelsblatt.com|hochi.news|inquirer.com|journaldequebec.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|rikejo.jp|savonsanomat.fi|shueisha.co.jp|tn.com.ar|tvnet.lv|wsj.com
 @@||cxense.com^$domain=ikea.com
 @@||cxense.com^$domain=thelocal.fr
@@ -6177,7 +6180,6 @@
 @@||delta.com/dlhome/ruxitagentjs$~third-party
 @@||delta.com^$stealth=3p-auth|ip|useragent|referrer
 @@||demarches.interieur.gouv.fr/js/tarteaucitron/
-@@||demdex.net/dest4.html?d_nsid=$subdocument,domain=multipack.com.mx
 @@||demo.ama.pub^$generichide
 @@||demo.hongkiat.com/jquery-detect-ads-block/images/ads.jpg$image
 @@||demonoid.is/awe2.js
@@ -7733,7 +7735,6 @@
 @@||geolocation.onetrust.com^$domain=tvguide.com
 @@||geomedia.gala100.net^$generichide
 @@||geoplugin.net/javascript.gp$domain=uptime.community
-@@||geoplugin.net/javascript.gp$script,domain=christianhouseshare.com.au|gamemazing.com|soundsonline.com
 @@||geoplugin.net/javascript.gp$script,domain=gamemazing.com|soundsonline.com
 @@||germancarforum.com^$generichide
 @@||germanos.gr/touch/assets/resources/germanos/assets/js/CookieJar.js$~third-party
@@ -7949,7 +7950,6 @@
 @@||google-analytics.com/analytics.js$domain=0mniscient.github.io|24timezones.com|afternic.com|amd.com|androidpit.es|androidpit.fr|antenaplay.ro|artage.io|askona.ru|avselectro.ru|beinsports.com|bihann.com|biomedglobal.net|blt.se|blue-tomato.com|boostnote.io|broadwayworld.com|brooklinen.com|brownbagcoffee.co.kr|carnesvizzera.ch|carrefoursa.com|cbn.globoradio.globo.com|chainreactioncycles.com|cheatengine.org|chess24.com|chocotv.com.tw|citethisforme.com|citytalk.tw|clipitto.com|cmoa.jp|code.tutsplus.com|community.spiceworks.com|csub.edu|cuk.pl|daily.co.jp|dashboard.kitcast.tv|defesanet.com.br|developers.google.com|deviantart.com|dirkzwager.nl|displate.com|dtf.ru|earthclassmail.com|easycredit.de|ebb.io|elderscrollsonline.com|eldorado.com.ua|enmotive.com|etcher.io|eugene.kaspersky.co.jp|eugene.kaspersky.com|eugene.kaspersky.com.br|eugene.kaspersky.com.mx|eugene.kaspersky.de|eugene.kaspersky.es|eugene.kaspersky.fr|eugene.kaspersky.it|eugene.kaspersky.ru|factor.ua|flazio.com|flyingv.cc|frenchfrysoftware.com|glamour.de|gunes.com|haisenryakuzu.net|hanime.tv|haz.de|hdmoviezone.net|healthrangerstore.com|highsnobiety.com|hobbyhall.fi|home24.de|independent.co.uk|independer.nl|index.hr|infoconso-multimedia.fr|infoq.com|jackbox.tv|joblo.com|k2radio.com|karwan.tv|keepassium.com|koel.com|kolkata24x7.com|komica.org|kompas.com|kowb1290.com|ksat.com|lenovo.com.cn|ligtv.com.tr|line.me|linetv.tw|lvz.de|m.investing.com|m.kinomax.ru|m.n11.com|m.papajohns.ru|mamibuy.com.tw|maminews.com.tw|manga-zero.com|maz-online.de|mediamarkt.com.tr|mediamarkt.de|mediamarkt.nl|meritonsuites.com.au|mgts.ru|mixcloud.com|moniteurautomobile.be|nabortu.ru|ndtv.com|nehannn.com|news.gamme.com.tw|nova.cz|novatv.bg|ntvplus.tv|okwave.jp|onul-hoi.com|ostsee-zeitung.de|outdoorchannel.com|papajohns.com|passnavi.evidus.com|pcgamesn.com|pcworld.com|photoshoptutorials.ws|pioner-cinema.ru|piriform.com|play.nova.bg|play.tv3.lt|pluto.tv|poiskstroek.ru|polygon.com|prego.ua|pult.ru|raspberrypi.org|repo.hackyouriphone.org|rewasd.com|rt.ru|rzd.ru|saturn.at|saturn.de|schweizerfleisch.ch|seattletimes.com|service.smt.docomo.ne.jp|shop.kyivstar.ua|shorterall.com|skaties.lv|sochiautodrom.ru|society6.com|square-enix-games.com|stardock.com|stitcher.com|store.diesel.com|stressless.com|support.amd.com|teb.com.tr|techadvisor.co.uk|teddyfood.com|thesportsmanchannel.com|theverge.com|thiojoe.com|tracking.narvar.com|tradera.com|tribuna.com|truwin.com|tuasaude.com|tv-media.at|tv3play.tv3.ee|unicef.de|uniqlo.com|viandesuisse.ch|viasatsport.se|videotron.com|viu.com|vox.de|waipu.tv|wakanim.tv|westernunion.com|whatcar.com|wikium.ru|worldsbiggestpacman.com|xxl.se|zolotoyvek.ua
 @@||google-analytics.com/analytics.js$domain=24timezones.com
 @@||google-analytics.com/analytics.js$domain=4kdownload.com
-@@||google-analytics.com/analytics.js$domain=afternic.com|clipitto.com|deviantart.com
 @@||google-analytics.com/analytics.js$domain=afternic.com|deviantart.com
 @@||google-analytics.com/analytics.js$domain=amd.com
 @@||google-analytics.com/analytics.js$domain=androidpit.es|androidpit.fr
@@ -8415,6 +8415,7 @@
 @@||googletagmanager.com/gtag/$domain=usnews.com
 @@||googletagmanager.com/gtag/destination$script,domain=musinsa.com
 @@||googletagmanager.com/gtag/destination?$domain=sloways.eu
+@@||googletagmanager.com/gtag/js$domain=17track.net|9to5mac.com|academy.com|acornonline.com|aena.es|afisha.timepad.ru|aliexpress.com|app.joinhandshake.com|carhartt-wip.com|cbslocal.com|checkout.ao.com|cmoa.jp|cnet.com|cram.com|devclass.com|dholic.co.jp|ecmweb.com|ejgiftcards.com|enmotive.com|espressif.com|euronics.ee|factory.pixiv.net|fanpage.it|farmaciabolli1833.it|game.anymanager.io|gamelog.apexlegends-leaksnews.com|globo.com|gmanetwork.com|herculesstands.com|homeinspector.org|honeystinger.com|hostingvergelijker.nl|huion.com|inforesist.org|kawasaki.com|kinepolis.be|kinepolis.ch|kinepolis.es|kinepolis.fr|kinepolis.lu|kinepolis.nl|liene-life.com|livongo.com|m.putlocker.how|malegislature.gov|mall.heiwa.jp|mirrativ.com|modehasen.de|mond.how|montcopa.org|mopar.com|nihontsushin.com|o2.co.uk|oko.sh|oxylabs.io|panflix.com.br|papajohns.com|plex.tv|pptvhd36.com|proxyorb.com|radiosarajevo.ba|redstoneonline.jp|rhbgroup.com|rintraccialamiaspedizione.it|royalcams.com|schwab.com|seatmaps.com|showroom-live.com|skylar.com|slink.ptit.edu.vn|sloways.eu|square-enix.com|starblast.io|supplementmart.com.au|ticketmaster.com|timparty.tim.it|toptal.com|trespa.info|truckspring.com|virginmedia.com|virginplus.ca|webstatus.dev|winefolly.com|winhappy.com|wps.com|xl-bygg.no|zf1.tohoku-epco.co.jp|zipair.net
 @@||googletagmanager.com/gtag/js$domain=17track.net|9to5mac.com|academy.com|acornonline.com|aena.es|afisha.timepad.ru|aliexpress.com|app.joinhandshake.com|carhartt-wip.com|cbslocal.com|checkout.ao.com|cmoa.jp|cnet.com|cram.com|devclass.com|dholic.co.jp|ecmweb.com|ejgiftcards.com|enmotive.com|espressif.com|euronics.ee|factory.pixiv.net|fanpage.it|farmaciabolli1833.it|game.anymanager.io|globo.com|gmanetwork.com|herculesstands.com|homeinspector.org|honeystinger.com|hostingvergelijker.nl|huion.com|inforesist.org|kawasaki.com|kinepolis.be|kinepolis.ch|kinepolis.es|kinepolis.fr|kinepolis.lu|kinepolis.nl|liene-life.com|livongo.com|m.putlocker.how|malegislature.gov|mall.heiwa.jp|mirrativ.com|modehasen.de|mond.how|montcopa.org|mopar.com|nihontsushin.com|o2.co.uk|oko.sh|oxylabs.io|panflix.com.br|papajohns.com|plex.tv|pptvhd36.com|proxyorb.com|radiosarajevo.ba|redstoneonline.jp|rhbgroup.com|rintraccialamiaspedizione.it|royalcams.com|schwab.com|seatmaps.com|showroom-live.com|skylar.com|slink.ptit.edu.vn|sloways.eu|square-enix.com|starblast.io|supplementmart.com.au|ticketmaster.com|timparty.tim.it|toptal.com|trespa.info|truckspring.com|virginmedia.com|virginplus.ca|webstatus.dev|winefolly.com|winhappy.com|wps.com|xl-bygg.no|zf1.tohoku-epco.co.jp|zipair.net
 @@||googletagmanager.com/gtag/js$domain=av01.tv|javhd.com
 @@||googletagmanager.com/gtag/js$domain=battlestick2.net
@@ -8434,6 +8435,7 @@
 @@||googletagmanager.com/gtag/js$domain=faucetofbob.xyz
 @@||googletagmanager.com/gtag/js$domain=filmomaniak.pl
 @@||googletagmanager.com/gtag/js$domain=game3rb.com
+@@||googletagmanager.com/gtag/js$domain=gamelog.apexlegends-leaksnews.com
 @@||googletagmanager.com/gtag/js$domain=go.epageview.com
 @@||googletagmanager.com/gtag/js$domain=godaddy.com
 @@||googletagmanager.com/gtag/js$domain=hancomdocs.com
@@ -9114,7 +9116,6 @@
 @@||guce.advertising.com^|
 @@||guce.engadget.com/consent
 @@||guide.imggaming.com/prod|$stealth=3p-auth
-@@||guim.co.uk/flash/video/embedded/player-$object,domain=thedailywh.at
 @@||guinnessworldrecords.jp/ezais/analytics$~third-party
 @@||gumroad.com^$stealth=flash|java
 @@||gumtree.co.za/my/ads.html$~third-party
@@ -14917,6 +14918,7 @@
 @@||refi-reklama.razitko.cz^$domain=refi-reklama.razitko.cz
 @@||refifa.com^$generichide
 @@||regapi.37.com/api/p_register.php?login_account=
+@@||regatta.com/gtg/gtm.js$~third-party
 @@||registrierung.gmx.net^$stealth
 @@||registrierung.web.de^$stealth
 @@||registro.pse.com.co/PSENF/assets/js/fingerprint.min.js$script,domain=registro.pse.com.co
@@ -15357,7 +15359,6 @@
 @@||scorecard.api.mywot.com^$document
 @@||scorecardresearch.com$domain=bt.com
 @@||scorecardresearch.com/*/streamingtag_plugin_jwplayer.js$domain=telemundopr.com
-@@||scorecardresearch.com/beacon.js$domain=agame.com|allrecipes.com|apl.tv|babycenter.com|cbc.ca|deviantart.com|fastcompany.com|firstwefeast.com|hitfix.com|laptopmag.com|last.fm|linkinpark.com|mainstreet.com|ning.com|ouramazingplanet.com|outsideonline.com|plixi.com|radaronline.com|salon.com|thedailybeast.com|thinkatheist.com
 @@||scorecardresearch.com/beacon.js$domain=agame.com|allrecipes.com|apl.tv|babycenter.com|cbc.ca|deviantart.com|fastcompany.com|firstwefeast.com|hitfix.com|laptopmag.com|last.fm|linkinpark.com|mainstreet.com|ning.com|outsideonline.com|plixi.com|radaronline.com|salon.com|thedailybeast.com|thinkatheist.com
 @@||scorecardresearch.com/beacon.js$domain=hktvmall.com
 @@||scorecardresearch.com/beacon.js$domain=ofiii.com
@@ -16480,6 +16481,7 @@
 @@||ssl.p.jwpcdn.com/player/v/8.36.2/googima.js$domain=kavero.biz
 @@||ssl.p.jwpcdn.com/player/v/8.36.2/googima.js$domain=playmate.to
 @@||ssl.p.jwpcdn.com/player/v/8.36.2/googima.js$script,domain=vidara.to|vidara.so|xca.cymru|vindaz.shop|vidmatrixa.com|vidchampions.com|vidavaca.cc|calyro.biz
+@@||ssl.p.jwpcdn.com/player/v/8.36.2/googima.js$script,domain=vidara.to|vidara.so|xca.cymru|vindaz.shop|vidmatrixa.com|vidchampions.com|vidavaca.cc|calyro.biz|vidarae.live
 @@||ssl.p.jwpcdn.com^$domain=bdsmstreak.com
 @@||ssl.pstatic.net/sstatic/sdyn.js$script,domain=search.naver.com
 @@||ssl.sdcdn.com/cms/ads/*$domain=stardoll.com
@@ -16495,7 +16497,9 @@
 @@||sst.soranews24.com/gtm.js$script,~third-party
 @@||sstats.bitdefender.com^$~third-party
 @@||sstats.omahasteaks.com/b/ss/
+@@||st-*.dynamicyield.com/spa/json?sec=$domain=platekompaniet.no
 @@||st-*.dynamicyield.com/st*&inHead=true&id=*&jsession=*scriptVersion=*&noConsent=
+@@||st-*.dynamicyield.com/st?sec=$domain=platekompaniet.no
 @@||st-eu.dynamicyield.com/st$domain=amorelie.de
 @@||st-eu.dynamicyield.com/st?sec=$domain=adlibris.com
 @@||st-eu.dynamicyield.com/st?sec=$domain=gigasport.at|gigasport.de|gigasport.ch
@@ -18957,7 +18961,6 @@
 @@||wroffle.com/wp-content/plugins/ad-inserter^
 @@||wroffle.com^$generichide
 @@||ws.mmstat.com/ws$domain=v.youku.tv
-@@||ws.nperf.com^$domain=proof.ovh.net
 @@||ws.skoda-auto.com/sap/*_piwik/Piwik.js
 @@||wscdn.xmwol.com^$stealth=referrer,image,stylesheet
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
