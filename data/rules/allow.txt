@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-09-12 22:47:21（北京时间）
+! Version: 2026-09-13 10:31:33（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19466
+! Total count: 19467
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -53,6 +53,7 @@
 @@.co.uk/wp-banners.js$domain=advertiserandtimes.co.uk|northern-scot.co.uk|suffolknews.co.uk|kentonline.co.uk|cambridgeindependent.co.uk|fenlandcitizen.co.uk|granthamjournal.co.uk|stratford-herald.com|spaldingtoday.co.uk
 @@.com/*/*.avif$image,stealth=referrer,domain=bilimanga.net
 @@.com/*interstitial*.js$domain=reddit.com
+@@.com/1.js$domain=xjujitv.com
 @@.com/ad.aspx|$domain=xdingdian.cc
 @@.com/ad/$~image,~script,~third-party,domain=sso-idp.evergent.com
 @@.com/ad/$~third-party,domain=localbitcoins.com
@@ -5423,7 +5424,6 @@
 @@||configurator.porsche.com/public/adobe-analytics-$~third-party
 @@||connatix.com$domain=babycenter.com
 @@||connatix.com*/connatix.player.$script,domain=ebaumsworld.com|funker530.com|pagesix.com|tvinsider.com|washingtonexaminer.com
-@@||connatix.com*/connatix.player.$script,domain=ebaumsworld.com|funker530.com|tvinsider.com|washingtonexaminer.com
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=accuweather.com|collider.com|gamepress.gg|salon.com
 @@||connatix.com^$domain=euronews.com
 @@||connatix.com^$domain=euronews.com|nypost.com|sport-fm.gr|sport24.gr|sun-sentinel.com|variety.com
@@ -6133,6 +6133,7 @@
 @@||dd.blackhawknetwork.com.first-party-js.datadome.co^$domain=redeem.rewardlink.com
 @@||dd.jaycar.com.au.first-party-js.datadome.co^$script,third-party,domain=jaycar.com.au
 @@||dd.qa.moneygram.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=moneygram.com
+@@||dd.qwant.com.first-party-js.datadome.co^$domain=qwant.com
 @@||dd.subito.it.first-party-js.datadome.co^$script,xmlhttprequest,domain=areariservata.subito.it
 @@||dd.thetrainline.com.first-party-js.datadome.co^$domain=thetrainline.com
 @@||dd.wizzair.com.first-party-js.datadome.co^$domain=wizzair.com
