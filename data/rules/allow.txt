@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-09-19 10:35:22（北京时间）
+! Version: 2026-09-19 23:09:59（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19478
+! Total count: 19481
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -355,6 +355,7 @@
 @@/crossdomain.xml$domain=channel4.com
 @@/crossdomain.xml$domain=phonearena.com
 @@/css/branding_*.css$domain=netgear.com
+@@/css/cookie-consent.css$stylesheet,~third-party,domain=fishbase.ca|fishbase.de|fishbase.mnhn.fr|fishbase.net.br|fishbase.org|fishbase.org.au|fishbase.se|sealifebase.org
 @@/dash?tvid=$stealth=referrer,domain=iqiyi.com
 @@/data/editor/*$stealth=referrer,domain=coolenjoy.net
 @@/default/public/assets/publicidad.js$domain=1bit.space|1bitspace.com
@@ -5504,6 +5505,7 @@
 @@||consent.cookiebot.com/uc.js$domain=goldpreis.de
 @@||consent.cookiebot.com/uc.js$domain=hawk.live
 @@||consent.cookiebot.com/uc.js$domain=jagex.com
+@@||consent.cookiebot.com/uc.js$domain=japan.go.jp
 @@||consent.cookiebot.com/uc.js$domain=lootboy.de
 @@||consent.cookiebot.com/uc.js$domain=mojpetexpert.sk
 @@||consent.cookiebot.com/uc.js$domain=netkom.de
@@ -5604,6 +5606,7 @@
 @@||consentcdn.cookiebot.com/consentconfig/$xmlhttprequest,domain=asket.com
 @@||consentcdn.cookiebot.com/sdk/$domain=shop-apotheke.com
 @@||consentcdn.cookiebot.com^$domain=compo.de
+@@||consentcdn.cookiebot.com^$domain=japan.go.jp
 @@||consentcdn.cookiebot.com^$domain=popsci.com
 @@||consentmanager.mgr.consensu.org/delivery/$domain=swm.de
 @@||consentmanager.mgr.consensu.org/delivery/$stylesheet,xmlhttprequest,domain=sourceforge.net
@@ -6203,6 +6206,7 @@
 @@||delivery.consentmanager.net/delivery/$domain=benzinpreis.de
 @@||delivery.consentmanager.net/delivery/cmp.php$domain=empfohlen.de
 @@||delivery.consentmanager.net/delivery/cmp.php$domain=games.focus.de
+@@||delivery.consentmanager.net/delivery/cmp.php$domain=hansaplast.de
 @@||delivery.consentmanager.net/delivery/cmp.php$domain=nrz.de|braunschweiger-zeitung.de|waz.de|thueringer-allgemeine.de|weser-kurier.de
 @@||delivery.consentmanager.net/delivery/cmp.php$domain=onetz.de
 @@||delivery.consentmanager.net/delivery/cmp.php$domain=play3.de
@@ -18179,7 +18183,6 @@
 @@||uploadboy.com/ads.js
 @@||uploadcloud.pro^$generichide
 @@||uploaded-premium.ru/ads/ad.js$script
-@@||uploadex.com^$elemhide
 @@||uploadfiles.io/adsbygoogle.js
 @@||uploadmall.com^$generichide
 @@||uploadmx.com^$generichide
