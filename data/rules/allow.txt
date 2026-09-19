@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-09-18 23:35:56（北京时间）
+! Version: 2026-09-19 10:35:22（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19479
+! Total count: 19478
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -3381,7 +3381,6 @@
 @@||bitbucket.org^$generichide
 @@||bitcoin-gator.com/public/adblock.js$script
 @@||bitcoinbazis.hu/advertise-with-us/$~third-party
-@@||bitcoinker.com^$generichide
 @@||bitcoinpuddle.com/show_ads.js$script
 @@||bitdefender.com/submit/$stealth
 @@||bitent.com/lock_html5/adPlayer/v*/adPlayer.js
@@ -9186,6 +9185,7 @@
 @@||gurgle.zdbb.net/amp-targeting?__amp_source_origin=$domain=clevelandclinic.org
 @@||guru3d.com/core_javaload/
 @@||guru3d.com/core_javaload/$document
+@@||gus.etsmtl.ca/c2atom/Scripts/Atom/Managers/CookiesManager.js$script,~third-party
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||gvmp.de^$generichide
 @@||gvt1.com/videoplayback/id/*/source/gfp_video_ads/*/file.mp4$domain=rx.iscdn.net
@@ -14826,7 +14826,6 @@
 @@||rai.it^*/cookie.pack.js$script
 @@||raiffeisen.at^*/Logger.js
 @@||railpictures.net^$generichide
-@@||railwayoperationsimulator.com^$generichide
 @@||raindrop.io/api/$stealth
 @@||rainews.it/common/assets/js/cookieBanner.js$domain=rainews.it
 @@||rainews.it/common/assets/js/cookieBanner.js$script
