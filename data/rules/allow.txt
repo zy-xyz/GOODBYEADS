@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-09-29 11:37:53（北京时间）
+! Version: 2026-09-30 01:26:30（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19539
+! Total count: 19549
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -832,6 +832,7 @@
 @@playtv.fr$object-subrequest,domain=play.tv|playtv.fr
 @@plugins/blockalyzer-adblock-counter/img/ads/$image
 @@q=$xmlhttprequest,stealth=referrer,domain=player.videasy.*|vidup.to|vidfast.vc|vidking.net
+@@q=$xmlhttprequest,stealth=referrer,domain=player.videasy.*|vidup.to|vidfast.vc|vidking.net|movy.sx
 @@rr*--*.googlevideo.com$domain=youtube.com
 @@safari-extension://com.adguard.safari-$document
 @@safari-extension://com.adguard.safaridev-$document
@@ -947,8 +948,10 @@
 @@||126.net/163/frontend/share/js/
 @@||126.net/images/blank.gif
 @@||127.0.0.1/admin/admin_ad.php?$domain=127.0.0.1
+@@||131400.best/external$generichide
 @@||1337x.st/css/webfonts/oswald-*.$font
 @@||1337x.st^$csp=script-src 'self' 'unsafe-inline'
+@@||141312.best/external$generichide
 @@||150075.com^$domain=tecms.net
 @@||159i.com/a_d/$media
 @@||159i.com/p/hola/cpt.js
@@ -7249,6 +7252,7 @@
 @@||fileone.tv/file/$domain=fileone.tv
 @@||files*.lynda.com/secure/courses/*.mp4$media,domain=linkedin.com|lynda.com
 @@||files.1drv.com^
+@@||files.an1.net^$stealth=referrer,domain=an1.com
 @@||files.bbci.co.uk^*/cookie-banner/$script,domain=bbc.co.uk
 @@||files.bbci.co.uk^*/cookie-banner/$script,domain=bbc.co.uk|bbc.com
 @@||files.fm/f/$stealth=webrtc
@@ -16366,7 +16370,6 @@
 @@||snowplow.swm.digital^$domain=7plus.com.au
 @@||snrcdn.net/sdk/3.0/synerise-javascript-sdk.min.js$domain=komputronik.pl
 @@||snssdk.com/video/drm/v*/play_licenses
-@@||snva.jp/javascripts/reco/$script,domain=abc-mart.net|store.charle.co.jp
 @@||snyk.io^$cookie=ajs_anonymous_id
 @@||so-magazyn.pl^$generichide
 @@||so-net.ne.jp/access/hikari/minico/ad/images/$~third-party
@@ -18567,6 +18570,13 @@
 @@||vietget.net^$generichide
 @@||viglink.com^$domain=dealsrunner.com
 @@||vijesti.me^$generichide
+@@||vikacg.*/external$generichide
+@@||vikacg.cc/external$generichide
+@@||vikacg.com/external$generichide
+@@||vikacg.eueu.lol/external$generichide
+@@||vikacg.icu/external$generichide
+@@||vikacg.moe.mov/external$generichide
+@@||vikacg.xyz/external$generichide
 @@||viki.com^$permissions=identity-credentials-get=()
 @@||vikistream.com:*/hls/*.m3u8$stealth=referrer
 @@||vinaurl.in^$generichide
