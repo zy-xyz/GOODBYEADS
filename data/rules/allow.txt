@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-10-08 02:15:45（北京时间）
+! Version: 2026-10-08 11:54:54（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19590
+! Total count: 19586
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -909,7 +909,6 @@
 @@||0115765.com^$generichide
 @@||011st.com^$stealth=dpi
 @@||07c225f3.online^$stealth=referrer
-@@||0914.global.ssl.fastly.net/ads/*/x.$domain=cbs.com
 @@||0mniscient.github.io^$generichide
 @@||1.1.1.1/cdn-cgi/trace$xmlhttprequest,domain=myair.resmed.com|one.one.one.one
 @@||10.com.au/static/ads.js
@@ -1806,7 +1805,6 @@
 @@||adservice.google.com/adsid/integrator.js$domain=soranews24.com
 @@||adservice.google.com/adsid/integrator.js$domain=tradingref.com
 @@||adservice.google.com/adsid/integrator.js$domain=ultimateclassicrock.com
-@@||adservice.google.com/adsid/integrator.js?domain=www.cbs.com$domain=cbs.com
 @@||adservice.google.de/adsid/integrator.js^$domain=bento.de
 @@||adservice.google.pl/adsid/integrator.js$script,domain=tvp.pl
 @@||adserving.unibet.com^$domain=sportlemon.me
@@ -14656,7 +14654,6 @@
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=0&d_imp=1&gdfp_req=1&impl=ifr$domain=youtube.com
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=0&d_imp=1&gdfp_req=1&iu=%2F6762%2Fmkt.ythome_1x1$domain=youtube.com
 @@||pubads.g.doubleclick.net/gampad/ads?adk=$domain=viki.io
-@@||pubads.g.doubleclick.net/gampad/ads?cmsid=*host%3Dwww.cbs.com%26$domain=imasdk.googleapis.com
 @@||pubads.g.doubleclick.net/gampad/ads?env=vp&gdfp_req=1&output=xml_vast*&url=http%3A%2F%2Famp.usatoday.com
 @@||pubads.g.doubleclick.net/gampad/ads?env=vp&gdfp_req=1*www.viki.com
 @@||pubads.g.doubleclick.net/gampad/ads?env=vp&output=xml_vast$xmlhttprequest,domain=shahid.mbc.net
@@ -15530,6 +15527,7 @@
 @@||scw.cloud^$stealth=3p-auth
 @@||scyts.com^$generichide
 @@||sdc.pingan.com^$~image
+@@||sdk-analytics-web.cloud.itau.com.br/index.js$script,domain=meu.userede.com.br
 @@||sdk-gcp.privacy-center.org/sdk.*.js$domain=standaard.be
 @@||sdk-gcp.privacy-center.org/ui-nl.*.js$domain=standaard.be
 @@||sdk.*.braze.com^$domain=forum.paradoxplaza.com
@@ -15798,7 +15796,6 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=allmusic.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=askmen.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=bloomberg.com
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=cbs.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=cimri.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=digitaltrends.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=epaper.timesgroup.com
@@ -15929,7 +15926,6 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=aternos.org
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=bloomberg.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=britannica.com
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=cbs.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=chelseafc.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=cloudfam.io
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=crazygames.com|shellshock.io|minijuegos.com
