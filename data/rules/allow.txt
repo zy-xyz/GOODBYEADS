@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-10-09 02:17:19（北京时间）
+! Version: 2026-10-09 12:00:09（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19589
+! Total count: 19592
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$cookie=_pcus,domain=buerstaedter-zeitung.de|allgemeine-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de|ruhrnachrichten.de
@@ -3159,6 +3159,7 @@
 @@||baixedetudo.net.br^$generichide
 @@||baixing.net/combine/*,/css/ad-
 @@||bajaenlaces.com/adblock.js$script
+@@||balkantelevizija.net^$generichide
 @@||balog18.blogspot.com^$generichide
 @@||bam.nr-data.net^$script,domain=kapwing.com
 @@||bam.nr-data.net^$script,domain=play.spotify.com
@@ -3780,6 +3781,7 @@
 @@||canlidershane.net^$generichide
 @@||canlidizi9.net^$generichide
 @@||canliplayer.com/fireplayer/$stealth=referrer
+@@||canliradyodinle.fm/live/fm/gtag.min.js$~third-party
 @@||canva.com^$generichide
 @@||capital.bg/biznes/media_i_reklama/
 @@||capitolbroadcasting.blueconic.net^$image,script,xmlhttprequest,domain=wral.com
@@ -13043,6 +13045,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=axilesoft.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=b2bhint.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=babiato.tech
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=balkantelevizija.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bank-codes.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=basicweb.ru
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=battlestick2.net
