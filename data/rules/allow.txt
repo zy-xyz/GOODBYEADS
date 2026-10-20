@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-10-20 10:55:09（北京时间）
+! Version: 2026-10-21 00:09:31（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19647
+! Total count: 19653
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$cookie=_pcus,domain=buerstaedter-zeitung.de|allgemeine-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de|ruhrnachrichten.de
@@ -190,8 +190,11 @@
 @@/\/\d{5,7}$/$domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*
 @@/\/cdn\/(files|zone)\d?\//$media,third-party,match-case,stealth=referrer,domain=kimoitv.com
 @@/^https:\/\/127\.0\.0\.1:10039\/\?callback=jQuery[0-9]{20,}_[0-9]{13}&HW&[A-z0-9]{22}==&&0&0&/$stealth=referrer
+@@/^https:\/\/[a-z][a-z][a-z]+\.[a-z][a-z]+\/cdn-cgi\//$script,domain=aii.sh|clksz.com|lnbz.la
 @@/^https:\/\/[a-z][a-z][a-z]+\.[a-z][a-z]+\/cdn-cgi\//$script,domain=aii.sh|srnky.com|clksz.com|lnbz.la
+@@/^https:\/\/[a-z][a-z][a-z]+\.[a-z][a-z]+\/cloud_theme\/build\/js\/script\.min\.js/$domain=aii.sh|clksz.com|lnbz.la
 @@/^https:\/\/[a-z][a-z][a-z]+\.[a-z][a-z]+\/cloud_theme\/build\/js\/script\.min\.js/$domain=aii.sh|srnky.com|clksz.com|lnbz.la
+@@/^https:\/\/[a-z][a-z][a-z]+\.[a-z][a-z]+\/links\/go$/$domain=aii.sh|clksz.com|lnbz.la
 @@/^https:\/\/[a-z][a-z][a-z]+\.[a-z][a-z]+\/links\/go$/$domain=aii.sh|srnky.com|clksz.com|lnbz.la
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/20\d{4}\/\d{2}\/\d{9}\/(?:original|thumbs_\d{2})\/\d{0,2}(?:\(m=e[0-9A-Za-z]{5,7}(?:aaaa)?\)\(mh=[-_0-9A-Za-z]{16}\))?\d{0,2}\.jpg$/$image,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/thumbs169l\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{32}(?:-\d)?\/[0-9a-f]{32}\.\d{1,2}\.jpg$/$image,domain=pussyspace.com|pussyspace.net
@@ -213,7 +216,6 @@
 @@/^https:\/\/[a-z]\.pussyspace\.[cn][oe][mt]\/xv7\/[0-9a-f]+-[0-9a-f]+-[0-9a-f]+-[0-9a-f]+-[0-9a-f]+\/[0-9]\/xv_[0-9][0-9]?_t\.jpg$/$image,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/[a-z]{4,14}\.[a-z]{3,4}\/[a-z0-9][a-z0-9][a-z0-9][a-z0-9][a-z0-9][a-z0-9][a-z0-9][a-z0-9][a-z0-9][a-z0-9]\//$domain=intercelestial.com|pahe.plus|linegee.net
 @@/^https:\/\/devuploads\.com\/[a-z]+\/[a-z0-9]{24}\/[^\/]+\.(js|gif)$/$domain=devuploads.com
-@@/^https:\/\/imgbb.zip\/ib\/[a-z0-9]{15}_[0-9]{10}\.jpg$/$image,third-party,stealth=referrer,domain=rogmovies.*|xprimehub.*|vegamovies.*|1vegamovies.beer|rogmovies.cv|xprimehub.bond
 @@/^https:\/\/mshale\.com\/[a-f0-9]{8}\/[a-zA-Z0-9]+$/$match-case,stealth=referrer|searchqueries
 @@/^https:\/\/www\.[a-z]{7,14}\.com\/[a-z]{1,4}\.js/$script,third-party,domain=shinden.pl,badfilter
 @@/^https:\/\/www\.pussyspace\.(?:com|net)\/upload\/cat\.image\/[_3a-z]{2,16}\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
@@ -7602,6 +7604,7 @@
 @@||g.adspeed.net/ad.php?do=detectadblocker$domain=btcbunch.com
 @@||g.alicdn.com/??*/criteo
 @@||g.alicdn.com/AWSC/et/$domain=ele.me
+@@||g.alicdn.com/alilog/mlog/aplus_$script,domain=youku.tv
 @@||g.alicdn.com/alilog/mlog/aplus_o.js$domain=v.youku.com
 @@||g.alicdn.com^*/banner_ad_
 @@||g.csdnimg.cn/lib/fuckadblock/3.2.1/fuckadblock.min.js
@@ -10344,7 +10347,7 @@
 @@||imgadult.com/newimages/$domain=imgadult.com
 @@||imgadult.com/themes/$domain=imgadult.com
 @@||imgadult.com/upload/$domain=imgadult.com
-@@||imgbb.*/ib/$image,third-party,stealth=referrer,domain=rogmovies.*|xprimehub.*|vegamovies.*|1vegamovies.pics|rogmovies.cv|xprimehub.bond
+@@||imgbb.*/ib/$image,third-party,stealth=referrer,domain=rogmovies.*|xprimehub.*|vegamovies.*|new1.vegamovies.lease|rogmovies.cv|xprimehub.bond
 @@||imgbb.net/js/ads.js$script
 @@||imgbox.com/site_ads.js
 @@||imgdrive.net/anex/alt2.js
@@ -12635,6 +12638,7 @@
 @@||oba.uimserv.net/opt$domain=youronlinechoices.com
 @@||obagg.com/js/sailthru.js$domain=obagg.com
 @@||obengplus.com^$generichide
+@@||obituaries.startribune.com^|
 @@||obituaries.therecord.com^|
 @@||obituaries.thestar.com^|
 @@||obituaries.toacorn.com^|
@@ -13139,6 +13143,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=classicalradio.com|di.fm|jazzradio.com|radiotunes.com|rockradio.com|zenradio.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cle0desktop.blogspot.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cloudfam.io
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cloudnet.one
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cnxx.me|cnpics.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cnxxx.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=codingnepalweb.com
@@ -15372,6 +15377,7 @@
 @@||s.yimg.com/rq/darla/boot.js$domain=mail.yahoo.com
 @@||s.yimg.com/ss/analytics3.js$domain=sports.yahoo.com
 @@||s.yimg.com/ss/analytics3.js$domain=tw.news.yahoo.com|tw.yahoo.com|tw.stock.yahoo.com|hk.news.yahoo.com|hk.yahoo.com|hk.stock.yahoo.com
+@@||s.yimg.com/ss/analytics3.js$domain=tw.news.yahoo.com|tw.yahoo.com|tw.stock.yahoo.com|hk.news.yahoo.com|hk.yahoo.com|hk.stock.yahoo.com|help.yahoo.com
 @@||s.yimg.com/ss/analytics3.js$domain=tw.sports.yahoo.com
 @@||s.yimg.com/ss/rapid-*.js$domain=engadget.com
 @@||s.yimg.jp/images/listing/tool/cv/ytag.js$domain=redstoneonline.jp
