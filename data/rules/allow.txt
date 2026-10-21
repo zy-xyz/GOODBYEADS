@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-10-21 10:49:29（北京时间）
+! Version: 2026-10-22 00:25:11（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19648
+! Total count: 19644
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$cookie=_pcus,domain=buerstaedter-zeitung.de|allgemeine-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de|ruhrnachrichten.de
@@ -4112,6 +4112,7 @@
 @@||cdn.cookielaw.org/consent/$domain=rte.ie
 @@||cdn.cookielaw.org/consent/$domain=ryobitools.eu
 @@||cdn.cookielaw.org/consent/$domain=ups.com
+@@||cdn.cookielaw.org/consent/$domain=vodafone.co.uk
 @@||cdn.cookielaw.org/consent/$xmlhttprequest,domain=aljazeera.com
 @@||cdn.cookielaw.org/consent/$xmlhttprequest,domain=bostad.stockholm.se
 @@||cdn.cookielaw.org/consent/*.json$domain=20min.ch
@@ -4380,6 +4381,7 @@
 @@||cdn.flowplayer.com^*/share.min.js
 @@||cdn.fluidplayer.com/*/current/fluidplayer.min.js
 @@||cdn.flurry.com/js/flurry.js$domain=slantnews.com
+@@||cdn.fps.ms/assets/cookieConsent-$domain=panel.fps.ms
 @@||cdn.fuseplatform.net/publift/tags/*/*/fuse.js$domain=zkillboard.com
 @@||cdn.fuseplatform.net/publift/tags/*/fuse.js$domain=geotastic.net
 @@||cdn.fuseplatform.net/publift/tags/*/fuse.js$domain=pokemon-project.com
@@ -5428,7 +5430,6 @@
 @@||coinadster.com^$script,stylesheet,xmlhttprequest,other,image,domain=coinadster.com
 @@||coindice.win^$generichide
 @@||coinles.com^$generichide
-@@||coinmarketcap.com/static/addetect/$script,~third-party
 @@||coinmarketcap.com^$domain=coinmarketcap.com
 @@||coinpayu.com/assets/ads_$domain=coinpayu.com
 @@||coinpayz.xyz/*.js?probe=$script,~third-party
@@ -7103,7 +7104,6 @@
 @@||experienceleague.adobe.com^$~third-party
 @@||explainxkcd.com/wiki/images/$image,~third-party
 @@||explosivemenu.com^$generichide
-@@||exponential.com^*/tags.js$domain=yellowbridge.com
 @@||expressurl.net^$generichide
 @@||expresswords.xyz^$generichide
 @@||exsite24.pl/cdn-cgi/challenge-platform/$stealth=ip
@@ -8993,6 +8993,7 @@
 @@||googletagmanager.com/gtm.js$domain=stressless.com
 @@||googletagmanager.com/gtm.js$domain=styl.fm
 @@||googletagmanager.com/gtm.js$domain=superesportes.com.br
+@@||googletagmanager.com/gtm.js$domain=support.brother.com
 @@||googletagmanager.com/gtm.js$domain=suwen.com.tr
 @@||googletagmanager.com/gtm.js$domain=systemrequirementslab.com
 @@||googletagmanager.com/gtm.js$domain=t-online.de
@@ -9627,6 +9628,7 @@
 @@||hr-online.de/website/includes/webanalyse/xtcore.js
 @@||href.li/?https://rm.freex2line.online/redirectingfree/$stealth=referrer
 @@||href.li^|
+@@||hs-scripts.com^$script,domain=almalaurea.it
 @@||hse24.de^*/emos2.js
 @@||hsnstore.*^$stealth=flash|java
 @@||hsugoi.com/*.mp4$stealth=referrer
@@ -15372,7 +15374,6 @@
 @@||s.yimg.com/ja/ap/*/jquery.$domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
 @@||s.yimg.com/rq/darla/boot.js$domain=mail.yahoo.com
 @@||s.yimg.com/ss/analytics3.js$domain=sports.yahoo.com
-@@||s.yimg.com/ss/analytics3.js$domain=tw.news.yahoo.com|tw.yahoo.com|tw.stock.yahoo.com|hk.news.yahoo.com|hk.yahoo.com|hk.stock.yahoo.com
 @@||s.yimg.com/ss/analytics3.js$domain=tw.news.yahoo.com|tw.yahoo.com|tw.stock.yahoo.com|hk.news.yahoo.com|hk.yahoo.com|hk.stock.yahoo.com|help.yahoo.com
 @@||s.yimg.com/ss/analytics3.js$domain=tw.sports.yahoo.com
 @@||s.yimg.com/ss/rapid-*.js$domain=engadget.com
@@ -16345,7 +16346,6 @@
 @@||site-banner.hange.jp/adshow?$domain=animallabo.hange.jp
 @@||siteanalytics.compete.com^$~third-party
 @@||siteapps.com^$script,domain=netcombo.com.br
-@@||siteintercept.qualtrics.com/$domain=idealo.de
 @@||siteintercept.qualtrics.com^$domain=idealo.*
 @@||sitelike.org^$generichide
 @@||sitenable.com/admega.php$script
@@ -17149,7 +17149,6 @@
 @@||stream2watch.org/js/advertisement.js
 @@||stream2watch.ws/js/app.js
 @@||stream4free.eu/modules/mod_jpayday/js/doubleclick.js$script,domain=stream4free.eu
-@@||stream4free.live^$generichide
 @@||stream4free.tv^$generichide
 @@||streamas*.*.json?_ver=*&_ctump=$third-party,xmlhttprequest,stealth=referrer
 @@||streambox*.xyz/cdn/down/$stealth=referrer,domain=ddizi.im
@@ -18314,7 +18313,6 @@
 @@||unsubscribe.lhinsights.com^|
 @@||uop.quark.cn^$important
 @@||up-load.io/*/img/*.png#
-@@||up-load.io^$generichide
 @@||up4load.com^$generichide
 @@||upaiyun.com/libs/$script,domain=xddxsw.net
 @@||upaiyun.com^*.js$domain=cilimao.co|cilimao.one
@@ -18421,7 +18419,6 @@
 @@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=alternate.de|andrewgriffith.cpa|atv.at|bayer04.de|bsr.de|cambio-carsharing.de|casino.psk.hr|dfbplay.tv|douglas.de|dr-beckmann.com|falke.com|festool.at|festool.be|festool.bg|festool.ch|festool.cn|festool.co.kr|festool.co.uk|festool.co.za|festool.com|festool.cz|festool.de|festool.dk|festool.es|festool.fi|festool.fr|festool.hu|festool.ie|festool.it|festool.lt|festool.nl|festool.no|festool.pl|festool.pt|festool.ro|festool.ru|festool.se|festool.sk|festool.ua|festoolcanada.com|festoolusa.com|flaschenpost.de|hamburg-business.com|highsnobiety.com|hornbach.nl|hypofriend.de|immowelt.de|joyn.at|joyn.de|kicker.de|mbusa.com|meubelo.nl|meubles.fr|moebel.de|moebel24.at|moebel24.ch|morenutrition.de|oeamtc.at|paketshop.myhermes.de|personio.com|poco.de|post.ch|postbank.de|prosieben.at|puls4.com|radiobob.de|ran.de|rts.ch|s-pankki.fi|salzburg.info|sat1.at|schlager.radio|sportdeutschland.tv|srf.ch|verivox.de|wetter.com|zalando.*
 @@||usercentrics.eu^$script,xmlhttprequest,domain=muenchen.de
 @@||usercentrics.eu^$third-party,domain=festool.*|festoolcanada.com|festoolusa.com
-@@||userload.co/adpopup.js$script
 @@||userreport.com/*/settings.js$domain=csb.app
 @@||userreport.com/SystemSettings.js$domain=csb.app
 @@||userreport.com/computools/launcher.js$domain=csb.app
@@ -19465,7 +19462,6 @@
 @@||yimg.com/*/css/
 @@||yimg.com/av/gemini-ui/*/advertiser/$domain=gemini.yahoo.com
 @@||yimg.com/bm/lib/fi/common/*/yfi_comscore.js$domain=finance.yahoo.com
-@@||yimg.com/dy/ads/native.js$script,domain=animedao.to
 @@||yimg.com/mi/eu/ywa.js$domain=immowelt.de
 @@||yimg.com/rq/darla/*/g-r-min.js$domain=yahoo.com
 @@||yimg.com/ss/rapid-3.*.js$domain=hk.yahoo.com|tw.yahoo.com
