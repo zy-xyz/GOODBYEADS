@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-10-23 00:25:45（北京时间）
+! Version: 2026-10-23 10:51:50（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19641
+! Total count: 19644
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$cookie=_pcus,domain=buerstaedter-zeitung.de|allgemeine-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de|ruhrnachrichten.de
@@ -12386,6 +12386,7 @@
 @@||netd.com/js/piwik-plugin.js
 @@||netded.com/plus/ad_js.php?aid=3|
 @@||netdna.bootstrapcdn.com/font-awesome^
+@@||netease.com/online/lib/sentry/*/bundle.tracing.
 @@||netfapx.com/*/|$stealth=webrtc
 @@||netflav.com^$generichide
 @@||netflix.com/*/Login
@@ -15462,6 +15463,7 @@
 @@||sarapbabe.com/nativeads-v2.js
 @@||sarapbabe.com^$generichide
 @@||sarapbeh.com^$generichide
+@@||sarkarijobcorner.com^$generichide
 @@||sarkarinaukry.com^$generichide
 @@||sascdn.com/config.js?nwid=$domain=femmeactuelle.fr
 @@||sascdn.com/diff/js/smart.js$domain=deezer.com
@@ -16066,6 +16068,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$xmlhttprequest,domain=luciferdonghua.in
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$xmlhttprequest,domain=weshare.is
 @@||securepubads.g.doubleclick.net^$domain=hoyts.com.au
+@@||securepubads.g.doubleclick.net^$domain=sarkarijobcorner.com
 @@||securepubads.shareus.io/scripts/tag/js/gpt.js$domain=wstream.cloud|viralharami.com|app.fileszero.com
 @@||secureservercdn.net/*.myftpupload.com/wp-content/themes/jannah/assets/js/advertisement.js$domain=sailuniverse.com
 @@||securetoken.googleapis.com^$stealth=referrer
