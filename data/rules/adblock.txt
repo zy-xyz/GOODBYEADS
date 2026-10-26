@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-10-25 23:23:10（北京时间）
+! Version: 2026-10-26 10:38:21（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 883728
+! Total count: 883984
 
 ### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
 ### License: MIT
@@ -68086,7 +68086,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 13023.url.7wkw.com
 0.0.0.0 132.red-81-42-249.staticip.rima-tde.net
 0.0.0.0 13gtest.bj2cu.u3.ucweb.com
-0.0.0.0 14-0-204-188.static.pccw-hkt.com
 0.0.0.0 14.152.75.59
 0.0.0.0 144.dragonparking.com
 0.0.0.0 1495039.com
@@ -68100,6 +68099,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 16gtest.bj2cu.u3.ucweb.com
 0.0.0.0 17.huanqiu.com
 0.0.0.0 1717.1000uc.com
+0.0.0.0 178.248.3.202.ll.sta.mana.pf
 0.0.0.0 17gtest.bj2cu.u3.ucweb.com
 0.0.0.0 181ue.com
 0.0.0.0 183.232.114.245
@@ -68580,6 +68580,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 acceptancecrowdadvertising.com
 0.0.0.0 access.advisorscliuerund.info
 0.0.0.0 access.pangolin-sdk-toutiao-b.com
+0.0.0.0 accesstelematics.com
 0.0.0.0 accidentadvicehelpline.co.uk
 0.0.0.0 account-worda-ads.cacaobliss.pt
 0.0.0.0 accounts.doubleclick.net
@@ -75534,6 +75535,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 badsllcvgillm.space
 0.0.0.0 bafybeicwf6n5g4pf3gfaluw7cqwcjyf6m66fuiexxadvkxnwprql5ezuqm.ipfs.inbrowser.link
 0.0.0.0 bafybeieinfniokbzasdkpwazctmq3cgmzg3th4v44dkrjf3abl4o2zmjxy.ipfs.dweb.link
+0.0.0.0 bagsrad.com
 0.0.0.0 baichuan-sdk.alicdn.com
 0.0.0.0 baichuan.baidu.com
 0.0.0.0 baidu-mipdx.cn.miaozhen.com
@@ -75787,6 +75789,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 beacons.digital.disneyadvertising.com
 0.0.0.0 bead-ad.com
 0.0.0.0 beads.sx.atl.publicus.com
+0.0.0.0 beak.in
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beap.adss.yahoo.com
 0.0.0.0 beap.adx.yahoo.com
@@ -75998,6 +76001,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 boffoadsapi.com
 0.0.0.0 boffoadsfeeds.com
 0.0.0.0 boilingmadsoup.com
+0.0.0.0 boitim.oss-eu-west-2.aliyuncs.com
 0.0.0.0 bokvennen.ads.ramsalt.com
 0.0.0.0 bolt.jebe.renren.com
 0.0.0.0 bond.iad-03.braze.com
@@ -76404,7 +76408,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdfreisdoosdklsdfslf.site
 0.0.0.0 cdlc.iadvize.com
-0.0.0.0 cdm.wovplaying.help
 0.0.0.0 cdn-10049480.file.myqcloud.com
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 cdn-ad.wtzw.com
@@ -78019,7 +78022,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 donutbasefinder.com
 0.0.0.0 donutclients.cc
-0.0.0.0 donutclientz.netlify.app
 0.0.0.0 donutsmp-mod.github.io
 0.0.0.0 doubleadserve.com
 0.0.0.0 doubleclick.com
@@ -78262,6 +78264,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 dw.xcar.com.cn
 0.0.0.0 dwga.kick-ads.de
 0.0.0.0 dwtracking.sdo.com
+0.0.0.0 dxa.multidex.life
 0.0.0.0 dy886.cn
 0.0.0.0 dygang.kkcaicai.com
 0.0.0.0 dyn.naiadsystems.com
@@ -78784,6 +78787,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 file.bmob.cn
 0.0.0.0 file.chanet.com.cn
 0.0.0.0 file.ipinyou.com.cn
+0.0.0.0 file.uhsea.com
 0.0.0.0 fileleads.net
 0.0.0.0 filerit.com
 0.0.0.0 files-downloads.com
@@ -78879,6 +78883,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 flatfea.ero-advertising.com
 0.0.0.0 flatfee.ero-advertising.com
 0.0.0.0 flex.msn.com
+0.0.0.0 flicargo.com
 0.0.0.0 flimsyheadstone.com
 0.0.0.0 floatingads.madisonavenue.com
 0.0.0.0 floppaclient.com
@@ -79752,8 +79757,8 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 hmdypadvcolcw.space
 0.0.0.0 hmma.baidu.com
 0.0.0.0 hnb2c.adsame.com
-0.0.0.0 hnjgdl.geps.glodon.com
 0.0.0.0 hnnzwhyy.com
+0.0.0.0 hobobot.net
 0.0.0.0 hoisin.coocaa.com
 0.0.0.0 hoisin.coocaatv.com
 0.0.0.0 hoki.areahokiads.xyz
@@ -80352,7 +80357,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 inte.sogou.com
 0.0.0.0 inte.theta.sogoucdn.com
 0.0.0.0 integralwall.baidu.com
-0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intelliads.com
 0.0.0.0 intelligentadsystemswe.pro
 0.0.0.0 intelligradeeducation.vicentecisnerospub.com
@@ -80431,7 +80435,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 it.erosadv.com
 0.0.0.0 it.snssdk.com.edgekey.net
 0.0.0.0 itaoxiaoshuo.com
-0.0.0.0 itco.pe
 0.0.0.0 item.mediav.com
 0.0.0.0 itemifs.tanx.com
 0.0.0.0 its.fugetech.com
@@ -81040,7 +81043,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 licenses.ashampoo.com
 0.0.0.0 licensing.tableausoftware.com
 0.0.0.0 lidlsaleonlyadspl.shop
-0.0.0.0 lifeisabouthavingfun448.duckdns.org
 0.0.0.0 liftedcontent.nomadsocials.com
 0.0.0.0 lightcast.leadscoringcenter.com
 0.0.0.0 lightstep-collector.api.ua.com
@@ -81239,7 +81241,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 lokalleads-cci.com
 0.0.0.0 loldy.jiangmg.com
 0.0.0.0 lomejordesalamanca.es
-0.0.0.0 londonairportstransfer.co.uk
 0.0.0.0 lordofads.com
 0.0.0.0 lorenterendor-click.pages.dev
 0.0.0.0 lorenzomoriconiadv.com
@@ -81946,7 +81947,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 milanadschool.com
 0.0.0.0 milladvocacyunderstandable.com
 0.0.0.0 mindmanager.cc
-0.0.0.0 miner.pages.dev
 0.0.0.0 mini.cpc.sogou.com
 0.0.0.0 mini.eastday.com
 0.0.0.0 mini2015.qq.com
@@ -82004,6 +82004,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 mmg.aty.cp45.ott.cibntv.net
 0.0.0.0 mmg.aty.snmsohu.aisee.tv
 0.0.0.0 mmg.aty.sohu.com
+0.0.0.0 mmns.oss-me-east-1.aliyuncs.com
 0.0.0.0 mms.deadspin.com
 0.0.0.0 mms2017.admaster.com.cn
 0.0.0.0 mn.aty.sohu.com
@@ -82255,7 +82256,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 mx.adserver.yahoo.com
 0.0.0.0 mx.ero-advertising.com
 0.0.0.0 mx00.cityads.com
-0.0.0.0 mxh4h.com
 0.0.0.0 mxs01.cityads.com
 0.0.0.0 mxs02.cityads.com
 0.0.0.0 mxtads.com
@@ -82279,7 +82279,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 mydas.mobi
 0.0.0.0 mydisplay.ctfile.com
 0.0.0.0 myes.youku.com
-0.0.0.0 myhpsd2.screenconnect.com
 0.0.0.0 myiads.com
 0.0.0.0 mylmad.com
 0.0.0.0 mypopads.com
@@ -82403,6 +82402,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 neptune2.appads.com
 0.0.0.0 neptune3.appads.com
 0.0.0.0 nerfeiidsjsdksdlopower.com
+0.0.0.0 nest-52.com
 0.0.0.0 net-olx.unlimited-click.shop
 0.0.0.0 net.24-ads.com
 0.0.0.0 net.rayjump.com
@@ -82505,6 +82505,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 noithaticon.vn
 0.0.0.0 nomadsdata.com
 0.0.0.0 nomadsocials.com
+0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 nossl.segfault.net
 0.0.0.0 notbak.com
 0.0.0.0 notepad2.com
@@ -84486,6 +84487,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 rum-static.pingdom.net
 0.0.0.0 runads.com
 0.0.0.0 rundpressed.eadshortlets.com
+0.0.0.0 runelight.net
 0.0.0.0 runelite.cc
 0.0.0.0 rushadventure.com
 0.0.0.0 rustic-adventure.com
@@ -85500,7 +85502,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 skadsdk.appsflyersdk.com
 0.0.0.0 skeet.advetime.ru
 0.0.0.0 skeetads.com
-0.0.0.0 skmac811.com
 0.0.0.0 sky.tvos.skysrt.com
 0.0.0.0 skyadsmart.com
 0.0.0.0 skyblock-addons.com
@@ -85650,7 +85651,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 source.advisible.com
 0.0.0.0 source.youxiaoad.com
 0.0.0.0 sourcepoint.deadspin.com
-0.0.0.0 southernalarm.screenconnect.com
 0.0.0.0 southernhomeadvisor.com
 0.0.0.0 southtexasbulkheads.com
 0.0.0.0 southwindsfineart.com
@@ -85984,6 +85984,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 static-rtb2.tenxads.com
 0.0.0.0 static-ssl.mediav.com
 0.0.0.0 static.1j1j.com
+0.0.0.0 static.3001.net
 0.0.0.0 static.4chan-ads.org
 0.0.0.0 static.a-ads.com
 0.0.0.0 static.ad-lancers.jp
@@ -86280,7 +86281,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 swappdl.duoyi.com
 0.0.0.0 swesisidskdkaooadskk.site
 0.0.0.0 swiatadsinformacji24.com
-0.0.0.0 swiftfusion.tech
 0.0.0.0 swiftonyx16.com
 0.0.0.0 swissadserver.ch
 0.0.0.0 sworkitads.herokuapp.com
@@ -86879,7 +86879,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpdads.com
 0.0.0.0 tpmedia-reactads.com
-0.0.0.0 tpp.om-stock.com
 0.0.0.0 tpush.html5.qq.com
 0.0.0.0 tq.adventurefeeds.com
 0.0.0.0 tq.skysrt.com
@@ -87539,7 +87538,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 utp-dmp.ucweb.com
 0.0.0.0 utp.ucweb.com
 0.0.0.0 utrack.hexun.com
-0.0.0.0 uu.v2raynapps.com.cn
 0.0.0.0 uu38.vip
 0.0.0.0 uuboos.com
 0.0.0.0 uuidapi.yunos.com
@@ -88430,6 +88428,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 wholecoolposts.com
 0.0.0.0 whu.cwpush.com
 0.0.0.0 wicreset.online
+0.0.0.0 wicresetconnect.com
 0.0.0.0 widexenmexico.com.mx
 0.0.0.0 widget.adviceiq.com
 0.0.0.0 widget.cleverads.vn
@@ -90145,6 +90144,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 xdrig.com
 0.0.0.0 xdssp.mediav.com
 0.0.0.0 xege.adsndtrackify.xyz
+0.0.0.0 xeno.baby
 0.0.0.0 xenon.studio
 0.0.0.0 xenonclient.com
 0.0.0.0 xfalmawladvew.site
@@ -90165,6 +90165,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
 0.0.0.0 xiaomi.m.cn.miaozhen.com
 0.0.0.0 xiaoshuo.kp53.cn
+0.0.0.0 xiaozzz.oss-me-east-1.aliyuncs.com
 0.0.0.0 xiazai.cdren.com
 0.0.0.0 xiazai.crossoverchina.com
 0.0.0.0 xiazai.pdfexpert.cc
@@ -90836,8 +90837,8 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 100.28.104.175                 spike.com
 100.30.94.58                   perf.store.on.epicgames.com
 100.49.62.17                   eulatracking-public-service-prod06.ol.epicgames.com
+100.51.15.102			registry.hub.docker.com
 100.61.13.191                  epicgames.com
-100.62.164.209                 account-public-service-prod03.ol.epicgames.com
 100.com.tw#$#.evaluation-normal { display: none !important; }
 100.com.tw#$#.van-overflow-hidden { overflow: auto !important; }
 100.pncdn.cn
@@ -90975,7 +90976,8 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 100ksw.com##[src^="/images/ad/"]
 100percentfedup.com##.pre-announcement
 100percentfedup.com##.z-ad-display
-100percentfedup.com,180gadgets.com,247media.com.ng,3dvf.com,academicful.com,addapinch.com,aiarticlespinner.co,aimhaven.com,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,androidsis.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bipartisanreport.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,celtsarehere.com,cgmagonline.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,clickpetroleoegas.com.br,coincodecap.com,comicsuniverse.it,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cpophome.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,dcenquirer.com,digitalreg.net,dorohedoro.online,downtownbellevue.com,dramacool.com.my,ecoportal.net,ecoticias.com,elboletin.com,emobilityplus.com,engineering-designer.com,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstcuriosity.com,firstsportz.com,fitpractise.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,formu1a.uno,freecoursesite.com,freefontsfamily.net,freemagazines.top,fyptt.to,gadgetinsiders.com,gamebyte.com,gamegill.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,getdroidtips.com,glassalmanac.com,goodyfeed.com,greekreporter.com,happymag.tv,hard-drive.net,harrowonline.org,haxmac.cc,healthinfo.healthengine.com.au,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,inwepo.co,iotwreport.com,isekaitube.com,japaneseasmr.com,jardineriaon.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,kaystls.site,libertyunlocked.com,linuxfordevices.com,lithub.com,londonlovesbusiness.com,macmagazine.com.br,magcourse.site,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mrinformatico.it,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexus-games.net,nexusgames.to,nintendoeverything.com,noahreport.com,nokiapoweruser.com,notalwaysright.com,nsw2u.com,nxbrew.com,oliveoiltimes.com,organicfacts.net,orlandoweekly.com,patriotfetch.com,pcoptimizedsettings.com,pianetacellulare.it,politizoom.com,premiumtimesng.com,primeaudio.org,protrumpnews.com,psu.com,pureinfotech.com,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,rightrasta.com,rightwingnews.com,roadaheadonline.co.za,rok.guide,romsworlds.com,saabplanet.com,sacurrent.com,sciencenotes.org,sdnews.com,secnews.gr,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,ssdhostting.com,statisticsbyjim.com,storypick.com,streamingbetter.com,suggest.com,superwatchman.com,supjav.ru,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,techbixby.com,techdirectarchive.com,technobaboy.com,techpp.com,techrounder.com,techviral.net,telegrafi.com,the-gadgeteer.com,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedailysight.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thesportsgrail.com,thethaiger.com,thewincentral.com,thisquality.com,tob.news,toolsai.net,trendingpolitics.com,trendingpoliticsnews.com,troypoint.com,tvtonight.com.au,twistedvoxel.com,ubunlog.com,umatechnology.org,unseki.co.jp,updoc.site,vice.com,vjmedia.com.hk,voiceofmotown.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,wikibio.us,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingheadlines.com,wrestlingnews.co,wtmj.com,zerohanger.com,ziperto.com##.code-block
+100percentfedup.com,180gadgets.com,247media.com.ng,3dvf.com,academicful.com,addapinch.com,aiarticlespinner.co,aimhaven.com,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,androidsis.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bipartisanreport.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,celtsarehere.com,cgmagonline.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,clickpetroleoegas.com.br,coincodecap.com,comicsuniverse.it,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cpophome.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,dcenquirer.com,digitalreg.net,dorohedoro.online,downtownbellevue.com,dramacool.com.my,ecoportal.net,ecoticias.com,elboletin.com,emobilityplus.com,engineering-designer.com,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstcuriosity.com,firstsportz.com,fitpractise.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,formu1a.uno,freecoursesite.com,freefontsfamily.net,freemagazines.top,fyptt.to,gadgetinsiders.com,gamebyte.com,gamegill.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,getdroidtips.com,glassalmanac.com,goodyfeed.com,greekreporter.com,happymag.tv,hard-drive.net,harrowonline.org,haxmac.cc,healthinfo.healthengine.com.au,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,inwepo.co,iotwreport.com,isekaitube.com,japaneseasmr.com,jardineriaon.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,kaystls.site,libertyunlocked.com,linuxfordevices.com,lithub.com,londonlovesbusiness.com,macmagazine.com.br,magcourse.site,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mrinformatico.it,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexus-games.net,nexusgames.to,nintendoeverything.com,noahreport.com,nokiapoweruser.com,notalwaysright.com,nsw2u.com,nxbrew.com,oliveoiltimes.com,organicfacts.net,orlandoweekly.com,patriotfetch.com,pcoptimizedsettings.com,pianetacellulare.it,politizoom.com,premiumtimesng.com,primeaudio.org,protrumpnews.com,psu.com,pureinfotech.com,pwmania.com,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,rightrasta.com,rightwingnews.com,roadaheadonline.co.za,rok.guide,romsworlds.com,saabplanet.com,sacurrent.com,sciencenotes.org,sdnews.com,secnews.gr,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,ssdhostting.com,statisticsbyjim.com,storypick.com,streamingbetter.com,suggest.com,superwatchman.com,supjav.ru,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,techbixby.com,techdirectarchive.com,technobaboy.com,techpp.com,techrounder.com,techviral.net,telegrafi.com,the-gadgeteer.com,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedailysight.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thesportsgrail.com,thethaiger.com,thewincentral.com,thisquality.com,tob.news,toolsai.net,trendingpolitics.com,trendingpoliticsnews.com,troypoint.com,tvtonight.com.au,twistedvoxel.com,ubunlog.com,umatechnology.org,unseki.co.jp,updoc.site,vice.com,vjmedia.com.hk,voiceofmotown.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,wikibio.us,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingheadlines.com,wrestlingnews.co,wtmj.com,zerohanger.com,ziperto.com##.code-block
+100percentfedup.com,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,celtsarehere.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,coincodecap.com,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,digitalreg.net,dorohedoro.online,dramacool.com.my,ecoportal.net,ecoticias.com,emobilityplus.com,engineering-designer.com,epicdope.com,eurweb.com,fandomwire.com,firstcuriosity.com,firstsportz.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,freemagazines.top,gadgetinsiders.com,gamebyte.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,glassalmanac.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,haxmac.cc,healthinfo.healthengine.com.au,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jardineriaon.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,londonlovesbusiness.com,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexusgames.to,nintendoeverything.com,noahreport.com,nokiapoweruser.com,notalwaysright.com,nxbrew.com,organicfacts.net,orlandoweekly.com,patriotfetch.com,pcoptimizedsettings.com,politizoom.com,premiumtimesng.com,primeaudio.org,protrumpnews.com,psu.com,pureinfotech.com,pwmania.com,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,rightwingnews.com,roadaheadonline.co.za,rok.guide,romsworlds.com,saabplanet.com,sacurrent.com,sciencenotes.org,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,statisticsbyjim.com,storypick.com,streamingbetter.com,suggest.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,technobaboy.com,techpp.com,techrounder.com,techviral.net,the-gadgeteer.com,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedailysight.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thewincentral.com,thisquality.com,trendingpoliticsnews.com,troypoint.com,tvtonight.com.au,twistedvoxel.com,vice.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingheadlines.com,wrestlingnews.co,wtmj.com,zerohanger.com,ziperto.com##.code-block
 100percentfedup.com,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,celtsarehere.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,coincodecap.com,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,digitalreg.net,dorohedoro.online,dramacool.com.my,ecoportal.net,ecoticias.com,emobilityplus.com,engineering-designer.com,epicdope.com,eurweb.com,fandomwire.com,firstcuriosity.com,firstsportz.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,freemagazines.top,gadgetinsiders.com,gamebyte.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,glassalmanac.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,haxmac.cc,healthinfo.healthengine.com.au,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jardineriaon.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,londonlovesbusiness.com,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexusgames.to,nintendoeverything.com,noahreport.com,nokiapoweruser.com,notalwaysright.com,nxbrew.com,organicfacts.net,orlandoweekly.com,patriotfetch.com,pcoptimizedsettings.com,politizoom.com,premiumtimesng.com,primeaudio.org,protrumpnews.com,psu.com,pureinfotech.com,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,rightwingnews.com,roadaheadonline.co.za,rok.guide,romsworlds.com,saabplanet.com,sacurrent.com,sciencenotes.org,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,statisticsbyjim.com,storypick.com,streamingbetter.com,suggest.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,technobaboy.com,techpp.com,techrounder.com,techviral.net,the-gadgeteer.com,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedailysight.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thewincentral.com,thisquality.com,trendingpoliticsnews.com,troypoint.com,tvtonight.com.au,twistedvoxel.com,vice.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingheadlines.com,wrestlingnews.co,wtmj.com,zerohanger.com,ziperto.com##.code-block
 100percentfedup.com,protrumpnews.com##.pre-announcement
 100popugaev.ru,coderlessons.com,facenews.ua,fixx.one,its-kids.ru,molitvy.guru,nizhny.ru,pro100hobbi.ru,publy.ru,samelectric.ru,svadba.expert,tehnobzor.ru,vibir.ru#$#abort-on-property-read XMLHttpRequest
@@ -91079,6 +91081,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 101cookbooks.com,247wallst.com,365daysofbakingandmore.com,40plusstyle.com,4runner6g.com,acedarspoon.com,acouplecooks.com,activewild.com,addapinch.com,afarmgirlsdabbles.com,againstallgrain.com,aheadofthyme.com,alattefood.com,all-nationz.com,alldayidreamaboutfood.com,allwaysdelicious.com,almanac.com,amandascookin.com,ambitiouskitchen.com,amybakesbread.com,andrewzimmern.com,androidheadlines.com,anitalianinmykitchen.com,anoregoncottage.com,appunwrapper.com,aprettylifeinthesuburbs.com,archerytalk.com,asweetpeachef.com,athlonsports.com,averiecooks.com,awfulannouncing.com,backforseconds.com,bakedbree.com,bakedbyrachel.com,bakerbynature.com,bakerita.com,ballexclusives.com,barbarabakes.com,beatthebudget.com,bestfriendsforfrosting.com,biancazapatka.com,biddytarot.com,blesserhouse.com,bluearchive.gg,brighteyedbaker.com,bromabakery.com,broncosportforum.com,budgetbytes.com,butterbeready.com,butternutbakeryblog.com,bydeannyd.com,cafedelites.com,cakebycourtney.com,canoe.com,canonrumors.com,chefsavvy.com,chelseasmessyapron.com,chocolatecoveredkatie.com,chumplady.com,chunkbase.com,cleananddelicious.com,closetcooking.com,concertarchives.org,connoisseurusveg.com,cookieandkate.com,cookierun.gg,cookiesandcups.com,cookincanuck.com,cookingclassy.com,corral.net,courtneyssweets.com,cravingsofalunatic.com,crayonsandcravings.com,creative-culinary.com,crockpotladies.com,cruisehive.com,crunchycreamysweet.com,currytrail.in,cybertruckownersclub.com,czn.gg,dailydishrecipes.com,damndelicious.net,davesgarden.com,dcworldscollide.gg,deltiasgaming.com,dessertnowdinnerlater.com,dessertswithbenefits.com,destiny2zone.com,detoxinista.com,diablo4.gg,diethood.com,digimonzone.com,dinneratthezoo.com,dinnerthendessert.com,disneytouristblog.com,dotgg.gg,dragonball.gg,driving.ca,e46fanatics.com,easycheesyvegetarian.com,eatingonadime.com,edmontonsun.com,electricteeth.com,elliott.org,emilybites.com,endfield.gg,entertainingwithbeth.com,epicgardening.com,expedition33.gg,f150gen14.com,fabtcg.gg,farmersalmanac.com,favfamilyrecipes.com,fearlessdining.com,feastingathome.com,fedandfit.com,feedmephoebe.com,feelgoodfoodie.net,fooddoodles.com,foodfaithfitness.com,foodiecrush.com,forkknifeswoon.com,foxeslovelemons.com,framedcooks.com,freshbeanbakery.com,fromvalerieskitchen.com,frugalvillage.com,fufuskitchen.com,gadgetreview.com,garminrumors.com,gearpatrol.com,gimmesomeoven.com,giverecipe.com,glutenfreeonashoestring.com,glutenfreepalate.com,godairyfree.org,greatergood.com,greensnchocolate.com,grownandflown.com,gundamcard.gg,halfbakedharvest.com,handletheheat.com,hannahmageerd.com,healthy-delicious.com,healthyfitnessmeals.com,healthygreenkitchen.com,healthylittlefoodies.com,healthynibblesandbits.com,hearthookhome.com,heynutritionlady.com,honkai.gg,hoosierhomemade.com,hot-thai-kitchen.com,howsweeteats.com,hummingbirdhigh.com,hummusapien.com,hungrypaprikas.com,iambaker.net,iamhomesteader.com,ibreatheimhungry.com,idownloadblog.com,ifish.net,inkatrinaskitchen.com,insider-gaming.com,inspiralized.com,iphoneincanada.ca,itechguides.com,jaroflemons.com,jeepforum.com,joyfoodsunshine.com,joyousapron.com,joyusgarden.com,juliasalbum.com,julieblanner.com,juliescafebakery.com,justagirlandherblog.com,justataste.com,justonecookbook.com,kdnuggets.com,kingshotcalculator.com,kirbiecravings.com,kitchendivas.com,kitchennostalgia.com,kitchentreaty.com,ladysavings.com,laurafuentes.com,laurenfromscratch.com,laurenslatest.com,lazycatkitchen.com,leafyplace.com,leagueofgraphs.com,letthemeatgfcake.com,lexiscleankitchen.com,lfpress.com,lifeasastrawberry.com,lifestyleofafoodie.com,liliputing.com,littlespicejar.com,littlespoonfarm.com,littlesunnykitchen.com,littlesweetbaker.com,livingwellmom.com,lorcana.gg,lostsword.gg,louisianacookin.com,loveandlemons.com,maangchi.com,machinelearningmastery.com,macobserver.com,makingthymeforhealth.com,mamagourmand.com,mamainastitch.com,marvel.church,marvelrivals.gg,marvelsnapzone.com,mavericktruckclub.com,mealprepmanual.com,meaningfuleats.com,medievalists.net,melskitchencafe.com,mexicanfoodjournal.com,mexicoinmykitchen.com,micechat.com,ministryofcurry.com,mmo-champion.com,moco.gg,mocoshow.com,modernhoney.com,momontimeout.com,momsdish.com,momswithcrockpots.com,mountainmamacooks.com,mp1st.com,mtgdecks.net,mtgsalvation.com,muybuenoblog.com,mybakingaddiction.com,myballard.com,mycolombianrecipes.com,mygluten-freekitchen.com,mykoreankitchen.com,mynaturalfamily.com,myquietkitchen.com,natashaskitchen.com,naturallieplantbased.com,neighborfoodblog.com,neverness.gg,nikke.gg,nomnompaleo.com,notateslaapp.com,nourishedbynic.com,nursefern.com,nutmegnanny.com,ohsheglows.com,ohsweetbasil.com,olgasflavorfactory.com,onceuponachef.com,onepiece.gg,onionringsandthings.com,ontariofarmer.com,orchidbliss.com,ourbestbites.com,overclock.net,padresmission.com,paleomg.com,pantrymama.com,parade.com,pcguide.com,pickyeaterblog.com,pinchofyum.com,pipandebby.com,platingsandpairings.com,playingmtg.com,pokemontcgzone.com,premeditatedleftovers.com,preppykitchen.com,pressurecookingtoday.com,prettysimplesweet.com,preventionrd.com,prydwen.gg,ptcgpocket.gg,rachaelsgoodeats.com,rachelcooks.com,rachlmansfield.com,rainbowplantlife.com,rdr2.org,realmenrealstyle.com,recipetineats.com,redcurrantbakery.com,riftbound.gg,rogerebert.com,runningtothekitchen.com,runtothefinish.com,russianmachineneverbreaks.com,sallysbakingaddiction.com,saltandbaker.com,sarahsvegankitchen.com,savvygardening.com,scam-detector.com,scientificallysweet.com,seasonedskilletblog.com,seededatthetable.com,shadowverse.gg,shugarysweets.com,simple-nourished-living.com,simply-delicious-food.com,simplyquinoa.com,simplywhisked.com,skinnytaste.com,snowbreak.gg,solveyourtech.com,southernplate.com,spatuladesserts.com,spendwithpennies.com,spiceupthecurry.com,spicysouthernkitchen.com,sporked.com,stardb.gg,starwarsunlimited.gg,stephiecooks.com,studyfinds.org,stylegirlfriend.com,sugarfreelondoner.com,sundaysuppermovement.com,sweetandsavorymeals.com,tablefortwoblog.com,tacoma4g.com,tasteandtellblog.com,tastesbetterfromscratch.com,texanerin.com,the-girl-who-ate-everything.com,the5krunner.com,thebakermama.com,thebazaarzone.com,thebestcakerecipes.com,thebestideasforkids.com,thebigmansworld.com,theblondcook.com,thecafesucrefarine.com,theconsciousplantkitchen.com,thecookinchicks.com,thecookingfoodie.com,theeburgerdude.com,theendlessmeal.com,thefitchen.com,thefoodieaffair.com,theforkedspoon.com,thefpsreview.com,theimpulsivebuy.com,thekitchenmagpie.com,thekoreanvegan.com,thelemonbowl.com,themediterraneandish.com,therecipecritic.com,thescranline.com,thestayathomechef.com,thewanderlustkitchen.com,thewoksoflife.com,thistlewoodfarms.com,thisvivaciouslife.com,thriftyfrugalmom.com,thurrott.com,tidefans.com,tidymom.net,torontosun.com,traveler.gg,tv3.lv,twinsdaily.com,twopeasandtheirpod.com,ultrabookreview.com,umamigirl.com,umamusume.gg,unefemme.net,urbanfarmandkitchen.com,vancouversun.com,veganricha.com,vegrecipesofindia.com,vincenzosplate.com,visualcapitalist.com,wearychef.com,wellplated.com,wenthere8this.com,whatgreatgrandmaate.com,whatjewwannaeat.com,whattocooktoday.com,whipperberry.com,whiteonricecouple.com,wholesomeyum.com,wnyt.com,wutheringwaves.gg,yourcupofcake.com,yourhomebasedmom.com,zenless.gg,zhangcatherine.com##+js(set-cookie, __adblocker, false)
 101domain.com,bullionstar.com,kennstdueinen.de##.cookiePolicy
 101kks.com,adslink.pw,animeyy.com,arigl.com,bellezashot.com,bighentai.org,brokensilenze.net,comicsz.com,erothots.*,erothots.co,erothots.is,erothots1.com,familypornhd.com,fastream.to,hdhentai.tv,hentaihd.xyz,hentaitv.fun,hispajav.com,justthegays.tv,kaliscan.me,lectorhentai.com,likemanga.*,mangaball.net,mens1069.com,porn4days.pw,rule34porno.cc,savefiles.com,sexlatino.com,tabooporn.tv##+js(abort-current-script, Node.prototype.insertBefore, pop1stp)
+101kks.com,pornid.*,lectorhentai.com,nlcosplay.com,mangayy.org,hispajav.com,mygoodporn.tv,erothots1.com,erothots.*,erothots.co,erothots.is,justthegays.tv,paipancon.com,hentaihd.xyz,tabooporn.tv,havefunporn.com,deephot.link,pornolomka9.com,pornoakt.*,mangacherri.com,xpicu.store,erothots1.com,kaliscan.me,veo-hentai.com,premiumporn.org,fastream.to,isekaitube.com,gayxx.net,xbgporn.com,bootstrample.com,hdhentai.tv,banned.porn,mangajikan.com,hentairead.io,nicomanga.com,weloma.art,love4u.net,asiangay.tv,japangaysex.com,erothots.co,onlyfootfetish.net,pig69.com,javsek.net,adictox.com,h.pornolomka3.com,idol69.net,javball.com,cnpics.org,gett.su,sex-empire.org,ovabee.com,otomi-games.com,pornososalka.org,javcock.com,javboys.com,ruangmoviez.my.id,magicemperor.online,xmoviesforyou.com,thatav.net,jetload.net,megapornfreehd.com,fileone.tv,javhiv.com,nyafilmer.com,gotgayporn.com,hqq.tv,pornhd.com,sextfun.com,imgoutlet.com,imgrock.net,myreadingmanga.info,porntrex.com,faselhd.co,tnaflix.com,anysex.com,filecrypt.cc,jawcloud.co,xmoviesforyou.com,swapsmut.com,pornwhite.com,zeriun.cc,sxyprn.net,pahe.win,javplay.me,hispasexy.org,moviecrumbs.net,segurosdevida.site,xvideos.com,ashemaletube.com,moviesand.com,prostylex.org,faptube.xyz,erogarga.com,redhdtube.xxx,nyafilmer.*#%#//scriptlet('abort-on-property-read', 'popns')
 101kks.com,pornid.*,lectorhentai.com,nlcosplay.com,mangayy.org,hispajav.com,mygoodporn.tv,erothots1.com,erothots.*,erothots.co,erothots.is,justthegays.tv,paipancon.com,hentaihd.xyz,tabooporn.tv,havefunporn.com,deephot.link,pornolomka9.com,pornoakt.*,mangacherri.com,xpicu.store,erothots1.com,kaliscan.me,veo-hentai.com,premiumporn.org,fastream.to,isekaitube.com,gayxx.net,xbgporn.com,bootstrample.com,hdhentai.tv,banned.porn,mangajikan.com,hentairead.io,nicomanga.com,weloma.art,love4u.net,asiangay.tv,japangaysex.com,erothots.co,onlyfootfetish.net,pig69.com,javsek.net,adictox.com,h.pornolomka3.com,idol69.net,javball.com,cnpics.org,gett.su,sex-empire.org,ovabee.com,otomi-games.com,pornososalka.org,javcock.com,javboys.com,ruangmoviez.my.id,magicemperor.online,xmoviesforyou.com,thatav.net,jetload.net,megapornfreehd.com,fileone.tv,javhiv.com,nyafilmer.com,gotgayporn.com,hqq.tv,pornhd.com,sextfun.com,imgoutlet.com,imgrock.net,myreadingmanga.info,porntrex.com,faselhd.co,tnaflix.com,anysex.com,filecrypt.cc,jawcloud.co,xmoviesforyou.com,swapsmut.com,pornwhite.com,zeriun.cc,uraaka-joshi.com,sxyprn.net,pahe.win,javplay.me,hispasexy.org,moviecrumbs.net,segurosdevida.site,xvideos.com,ashemaletube.com,moviesand.com,prostylex.org,faptube.xyz,erogarga.com,redhdtube.xxx,nyafilmer.*##+js(abort-on-property-read, popns)
 101kks.com,pornid.*,lectorhentai.com,nlcosplay.com,mangayy.org,hispajav.com,mygoodporn.tv,erothots1.com,erothots.*,erothots.co,erothots.is,justthegays.tv,paipancon.com,hentaihd.xyz,tabooporn.tv,havefunporn.com,deephot.link,pornolomka9.com,pornoakt.*,mangacherri.com,xpicu.store,erothots1.com,kaliscan.me,veo-hentai.com,premiumporn.org,fastream.to,isekaitube.com,gayxx.net,xbgporn.com,bootstrample.com,hdhentai.tv,banned.porn,mangajikan.com,hentairead.io,nicomanga.com,weloma.art,love4u.net,asiangay.tv,japangaysex.com,erothots.co,onlyfootfetish.net,pig69.com,javsek.net,adictox.com,h.pornolomka3.com,idol69.net,javball.com,cnpics.org,gett.su,sex-empire.org,ovabee.com,otomi-games.com,pornososalka.org,javcock.com,javboys.com,ruangmoviez.my.id,magicemperor.online,xmoviesforyou.com,thatav.net,jetload.net,megapornfreehd.com,fileone.tv,javhiv.com,nyafilmer.com,gotgayporn.com,hqq.tv,pornhd.com,sextfun.com,imgoutlet.com,imgrock.net,myreadingmanga.info,porntrex.com,faselhd.co,tnaflix.com,anysex.com,filecrypt.cc,jawcloud.co,xmoviesforyou.com,swapsmut.com,pornwhite.com,zeriun.cc,uraaka-joshi.com,sxyprn.net,pahe.win,javplay.me,hispasexy.org,moviecrumbs.net,segurosdevida.site,xvideos.com,ashemaletube.com,moviesand.com,prostylex.org,faptube.xyz,erogarga.com,redhdtube.xxx,nyafilmer.*#%#//scriptlet('abort-on-property-read', 'popns')
 101kofemashina.ru###mbr
@@ -91214,14 +91217,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 1039.view-qa1.sfmc-marketingqa.com$image
 10396.editor-qa1.marketingcloudqaapis.com$image
 10398.sfap-qa1.marketingcloudqaops.com$image
-104.119.189.161                api.steampowered.com
-104.119.189.194                api.steampowered.com
-104.119.189.195                api.steampowered.com
-104.119.189.201                api.steampowered.com
-104.119.189.202                api.steampowered.com
-104.119.189.211                api.steampowered.com
-104.119.189.234                api.steampowered.com
-104.119.189.235                api.steampowered.com
 104.154.127.247                ap-guc3.spotify.com
 104.155.51.226:443$network
 104.16.46.231                  npaa.pc.netflix.net
@@ -91256,7 +91251,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 104.18.39.11                   levelup.gitlab.com
 104.18.39.11                   packages.gitlab.com
 104.18.43.178                  auth.docker.io
-104.18.43.182			login.docker.com
 104.19.229.21                  assets.hcaptcha.com
 104.19.229.21                  hcaptcha.com
 104.19.229.21                  imgs.hcaptcha.com
@@ -91284,6 +91278,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 104.21.60.31                   easylist.to
 104.26.2.214                   ip2location.com
 104.26.3.214                   ip2location.com
+104.86.82.62                   help.steampowered.com
 104.88.206.133                 bigota.d.miui.com
 104.88.206.133                 hugeota.d.miui.com
 104.88.206.134                 bigota.d.miui.com
@@ -94279,6 +94274,8 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 13.107.139.11                  onedrive.live.com
 13.107.246.38                  acctcdn.msauth.net
 13.107.246.38                  logincdn.msauth.net
+13.107.246.40                  acctcdn.msauth.net
+13.107.246.40                  logincdn.msauth.net
 13.107.42.16                   pipelines.actions.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 13.216.127.208                 epicgames.com
@@ -94312,10 +94309,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 13.227.87.95                   beinsportsconnect.tv
 13.248.150.189                 go.com
 13.248.160.137                 fox.com
-13.249.141.104                 download.epicgames.com
-13.249.141.14                  download.epicgames.com
-13.249.141.18                  download.epicgames.com
-13.249.141.36                  download.epicgames.com
 13.32.205.100                  sdk-common-static.hoyoverse.com
 13.32.205.106                  www-ai.synology.com
 13.32.205.112                  www-ai.synology.com
@@ -94520,7 +94513,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 138.113.128.122                cdn-ws.content.steamchina.com
 138.197.222.19                 notification.synology.com
 138.197.222.19                 sns.synology.com
-138.91.182.224               copilot-proxy.githubusercontent.com
 1380.editor-qa1.marketingcloudqaapis.com$image
 13802.editor-qa1.marketingcloudqaapis.com$image
 13802.sfap-qa1.marketingcloudqaops.com$image
@@ -94612,67 +94604,65 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 140.248.144.193                i.imgur.com
 140.248.146.132                deb.debian.org
 140.248.146.172                tlu.dl.delivery.mp.microsoft.com
+140.248.149.194                github.global.ssl.fastly.net
 140.249.34.71                  baidupcs.com
-140.82.112.10                  codeload.github.com
-140.82.112.10                  nodeload.github.com
 140.82.112.13                  uploads.github.com
-140.82.112.18                 github.community
-140.82.112.18                github.community
+140.82.112.17			github.community
+140.82.112.17                  status.github.com
+140.82.112.17                 github.community
+140.82.112.17                github.community
 140.82.112.22                  viewscreen.githubusercontent.com
+140.82.112.22                 central.github.com
+140.82.112.22                 education.github.com
+140.82.112.22                central.github.com
 140.82.112.25                  alive.github.com
 140.82.112.25                  live.github.com
-140.82.112.26                 alive.github.com
+140.82.112.25                 live.github.com
 140.82.112.29                  githubapp.com
 140.82.112.30                  githubapp.com
-140.82.112.9                 codeload.github.com
+140.82.112.4                   gist.github.com
+140.82.112.4                   github.com
+140.82.112.5                 api.github.com
+140.82.112.6                   api.github.com
+140.82.113.10                  codeload.github.com
+140.82.113.10                  nodeload.github.com
+140.82.113.14                  uploads.github.com
 140.82.113.17                  github.community
 140.82.113.18	status.github.com
-140.82.113.18                  status.github.com
+140.82.113.21			central.github.com
 140.82.113.21                  collector.githubapp.com
-140.82.113.21                 central.github.com
-140.82.113.21                 education.github.com
 140.82.113.22                  git.io
+140.82.113.22                 api.individual.githubcopilot.com
 140.82.113.22                 collector.github.com
 140.82.113.25			alive.github.com
+140.82.113.25			live.github.com
 140.82.113.25	live.github.com
 140.82.113.26                  live.github.com
-140.82.113.26                 live.github.com
+140.82.113.26                 alive.github.com
 140.82.113.29                  githubapp.com
 140.82.113.3                   gist.github.com
 140.82.113.3                   github.com
 140.82.113.30                  githubapp.com
 140.82.113.34                  ghcr.io
-140.82.113.9			codeload.github.com
+140.82.113.4                 github.com
 140.82.113.9	codeload.github.com
+140.82.113.9                 codeload.github.com
 140.82.114.10                  codeload.github.com
-140.82.114.14                  uploads.github.com
 140.82.114.17	github.community
-140.82.114.17                  github.community
-140.82.114.18			github.community
+140.82.114.18                  github.community
 140.82.114.18                  status.github.com
-140.82.114.21                 api.individual.githubcopilot.com
-140.82.114.22			central.github.com
 140.82.114.22                  central.github.com
-140.82.114.22                central.github.com
-140.82.114.26			live.github.com
 140.82.114.29                  githubapp.com
-140.82.114.3			gist.github.com
-140.82.114.3			github.com
 140.82.114.3                   octocaptcha.com
 140.82.114.3                 gist.github.com
-140.82.114.3                 github.com
 140.82.114.30	githubapp.com
 140.82.114.30                  githubapp.com
 140.82.114.4	gist.github.com
 140.82.114.4	github.com
-140.82.114.4                   gist.github.com
-140.82.114.4                   github.com
 140.82.114.4                   octocaptcha.com
 140.82.114.4                   www.github.com
 140.82.114.5	api.github.com
-140.82.114.6			api.github.com
 140.82.114.6                   api.github.com
-140.82.114.6                 api.github.com
 140.82.114.9                   nodeload.github.com
 14000.cz,1twente.nl,3daistudio.com,aem.hr,aitum.tv,aktivia.it,andromede-cms.com,anker-in.com,anker.com,any.run,art.org,aspectcapital.com,atlas.flexport.com,bienpreter.com,billing.coned.com,bistrono.cz,boldem.cz,bookbot.de,bytesauna.com,caesium.app,capriz.it,century21.pt,ceskatelevize.cz,ckdtrialfinder.natera.com,codenames.game,codesandbox.io,cointracker.io,corporate.freedompay.com,cortinabikes.com,crealitycloud.com,ctbids.com,dashboard.phishfort.com,datawrapper.de,derslig.com,dervit.cz,dwarflab.com,eclean.gg,edb.cz,edb.eu,eufy.com,eufymake.com,exquisitetimepieces.com,ferrari-tower.com,fimewc.com,foxsports.com.mx,futnext.com,game-oracle.com,gitschberg.it,givesendgo.com,gl-inet.com,gmanetwork.com,goldplay.it,goodinternetmagazine.com,greybeam.ai,habito.com,hackmd.io,happyscribe.com,hellochefs.es,hololive-dreams.com,home.s.id,imusic.dk,imusic.se,infonieve.es,investor.natera.com,ipinfo.io,jackbox.tv,jenmusic.ai,jurga.lt,kirchberg.ch,knihobot.cz,konverto.eu,liu.se,localidautore.it,localizely.com,loetje.nl,lottiefiles.com,lustery.com,malacards.org,mealsyoulove.com,mking.pl,modeliukai.lt,mojposao.hr,mostostal.waw.pl,myagd.pl,nabidka.net,ndsas.sk,new-dashboard.phishfort.com,nixcademy.com,oakridgepark.com,olimpo.bet,online.gdu.com.tr,openresearchlab.org,polytoria.com,poptavka.net,primocanale.it,renderai.app,rogold.live,rustdesk.com,sampi.net.br,sardynkibiznesu.pl,seenebula.com,softorino.com,soleretriever.com,sporthotel-zoll.com,thewanderinginvestor.com,trae.ai,trakt.tv,tryprofound.com,tutotoons.com,unibz.it,up.pt,uxpilot.ai,vectara.com,velostreet.com,viture.com,whitebit.au,whitebit.com,whoisxmlapi.com,wooting.io,wordwall.net,workwithus.pinpointhq.com,yazio.com,yeezy.com,yodayo.com,ytlarge.com,zeno.fm,zitadel.com###cc-main
 14010.connector-qa1.marketingcloudqaapis.com$image
@@ -94790,8 +94780,8 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 14596.sock-qa1.marketingcloudqaops.com$image
 14599.editor-qa1.marketingcloudqaapis.com$image
 146.75.106.172                 dl.delivery.mp.microsoft.com
-146.75.106.172                 msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 146.75.106.248                 download.scdn.co
+146.75.30.172                  tlu.dl.delivery.mp.microsoft.com
 146.editor-qa1.marketingcloudqaapis.com$image
 146.sfap-qa1.marketingcloudqaops.com$image
 1460.ftp-qa1.marketingcloudqaops.com$image
@@ -94841,7 +94831,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 15.sock-qa1.marketingcloudqaops.com$image
 150.138.219.46                 nbcache00.baidupcs.com
 150.171.109.178                www.onenote.com
-150.171.110.104               vscode.dev
+150.171.110.98                vscode.dev
 150.171.22.11                  api.onedrive.com
 150.171.22.11                  d.docs.live.net
 150.171.22.11                  docs.live.net
@@ -94867,27 +94857,27 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 15090.connector-qa1.marketingcloudqaapis.com$image
 151.101.0.81                   open.live.bbc.co.uk
 151.101.0.81                   www.bbc.co.uk
-151.101.1.194			github.global.ssl.fastly.net
 151.101.1.194	github.global.ssl.fastly.net
 151.101.1.194                github.global.ssl.fastly.net
+151.101.1.241			auth.gog.com
 151.101.1.241			gameplay.gog.com
-151.101.1.241			www.gog.com
 151.101.1.55                   hbo.com
 151.101.128.81                 open.live.bbc.co.uk
 151.101.128.81                 www.bbc.co.uk
-151.101.129.241			auth.gog.com
-151.101.129.241			external-accounts.gog.com
+151.101.129.194			github.global.ssl.fastly.net
+151.101.129.241			gamesdb.gog.com
+151.101.129.241			insights-collector.gog.com
+151.101.129.241			www.gogalaxy.com
 151.101.129.55                 hbo.com
 151.101.161.194                github.global.ssl.fastly.net
 151.101.192.81                 open.live.bbc.co.uk
 151.101.192.81                 www.bbc.co.uk
-151.101.193.241			gamesdb.gog.com
-151.101.193.241			insights-collector.gog.com
 151.101.193.241			remote-config.gog.com
-151.101.193.241			www.gogalaxy.com
 151.101.193.55                 hbo.com
 151.101.64.81                  open.live.bbc.co.uk
 151.101.64.81                  www.bbc.co.uk
+151.101.65.241			external-accounts.gog.com
+151.101.65.241			www.gog.com
 151.101.65.55                  hbo.com
 151.242.229.119                superota.d.miui.com
 151.242.229.120                superota.d.miui.com
@@ -95074,75 +95064,73 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 16.15.157.44                   github-production-user-asset-6210df.s3.amazonaws.com
 16.15.158.47                   github-production-repository-file-5c1aeb.s3.amazonaws.com
 16.15.158.47                   github-production-user-asset-6210df.s3.amazonaws.com
-16.15.159.1                    github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.159.0                    github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.159.245                 github-cloud.s3.amazonaws.com
 16.15.160.127                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 16.15.160.127                  github-production-user-asset-6210df.s3.amazonaws.com
-16.15.166.117                github-com.s3.amazonaws.com
-16.15.171.13                   github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.164.124                  github-cloud.s3.amazonaws.com
+16.15.164.124                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.164.124                  github-production-user-asset-6210df.s3.amazonaws.com
+16.15.165.94                   github-cloud.s3.amazonaws.com
+16.15.165.94                   github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.165.94                   github-production-user-asset-6210df.s3.amazonaws.com
+16.15.167.115                github-production-repository-file-5c1aeb.s3.amazonaws.com
 16.15.183.141	github-production-user-asset-6210df.s3.amazonaws.com
-16.15.183.164                  github-com.s3.amazonaws.com
-16.15.183.190                  github-com.s3.amazonaws.com
-16.15.183.24                   github-cloud.s3.amazonaws.com
-16.15.199.136                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.199.246                  github-cloud.s3.amazonaws.com
-16.15.207.121                 github-cloud.s3.amazonaws.com
-16.15.207.121                 github-production-user-asset-6210df.s3.amazonaws.com
+16.15.183.254			github-cloud.s3.amazonaws.com
+16.15.183.7                    github-com.s3.amazonaws.com
+16.15.191.59			github-production-release-asset-2e65be.s3.amazonaws.com
 16.15.207.226                  github-cloud.s3.amazonaws.com
-16.15.207.65                   github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.207.69                   github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.212.120			github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.207.30                  github-production-release-asset-2e65be.s3.amazonaws.com
 16.15.212.62                   github-production-repository-file-5c1aeb.s3.amazonaws.com
 16.15.212.62                   github-production-user-asset-6210df.s3.amazonaws.com
-16.15.213.180			github-com.s3.amazonaws.com
 16.15.214.38                   github-com.s3.amazonaws.com
-16.15.215.165			github-production-user-asset-6210df.s3.amazonaws.com
-16.15.215.165                  github-cloud.s3.amazonaws.com
-16.15.215.165                github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.228.190                  github-cloud.s3.amazonaws.com
-16.15.228.84                   github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.228.48                   github-cloud.s3.amazonaws.com
+16.15.228.48                   github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.228.48                   github-production-user-asset-6210df.s3.amazonaws.com
+16.15.228.61                   github-production-release-asset-2e65be.s3.amazonaws.com
 16.15.228.95                   github-com.s3.amazonaws.com
-16.15.229.37                   github-com.s3.amazonaws.com
-16.15.229.93                   github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.229.95                   github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.230.22                   github-cloud.s3.amazonaws.com
+16.15.230.22                   github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.230.22                   github-production-user-asset-6210df.s3.amazonaws.com
 16.15.236.140                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 16.15.236.140                  github-production-user-asset-6210df.s3.amazonaws.com
 16.15.236.217	github-com.s3.amazonaws.com
-16.15.236.249                github-cloud.s3.amazonaws.com
-16.15.236.49                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.236.23                   github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.236.42                  github-production-user-asset-6210df.s3.amazonaws.com
 16.15.237.103                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.237.124                  github-com.s3.amazonaws.com
-16.15.238.156                 github-com.s3.amazonaws.com
+16.15.237.249                  github-com.s3.amazonaws.com
+16.15.237.7                    github-cloud.s3.amazonaws.com
+16.15.237.7                    github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.237.7                    github-production-user-asset-6210df.s3.amazonaws.com
 16.15.238.48                   github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.239.143                  github-production-release-asset-2e65be.s3.amazonaws.com
 16.15.239.154                  github-cloud.s3.amazonaws.com
-16.15.244.30                   github-com.s3.amazonaws.com
+16.15.244.242                  github-production-release-asset-2e65be.s3.amazonaws.com
 16.15.244.58                   github-com.s3.amazonaws.com
-16.15.246.138                  github-com.s3.amazonaws.com
+16.15.245.119                  github-com.s3.amazonaws.com
+16.15.245.177                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 16.15.246.138                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.247.18                   github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.252.140                  github-production-user-asset-6210df.s3.amazonaws.com
+16.15.246.206                github-com.s3.amazonaws.com
 16.15.252.182                  github-cloud.s3.amazonaws.com
 16.15.252.188                  github-com.s3.amazonaws.com
-16.15.252.97                   github-production-user-asset-6210df.s3.amazonaws.com
+16.15.253.108                  github-com.s3.amazonaws.com
 16.15.253.15	github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.253.29                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.253.69                   github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.254.146                github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.254.45                   github-com.s3.amazonaws.com
-16.15.255.131                  github-production-user-asset-6210df.s3.amazonaws.com
+16.15.253.18                   github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.254.107                 github-com.s3.amazonaws.com
+16.15.254.179                github-production-user-asset-6210df.s3.amazonaws.com
 16.15.255.164                  github-cloud.s3.amazonaws.com
 16.15.255.165                  github-cloud.s3.amazonaws.com
 16.15.255.250                  github-cloud.s3.amazonaws.com
 16.15.35.118                   s3.us-west-2.amazonaws.com
 16.15.40.246                   s3.us-west-2.amazonaws.com
 16.15.42.17                    s3.us-west-2.amazonaws.com
+16.182.101.146                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.102.250                 github-com.s3.amazonaws.com
 16.182.105.178	github-cloud.s3.amazonaws.com
-16.182.106.58                  github-production-user-asset-6210df.s3.amazonaws.com
-16.182.17.202                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 16.182.18.82                   github-production-repository-file-5c1aeb.s3.amazonaws.com
 16.182.18.82                   github-production-user-asset-6210df.s3.amazonaws.com
 16.182.38.10                   github-com.s3.amazonaws.com
-16.182.71.98                   github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.182.38.178                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.42.202			github-com.s3.amazonaws.com
 16.182.72.66                   github-production-release-asset-2e65be.s3.amazonaws.com
 160.com###w-advertisement
 160.com###w-btn-advertisement
@@ -95179,7 +95167,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 16195.editor-qa1.marketingcloudqaapis.com$image
 16198.connector-qa1.marketingcloudqaapis.com$image
 16198.sfap-qa1.marketingcloudqaops.com$image
-162.125.32.2                  github.global.ssl.fastly.net  # Timeout
 162.159.129.11                 ir.netflix.net
 162.159.130.11                 ir.netflix.net
 162.159.134.22                 maxmind.com
@@ -95327,7 +95314,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 16791.connector-qa1.marketingcloudqaapis.com$image
 16791.editor-qa1.marketingcloudqaapis.com$image
 167k.com,zhidao.baidu.com##.icon_ad
-168.62.216.242                 skyapi.live.net
+168.62.216.242                 storage.live.com
 16801.connector-qa1.marketingcloudqaapis.com$image
 16835.editor-qa1.marketingcloudqaapis.com$image
 16841.sock-qa1.marketingcloudqaops.com$image
@@ -95466,7 +95453,11 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 17180.connector-qa1.marketingcloudqaapis.com$image
 17197.sfap-qa1.marketingcloudqaops.com$image
 171hd.net##.Rcloud_signleTop_ad
+172.182.252.132			codeload.github.com
 172.182.252.132	nodeload.github.com
+172.182.252.133			gist.github.com
+172.182.252.133			github.com
+172.182.252.137			api.github.com
 172.217.112.4                  content-autofill.googleapis.com
 172.217.112.4                  firebaseinstallations.googleapis.com
 172.217.112.4                  geller-pa.googleapis.com
@@ -95543,6 +95534,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 172.253.157.188                alt7-mtalk.google.com
 172.253.157.188                alt7.mobile-gtalk.l.google.com
 172.64.144.69			hub.docker.com
+172.64.144.74			login.docker.com
 172.64.144.78                  auth.docker.io
 172.64.148.245                 chef.gitlab.com
 172.64.148.245                 customers.gitlab.com
@@ -95749,6 +95741,10 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 18.160.225.115                 media-cdn.epicgames.com
 18.160.225.4                   media-cdn.epicgames.com
 18.160.225.56                  media-cdn.epicgames.com
+18.165.83.30                   epic-social-social-modules-prod.ol.epicgames.com
+18.165.83.38                   epic-social-social-modules-prod.ol.epicgames.com
+18.165.83.84                   epic-social-social-modules-prod.ol.epicgames.com
+18.165.83.85                   epic-social-social-modules-prod.ol.epicgames.com
 18.207.84.236                  casting.prod.netflix.net
 18.211.47.29                   tracking.epicgames.com
 18.236.7.30                    netflix.net
@@ -95822,15 +95818,12 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 184.192.186.229                brightcove.com
 184.192.227.240                turner.com
 184.193.157.29                 brightcove.com
-184.196.113.3                  account-public-service-prod03.ol.epicgames.com
 184.196.222.23                 account-public-service-prod03.ol.epicgames.com
+184.197.173.177                account-public-service-prod03.ol.epicgames.com
 184.25.113.19                  cdn.akamai.steamstatic.com
 184.25.113.23                  cdn.akamai.steamstatic.com
 184.25.119.169                 aod.itunes.apple.com
 184.25.119.186                 aod.itunes.apple.com
-184.25.119.33                  epicgames-download1.akamaized.net
-184.25.119.46			client-update.akamai.steamstatic.com
-184.25.119.48                  epicgames-download1.akamaized.net
 184.25.59.18                   audio-ak-spotify-com.akamaized.net
 184.25.59.18                   audio4-ak-spotify-com.akamaized.net
 184.25.59.26                   audio-ak-spotify-com.akamaized.net
@@ -95838,14 +95831,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 184.25.59.82                   audio-ak-spotify-com.akamaized.net
 184.25.59.86                   audio-ak-spotify-com.akamaized.net
 184.25.59.86                   audio4-ak-spotify-com.akamaized.net
-184.29.30.218			steam-chat.com
-184.29.30.218			steamcommunity.com
-184.29.30.218			www.steamcommunity.com
 184.29.30.218                  steamcommunity.com
-184.29.30.9                    peoplehub.xboxlive.com
-184.29.31.245			static2.cdn.Ubi.com
-184.29.31.93			static3.cdn.Ubi.com
-184.29.36.172			store.steampowered.com
 184.29.36.172                  store.steampowered.com
 18402.editor-qa1.marketingcloudqaapis.com$image
 18411.sock-qa1.marketingcloudqaops.com$image
@@ -95856,8 +95842,10 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 18468.sfap-qa1.marketingcloudqaops.com$image
 18483.editor-qa1.marketingcloudqaapis.com$image
 185.149.120.173$network
-185.199.108.133			avatars2.githubusercontent.com
-185.199.108.133			avatars3.githubusercontent.com
+185.199.108.133			avatars0.githubusercontent.com
+185.199.108.133			camo.githubusercontent.com
+185.199.108.133			favicons.githubusercontent.com
+185.199.108.133			media.githubusercontent.com
 185.199.108.133	avatars7.githubusercontent.com
 185.199.108.133	camo.githubusercontent.com
 185.199.108.133	raw.github.com
@@ -95888,8 +95876,13 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 185.199.108.133                release-assets.githubusercontent.com
 185.199.108.133                repository-images.githubusercontent.com
 185.199.108.133                user-images.githubusercontent.com
-185.199.108.133              raw.github.com
-185.199.108.133              user-images.githubusercontent.com
+185.199.108.133              avatars1.githubusercontent.com
+185.199.108.133              avatars5.githubusercontent.com
+185.199.108.133              desktop.githubusercontent.com
+185.199.108.133              favicons.githubusercontent.com
+185.199.108.133              github.map.fastly.net
+185.199.108.133              media.githubusercontent.com
+185.199.108.133              raw.githubusercontent.com
 185.199.108.153                archiveprogram.github.com
 185.199.108.153                customer-stories-feed.github.com
 185.199.108.153                github.io
@@ -95900,8 +95893,9 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 185.199.108.154                docs.github.com
 185.199.108.154                opengraph.githubassets.com
 185.199.108.215                github.githubassets.com
-185.199.109.133			avatars1.githubusercontent.com
-185.199.109.133			favicons.githubusercontent.com
+185.199.108.215              github.githubassets.com
+185.199.109.133			avatars4.githubusercontent.com
+185.199.109.133			avatars5.githubusercontent.com
 185.199.109.133	avatars3.githubusercontent.com
 185.199.109.133	favicons.githubusercontent.com
 185.199.109.133	gist.githubusercontent.com
@@ -95949,10 +95943,9 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 185.199.109.133               private-user-images.githubusercontent.com
 185.199.109.133               raw.githubusercontent.com
 185.199.109.133               user-images.githubusercontent.com
-185.199.109.133              camo.githubusercontent.com
-185.199.109.133              favicons.githubusercontent.com
-185.199.109.133              raw.githubusercontent.com
-185.199.109.153			github.io
+185.199.109.133              avatars4.githubusercontent.com
+185.199.109.133              objects.githubusercontent.com
+185.199.109.133              raw.github.com
 185.199.109.153	pages.github.com
 185.199.109.153                archiveprogram.github.com
 185.199.109.153                customer-stories-feed.github.com
@@ -95961,17 +95954,13 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 185.199.109.153                guides.github.com
 185.199.109.153                pages.github.com
 185.199.109.153                training.github.com
-185.199.109.153              github.io
 185.199.109.153              githubstatus.com
 185.199.109.154                docs.github.com
 185.199.109.154                opengraph.githubassets.com
 185.199.109.215                github.githubassets.com
-185.199.110.133			avatars4.githubusercontent.com
-185.199.110.133			camo.githubusercontent.com
-185.199.110.133			desktop.githubusercontent.com
+185.199.109.215               github.githubassets.com
+185.199.110.133			avatars1.githubusercontent.com
 185.199.110.133			github.map.fastly.net
-185.199.110.133			raw.githubusercontent.com
-185.199.110.133			user-images.githubusercontent.com
 185.199.110.133	avatars.githubusercontent.com
 185.199.110.133	avatars0.githubusercontent.com
 185.199.110.133	avatars1.githubusercontent.com
@@ -96007,12 +95996,8 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 185.199.110.133                release-assets.githubusercontent.com
 185.199.110.133                repository-images.githubusercontent.com
 185.199.110.133                user-images.githubusercontent.com
-185.199.110.133              avatars.githubusercontent.com
 185.199.110.133              avatars0.githubusercontent.com
-185.199.110.133              avatars2.githubusercontent.com
-185.199.110.133              avatars3.githubusercontent.com
-185.199.110.133              avatars4.githubusercontent.com
-185.199.110.133              media.githubusercontent.com
+185.199.110.153			github.io
 185.199.110.153			githubstatus.com
 185.199.110.153	githubstatus.com
 185.199.110.153                archiveprogram.github.com
@@ -96022,16 +96007,19 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 185.199.110.153                guides.github.com
 185.199.110.153                pages.github.com
 185.199.110.153                training.github.com
+185.199.110.153               github.io
+185.199.110.153               githubstatus.com
+185.199.110.153              github.io
 185.199.110.154                docs.github.com
 185.199.110.154                opengraph.githubassets.com
 185.199.110.215			github.githubassets.com
 185.199.110.215                github.githubassets.com
-185.199.110.215               github.githubassets.com
-185.199.110.215              github.githubassets.com
 185.199.111.133			avatars.githubusercontent.com
-185.199.111.133			avatars0.githubusercontent.com
-185.199.111.133			avatars5.githubusercontent.com
-185.199.111.133			media.githubusercontent.com
+185.199.111.133			avatars2.githubusercontent.com
+185.199.111.133			avatars3.githubusercontent.com
+185.199.111.133			desktop.githubusercontent.com
+185.199.111.133			raw.githubusercontent.com
+185.199.111.133			user-images.githubusercontent.com
 185.199.111.133	avatars2.githubusercontent.com
 185.199.111.133	avatars4.githubusercontent.com
 185.199.111.133                avatars.githubusercontent.com
@@ -96060,11 +96048,11 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 185.199.111.133                release-assets.githubusercontent.com
 185.199.111.133                repository-images.githubusercontent.com
 185.199.111.133                user-images.githubusercontent.com
-185.199.111.133              avatars1.githubusercontent.com
-185.199.111.133              avatars5.githubusercontent.com
-185.199.111.133              desktop.githubusercontent.com
-185.199.111.133              github.map.fastly.net
-185.199.111.133              objects.githubusercontent.com
+185.199.111.133              avatars.githubusercontent.com
+185.199.111.133              avatars2.githubusercontent.com
+185.199.111.133              avatars3.githubusercontent.com
+185.199.111.133              camo.githubusercontent.com
+185.199.111.133              user-images.githubusercontent.com
 185.199.111.153	customer-stories-feed.github.com
 185.199.111.153	training.github.com
 185.199.111.153                archiveprogram.github.com
@@ -96074,8 +96062,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 185.199.111.153                guides.github.com
 185.199.111.153                pages.github.com
 185.199.111.153                training.github.com
-185.199.111.153               github.io
-185.199.111.153               githubstatus.com
 185.199.111.154                docs.github.com
 185.199.111.154                opengraph.githubassets.com
 185.199.111.215	github.githubassets.com
@@ -96085,6 +96071,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 185.217.95.30##.wrapper > center
 185.246.188.124$network
 185.246.188.125$network
+185.60.216.50                 github.global.ssl.fastly.net  # Timeout
 185.63.252.176#@#div[id^="MarketGid"]
 185.63.253.247##.wpb-outer-wrap
 18514.editor-qa1.marketingcloudqaapis.com$image
@@ -96435,8 +96422,8 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 199.232.214.248                newjams-images.scdn.co
 199.232.215.52			cdn.steamstatic.com
 199.232.215.82			client-update.fastly.steamstatic.com
+199.46.35.121                  rta.xboxlive.com
 199.46.35.127                  rta.xboxlive.com
-199.46.35.129                  rta.xboxlive.com
 19907.editor-qa1.marketingcloudqaapis.com$image
 19907.ftp-qa1.marketingcloudqaops.com$image
 1992.connector-qa1.marketingcloudqaapis.com$image
@@ -96735,7 +96722,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 2-carat.net##div[class^="yos"]
 2-remove-virus.com##.cookie-inform
 2-spyware.com##.EsolEmailSubscribeWidget
-2.17.95.215			help.steampowered.com
 2.17.95.215                    help.steampowered.com
 2.21.9.108                     heads4-ak-spotify-com.akamaized.net
 2.21.9.118                     heads4-ak-spotify-com.akamaized.net
@@ -96744,6 +96730,9 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 2.21.9.233                     api.steampowered.com
 2.21.9.234                     api.steampowered.com
 2.21.9.237                     api.steampowered.com
+2.23.136.4                     steamgames.com
+2.23.136.4                     steampowered.com
+2.23.136.4                     storefront.steampowered.com
 2.connector-qa1.marketingcloudqaapis.com$image
 2.editor-qa1.marketingcloudqaapis.com$image
 2.ftp-qa1.marketingcloudqaops.com$image
@@ -96758,20 +96747,27 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 20.190.135.19                  account.live.com
 20.190.135.4                   account.live.com
 20.190.135.7                   account.live.com
-20.190.155.130                 login.live.com
-20.190.155.131                 account.live.com
+20.190.151.131                 account.live.com
+20.190.151.131                 login.live.com
+20.190.151.132                 account.live.com
+20.190.151.133                 login.live.com
+20.190.151.134                 account.live.com
+20.190.151.134                 login.live.com
+20.190.151.6                   account.live.com
+20.190.151.68                  login.live.com
+20.190.151.69                  account.live.com
+20.190.151.69                  login.live.com
+20.190.151.7                   account.live.com
+20.190.151.70                  account.live.com
+20.190.151.70                  login.live.com
+20.190.151.8                   account.live.com
+20.190.151.8                   login.live.com
+20.190.151.9                   login.live.com
 20.190.155.131                 login.live.com
-20.190.155.132                 account.live.com
 20.190.155.132                 login.live.com
-20.190.155.16                  account.live.com
-20.190.155.16                  login.live.com
-20.190.155.2                   login.live.com
-20.190.155.3                   account.live.com
 20.190.155.3                   login.live.com
 20.190.155.65                  login.live.com
-20.190.155.66                  account.live.com
 20.190.155.66                  login.live.com
-20.190.155.67                  account.live.com
 20.190.155.67                  login.live.com
 20.201.200.54                  activityhub.xboxlive.com
 20.201.200.76                  win1807.ipv6.microsoft.com
@@ -96788,7 +96784,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 20.236.44.162                  store.microsoft.com
 20.236.44.162                  xboxlive.com
 20.245.250.193                 storage.live.com
-20.51.57.178                   storage.live.com
 20.59.87.226                   client.wns.windows.com
 20.59.87.226                   skydrive.wns.windows.com
 20.70.246.20                   outlook.microsoft.com
@@ -96797,6 +96792,8 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 20.76.201.171                  outlook.microsoft.com
 20.76.201.171                  store.microsoft.com
 20.76.201.171                  xboxlive.com
+20.85.130.105                copilot-proxy.githubusercontent.com
+20.99.227.183			github.dev
 20.99.227.183	github.dev
 20.editor-qa1.marketingcloudqaapis.com$image
 20.ftp-qa1.marketingcloudqaops.com$image
@@ -97331,11 +97328,10 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 22ccaa.com##[src*="sinaimg.cn/"],[href="/sp.html"],.top1_box.box,.DaKuang,#bdshare
 22pixx.xyz,imagevenue.com###overlayBg
 22vd.com##.widget_custom_html:last-child
-23.14.140.9                    images-eds-ssl.xboxlive.com
-23.14.140.9                    titlehub.xboxlive.com
-23.14.140.9                    xnotify.xboxlive.com
-23.14.141.162                  cdn1.unrealengine.com
-23.14.141.162                  cdn2.unrealengine.com
+23.11.207.239			api.steampowered.com
+23.13.159.247                  store-content-ipv4.ak.epicgames.com
+23.13.159.247                  store-content.ak.epicgames.com
+23.13.159.247                  store-site-backend-static.ak.epicgames.com
 23.185.0.4			docker.com
 23.192.220.132                 seeded-session-images.scdn.co
 23.192.220.133                 audio4-ak-spotify-com.akamaized.net
@@ -97358,7 +97354,12 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 23.192.220.149                 charts-images.scdn.co
 23.192.220.151                 charts-images.scdn.co
 23.192.220.152                 charts-images.scdn.co
-23.194.174.21                  store-content-ipv4.ak.epicgames.com
+23.193.201.14                  assets2.xboxlive.cn
+23.193.201.209                 assets2.xboxlive.cn
+23.193.201.42                  assets2.xboxlive.cn
+23.193.201.43                  assets2.xboxlive.cn
+23.193.201.5                   assets2.xboxlive.cn
+23.193.201.54                  assets2.xboxlive.cn
 23.194.174.21                  store-content.ak.epicgames.com
 23.194.174.21                  store-site-backend-static.ak.epicgames.com
 23.198.6.130                   hulu.com
@@ -97370,36 +97371,63 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 23.198.6.180                   hulu.com
 23.198.6.183                   hulu.com
 23.198.6.184                   hulu.com
+23.199.21.3			steam-chat.com
+23.199.21.3			www.steamcommunity.com
 23.2.95.19                     steamgames.com
 23.2.95.19                     steampowered.com
 23.2.95.19                     storefront.steampowered.com
 23.200.156.12                  crl.t-mobile.com
-23.200.156.80			api.steampowered.com
-23.200.224.216                 steamcommunity.com
-23.200.226.177                 store.steampowered.com
+23.202.230.214                 api.steampowered.com
+23.202.230.223                 api.steampowered.com
+23.202.230.229                 api.steampowered.com
 23.202.34.138 bigota.d.miui.com
 23.202.34.138 hugeota.d.miui.com
+23.205.105.140                 epicgames-download1.akamaized.net
+23.205.105.177                 epicgames-download1.akamaized.net
 23.205.110.23                  www.msftncsi.com
 23.205.110.58                  www.msftncsi.com
 23.205.89.13                   www.msftconnecttest.com
 23.205.89.33                   www.msftconnecttest.com
 23.210.154.128                 c1-onenote-15.cdn.office.net
-23.211.176.31                  xbl-smooth.xboxlive.com
-23.211.176.37                  xbl-smooth.xboxlive.com
+23.210.73.204                  assets1.xboxlive.cn
+23.210.73.206                  assets1.xboxlive.cn
+23.210.73.209                  assets1.xboxlive.cn
+23.210.73.48                   assets1.xboxlive.cn
+23.210.73.52                   assets1.xboxlive.cn
+23.210.73.86                   assets1.xboxlive.cn
+23.210.92.201                  assets1.xboxlive.cn
+23.210.92.209                  assets1.xboxlive.cn
+23.210.92.233                  assets1.xboxlive.cn
 23.211.255.158                 xbl-smooth.xboxlive.com
 23.211.255.170                 xbl-smooth.xboxlive.com
+23.213.175.41			steamcdn-a.akamaihd.net
 23.213.186.198                 vudu.com
 23.213.186.211                 vudu.com
 23.214.126.136                 southpark.cc.com
-23.219.87.76                   assets1.xboxlive.cn
-23.219.87.76                   assets2.xboxlive.cn
-23.220.144.32			cdn.cloudflare.steamstatic.com
-23.220.246.169                 cdn.steampowered.com
-23.220.246.187                 cdn.steampowered.com
+23.218.218.75                  cdn.steampowered.com
+23.218.218.81                  cdn.steampowered.com
+23.219.161.68                  assets2.xboxlive.cn
+23.219.161.81                  assets2.xboxlive.cn
+23.219.36.106                  images-eds.xboxlive.com
+23.219.36.107                  images-eds.xboxlive.com
+23.221.227.11                  cdn.akamai.steamstatic.com
+23.221.227.14                  store.akamai.steamstatic.com
+23.221.227.19                  cdn.steamcommunity.com
+23.221.227.19                  community.akamai.steamstatic.com
+23.221.227.19                  steamcommunity-a.akamaihd.net
+23.221.227.41                  store.akamai.steamstatic.com
+23.221.227.45                  cdn.steamcommunity.com
+23.221.227.45                  community.akamai.steamstatic.com
+23.221.227.45                  steamcommunity-a.akamaihd.net
+23.221.227.7                   cdn.akamai.steamstatic.com
+23.221.240.9                   gameclipscontent-d2009.xboxlive.com
+23.221.240.9                   images-eds-ssl.xboxlive.com
+23.221.240.9                   titlehub.xboxlive.com
+23.221.240.9                   xnotify.xboxlive.com
+23.222.201.130                 cdn1.unrealengine.com
+23.222.201.130                 cdn2.unrealengine.com
 23.32.45.196                   nbc.com
 23.32.45.206                   nbc.com
-23.33.22.151                   images-eds.xboxlive.com
-23.33.22.152                   images-eds.xboxlive.com
 23.33.238.112                  optus.com.au
 23.33.238.115                  optus.com.au
 23.33.29.71                    i.scdn.co
@@ -97418,13 +97446,22 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 23.33.29.81                    audio-akp-quic-spotify-com.akamaized.net
 23.33.85.2                     images-eds.xboxlive.com
 23.33.85.7                     images-eds.xboxlive.com
+23.35.28.216                   steamcommunity.com
+23.35.28.9                     peoplehub.xboxlive.com
+23.35.30.176                   store.steampowered.com
+23.36.21.209			static2.cdn.Ubi.com
+23.37.16.240			steamcommunity.com
+23.37.18.120			store.steampowered.com
 23.38.76.52                    images-eds-ssl.xboxlive.com
 23.38.79.99                    cdn.onenote.net
-23.39.148.7                    gameclipscontent-d2009.xboxlive.com
 23.39.51.197                   community.akamai.steamstatic.com
 23.39.51.202                   community.akamai.steamstatic.com
 23.39.51.203                   store.akamai.steamstatic.com
 23.39.51.206                   store.akamai.steamstatic.com
+23.40.25.65			static3.cdn.Ubi.com
+23.44.229.216			cdn.akamai.steamstatic.com
+23.44.229.216			media.steampowered.com
+23.46.216.87			client-update.akamai.steamstatic.com
 23.46.30.197                   assets1.xboxlive.cn
 23.46.30.197                   assets2.xboxlive.cn
 23.46.30.203                   oneclient.sfx.ms
@@ -97438,41 +97475,33 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 23.50.137.48                   xnotify.xboxlive.com
 23.52.42.31                    easylist-downloads.adblockplus.org
 23.52.42.47                    easylist-downloads.adblockplus.org
-23.53.127.168                  assets1.xboxlive.cn
-23.53.127.168                  assets2.xboxlive.cn
+23.53.11.39                    dl.delivery.mp.microsoft.com
+23.54.127.198                  dl.delivery.mp.microsoft.com
 23.54.76.38                    cdn.steampowered.com
 23.54.76.39                    msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 23.54.76.40                    msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
-23.54.76.41			steamcdn-a.akamaihd.net
 23.54.76.58                    cdn.steampowered.com
+23.55.176.234                  xbl-smooth.xboxlive.com
+23.55.176.238                  xbl-smooth.xboxlive.com
+23.55.243.81                   msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
+23.55.243.83                   msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 23.59.177.74                   audio-ak-spotify-com.akamaized.net
 23.59.177.83                   seeded-session-images.scdn.co
 23.59.177.86                   seeded-session-images.scdn.co
 23.59.177.87                   seeded-session-images.scdn.co
 23.60.117.244                  cdn1.unrealengine.com
 23.61.45.108                   aod-ssl.itunes.apple.com
+23.62.230.103                  media.steampowered.com
+23.62.230.71                   media.steampowered.com
+23.62.230.91                   cdn.store.steampowered.com
+23.62.230.94                   cdn.store.steampowered.com
+23.62.46.218			cdn.cloudflare.steamstatic.com
 23.62.65.152                   cdn2.unrealengine.com
-23.64.112.138			cdn.akamai.steamstatic.com
-23.64.112.138                  cdn.akamai.steamstatic.com
-23.64.112.138                  media.steampowered.com
-23.64.112.159                  cdn.steamcommunity.com
-23.64.112.159                  community.akamai.steamstatic.com
-23.64.112.159                  steamcommunity-a.akamaihd.net
-23.64.112.177			store.akamai.steamstatic.com
-23.64.112.177                  cdn.store.steampowered.com
-23.64.112.177                  store.akamai.steamstatic.com
-23.64.112.180			media.steampowered.com
-23.64.112.180                  cdn.akamai.steamstatic.com
-23.64.112.180                  media.steampowered.com
-23.64.112.181			community.akamai.steamstatic.com
-23.64.112.181                  cdn.steamcommunity.com
-23.64.112.181                  community.akamai.steamstatic.com
-23.64.112.181                  steamcommunity-a.akamaihd.net
-23.64.112.189                  cdn.store.steampowered.com
-23.64.112.189                  store.akamai.steamstatic.com
 23.64.114.28                   crl.t-mobile.com
 23.64.114.40                   crl.t-mobile.com
 23.64.146.229                  api.onedrive.live.com
+23.67.33.74			community.akamai.steamstatic.com
+23.67.33.87			store.akamai.steamstatic.com
 2301.connector-qa1.marketingcloudqaapis.com$image
 2301.editor-qa1.marketingcloudqaapis.com$image
 2301.sfap-qa1.marketingcloudqaops.com$image
@@ -97820,7 +97849,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 24279.editor-qa1.marketingcloudqaapis.com$image
 24297.connector-qa1.marketingcloudqaapis.com$image
 24297.editor-qa1.marketingcloudqaapis.com$image
-243.185.187.39                gist.github.com  # Timeout
 24350.editor-qa1.marketingcloudqaapis.com$image
 24350.sock-qa1.marketingcloudqaops.com$image
 24353.sock-qa1.marketingcloudqaops.com$image
@@ -98197,29 +98225,22 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 2600:1407:e800:1900::173b:b148 seeded-session-images.scdn.co
 2600:1407:e800:1900::173b:b14b seeded-session-images.scdn.co
 2600:1407:e800:1900::173b:b14c audio-akp-quic-spotify-com.akamaized.net
-2600:1407:e800:1901::b819:3b06 assets2.xboxlive.cn
-2600:1407:e800:1901::b819:3b0a assets2.xboxlive.cn
 2600:1407:e800:1901::b819:3b0a i.scdn.co
 2600:1407:e800:1901::b819:3b0b i.scdn.co
 2600:1407:e800:1901::b819:3b0c i.scdn.co
 2600:1407:e800:1901::b819:3b0e i.scdn.co
 2600:1407:e800:1901::b819:3b0f i.scdn.co
 2600:1407:e800:1901::b819:3b12 audio-ak-spotify-com.akamaized.net
-2600:1407:e800:1901::b819:3b14 dl.delivery.mp.microsoft.com
 2600:1407:e800:1901::b819:3b14 seeded-session-images.scdn.co
 2600:1407:e800:1901::b819:3b17 seeded-session-images.scdn.co
 2600:1407:e800:1901::b819:3b18 seeded-session-images.scdn.co
 2600:1407:e800:1901::b819:3b1a audio-ak-spotify-com.akamaized.net
-2600:1407:e800:1902::17c0:dc85 assets1.xboxlive.cn
-2600:1407:e800:1902::17c0:dc87 assets1.xboxlive.cn
 2600:1407:e800:1902::17c0:dc8c charts-images.scdn.co
 2600:1407:e800:1902::17c0:dc91 charts-images.scdn.co
 2600:1407:e800:1902::17c0:dc92 charts-images.scdn.co
 2600:1407:e800:1902::17c0:dc92 misc.scdn.co
-2600:1407:e800:1902::17c0:dc93 assets1.xboxlive.cn
 2600:1407:e800:1902::17c0:dc93 charts-images.scdn.co
 2600:1407:e800:1902::17c0:dc93 misc.scdn.co
-2600:1407:e800:1902::17c0:dc94 assets1.xboxlive.cn
 2600:1407:e800:1902::17c0:dc94 audio-ak-spotify-com.akamaized.net
 2600:1407:e800:1902::17c0:dc95 charts-images.scdn.co
 2600:1407:e800:1902::17c0:dc95 misc.scdn.co
@@ -98228,28 +98249,17 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 2600:1407:e800:1902::17c0:dc97 thisis-images.scdn.co
 2600:1407:e800:1902::17c0:dc98 misc.scdn.co
 2600:1407:e800:1902::17c0:dc98 thisis-images.scdn.co
-2600:1407:e800:1902::17c0:dc9a dl.delivery.mp.microsoft.com
-2600:1407:e800:1904::b819:3b45 assets1.xboxlive.cn
 2600:1407:e800:1904::b819:3b48 thisis-images.scdn.co
 2600:1407:e800:1904::b819:3b4e thisis-images.scdn.co
 2600:1407:e800:1904::b819:3b4f thisis-images.scdn.co
 2600:1407:e800:1904::b819:3b52 audio-ak-spotify-com.akamaized.net
-2600:1407:e800:1904::b819:3b54 assets2.xboxlive.cn
-2600:1407:e800:1904::b819:3b55 assets2.xboxlive.cn
 2600:1407:e800:1904::b819:3b56 audio-ak-spotify-com.akamaized.net
-2600:1407:e800:1904::b819:3b57 assets2.xboxlive.cn
-2600:1407:e800:1e::17d3:b01f   xbl-smooth.xboxlive.com
-2600:1407:e800:1e::17d3:b025   xbl-smooth.xboxlive.com
 2600:1407:e800:26::17dc:ce26   epicgames-download1.akamaized.net
 2600:1407:e800:26::17dc:ce3c   epicgames-download1.akamaized.net
 2600:1407:e800:26::17dc:ce40   tlu.dl.delivery.mp.microsoft.com
 2600:1407:e800:26::17dc:ce4f   tlu.dl.delivery.mp.microsoft.com
 2600:1407:e800:31::1736:4e07   ipv6.msftconnecttest.com
 2600:1407:e800:31::1736:4e1c   ipv6.msftconnecttest.com
-2600:1407:e800:3b0::57         gameclipscontent-d2009.xboxlive.com
-2600:1407:e800:3b0::57         images-eds-ssl.xboxlive.com
-2600:1407:e800:3b6::57         gameclipscontent-d2009.xboxlive.com
-2600:1407:e800:3b6::57         images-eds-ssl.xboxlive.com
 2600:1407:e800:44::215:90e     images-eds.xboxlive.com
 2600:1407:e800:44::215:911     images-eds.xboxlive.com
 2600:1407:e800:586::2215       southpark.cc.com
@@ -98261,15 +98271,41 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 2600:1407:e800:781::3b63       store-site-backend-static.ak.epicgames.com
 2600:1407:e800:788::3b63       store-content.ak.epicgames.com
 2600:1407:e800:788::3b63       store-site-backend-static.ak.epicgames.com
-2600:1418:a000:39d::3b63       store-content.ak.epicgames.com
-2600:1418:a000:39d::3b63       store-site-backend-static.ak.epicgames.com
-2600:1418:a000:3b7::3b63       store-content.ak.epicgames.com
-2600:1418:a000:3b7::3b63       store-site-backend-static.ak.epicgames.com
+2600:1408:c400:29::17da:da48   images-eds.xboxlive.com
+2600:1408:c400:29::17da:da50   images-eds.xboxlive.com
+2600:1408:c400:9::17cd:698c    epicgames-download1.akamaized.net
+2600:1408:c400:9::17cd:69b1    epicgames-download1.akamaized.net
+2600:1408:c400:a::17cd:690b    dl.delivery.mp.microsoft.com
+2600:1408:c400:a::17cd:693d    dl.delivery.mp.microsoft.com
+2600:1408:c400:f89::3b63       store-content.ak.epicgames.com
+2600:1408:c400:f89::3b63       store-site-backend-static.ak.epicgames.com
+2600:1408:c400:f96::3b63       store-content.ak.epicgames.com
+2600:1408:c400:f96::3b63       store-site-backend-static.ak.epicgames.com
+2600:1408:ec00:1400::1735:b66  assets1.xboxlive.cn
+2600:1408:ec00:1400::1735:b66  assets2.xboxlive.cn
+2600:1408:ec00:1402::1735:b47  assets1.xboxlive.cn
+2600:1408:ec00:1402::1735:b47  assets2.xboxlive.cn
+2600:1408:ec00:1408::1736:7ff0 assets1.xboxlive.cn
+2600:1408:ec00:1408::1736:7ff0 assets2.xboxlive.cn
+2600:1408:ec00:140c::1736:7faa tlu.dl.delivery.mp.microsoft.com
+2600:1408:ec00:140c::1736:7fac tlu.dl.delivery.mp.microsoft.com
+2600:1408:ec00:17::17d7:86     xbl-smooth.xboxlive.com
+2600:1408:ec00:17::17d7:8c     xbl-smooth.xboxlive.com
 2600:1418:a000:59a::4b36       c1-onenote-15.cdn.office.net
 2600:1418:a000:5a4::4b36       c1-onenote-15.cdn.office.net
 2600:1418:a000:5ab::4b36       c1-onenote-15.cdn.office.net
 2600:1418:a000:5ac::4b36       c1-onenote-15.cdn.office.net
 2600:1418:a000:5ad::4b36       c1-onenote-15.cdn.office.net
+2600:141b:f000:3::17c8:1f      msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
+2600:141b:f000:3::17c8:28      msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
+2600:141b:f000:c087::57        gameclipscontent-d2009.xboxlive.com
+2600:141b:f000:c087::57        images-eds-ssl.xboxlive.com
+2600:141b:f000:c0b2::57        gameclipscontent-d2009.xboxlive.com
+2600:141b:f000:c0b2::57        images-eds-ssl.xboxlive.com
+2600:141b:f000:c0b7::57        gameclipscontent-d2009.xboxlive.com
+2600:141b:f000:c0b7::57        images-eds-ssl.xboxlive.com
+2600:141b:f000:c0b9::57        gameclipscontent-d2009.xboxlive.com
+2600:141b:f000:c0b9::57        images-eds-ssl.xboxlive.com
 2600:1901:0:84f4::80           disneyjunior.com
 2600:1901:1:388::              gae-spclient.spotify.com
 2600:1901:1:7c5::              spclient.wg.spotify.com
@@ -98338,14 +98374,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 2600:9000:233d:c00:7:9bc5:8900:93a1 hulu.jp
 2600:9000:233d:c600:7:9bc5:8900:93a1 hulu.jp
 2600:9000:233d:e400:7:9bc5:8900:93a1 hulu.jp
-2600:9000:24d3:1a00:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:24d3:5000:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:24d3:5400:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:24d3:9200:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:24d3:c200:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:24d3:c400:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:24d3:e00:10:e3cf:3100:93a1 download.epicgames.com
-2600:9000:24d3:ee00:10:e3cf:3100:93a1 download.epicgames.com
 2600:9000:2507:4000:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
 2600:9000:2507:4c00:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
 2600:9000:2507:5a00:3:b190:1b00:93a1 sg-public-data-api.hoyoverse.com
@@ -98362,6 +98390,14 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 2600:9000:2616:a400:10:e3cf:3100:93a1 download.epicgames.com
 2600:9000:2616:ca00:10:e3cf:3100:93a1 download.epicgames.com
 2600:9000:2616:de00:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:27c8:1000:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:27c8:3200:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:27c8:9000:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:27c8:9a00:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:27c8:a00:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:27c8:b600:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:27c8:d000:10:e3cf:3100:93a1 download.epicgames.com
+2600:9000:27c8:de00:10:e3cf:3100:93a1 download.epicgames.com
 26016.ftp-qa1.marketingcloudqaops.com$image
 2602:816:5001::39              js-agent.newrelic.com
 2602:f79a:0:1::1               msgstore.www.notion.so
@@ -98567,6 +98603,8 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 2620:1ec:50::11                skydrivesync.policies.live.net
 2620:1ec:bdf::38               acctcdn.msauth.net
 2620:1ec:bdf::38               logincdn.msauth.net
+2620:1ec:bdf::40               acctcdn.msauth.net
+2620:1ec:bdf::40               logincdn.msauth.net
 26227.sock-qa1.marketingcloudqaops.com$image
 26251.editor-qa1.marketingcloudqaapis.com$image
 26252.editor-qa1.marketingcloudqaapis.com$image
@@ -98964,8 +99002,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 2a04:4e42:4f::760              download.scdn.co
 2a04:4e42:4f::760              newjams-images.scdn.co
 2a04:4e42:94::644              deb.debian.org
-2a04:4e42:94::684              msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
-2a04:4e42:94::684              tlu.dl.delivery.mp.microsoft.com
 2a05:d018:76c:b680::de70       netflix.net
 2a05:d018:76c:b680::de70       nflxvideo.net
 2a05:d018:76c:b684::de70       netflix.net
@@ -99203,6 +99239,10 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 3.167.152.37                   cdn.unrealengine.com
 3.167.152.41                   cdn.unrealengine.com
 3.167.152.72                   cdn.unrealengine.com
+3.167.99.103                   download.epicgames.com
+3.167.99.45                    download.epicgames.com
+3.167.99.52                    download.epicgames.com
+3.167.99.61                    download.epicgames.com
 3.168.51.102                   d3njjcbhbojbot.cloudfront.net
 3.168.51.18                    epic-social-social-modules-prod.ol.epicgames.com
 3.168.51.30                    d3njjcbhbojbot.cloudfront.net
@@ -99223,7 +99263,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 3.170.152.49                   global.download.synology.com
 3.170.152.53                   global.download.synology.com
 3.170.152.65                   global.download.synology.com
-3.170.185.107			docs.docker.com
 3.170.185.11                   hkrpg-sdk-os-static.hoyoverse.com
 3.170.185.114                  sdk-common-api.hoyoverse.com
 3.170.185.20                   synostatic.synology.com
@@ -99240,12 +99279,16 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 3.170.185.80                   synostatic.synology.com
 3.170.185.85                   synostatic.synology.com
 3.170.185.89                   hkrpg-sdk-os.hoyoverse.com
+3.170.42.100                   cdn.unrealengine.com
+3.170.42.111                   cdn.unrealengine.com
+3.170.42.85                    cdn.unrealengine.com
+3.170.42.98                    cdn.unrealengine.com
+3.209.0.54                     tracking.epicgames.com
 3.209.132.245                  registry-1.docker.io
 3.213.98.10                    registry-1.docker.io
 3.221.228.214                  casting.prod.netflix.net
 3.230.252.106                  tracking.epicgames.com
 3.231.170.134                  turner.com
-3.234.124.14			index.docker.io
 3.253.170.23                   amazon.co.uk
 3.253.181.192                  amazon.co.uk
 3.254.236.223                  amazon.co.uk
@@ -99588,7 +99631,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 34.126.228.17			repo.steampowered.com
 34.158.1.133                   ap-gew4.spotify.com
 34.158.255.62                  ap-gue1.spotify.com
-34.197.141.94			docker.io
 34.197.141.94                  docker.io
 34.209.132.185                 warnerbros.com
 34.218.19.240                  netflix.net
@@ -99615,7 +99657,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 34travel.me##.goUp
 35.167.130.181                 hbogo.com
 35.167.130.181                 hbonow.com
-35.169.48.242                  perf.store.on.epicgames.com
+35.175.22.31			index.docker.io
 35.186.224.22                  gae-spclient.spotify.com
 35.186.224.24                  spclient.wg.spotify.com
 35.186.224.24                  wg.spotify.com
@@ -100267,10 +100309,9 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 3xyaoi.com##.body-wrap > .site-content + div[id][class*=" "]
 3yan.cn##img[style*="300px"]
 4-bike.pl#%#//scriptlet('trusted-set-cookie-reload', 'CookieConsent', '{"required":true,"preferences":false,"statistics":false,"marketing":false,"YouTube":true,"timestamp":$now$}')
+4.255.241.58                   skyapi.live.net
 40.113.76.66                   games.metaservices.microsoft.com
-40.126.27.128                  account.live.com
 40.126.27.128                  login.live.com
-40.126.27.66                   account.live.com
 40.126.27.66                   login.live.com
 40.126.28.18                   account.live.com
 40.126.28.19                   account.live.com
@@ -100443,12 +100484,14 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 43rumors.com##div[id^="mailpoet_form"]
 44.195.142.59                  registry-1.docker.io
 44.197.136.33                  brightcove.com
-44.198.31.239			registry.hub.docker.com
+44.199.162.216			docker.io
 44.199.162.216                 docker.io
 44.206.77.180                  eulatracking-public-service-prod06.ol.epicgames.com
 44.208.124.49                  account-public-service-prod03.ol.epicgames.com
 44.210.209.62                  account-public-service-prod03.ol.epicgames.com
+44.216.136.135                 account-public-service-prod03.ol.epicgames.com
 44.221.41.254                  registry-1.docker.io
+44.223.235.148			registry-1.docker.io
 44.226.113.145                 netflix.net
 44.alalikexpress.com$image
 44.avadacom.com$image
@@ -101147,37 +101190,40 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 52.205.19.251                  hbonow.com
 52.206.154.176                 account-public-service-prod03.ol.epicgames.com
 52.21.112.100                  registry-1.docker.io
-52.216.200.126                 github-cloud.s3.amazonaws.com
 52.216.219.90                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.216.219.90                  github-production-user-asset-6210df.s3.amazonaws.com
-52.216.38.90                   github-production-user-asset-6210df.s3.amazonaws.com
+52.216.220.42                  github-cloud.s3.amazonaws.com
+52.216.220.42                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.220.42                  github-production-user-asset-6210df.s3.amazonaws.com
 52.216.40.154                  github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.40.2                    github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.43.186                  github-com.s3.amazonaws.com
-52.217.124.186                 github-cloud.s3.amazonaws.com
+52.216.95.102                  github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.137.10			github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.217.142.242                 github-com.s3.amazonaws.com
 52.217.165.170	github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.166.138               github-production-user-asset-6210df.s3.amazonaws.com
-52.217.192.218                 github-cloud.s3.amazonaws.com
-52.217.192.250                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.174.50                  github-com.s3.amazonaws.com
+52.217.174.82                  github-cloud.s3.amazonaws.com
+52.217.174.82                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.174.82                  github-production-user-asset-6210df.s3.amazonaws.com
+52.217.197.42                  github-com.s3.amazonaws.com
 52.217.197.98                  github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.198.138                 github-cloud.s3.amazonaws.com
-52.217.233.162                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.236.210                 github-production-user-asset-6210df.s3.amazonaws.com
-52.217.40.72			github-cloud.s3.amazonaws.com
-52.217.67.0                    github-production-user-asset-6210df.s3.amazonaws.com
-52.217.78.72                   github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.235.218			github-production-user-asset-6210df.s3.amazonaws.com
 52.218.252.144                 s3.us-west-2.amazonaws.com
 52.218.252.32                  s3.us-west-2.amazonaws.com
-52.224.38.193			github.dev
 52.224.38.193                  github.dev
 52.24.41.24                    hbogo.com
 52.24.41.24                    hbonow.com
 52.31.48.193                   netflix.net
 52.4.94.166                    hbogo.com
 52.4.94.166                    hbonow.com
+52.55.161.110                  perf.store.on.epicgames.com
 52.71.113.220                  account-public-service-prod03.ol.epicgames.com
 52.71.233.83                   brightcove.com
+52.85.193.115                  media-cdn.epicgames.com
+52.85.193.117                  media-cdn.epicgames.com
+52.85.193.21                   media-cdn.epicgames.com
+52.85.193.55                   media-cdn.epicgames.com
 52.85.40.110                   update7.synology.com
 52.85.40.12                    sg-hkrpg-api-static.hoyoverse.com
 52.85.40.125                   sg-hkrpg-api-static.hoyoverse.com
@@ -101346,7 +101392,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 54.157.108.158                 mtv.com
 54.157.108.158                 sho.com
 54.157.108.158                 spike.com
-54.157.163.39			registry-1.docker.io
 54.190.103.183                 warnerbros.com
 54.192.55.24                   fileres.synology.com
 54.192.55.73                   sg-public-api-static.hoyoverse.com
@@ -101361,14 +101406,17 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 54.225.198.196                 pbs.org
 54.225.206.152                 pbs.org
 54.229.21.199:3480$network
-54.231.161.210			github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.133.130                 github-cloud.s3.amazonaws.com
+54.231.133.130                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.133.130                 github-production-user-asset-6210df.s3.amazonaws.com
 54.231.167.58                  github-cloud.s3.amazonaws.com
 54.231.168.202                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 54.231.168.202                 github-production-user-asset-6210df.s3.amazonaws.com
-54.231.192.18                  github-production-user-asset-6210df.s3.amazonaws.com
+54.231.192.170                 github-com.s3.amazonaws.com
 54.231.193.42                  github-cloud.s3.amazonaws.com
-54.231.202.170                 github-com.s3.amazonaws.com
 54.231.224.114                 github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.230.234               github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.235.26                github-cloud.s3.amazonaws.com
 54.231.236.10                  github-com.s3.amazonaws.com
 54.234.115.79                  eulatracking-public-service-prod06.ol.epicgames.com
 54.246.248.134:3480$network
@@ -101543,6 +101591,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 58pic.com##.activitySettings-fixedBottom
 58pic.com##.heypikBottomPopup
 58pic.com##.xyyh
+59.24.3.173                   gist.github.com  # Timeout
 5901.ftp-qa1.marketingcloudqaops.com$image
 5901.sock-qa1.marketingcloudqaops.com$image
 590103.idv.tw##.ads160_600-widget
@@ -101768,6 +101817,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 6448.ftp-qa1.marketingcloudqaops.com$image
 645.connector-qa1.marketingcloudqaapis.com$image
 645.sock-qa1.marketingcloudqaops.com$image
+65.8.54.107			docs.docker.com
 6515.connector-qa1.marketingcloudqaapis.com$image
 6536.sfap-qa1.marketingcloudqaops.com$image
 654.sfap-qa1.marketingcloudqaops.com$image
@@ -102809,6 +102859,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 9553.com##[src^="/kchtml/img/"],article.mg-t5[style],.mg-t10[style]
 95dushu.net,aljazeera.com#@#script[id] + script[src^="/"] ~ div[id]:not([class]):not(#content)
 95ziyuan.cn##.jiuwu
+96.6.230.158			help.steampowered.com
 96.7.212.46                    peoplehub.xboxlive.com
 9605.sfap-qa1.marketingcloudqaops.com$image
 960x60.gif
@@ -125605,7 +125656,7 @@ accounts.snapchat.com#%#//scriptlet('set-cookie', 'Preferences', 'false')
 accounts.snapchat.com#%#//scriptlet('set-cookie', 'sc-cookies-accepted', 'true')
 accounts.ucas.com,nngroup.com##.CybotEdge
 accounts.x.ai##.max-w-sm.bottom-4.fixed
-accu-components.com,accu.co.uk,knock.app,smartreplypro.ai##.bottom-3
+accu-components.com,accu.co.uk,faivelo.com,knock.app,smartreplypro.ai##.bottom-3
 accu.org,octoparse.com###snackbar
 accupass.com##.style-746d86c4-cookie-container
 accupass.com##div[class$="-cookie-container"]
@@ -130108,6 +130159,8 @@ androidcentral.com,gamesradar.com,guitarworld.com,livescience.com,pcgamer.com,sl
 androidcentral.com,gamesradar.com,guitarworld.com,livescience.com,pcgamer.com,sltrib.com,space.com,techradar.com,tomsguide.com,tomshardware.com,windowscentral.com##[data-component-name="JwPlayer:Carousel"]
 androidcentral.com,gamesradar.com,guitarworld.com,pcgamer.com,techradar.com,tomsguide.com,tomshardware.com,whathifi.com,windowscentral.com##.vid-present
 androidcentral.com,gamesradar.com,tomsguide.com##.slice-container-newsletterForm
+androidcentral.com,guitarworld.com,pcgamer.com,techradar.com,tomsguide.com,tomshardware.com,windowscentral.com##.bordeaux-anchored-container
+androidcentral.com,guitarworld.com,pcgamer.com,techradar.com,tomsguide.com,tomshardware.com,windowscentral.com##.bordeaux-filled-slot
 androidcentral.com,imore.com##.no-amazon
 androidcentral.com,imore.com,windowscentral.com##.adunit-wrap
 androidcentral.com,pcgamer.com,tomsguide.com,tomshardware.com,whathifi.com##[data-bordeaux-hook-loaded]
@@ -145029,6 +145082,7 @@ carnewschina.com##.ad__custom_html_datatracker_article_top
 carnewschina.com##.block__newsletter
 carnewschina.com##.block_social_media__content
 carnewschina.com##.newsletter-for-scroll
+carnewschina.com##.nwsl-adv
 carnewschina.com##.td-pb-span4.tdi_127
 carnewschina.com##.td-post-sharing-style2
 carnewschina.com##.tdi_117
@@ -156279,6 +156333,7 @@ crictracker.com#$#.adsbox.doubleclick.ad-placement { display: block !important; 
 crictracker.com#?#.container > div.d-none:has(> div[id^="div-ad-gpt-"])
 cricwatch.io,cricwatch.*,tennisonline.im,tennisonline.*,dartsstreams.me,fbstream.is,fbstream.*,vipleague.me,vipleague.*,cracktv.me,cracktv.*,strikeout.im,strikeout.*,boxingbox.me,boxingbox.*,rugbybox.me,rugbybox.*,nflbox.sx,nflbox.*,f1live.me,f1live.*,mmabox.me,mmabox.*,nbabox.*,nbabox.co,soccerbox.me,soccerbox.*,worldsports.st,worldsports.*,buffsports.io,olympicweb.me,olympicweb.*,vipbox.lc,vipbox.*,vipstand.*,viprow.is,viprow.*##button[data-openuri*="https://"][data-open="_blank"]
 cricwatch.io,cricwatch.*,tennisonline.im,tennisonline.*,dartsstreams.me,fbstream.is,fbstream.*,vipleague.vg,vipleague.*,cracktv.me,cracktv.*,strikeout.im,strikeout.*,boxingbox.me,boxingbox.*,rugbybox.me,rugbybox.*,nflbox.sx,nflbox.*,f1live.me,f1live.*,mmabox.me,mmabox.*,nbabox.*,nbabox.co,soccerbox.st,soccerbox.*,worldsports.si,worldsports.*,buffsports.io,olympicweb.me,olympicweb.*,vipbox.fm,vipbox.*,vipstand.*,viprow.is,viprow.*##button[data-openuri*="https://"][data-open="_blank"]
+cricwatch.io,cricwatch.*,tennisonline.im,tennisonline.*,dartsstreams.me,fbstream.is,fbstream.*,vipleague.vg,vipleague.*,cracktv.me,cracktv.*,strikeout.im,strikeout.*,boxingbox.me,boxingbox.*,rugbybox.me,rugbybox.*,nflbox.sx,nflbox.*,f1live.me,f1live.*,mmabox.me,mmabox.*,nbabox.*,nbabox.im,soccerbox.st,soccerbox.*,worldsports.si,worldsports.*,buffsports.io,olympiclive.me,olympicweb.*,vipbox.fm,vipbox.*,vipstand.*,viprow.is,viprow.*##button[data-openuri*="https://"][data-open="_blank"]
 cricwatch.io,cricwatch.*,tennisonline.im,tennisonline.*,dartsstreams.me,fbstream.is,fbstream.*,vipleague.vg,vipleague.*,cracktv.me,cracktv.*,strikeout.im,strikeout.*,boxingbox.me,boxingbox.*,rugbybox.me,rugbybox.*,nflbox.sx,nflbox.*,f1live.me,f1live.*,mmabox.me,mmabox.*,nbabox.*,nbabox.im,soccerbox.st,soccerbox.*,worldsports.si,worldsports.*,buffsports.io,olympicweb.me,olympicweb.*,vipbox.fm,vipbox.*,vipstand.*,viprow.is,viprow.*##button[data-openuri*="https://"][data-open="_blank"]
 cricwaves.com##.btm728
 cricxtasy.com##.showdefaultbody > div[style^="overflow:hidden; padding-top:"][style*="width:100%"]
@@ -388046,6 +388101,7 @@ erogames.to##+js(set-constant, JuicyPop, {})
 erogames.to##+js(set-constant, JuicyPop.version, 1)
 erogames.to#%#//scriptlet('set-constant', 'JuicyPop', 'emptyObj')
 erogames.to#%#//scriptlet('set-constant', 'JuicyPop.version', '1')
+erogamescape.dyndns.org##div[id^="mobile_ad_"]
 erogarga.com,erotic-hentai.com,eyerollorgasm.com,familystrokesvid.com,hentaiworld.stream,hornybutt.com,javhdporn.net,player2.cdnlivestream.xyz,pornez.cam,pornmium.com###tracking-url
 erogarga.com,erotic-hentai.com,eyerollorgasm.com,familystrokesvid.com,hentaiworld.stream,hornybutt.com,javhdporn.net,player2.cdnlivestream.xyz,pornez.cam,pornmium.com,pussycatxx.com,zhentube.com###tracking-url
 erogazoo.net##a[href^="https://newmofu.doorblog.jp/"]
@@ -398205,6 +398261,7 @@ gamesradar.com##div[style^="width: 970px; height: 250px; contain: style layout s
 gamesradar.com#?##sidebar > div > div:contains(Advertisement)
 gamesradar.com#?#.listingResults > div.listingResult > div.sponsored-post:upward(1)
 gamesradar.com#@#.googleAd
+gamesradar.com,guitarworld.com,pcgamer.com,space.com,tomsguide.com,windowscentral.com###skinnyBanner
 gamesradar.com,guitarworld.com,pcgamer.com,techradar.com,tomsguide.com,tomshardware.com,windowscentral.com##p:has(> a[href^="https://news.google.com/publications/"])
 gamesradar.com,guitarworld.com,pcgamer.com,techradar.com,tomshardware.com,windowscentral.com###signupForm
 gamesradar.com,kiplinger.com,livescience.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
@@ -439458,8 +439515,9 @@ motogonki.ru##section[id^="adv"]
 motogp.com###main_footer
 motogpstream.me,tennisonline.im,tennisonline.*,mmabox.me,mmabox.*,sportfusion.me,nbabox.*,nbabox.co,f1live.me,f1live.*,rugbybox.me,rugbybox.*,dartsstreams.me,fbstream.is,fbstream.*,nflbox.sx,nflbox.*,boxingbox.me,boxingbox.*,cracked-games.org,multiup.io,mzansixporn.co.za,pahe.ink,pahe.*,vik1ngfile.site,romsdroid.com,game-repack.site,sterham.net,strikeout.im,strikeout.*,buffsports.io,crystal-launcher.pl,gamespack.net,worldsports.si,worldsports.*,cutynow.com,exnion.com,vikingf1le.us.to,exe-urls.com,evernia.site,vidsrc2.*,www.viprow.is,viprow.*,ijvam.com,olympicweb.me,olympicweb.*,uploadhaven.com,arcjav.com,mc-hacks.net,mycivillinks.com,wonderapk.com,megaup.net,exeo.app,vidsrc.*,cricwatch.io,cricwatch.*,vipleague.vg,vipleague.*,soccerbox.st,soccerbox.*,igg-games.co,cracktv.me,cracktv.*,torrentmac.net,vipboxtv.*,vipbox.fm,vipbox.*,userscloud.com,game3rb.com,soap2day.*,soccerworldcup.me,igg-games.com,miraculous.to,coloredmanga.com,hentaispark.com,send.cm#%#//scriptlet("abort-current-inline-script", "navigator", "FingerprintJS")
 motogpstream.me,tennisonline.im,tennisonline.*,mmabox.me,mmabox.*,sportfusion.me,nbabox.*,nbabox.co,f1live.me,f1live.*,rugbybox.me,rugbybox.*,dartsstreams.me,fbstream.is,fbstream.*,nflbox.sx,nflbox.*,boxingbox.me,boxingbox.*,cracked-games.org,multiup.io,pahe.ink,pahe.*,vik1ngfile.site,romsdroid.com,game-repack.site,sterham.net,strikeout.im,strikeout.*,crystal-launcher.pl,gamespack.net,worldsports.si,worldsports.*,cutynow.com,exnion.com,vikingf1le.us.to,exe-urls.com,evernia.site,vidsrc2.*,www.viprow.is,viprow.*,ijvam.com,olympicweb.me,olympicweb.*,uploadhaven.com,megaup.net,exeo.app,vidsrc.*,cricwatch.io,cricwatch.*,vipleague.vg,vipleague.*,soccerbox.st,soccerbox.*,igg-games.co,cracktv.me,cracktv.*,torrentmac.net,vipboxtv.*,vipbox.*,userscloud.com,game3rb.com,soap2day.*,soccerworldcup.me,igg-games.com,miraculous.to,coloredmanga.com,hentaispark.com,send.cm$$script[wildcard="*FingerprintJS*;break;case*"][min-length="100000"][max-length="900000"]
+motogpstream.me,tennisonline.im,tennisonline.*,mmabox.me,mmabox.*,sportfusion.me,nbabox.*,nbabox.im,f1live.me,f1live.*,rugbybox.me,rugbybox.*,dartsstreams.me,fbstream.is,fbstream.*,nflbox.sx,nflbox.*,boxingbox.me,boxingbox.*,cracked-games.org,multiup.io,mzansixporn.co.za,pahe.ink,pahe.*,vik1ngfile.site,romsdroid.com,game-repack.site,sterham.net,strikeout.im,strikeout.*,buffsports.io,crystal-launcher.pl,gamespack.net,worldsports.si,worldsports.*,cutynow.com,exnion.com,vikingf1le.us.to,exe-urls.com,evernia.site,vidsrc2.*,www.viprow.is,viprow.*,ijvam.com,olympiclive.me,olympicweb.*,uploadhaven.com,arcjav.com,mc-hacks.net,mycivillinks.com,wonderapk.com,megaup.net,exeo.app,vidsrc.*,cricwatch.io,cricwatch.*,vipleague.vg,vipleague.*,soccerbox.st,soccerbox.*,igg-games.co,cracktv.me,cracktv.*,torrentmac.net,vipboxtv.*,vipbox.fm,vipbox.*,userscloud.com,game3rb.com,soap2day.*,soccerworldcup.me,igg-games.com,miraculous.to,coloredmanga.com,hentaispark.com,send.cm#%#//scriptlet("abort-current-inline-script", "navigator", "FingerprintJS")
 motogpstream.me,tennisonline.im,tennisonline.*,mmabox.me,mmabox.*,sportfusion.me,nbabox.*,nbabox.im,f1live.me,f1live.*,rugbybox.me,rugbybox.*,dartsstreams.me,fbstream.is,fbstream.*,nflbox.sx,nflbox.*,boxingbox.me,boxingbox.*,cracked-games.org,multiup.io,mzansixporn.co.za,pahe.ink,pahe.*,vik1ngfile.site,romsdroid.com,game-repack.site,sterham.net,strikeout.im,strikeout.*,buffsports.io,crystal-launcher.pl,gamespack.net,worldsports.si,worldsports.*,cutynow.com,exnion.com,vikingf1le.us.to,exe-urls.com,evernia.site,vidsrc2.*,www.viprow.is,viprow.*,ijvam.com,olympicweb.me,olympicweb.*,uploadhaven.com,arcjav.com,mc-hacks.net,mycivillinks.com,wonderapk.com,megaup.net,exeo.app,vidsrc.*,cricwatch.io,cricwatch.*,vipleague.vg,vipleague.*,soccerbox.st,soccerbox.*,igg-games.co,cracktv.me,cracktv.*,torrentmac.net,vipboxtv.*,vipbox.fm,vipbox.*,userscloud.com,game3rb.com,soap2day.*,soccerworldcup.me,igg-games.com,miraculous.to,coloredmanga.com,hentaispark.com,send.cm#%#//scriptlet("abort-current-inline-script", "navigator", "FingerprintJS")
-motogpstream.me,tennisonline.im,tennisonline.*,mmabox.me,mmabox.*,sportfusion.me,nbabox.*,nbabox.im,f1live.me,f1live.*,rugbybox.me,rugbybox.*,dartsstreams.me,fbstream.is,fbstream.*,nflbox.sx,nflbox.*,boxingbox.me,boxingbox.*,cracked-games.org,multiup.io,pahe.ink,pahe.*,vik1ngfile.site,romsdroid.com,game-repack.site,sterham.net,strikeout.im,strikeout.*,crystal-launcher.pl,gamespack.net,worldsports.si,worldsports.*,cutynow.com,exnion.com,vikingf1le.us.to,exe-urls.com,evernia.site,vidsrc2.*,www.viprow.is,viprow.*,ijvam.com,olympicweb.me,olympicweb.*,uploadhaven.com,megaup.net,exeo.app,vidsrc.*,cricwatch.io,cricwatch.*,vipleague.vg,vipleague.*,soccerbox.st,soccerbox.*,igg-games.co,cracktv.me,cracktv.*,torrentmac.net,vipboxtv.*,vipbox.*,userscloud.com,game3rb.com,soap2day.*,soccerworldcup.me,igg-games.com,miraculous.to,coloredmanga.com,hentaispark.com,send.cm$$script[wildcard="*FingerprintJS*;break;case*"][min-length="100000"][max-length="900000"]
+motogpstream.me,tennisonline.im,tennisonline.*,mmabox.me,mmabox.*,sportfusion.me,nbabox.*,nbabox.im,f1live.me,f1live.*,rugbybox.me,rugbybox.*,dartsstreams.me,fbstream.is,fbstream.*,nflbox.sx,nflbox.*,boxingbox.me,boxingbox.*,cracked-games.org,multiup.io,pahe.ink,pahe.*,vik1ngfile.site,romsdroid.com,game-repack.site,sterham.net,strikeout.im,strikeout.*,crystal-launcher.pl,gamespack.net,worldsports.si,worldsports.*,cutynow.com,exnion.com,vikingf1le.us.to,exe-urls.com,evernia.site,vidsrc2.*,www.viprow.is,viprow.*,ijvam.com,olympiclive.me,olympicweb.*,uploadhaven.com,megaup.net,exeo.app,vidsrc.*,cricwatch.io,cricwatch.*,vipleague.vg,vipleague.*,soccerbox.st,soccerbox.*,igg-games.co,cracktv.me,cracktv.*,torrentmac.net,vipboxtv.*,vipbox.*,userscloud.com,game3rb.com,soap2day.*,soccerworldcup.me,igg-games.com,miraculous.to,coloredmanga.com,hentaispark.com,send.cm$$script[wildcard="*FingerprintJS*;break;case*"][min-length="100000"][max-length="900000"]
 motohigh.pl###custom_html-3
 motohigh.pl###zox-lead-top-wrap
 motohigh.pl##.code-block > video[id="vjs-rcp1"]:empty
@@ -448999,6 +449057,7 @@ olympiapark.de,jagex.com#$#div[id^="CybotCookiebotDialog"] { display: none !impo
 olympiapark.de,jagex.com#%#//scriptlet('trusted-click-element', 'input[data-target="CybotCookiebotDialogBodyLevelButtonMarketingInline"], button[id="CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection"]')
 olympicchannel.com###cookieStickyPanel
 olympicchannel.com##.adv__300x300
+olympiclive.me,olympicweb.*,www.viprow.is,viprow.*,soccerbox.st,soccerbox.*,vipbox.fm,vipbox.*,vipleague.vg,vipleague.*,f1live.me,f1live.*,mlbbox.me,mmabox.me,mmabox.*,nbabox.*,nbabox.im,nflbox.sx,nflbox.*,nhlbox.me,rugbybox.me,rugbybox.*,tennisonline.im,tennisonline.*,cricwatch.io,cricwatch.*,dartsstreams.me,vipboxtv.*,dartsstream.me,golfstreams.me,motogpstream.me,boxingbox.me,boxingbox.*,ufcstream.me,nbastream.nu##div[class*="position-absolute"][class*="bg-opacity-"]
 olympics.com###header-adv-banner
 olympics.com###youMayLike
 olympics.com##.-adv
@@ -468524,6 +468583,7 @@ savefiles.com##+js(no-window-open-if, get/?spot_id=)
 savefiles.com##div[id^="clickCatcher"]
 savefiles.com#%#//scriptlet('prevent-window-open', 'get/?spot_id=')
 savefiles.com,missflight.net,grandemx.org,bembed.sbs,uqload.*,desicinema.se,dramavideo.se,torupload.com,stellar.rip,streame.center,totalsporteki.st,totalsportekhd.st,cricwatch.io,cricwatch.*,tennisonline.im,tennisonline.*,posamari.me,sportfusion.me,nbabox.*,nbabox.co,dartsstreams.me,soccerbox.st,soccerbox.*,thetvapp.plus,fbstream.is,fbstream.*,dollardescent.net,mappl.tv,lightflix.app,mapple.fun,mapple.*,embed.st,executeandship.com,embedindia.st,strikeout.im,strikeout.*,boxingbox.me,boxingbox.*,dlive.sx,rugbybox.me,rugbybox.*,nflbox.sx,nflbox.*,f1live.me,f1live.*,www.viprow.is,viprow.*,ninguno.cc,mmabox.me,mmabox.*,olympicweb.me,olympicweb.*,sportsonlinee.*,sportsonline.*,4k.beer,streamcash.to,anime.uniquestream.net,cine.su,nepu.*,vidzy.cc,fs16.lol,porneec.com,asiaflix.in,asiaflix.*,streamtape.com,yts.bz,yts.gg,yts.*,filecrypt.co,strumyk.*,powwideo.*,hornysimp.com,futemax.at,embdmstrplayer.com,pahe.ink,foulembeds.live,smksports.*,fileditchfiles.me,strumyk.cfd,dorawatch.one,streamingworld.xyz,streami.su,streamed.pk,streamed.*,visualnewshub.com,cloudnestra.com,cloudfam.io,thepibay.*,bypass.city,eztvx.to,ext.to,vidsrc.cc,sanet.st,yifysubtitles.ch,vinovo.to,livesporthub.shop,dstelemundo.site,7fractals.icu,epicplayplay.cfd,goalstreamer.shop,streameast7.com,buffztreamz.shop,rippleplay.shop,shd247.click,antenasport.top,gamestrend.net,exposestrat.com,embedsports.top,seir-sanduk.com,embedtv-5.icu,daddylive3.com,sterham.net,animeunity.*,vixcloud.*,buffsports.io,soccerstreams7.com,loadvid.com,telewizjada.top,ogladaj.in,istreameast.app,streamingnow.mov,watchug.to,primewire.tf,worldsports.si,filecrypt.cc,veplay.top,colegialasdeverdad.*,anime4i.com,cuttyy.com,puffytr.com,anizm.*,anizle.*#%#//scriptlet('abort-on-property-read', 'aclib')
+savefiles.com,missflight.net,grandemx.org,bembed.sbs,uqload.*,desicinema.se,dramavideo.se,torupload.com,stellar.rip,streame.center,totalsporteki.st,totalsportekhd.st,cricwatch.io,cricwatch.*,tennisonline.im,tennisonline.*,posamari.me,sportfusion.me,nbabox.*,nbabox.im,dartsstreams.me,soccerbox.st,soccerbox.*,thetvapp.plus,fbstream.is,fbstream.*,dollardescent.net,mappl.tv,lightflix.app,mapple.fun,mapple.*,embed.st,executeandship.com,embedindia.st,strikeout.im,strikeout.*,boxingbox.me,boxingbox.*,thedaddy.pk,rugbybox.me,rugbybox.*,nflbox.sx,nflbox.*,f1live.me,f1live.*,www.viprow.is,viprow.*,ninguno.cc,mmabox.me,mmabox.*,olympiclive.me,olympicweb.*,sportsonlinee.*,sportsonline.*,4k.beer,streamcash.to,anime.uniquestream.net,cine.su,nepu.*,vidzy.cc,fs16.lol,porneec.com,asiaflix.in,asiaflix.*,streamtape.com,yts.bz,yts.gg,yts.*,filecrypt.co,strumyk.*,powwideo.*,hornysimp.com,futemax.at,embdmstrplayer.com,pahe.ink,foulembeds.live,smksports.*,fileditchfiles.me,strumyk.cfd,dorawatch.one,streamingworld.xyz,streami.su,streamed.pk,streamed.*,visualnewshub.com,cloudnestra.com,cloudfam.io,thepibay.*,bypass.city,eztvx.to,ext.to,vidsrc.cc,sanet.st,yifysubtitles.ch,vinovo.to,livesporthub.shop,dstelemundo.site,7fractals.icu,epicplayplay.cfd,goalstreamer.shop,streameast7.com,buffztreamz.shop,rippleplay.shop,shd247.click,antenasport.top,gamestrend.net,exposestrat.com,embedsports.top,seir-sanduk.com,embedtv-5.icu,daddylive3.com,sterham.net,animeunity.*,vixcloud.*,buffsports.io,soccerstreams7.com,loadvid.com,telewizjada.top,ogladaj.in,istreameast.app,streamingnow.mov,watchug.to,primewire.tf,worldsports.si,filecrypt.cc,veplay.top,colegialasdeverdad.*,anime4i.com,cuttyy.com,puffytr.com,anizm.*,anizle.*#%#//scriptlet('abort-on-property-read', 'aclib')
 savefiles.com,missflight.net,grandemx.org,bembed.sbs,uqload.*,desicinema.se,dramavideo.se,torupload.com,stellar.rip,streame.center,totalsporteki.st,totalsportekhd.st,cricwatch.io,cricwatch.*,tennisonline.im,tennisonline.*,posamari.me,sportfusion.me,nbabox.*,nbabox.im,dartsstreams.me,soccerbox.st,soccerbox.*,thetvapp.plus,fbstream.is,fbstream.*,dollardescent.net,mappl.tv,lightflix.app,mapple.fun,mapple.*,embed.st,executeandship.com,embedindia.st,strikeout.im,strikeout.*,boxingbox.me,boxingbox.*,thedaddy.pk,rugbybox.me,rugbybox.*,nflbox.sx,nflbox.*,f1live.me,f1live.*,www.viprow.is,viprow.*,ninguno.cc,mmabox.me,mmabox.*,olympicweb.me,olympicweb.*,sportsonlinee.*,sportsonline.*,4k.beer,streamcash.to,anime.uniquestream.net,cine.su,nepu.*,vidzy.cc,fs16.lol,porneec.com,asiaflix.in,asiaflix.*,streamtape.com,yts.bz,yts.gg,yts.*,filecrypt.co,strumyk.*,powwideo.*,hornysimp.com,futemax.at,embdmstrplayer.com,pahe.ink,foulembeds.live,smksports.*,fileditchfiles.me,strumyk.cfd,dorawatch.one,streamingworld.xyz,streami.su,streamed.pk,streamed.*,visualnewshub.com,cloudnestra.com,cloudfam.io,thepibay.*,bypass.city,eztvx.to,ext.to,vidsrc.cc,sanet.st,yifysubtitles.ch,vinovo.to,livesporthub.shop,dstelemundo.site,7fractals.icu,epicplayplay.cfd,goalstreamer.shop,streameast7.com,buffztreamz.shop,rippleplay.shop,shd247.click,antenasport.top,gamestrend.net,exposestrat.com,embedsports.top,seir-sanduk.com,embedtv-5.icu,daddylive3.com,sterham.net,animeunity.*,vixcloud.*,buffsports.io,soccerstreams7.com,loadvid.com,telewizjada.top,ogladaj.in,istreameast.app,streamingnow.mov,watchug.to,primewire.tf,worldsports.si,filecrypt.cc,veplay.top,colegialasdeverdad.*,anime4i.com,cuttyy.com,puffytr.com,anizm.*,anizle.*#%#//scriptlet('abort-on-property-read', 'aclib')
 savefree.in,surattimes.com##.bn-content
 savefrom.net###modal-container > div.popup-content
@@ -473089,6 +473149,7 @@ slreamplay.cc#%#//scriptlet('prevent-window-open')
 sltrib.com###google-preferred
 sltrib.com##.donation-a-test
 sltrib.com##.fp-marketing-message-wrapper
+sltrib.com##.grid-ad-container-1
 sltrib.com##.grid-ad-container-2
 sltrib.com##.newsletter-test-a
 sltrib.com##.sltrib_medrec_sidebar_atf
@@ -487720,6 +487781,7 @@ tomshardware.com###newsletter-slice
 tomshardware.com###rightcol_top
 tomshardware.com###rightcol_top + .space-b30
 tomshardware.com###rightcol_top_anchor
+tomshardware.com###skinnyBannerT2
 tomshardware.com##.ad-unit + div.jwplayer__widthsetter > div.future__jwplayer
 tomshardware.com##.ec-popup-modal
 tomshardware.com##.image-widthsetter[style="max-width:676px;"]
@@ -495873,6 +495935,8 @@ videocardz.com###vc-index-google-follow
 videocardz.com###vc-intermid-desktop-ad
 videocardz.com###welcome-modal
 videocardz.com##.google-sidebar
+videocardz.com##.s7k2m9qx
+videocardz.com##.s7k2m9qx-adhesive
 videocardz.com##.shareon
 videocardz.com##.social-item-mail
 videocardz.com##.social-item-media
@@ -517224,6 +517288,7 @@ zzzyk.com###Tinfo
 ||4k.video/b.js
 ||4k28959nr2pfj8cinwu5x.rest^
 ||4k3nzijpm0.com^
+||4k4zbfclm.com^
 ||4kdownload.com^$removeparam=source
 ||4kei4e.pics^
 ||4kejiu4.sbs^
@@ -517270,6 +517335,7 @@ zzzyk.com###Tinfo
 ||4o.cc^
 ||4o.i9fle6ul2jmjcp29.cfd^
 ||4o64flb.com^
+||4oeb3zpr8ko4wn2w8v9cr.rest^
 ||4oney.com^
 ||4oney.com^$third-party
 ||4ourkidsky.com^
@@ -519237,6 +519303,7 @@ zzzyk.com###Tinfo
 ||729.hewx57uke753uc2k.cyou^
 ||7299tu75.cc^
 ||72a490562a.com^
+||72a5af4969.com^
 ||72d329.r.axf8.net^
 ||72d8ejvmha.com^
 ||72goldzino91.com^
@@ -520660,6 +520727,7 @@ zzzyk.com###Tinfo
 ||8n2iu6djx6.com^
 ||8n67t.com^
 ||8nc8shot.txxx.com^
+||8nkqg8j1iyn2vl63q2wbncx6x7b4m42f6p.cfd^
 ||8nqp2.ur5tyhny69q53nntcz.cyou^
 ||8nrjifigyphw77n6pr.rest^
 ||8o5v23yip.com^
@@ -526980,6 +527048,7 @@ zzzyk.com###Tinfo
 ||aalborgdagblad.com^
 ||aalborgtidende.com^
 ||aalocine.fr^
+||aalpyojlgmvbu.space^
 ||aalsupgale.com^
 ||aalures.com^
 ||aam.gumtree.com.au^
@@ -528184,6 +528253,7 @@ zzzyk.com###Tinfo
 ||acb.vn-c.xyz^
 ||acb.vn-ol.top^
 ||acbbank.xyz^
+||acbcr.ro^
 ||acbd.holylandprayer.com^
 ||acbogaffmdurj.site^
 ||acbp0020171456.page.tl^
@@ -537803,6 +537873,7 @@ zzzyk.com###Tinfo
 ||aetfwitotdnvn.online^
 ||aethel.site^
 ||aetherhub.b-cdn.net/images/zones/
+||aetherius.live^
 ||aethonliving.com^
 ||aetnaaetnaprod2018.112.2o7.net^
 ||aets22.com^
@@ -542702,6 +542773,7 @@ zzzyk.com###Tinfo
 ||amenherbal.com^
 ||amenpitau.com^
 ||amenrecorder.com^
+||amentalcloteinseams.cyou^
 ||amentumgraze.shop^
 ||amer.juniper.net^
 ||amer.rel.msn.com^
@@ -552406,6 +552478,7 @@ zzzyk.com###Tinfo
 ||aridround.com^
 ||aridweakness.com^
 ||arielcreation.blogspot.com^
+||arielsroarers.com^
 ||aries.iad.appboy.com^
 ||aries.mzres.com^
 ||ariescreative.com/privacy/
@@ -552627,6 +552700,7 @@ zzzyk.com###Tinfo
 ||art.theta.sogoucdn.com^
 ||art2wave.actonservice.com^
 ||art4glas.de^
+||artalivedesign.com^
 ||artamuspaterae.cfd^
 ||artanlife.club^
 ||artbbs.to^
@@ -553021,6 +553095,7 @@ zzzyk.com###Tinfo
 ||asf4f.us^
 ||asfbvawqabjaz.space^
 ||asfdd.purblack.com^
+||asfivefwjenby.site^
 ||asfxzmdxzvdbq.space^
 ||asg.animehdl.net^
 ||asg.aphex.me^
@@ -554835,6 +554910,7 @@ zzzyk.com###Tinfo
 ||aungudie.com^$popup
 ||aunica.112.2o7.net^
 ||aunnnuvegyzfm.website^
+||auntieschaikhana.co.uk^
 ||auntiesurfeatable.com^
 ||auntmia.com/promo/
 ||auntpercoct.shop^
@@ -554891,6 +554967,7 @@ zzzyk.com###Tinfo
 ||aurexonstrade-ai.com^
 ||aurineborneocoopted.cfd^
 ||auriro.net/views.cfm?
+||auristscinter.qpon^
 ||aurixiontrust-pro.pages.dev^
 ||aurixsystem.net^
 ||aurjtqfdvqdgh.site^
@@ -555147,6 +555224,7 @@ zzzyk.com###Tinfo
 ||automizely-analytics.com^
 ||automizely-analytics.com^$third-party
 ||automobi.oewabox.at^
+||automobile-bk.de^
 ||automobile-magasine.fr^
 ||automobile-propre.com/app/themes/automobile-propre/assets/custom/js/ap.popup-nl.js
 ||automobile.it/fb/
@@ -555513,6 +555591,7 @@ zzzyk.com###Tinfo
 ||avosstart.fr^
 ||avouchuramil.com^
 ||avourchandu.cyou^
+||avoutergubbins.qpon^
 ||avowdanielungrave.cyou^
 ||avoweddehorns.cfd^
 ||avowingoxaliteglancer.qpon^
@@ -556857,6 +556936,7 @@ zzzyk.com###Tinfo
 ||b58ncoa1c07f.com^
 ||b59.xyz^
 ||b59812ee54afcabd.com^
+||b5bb8qpmmtpmrx2r.cfd^
 ||b5e17bdf06.com^
 ||b5h7.com^
 ||b5j6itccyluq.nofluffjobs.com^
@@ -557589,6 +557669,7 @@ zzzyk.com###Tinfo
 ||balancenotes.com^
 ||balancer.devtodev.com^
 ||balancewreckpoint.com^
+||balancing.my.id^
 ||balancingadtrack-774916153.us-west-2.elb.amazonaws.com^
 ||balancingstatic-1532737183.us-west-2.elb.amazonaws.com^
 ||balanicextreat.com^
@@ -559134,6 +559215,7 @@ zzzyk.com###Tinfo
 ||bcsyfuhahnlmh.online^
 ||bct.beavercrafttools.com^
 ||bct1.marketingstrategie.de^
+||bctcvrpyeouqe.com^
 ||bcthd12.shop^
 ||bcthh.iliabeauty.com^
 ||bctt.igaming-service.io^
@@ -560030,6 +560112,7 @@ zzzyk.com###Tinfo
 ||behindwoods.com/tamil-movies/topbanners-photos/
 ||behkfu2mplp8y5.cfd^
 ||behlenjoiner.com^
+||beholdthyson.com^
 ||behoneygerm.cfd^
 ||behoneyono.com^
 ||behorncarane.cyou^
@@ -560365,6 +560448,7 @@ zzzyk.com###Tinfo
 ||bereaveburblershansa.qpon^
 ||bereaveundresscrowded.com^
 ||beretier.cyou^
+||berettalaccicingreve.qpon^
 ||berg-6-82.com^
 ||berg-6-82.com^$third-party
 ||berg-signal-gpt.com^
@@ -561084,6 +561168,7 @@ zzzyk.com###Tinfo
 ||bevwcymvettup.space^
 ||bewailindigestionunhappy.com^
 ||bewaredsainte.cyou^
+||bewashgloater.qpon^
 ||bewaslac.com^
 ||bewaycare.com^
 ||bewhidare.com^
@@ -562806,6 +562891,7 @@ zzzyk.com###Tinfo
 ||bizneed.com^
 ||biznes-delo.ru/_*.php$script
 ||biznews.oregon.gov^
+||biznfmmxrxcej.site^
 ||bizo.com^
 ||bizo.com^$third-party
 ||bizocean.jp/column/wp-content/uploads/2017/11/temply_banner
@@ -563067,6 +563153,7 @@ zzzyk.com###Tinfo
 ||bkqus.nakednutrition.com^
 ||bkrbs.gethealthspan.com^
 ||bkrjnunlxffzx.online^
+||bkrjx629mo93rz7wrr5.rest^
 ||bkrkv.com^
 ||bkrntr.netmng.com^
 ||bkrtx.com.edgekey.net^
@@ -563253,6 +563340,7 @@ zzzyk.com###Tinfo
 ||blcdog.com^$popup
 ||blcfaglwjptwo.online^
 ||blcknvr.com^
+||blclrtqiiylcc.space^
 ||bldk.bodylab.dk^
 ||bldkgmtnesbfp.site^
 ||bldklgxmbfemy.online^
@@ -566477,6 +566565,7 @@ zzzyk.com###Tinfo
 ||brjmzj.niceioi.com.tw^
 ||brkbaawvypikso.com^
 ||brkoev.minfin.com.ua^
+||brkpvjrxjgutb.site^
 ||brl.liwqxrhffex293j.cfd^
 ||brldassustitucion.eccocar.com^
 ||brlesrochesmarbella.eccocar.com^
@@ -567291,6 +567380,7 @@ zzzyk.com###Tinfo
 ||bucketsnumine.qpon^
 ||bucketsofbanners.com^
 ||bucketsofbanners.com^$third-party
+||bucketsregretstupik.cyou^
 ||bucklechemistdensity.com^
 ||bucklelode.com^
 ||bucklemail.com/a/$image
@@ -572224,6 +572314,7 @@ zzzyk.com###Tinfo
 ||categorysoloist.com^
 ||categorysort.com^
 ||catelpremo.store^
+||caterlearnt.qpon^
 ||caterpillarmournful.com^
 ||caterpillaroos.info^
 ||caterpillarpoland.com^
@@ -575771,6 +575862,7 @@ zzzyk.com###Tinfo
 ||cequalabfzofp.online^
 ||ceqyuidnlnyib.site^
 ||cera.ceraearclinic.com^
+||ceramicasaosebastiao.com.br^
 ||ceramicturtleremnant.com^
 ||ceramicturtleremnant.com^$document
 ||cerberus.production.us-east-1.kops.kargo.com^
@@ -576177,6 +576269,7 @@ zzzyk.com###Tinfo
 ||cguardai.com^
 ||cguke-9h64o.ads.tremorhub.com^
 ||cguv93.xhuytw3pl9cn6vvizk.cyou^
+||cgvdsbbpylcio.online^
 ||cgvxzkfcfkkhk.site^
 ||cgvzp.gethommey.com^
 ||cgw46pe4.xyz^
@@ -576419,6 +576512,7 @@ zzzyk.com###Tinfo
 ||channelvue.com.au^
 ||channelwatcher.panda.tech^
 ||channelwebsdks.azureedge.net^
+||chant98.com^
 ||chantcompass9.com^
 ||chanz.com^
 ||chaojilamei.cn^
@@ -576473,6 +576567,7 @@ zzzyk.com###Tinfo
 ||charlotteyeon.com^
 ||charm.inmobi.com^
 ||charmedstipel.cfd^
+||charmedwater.com^
 ||charmflirt.com^
 ||charmingplate.com^
 ||charmingpoliteinjunction.com^
@@ -577018,6 +577113,7 @@ zzzyk.com###Tinfo
 ||chilihandshakewing.com^
 ||chilimonoxidesalary.com^
 ||chilionchaft.cyou^
+||chilkatsievy.cyou^
 ||chilkkdcares.info^
 ||chilliads.fuse-ad.com^
 ||chillimagepublisher.com^
@@ -577572,6 +577668,7 @@ zzzyk.com###Tinfo
 ||cibersexo.net^
 ||cibhmyowgsmpa.store^
 ||cibj3rif9mw4gubu6.rest^
+||cibjccxqwbetq.space^
 ||cibleclick.com^
 ||cibleclick.com^$third-party
 ||cibntv.net/youku/*.mp4?$media,redirect=noop-1s.mp4,domain=v.youku.com,important
@@ -577823,6 +577920,7 @@ zzzyk.com###Tinfo
 ||cissoiddownset.com^
 ||cissusbilchrepale.cyou^
 ||cissydhole.cyou^
+||cissyhymner.cfd^
 ||cistaplatarna.com^
 ||cistronawn.qpon^
 ||cisyxmahhotxf.site^
@@ -582431,6 +582529,7 @@ zzzyk.com###Tinfo
 ||colourpike.com^$domain=euronews.com
 ||colourpike.com^$domain=index.hr
 ||colssimo.fr^
+||coltersfusus.cyou^
 ||colterstrisect.com^
 ||coltlimb.com^
 ||columbahouse.com^
@@ -586212,6 +586311,7 @@ zzzyk.com###Tinfo
 ||cowgategoddard.shop^
 ||cowherbcarboys.qpon^
 ||cowhmc.docmorris.de^
+||cowkinecloven.cfd^
 ||cowlitzukiyoye.cyou^
 ||cowlssubtly.com^
 ||cowpeasgnatty.qpon^
@@ -586569,6 +586669,7 @@ zzzyk.com###Tinfo
 ||cpo.adflex.vn^
 ||cpocommerceinc.112.2o7.net^
 ||cpodf.plunge.com^
+||cpofficial.com^
 ||cpokulack.com^
 ||cpoml.iask.sina.com.cn^
 ||cpoml.iask.sina.com.cn^$empty
@@ -587685,6 +587786,7 @@ zzzyk.com###Tinfo
 ||crummydevioussucculent.com^
 ||crummydevioussucculent.com^$popup
 ||crumpet.xxxpornhd.pro^
+||crumpetjheel.com^
 ||crumpetprankerstench.com^
 ||crumpkunwari.cyou^
 ||crumpywoolded.cfd^
@@ -604858,6 +604960,7 @@ zzzyk.com###Tinfo
 ||dnwx.com/pic/*_978x60.
 ||dnwx.com/pic_ad/
 ||dnxcok.pentik.com^
+||dnxhzlty.com^
 ||dnxlgencstz4.cloudfront.net^
 ||dnxtc.net/images/xiaobing
 ||dnxtc.net/xiaobing/
@@ -605955,6 +606058,7 @@ zzzyk.com###Tinfo
 ||download.zikirapp.com^
 ||download.zjsyawqj.cn^
 ||download.zzb6.cn^
+||download2.huduntech.com^
 ||download2.marketengines.com^
 ||download207.mediafire.com^
 ||download3.123cw.cn^
@@ -606155,6 +606259,7 @@ zzzyk.com###Tinfo
 ||dppesulohfqre.cloudfront.net^
 ||dpps0203082002.goasrv.com^
 ||dppublishinginc.actonservice.com^
+||dprgvgcoztsvz.site^
 ||dpropomuvzmal.online^
 ||dprptfbtilpmp.site^
 ||dprwd.adorama.com^
@@ -606292,6 +606397,7 @@ zzzyk.com###Tinfo
 ||dracolix.store^
 ||dradvice.in^
 ||dradvice.in^$popup
+||draft-loop.com^
 ||drafterinfante.cfd^
 ||draftkings.bbgi.com^$subdocument
 ||dragate-in-dc.heytapmobile.com^
@@ -608145,6 +608251,7 @@ zzzyk.com###Tinfo
 ||duvkog4eyegl0.cloudfront.net^
 ||duvm2tveip.com^
 ||duvmqugzcjeco.website^
+||duvpagvetqzqy.website^
 ||duvporno.com^
 ||duvyjr.onlineautoparts.com.au^
 ||duxingangtiaoban.com^
@@ -608846,6 +608953,7 @@ zzzyk.com###Tinfo
 ||dyo.gs/Webservices/jsParseLinks.aspx$script,third-party
 ||dyo.gs/visitScript/$script,third-party
 ||dyodrs1kxvg6o.cloudfront.net^
+||dyoyjcdvgkwui.online^
 ||dyp2p-ali.douyucdn.cn^
 ||dyp2p-hw.douyucdn.cn^
 ||dypeizqkapgoz.site^
@@ -610222,6 +610330,7 @@ zzzyk.com###Tinfo
 ||eagle.mn/uploads/banner_/
 ||eagle.roarfilm.com.au^
 ||eagleasp.adsame.com^
+||eagleblossom.com^
 ||eagledemo.adsame.com^
 ||eaglemiles.112.2o7.net^
 ||eaglepro.adsame.com^
@@ -611343,6 +611452,7 @@ zzzyk.com###Tinfo
 ||edenizemortary.com^
 ||edesf.xyzxmark.cn^
 ||edethrelhf.com^
+||edeuafcrlhtel.online^
 ||edfaba3a.eulerian.io^
 ||edfyqv.x-moda.ru^
 ||edg-n2.top^
@@ -613508,6 +613618,7 @@ zzzyk.com###Tinfo
 ||elr.sfr.fr^
 ||elrbdrumbzgpx.online^
 ||elreydelpop.goaserv.com^
+||elrianda.com^
 ||elrincondeayrton.goaserv.com^
 ||elrincondelasmelli.goasrv.com^
 ||elrincondelsuri.goasrv.com^
@@ -615275,6 +615386,7 @@ zzzyk.com###Tinfo
 ||eoctphzgwgmnd.site^
 ||eodda.womanwithin.com^
 ||eodnprwxgjixj.online^
+||eoeeertycsptc.site^
 ||eoejzyqfdmidn.space^
 ||eoexrsrevolat.website^
 ||eofjtw.jjshouse.se^
@@ -619940,6 +620052,7 @@ zzzyk.com###Tinfo
 ||fahhmilyhood.info^
 ||fahim.xn--gesundheit-schnheit-36b.com^
 ||fahimahalkayyis.goasrv.com^
+||fahlmrlbsoyxu.space^
 ||fahmta.accountingweb.co.uk^
 ||fahmta.arrse.co.uk^
 ||fahmta.baby-magazine.co.uk^
@@ -621803,6 +621916,7 @@ zzzyk.com###Tinfo
 ||ferienwohnungen.de/api/pxl
 ||feriowepieniazki.wixsite.com^
 ||ferliedlenora.cyou^
+||fermagefrauen.cfd^
 ||fermataintima.com^
 ||fermatapodler.cyou^
 ||fermefacol.store^
@@ -621821,6 +621935,7 @@ zzzyk.com###Tinfo
 ||fernwealthstead.net^
 ||fernwealthstead.shop^
 ||fernyn-gainstead.live^
+||fernzenith.com^
 ||ferocitycandour.com^
 ||feross.org/views
 ||feroviamarket.shop^
@@ -621856,6 +621971,7 @@ zzzyk.com###Tinfo
 ||fervorsixtiesveteran.com^
 ||fervortracer.com^
 ||ferziendfljud.site^
+||fescuesbracky.cyou^
 ||fesecrxmwowzq.site^
 ||feselsbela.cyou^
 ||fesig.keepsakequilting.com^
@@ -622528,6 +622644,7 @@ zzzyk.com###Tinfo
 ||filerit.com^
 ||files-downloads.com^
 ||files-eu.clickdimensions.com^
+||files.8weeksaverage.xyz^
 ||files.adform.net^
 ||files.adriver.ru^
 ||files.adspdbl.com^
@@ -628223,6 +628340,8 @@ zzzyk.com###Tinfo
 ||fundorasoftware-com.pages.dev^
 ||fundorship.online^
 ||fundraiserprestigedescent.com^
+||fundraiseup.com^
+||fundraiseup.com^$third-party
 ||fundraising.centuryresources.com^
 ||fundsruffianfollows.com^
 ||fundtransfer.w88bkk.com^
@@ -630856,6 +630975,7 @@ zzzyk.com###Tinfo
 ||gcirm.theolympian.com^
 ||gcirm.thespectrum.com^
 ||gcirm2.indystar.com^
+||gcjeomlguifln.online^
 ||gcjg3ry7m.com^
 ||gcjs.genmonet.com^
 ||gckkl.hotelcollection.pl^
@@ -631379,6 +631499,7 @@ zzzyk.com###Tinfo
 ||geneticallypineredden.com^
 ||geneticnormalthou.com^
 ||genetree.112.2o7.net^
+||geneuraaphides.com^
 ||genfel.blogspot.com^
 ||genforumgenealogy.com^
 ||genfpm.com^
@@ -634045,6 +634166,7 @@ zzzyk.com###Tinfo
 ||gmarket.co.kr^$cookie=cna
 ||gmarket.co.kr^$cookie=sca
 ||gmasterfun.com^
+||gmayxvqxstlps.space^
 ||gmbbk.com/bbsgmbbk/
 ||gmbbk.com/fb.js
 ||gmbbku.com/img/top.js
@@ -637014,6 +637136,7 @@ zzzyk.com###Tinfo
 ||grammarly.com/api/tracking/
 ||grammeseeling.com^
 ||gramombird.com^
+||granatenauset.com^
 ||granbbkzs3.com^
 ||grand-prix.cityads.com^
 ||grand.ele.me^
@@ -644539,6 +644662,7 @@ zzzyk.com###Tinfo
 ||gxpxmamikdcdq.space^
 ||gxqcdnbbribw.com^
 ||gxqfgqhllmhhx.space^
+||gxqwjmzibwpso.website^
 ||gxqzz.7766.org^
 ||gxrzabyhreybz.online^
 ||gxsuum.discountmugs.com^
@@ -648013,6 +648137,7 @@ zzzyk.com###Tinfo
 ||hidzrf.icu^
 ||hie.alldent-zahnzentrum-mannheim.de^
 ||hie.li^
+||hiedzcvfjpvxd.space^
 ||hieingintroit.cfd^
 ||hiend.xyz^
 ||hiend.xyz^$popup
@@ -649937,6 +650062,7 @@ zzzyk.com###Tinfo
 ||horzrb.com^
 ||horzrb.com^$third-party
 ||hose.gardeningexpress.co.uk^
+||hoselaphtha.cyou^
 ||hosenmesitae.com^
 ||hosierypressed.com^
 ||hosierysibling.com^
@@ -650298,6 +650424,7 @@ zzzyk.com###Tinfo
 ||houndananter.cyou^
 ||houndinflateclassmate.com^
 ||houndropers.com^
+||houndseikon.cyou^
 ||houndsouvenirs.com^
 ||houotgk3m.com^
 ||hourcontributor.com^
@@ -650457,6 +650584,7 @@ zzzyk.com###Tinfo
 ||hpbgx.podcompany.com^
 ||hpbrqr.daihatsu.co.jp^
 ||hpbs.halfpriceblinds.com.au^
+||hpbxrvnentfrre.com^
 ||hpcduz.shoemall.com^
 ||hpco.6fai2.cn^
 ||hpcv454rwp41tvbuelmzux2u7o6wjcv.rest^
@@ -650852,6 +650980,7 @@ zzzyk.com###Tinfo
 ||hsnpvcdgenfwg.space^
 ||hsnskx.care^
 ||hsosldhfbjtss.website^
+||hspbtcxzyhpno.online^
 ||hspcbbhhmusop.online^
 ||hspqur.happy-size.ch^
 ||hsprzf.shinhwaworld.com^
@@ -651546,6 +651675,7 @@ zzzyk.com###Tinfo
 ||huldeemiqra.cfd^
 ||huliq.us.intellitxt.com^
 ||hulkageinmeats.cyou^
+||hulkingdomine.cfd^
 ||hulkprod.anm.co.uk/api/web-push-notification/
 ||hulkshare.com/ajax/tracker.php
 ||hulkstream.com/jvpop*.js
@@ -651960,6 +652090,7 @@ zzzyk.com###Tinfo
 ||hwpub.com^$third-party
 ||hwpukszxpscay.site^
 ||hwpvogedpmyuy.space^
+||hwpvqkwhlq.com^
 ||hwqdvz.cruises.com^
 ||hwqloan.com^
 ||hwqyrqhnbnqpc.site^
@@ -653026,6 +653157,7 @@ zzzyk.com###Tinfo
 ||iadvert.net^
 ||iadvize.com/collector/
 ||iadvize.com^$third-party
+||iadwauzhjsjba.site^
 ||iaeaadfleusbk.site^
 ||iaefd.katespade.com^
 ||iaets.kodiakcakes.com^
@@ -653835,6 +653967,7 @@ zzzyk.com###Tinfo
 ||idot.cz^$third-party
 ||idowa.de/build/js/snowplow-tracker.tatest.js
 ||idowueocx.shop^
+||idpawqdbfdoht.online^
 ||idpgakrenkmki.store^
 ||idpix.media6degrees.com^
 ||idpixdqbszrjc.site^
@@ -654410,6 +654543,7 @@ zzzyk.com###Tinfo
 ||ihbkqdj55.com^
 ||ihbov.cycologygear.eu^
 ||ihbrba.parkerthatch.com^
+||ihbvhniqtqgud.online^
 ||ihc.112.2o7.net^
 ||ihc.cellmarque.com^
 ||ihcamp.ybtour.co.kr^
@@ -654615,6 +654749,7 @@ zzzyk.com###Tinfo
 ||ijlbjbcbyssjb.space^
 ||ijlgpl.capri.com^
 ||ijlskcbeemjif.space^
+||ijlwvmujbbuus.online^
 ||ijmkxepceoabo.site^
 ||ijmrqatwfuemc.website^
 ||ijnfc.4conly.com^
@@ -654758,6 +654893,7 @@ zzzyk.com###Tinfo
 ||ilcdn.fi^*/Bootstrap.js
 ||ilce.alicdn.com/montage^
 ||ilce.alicdn.com^
+||ilcocasnjwggu.website^
 ||ildeboscio.goasrv.com^
 ||ildhy.com^
 ||ildopxge.com^
@@ -656997,6 +657133,7 @@ zzzyk.com###Tinfo
 ||impetuonnusly.info^
 ||impetuousseatspeck.com^
 ||impetusorgansseparation.com^
+||impetussoja.qpon^
 ||impfi.tradedoubler.com^
 ||impfr.tradedoubler.com^
 ||impgb.tradedoubler.com^
@@ -660902,6 +661039,7 @@ zzzyk.com###Tinfo
 ||iotechnologies.com^$third-party
 ||iotfovmvclciq.site^
 ||iothkkqpgplrc.website^
+||iotj6oo90.com^
 ||iotransfer.itopvpn.com^$removeparam=ref
 ||ioubm.nakedroot.com^
 ||iovation.co.uk^
@@ -662611,6 +662749,7 @@ zzzyk.com###Tinfo
 ||iycljnpwjyvyk.website^
 ||iycqldnxdqgft.online^
 ||iycxcmlzanbmk.website^
+||iydlqizohksys.site^
 ||iydzvordgluos.space^
 ||iyes.youku.com^
 ||iyexlhpephrif.site^
@@ -664238,6 +664377,7 @@ zzzyk.com###Tinfo
 ||jfzcoyulqblry.space^
 ||jfzgxkkgnpilo.online^
 ||jfzis.cpapninja.com^
+||jfzmalujikqft.space^
 ||jfzobolqyt.com^
 ||jfzucsihbphzt.store^
 ||jfzx.tv/js/sb/
@@ -664958,6 +665098,7 @@ zzzyk.com###Tinfo
 ||jkc0idkv.xyz^
 ||jkc86po2u6ynzwb.cfd^
 ||jkcjqofnorvsp.website^
+||jkcmlisimtfmc.online^
 ||jkcmm.therfpsuccesscompany.com^
 ||jkcontrols.co.uk^
 ||jkdfsjk.adblock360.com^
@@ -667413,6 +667554,7 @@ zzzyk.com###Tinfo
 ||juvenileblank.com^
 ||juvenileconstant.com^
 ||juveniletennis.com^
+||juventcaucusfroise.cyou^
 ||juventuis.fr^
 ||juvepoland.com/wp-content/uploads/*/torggler.gif
 ||juviteshabbatdimera.qpon^
@@ -667640,6 +667782,7 @@ zzzyk.com###Tinfo
 ||jxelkzydvftdn.space^
 ||jxeumx.hanaunni.com^
 ||jxexzw.ryj696m5t9u85b8q7g.cyou^
+||jxfbaoovzzgres.com^
 ||jxfbr.bfreeusa.com^
 ||jxgd1688.com^
 ||jxghou.sollumeesthe.com^
@@ -667812,6 +667955,7 @@ zzzyk.com###Tinfo
 ||jzdn.talk-hk.cn^
 ||jzduxkeumwnrfp6x.exasrv.com^
 ||jzdwl4.cn^
+||jzeoieedoextx.space^
 ||jzfhh.aquasana.com^
 ||jzfrcctrmyclt.space^
 ||jzfwmalgjmnkq.space^
@@ -667836,6 +667980,7 @@ zzzyk.com###Tinfo
 ||jzokkeaebbjbw.top^
 ||jzoxch.menswearhouse.com^
 ||jzprtb.1stdibs.com^
+||jzpuhqbyixcsh.site^
 ||jzq915.playmobil.com^
 ||jzq915.playmobil.com^ы
 ||jzqbyykqebrzl.top^
@@ -671811,6 +671956,7 @@ zzzyk.com###Tinfo
 ||kredytunelofinance.com^
 ||kredytybezbik.eu^
 ||kredytynasms.pl^
+||kreeseagrafe.qpon^
 ||kreirkaer.com^
 ||krenvuzo.shop^
 ||kreofixvoltruniandomain.com^
@@ -672242,6 +672388,7 @@ zzzyk.com###Tinfo
 ||kuajingd.com^
 ||kuakao.com/index.php?m=content&c=index&a=show_ad
 ||kuakao.com:6053/floatcard?
+||kuakuawenjian.oss-cn-hangzhou.aliyuncs.com^
 ||kuanxin.top^
 ||kuaskqytzcrdq.site^
 ||kuaso.com^
@@ -673265,6 +673412,7 @@ zzzyk.com###Tinfo
 ||l936.expressnews.com^
 ||l997.lmtonline.com^
 ||l9bdhcgihw.neihanw.com^
+||l9c1nc17xjgeopbfbikpw7ucn5u9vpzmir.rest^
 ||l9f7pjkhkcn2x21fet.cfd^
 ||l9moubljmc.com^
 ||l9qxrmda6.com^
@@ -675152,6 +675300,7 @@ zzzyk.com###Tinfo
 ||leeswammes.goaserv.com^
 ||leet61t2.hprvwf66vvr5kbc7ztgf17kelvc.cyou^
 ||leetaipt.net^
+||leetcode.com/api/banner/qd-submission-banner/
 ||leetero.ru/consultant/$third-party
 ||leetlinkage.com^
 ||leewanocimum.qpon^
@@ -678113,6 +678262,7 @@ zzzyk.com###Tinfo
 ||liuhecaikaijiangzhiboxianchang.goasrv.com^
 ||liujopolska.com^
 ||liuliguo.com^
+||liuuykrhyugai.website^
 ||liuxoi.green-petfood.de^
 ||liuxue86.com/css/liuxue_output.js
 ||liuxue86.com/js/ideng/liuxue-show
@@ -678607,6 +678757,7 @@ zzzyk.com###Tinfo
 ||ljybyqaakvlyj.top^
 ||ljyhzllzoymxq.space^
 ||ljyipz.nugnes1920.com^
+||ljyzic8cr.com^
 ||ljzpq.shopbb.co^
 ||ljzwuvseqsecn.online^
 ||ljzxdu.largus.fr^
@@ -688129,6 +688280,7 @@ zzzyk.com###Tinfo
 ||lucx.tangleteezer.com^
 ||lucy.lifemd.com^
 ||lucymillsonlife.goasrv.com^
+||ludaoqqvbr.com^
 ||ludgamerca.store^
 ||ludhs.walkerandhunt.com^
 ||ludicer.it/template/checkP.js
@@ -688868,6 +689020,7 @@ zzzyk.com###Tinfo
 ||lywww.com/data/js.php?id=
 ||lywww.com/header_pic.php
 ||lyxfra.shopee.com.my^
+||lyymtlomtdteh.online^
 ||lyypsy.unisportstore.se^
 ||lyyyupftoqfoz.site^
 ||lyz.radio366.com^
@@ -695482,6 +695635,7 @@ zzzyk.com###Tinfo
 ||maukerja.my/server-api/impression-api
 ||maukerja.my/v3mkapi/
 ||maukerja.my/v3mkapi/track/
+||maukinrosland.com^
 ||maunchesudser.qpon^
 ||mausk.shopbeam.com^
 ||mautic-learn.teky.edu.vn^
@@ -702491,6 +702645,7 @@ zzzyk.com###Tinfo
 ||mid-round.com^
 ||mid.houyi.baofeng.net^
 ||mid.rkdms.com^
+||midairfuran.cfd^
 ||midala.112.2o7.net^
 ||midar.112.2o7.net^
 ||midas-i.com^
@@ -703456,6 +703611,7 @@ zzzyk.com###Tinfo
 ||mjiillaizjckm.website^
 ||mjjbag78.com^
 ||mjjcwatsciuns.online^
+||mjjmleydmcfcy.website^
 ||mjjvkx.monoprice.com^
 ||mjk-r.net/common/sample/full01/img/bg_special_
 ||mjk-r.net/common/sample/full01/img/bnr_
@@ -704129,6 +704285,7 @@ zzzyk.com###Tinfo
 ||mnbvpo8trk.com^
 ||mnbyto.goo-net.com^
 ||mnch.brandnewapp.pro^
+||mncknwobhuwac.space^
 ||mncvjhg.com^
 ||mndlvr.com^
 ||mndlvr.com^$document
@@ -707437,6 +707594,7 @@ zzzyk.com###Tinfo
 ||muejigjejszbp.online^
 ||muelanews.com^
 ||muellecapitaje.digital^
+||muembfrakhsyp.space^
 ||mueoh.besynchro.com^
 ||muepkdedxoeik.space^
 ||muerza.torreconifera.com^
@@ -709112,6 +709270,7 @@ zzzyk.com###Tinfo
 ||mzmvcdhvehplz.site^
 ||mzmxy.nikon.ca^
 ||mzngincolmscd.site^
+||mznipbtlxiuab.online^
 ||mznkhtumfgify.site^
 ||mznoqk.happy-car.kr^
 ||mzol7lbm.com^
@@ -713722,6 +713881,7 @@ zzzyk.com###Tinfo
 ||nmo-ep.nl^
 ||nmo1.orpi.com^
 ||nmobi.kuwo.cn^
+||nmodmlsmevxng.site^
 ||nmpcdn.com^
 ||nmpcol101.nielsen.com^
 ||nmpntuexxrtfb.space^
@@ -715504,6 +715664,7 @@ zzzyk.com###Tinfo
 ||nu7.pl^
 ||nu9k.adj.st^
 ||nuaaad.cn^
+||nualexdyysmji.space^
 ||nuance.com/tagserver/incrementality/onEvent
 ||nuance.com/tagserver/logging/
 ||nuancedmorosis.com^
@@ -715724,6 +715885,7 @@ zzzyk.com###Tinfo
 ||nutatedtriol.com^
 ||nutatelust.com^
 ||nutateshazanim.com^
+||nutbhgjsvldis.site^
 ||nutcasescrews.com^
 ||nutchaungong.com^
 ||nutchaungong.com^$document
@@ -715807,6 +715969,7 @@ zzzyk.com###Tinfo
 ||nvapi.nicovideo.jp/v1/bandit-machine/
 ||nvb0nqwjif.com^
 ||nvbflc.pinkpanda.bg^
+||nvblthqojxran.online^
 ||nvbrfj.icu^
 ||nvcfa.grillyourassoff.com^
 ||nvdst.com/adx_
@@ -715820,6 +715983,7 @@ zzzyk.com###Tinfo
 ||nvgezlkkqshtt.online^
 ||nvgnealcimsdq.space^
 ||nvgst8gvjy.com^
+||nvhgvphcxwdhx.website^
 ||nvhlzr.kosmetikfuchs.de^
 ||nvidia-graphics.top^
 ||nvidia.com/api/client-logger
@@ -717010,6 +717174,7 @@ zzzyk.com###Tinfo
 ||ocarinaboot.xhamster*.*/api/models/vast
 ||ocast.elevenaustralia.com^
 ||ocbv0.baiyangzs.com^
+||ocbwmegh.in^
 ||ocbzhqjomdmxa.space^
 ||occasional-draft.pro^
 ||occasionforfeitarray.com^
@@ -717380,6 +717545,7 @@ zzzyk.com###Tinfo
 ||oedcylluwpivu.site^
 ||oeddcqpagllfy.website^
 ||oedlmz.underarmour.it^
+||oedwmgcylrfne.space^
 ||oedxix.lolipop.jp^
 ||oeeee.adsame.com^
 ||oefdjrivunaqq.website^
@@ -718007,6 +718173,7 @@ zzzyk.com###Tinfo
 ||ogwsktwhfwlky.space^
 ||ogwzby.peek-und-cloppenburg.de^
 ||ogxrnlidijwxg.website^
+||ogylcvyvflchf.online^
 ||ogypquywenfmq.site^
 ||ogzbpc.doctipharma.fr^
 ||ogzkaplivkku.in^
@@ -718191,6 +718358,7 @@ zzzyk.com###Tinfo
 ||oinjkenwok.xyz^
 ||oinkedbowls.com^
 ||oinkedcerreroophrys.cfd^
+||oinkinghornishsompay.qpon^
 ||oinlkwdsx.xyz^
 ||oinlkwr.xyz^
 ||ointmentapathetic.com^
@@ -718534,6 +718702,7 @@ zzzyk.com###Tinfo
 ||olawa.goaserv.com^
 ||olawa24.pl/media/campaigns/files/$image
 ||olay.com.tr/*/esen-push/js/webpush-min.js
+||olaycqxkhudgw.site^
 ||olayomad.com^
 ||olb.pns.kt.com^
 ||olc.yodo1api.com^
@@ -719403,6 +719572,7 @@ zzzyk.com###Tinfo
 ||omlube.com^
 ||ommateabeanos.com^
 ||ommcrywbemojn.space^
+||ommzokyc.com^
 ||omn.americanexpress.com^
 ||omn.costumesupercenter.com^
 ||omn.crackle.com^
@@ -719523,6 +719693,7 @@ zzzyk.com###Tinfo
 ||omnimove.tourradar.com^
 ||omniomar.com^
 ||omniqa.ru^
+||omnirphuzkpiq.space^
 ||omnis.basspro.com^
 ||omnis.bd.pcmall.com^
 ||omnis.firstdata.com^
@@ -719611,6 +719782,7 @@ zzzyk.com###Tinfo
 ||omoxxgrsttwsz.online^
 ||ompatratom.com^
 ||ompe2.7u6h8.xyz^
+||omphaliarainsagamic.cfd^
 ||omphpeaphhuut.site^
 ||ompol.vitrazza.com^
 ||ompx.shopbop.com^
@@ -722299,6 +722471,7 @@ zzzyk.com###Tinfo
 ||otuumq.manyavar.com^
 ||otv8z3qmjfg7xv2e6i1b.cfd^
 ||otvojqdrozce.com^
+||otvqghgmkpkhc.site^
 ||otwaagpjpgctw.online^
 ||otwaahn.com^
 ||otwarte24.com.pl^
@@ -723145,6 +723318,7 @@ zzzyk.com###Tinfo
 ||ozelmedikal.com^$third-party
 ||ozfejflhimwls.online^
 ||ozfisiodlybdi.site^
+||ozfwjkgeismsk.online^
 ||ozfxwlyarvwzy.site^
 ||ozihlzpeabppp.online^
 ||ozikxjdxczhbg.online^
@@ -726617,6 +726791,7 @@ zzzyk.com###Tinfo
 ||pckgatups.bond^
 ||pcking.de/_javascripts/cookiesolution/
 ||pcktmkfjnkfqm.club^
+||pckxvstzdkuip.online^
 ||pclick.yahoo.com^
 ||pclk.name^
 ||pclk.name^$popup
@@ -726652,6 +726827,7 @@ zzzyk.com###Tinfo
 ||pcnerliukctck.online^
 ||pcnet.com.tr/?wordfence_logHuman=
 ||pcnphysio-com.ca-eulerian.net^
+||pcnqfntxnmpwk.site^
 ||pcnuhzoxhjhvd.website^
 ||pco-sm-log.tantanapp.com^
 ||pconline.com.cn/_hux_/
@@ -726856,6 +727032,7 @@ zzzyk.com###Tinfo
 ||pdtffl.icu^
 ||pdtrc.fadedstore.com^
 ||pdtyhplauzdtu.online^
+||pdubhvmygsxgw.online^
 ||pduiz.juiceplus.com^
 ||pdupdate.organiccrap.com^
 ||pdurhalrmokeb.space^
@@ -727684,6 +727861,7 @@ zzzyk.com###Tinfo
 ||pevdrkxf.com^
 ||peverholl.net^
 ||pevftg.shopee.sg^
+||pevgbjcaaznsz.website^
 ||pevinogalela.com^
 ||pevnyhodnotar.net^
 ||pevqdzwyiqkj.com^
@@ -729270,6 +729448,7 @@ zzzyk.com###Tinfo
 ||pippity.com^
 ||pippity.com^$third-party
 ||pips.taboola.com^
+||pipsgain.com^
 ||pipslab.nl^
 ||pipsol.net^
 ||pipsol.net^$popup
@@ -729937,6 +730116,7 @@ zzzyk.com###Tinfo
 ||pji.nu/libs/pjpixel/
 ||pjiec.rejeanne-underwear.com^
 ||pjiixsjrzigen.site^
+||pjisahjzjzcqe.space^
 ||pjivecsgaqoip.website^
 ||pjkfjz.juken-net.com^
 ||pjkyxrd15e.ru^
@@ -729957,6 +730137,7 @@ zzzyk.com###Tinfo
 ||pjqrr.agapexoxo.com^
 ||pjrkspcllfpji.online^
 ||pjrtamlmqaaoe.space^
+||pjruirhev.com^
 ||pjs.selecttopoff.com^
 ||pjsao.thegivenget.com^
 ||pjsbuhl.icu^
@@ -731500,6 +731681,7 @@ zzzyk.com###Tinfo
 ||plectrum53.top^
 ||pledgedplodder.com^
 ||pledgormagh.com^
+||pleisechimys.qpon^
 ||pleisty.com^
 ||pleisty.com^$third-party
 ||plenerowy.com^
@@ -733599,6 +733781,7 @@ zzzyk.com###Tinfo
 ||poudretsodomy.com^
 ||poufedapddplecart.info^
 ||pouhwpuqcutlc.online^
+||poulterrandan.cyou^
 ||pouncetdiddy.cfd^
 ||pouncetusk.com^
 ||poundporter.best^
@@ -735927,6 +736110,7 @@ zzzyk.com###Tinfo
 ||proof.mediaz.vn^
 ||proof.sudo.vn^
 ||proof.vertumotors.com^
+||proofcherubsallasch.qpon^
 ||prooffactor.com^
 ||prooffactor.com^$third-party
 ||proofly.win^
@@ -736174,6 +736358,7 @@ zzzyk.com###Tinfo
 ||protyshop.com^
 ||proudlyfunkywanderer.com^
 ||proudlytap.com^
+||proudradish.com^
 ||prov-lg.alphonso.tv^
 ||prov.alphonso.tv^
 ||prov.samsungcloudsolution.com^
@@ -736348,6 +736533,7 @@ zzzyk.com###Tinfo
 ||prudsys-rde.de^$third-party
 ||prudyascape.com^
 ||pruebascol.arin-innovation.com^
+||pruertpexofjf.online^
 ||prufenzo.xyz^
 ||prugskh.com^
 ||prugskh.net^
@@ -736373,6 +736559,7 @@ zzzyk.com###Tinfo
 ||prx.wayfair.com^
 ||prx6.destinia.ch^
 ||prxagdsjzghjd.website^
+||prxpovbcysurf.website^
 ||prxymecb.cn^
 ||pryckdnodwfsb.online^
 ||prydwen.gg/api/banners/
@@ -738161,6 +738348,7 @@ zzzyk.com###Tinfo
 ||pvnwap.zol.com.cn^
 ||pvoheg.bubbleroom.se^
 ||pvokaqjpntpin.store^
+||pvphood.cc^
 ||pvpoke-re.com/*.js?v=$replace=/document\['body'\]\['remove'\]\(\);/return;/
 ||pvpoke-re.com/*.js?v=$replace=/try\{GameMaster/try{return;GameMaster/
 ||pvpti222.com^
@@ -738508,6 +738696,7 @@ zzzyk.com###Tinfo
 ||pyrexar.actonservice.com^
 ||pyrfpb.icu^
 ||pyrkxp.novafotograf.com^
+||pyroidcardia.qpon^
 ||pyroium.net^
 ||pyrrhicmmmmmondsee.cfd^
 ||pyruvilpacinkohauler.qpon^
@@ -738794,6 +738983,7 @@ zzzyk.com###Tinfo
 ||qahmipatkmaj.com^
 ||qahxwy.goosecreekcandle.com^
 ||qai-engine-com.pages.dev^
+||qaiithevrvdip.online^
 ||qaili.kennyflowers.com^
 ||qaixhtzsjyipb.store^
 ||qajkvcdzxcqvn.space^
@@ -738808,6 +738998,7 @@ zzzyk.com###Tinfo
 ||qaljfiwv.com^
 ||qalmuro.shop^
 ||qamnyl.bever.nl^
+||qamnyzjjnfybo.online^
 ||qamrajywditki.online^
 ||qamurtajzovce.site^
 ||qanbzrgbcafeo.online^
@@ -738929,6 +739120,7 @@ zzzyk.com###Tinfo
 ||qbtqj.lacedhaircare.com^
 ||qbulqouctdzso.online^
 ||qbuqxddcgzenn.site^
+||qbvcuszlpbegh.online^
 ||qbvhs.sistaco.co.uk^
 ||qbwebeboqbyrb.top^
 ||qbwkux.home24.at^
@@ -739113,6 +739305,7 @@ zzzyk.com###Tinfo
 ||qdjjhhdn.shellshockcbd.com^
 ||qdkaky.rikilovesriki.com^
 ||qdkpyueaqswtv.online^
+||qdlbikruukset.site^
 ||qdldp.slateflosser.com^
 ||qdlrbnjioxxnl.website^
 ||qdlzj.cn^
@@ -739471,6 +739664,7 @@ zzzyk.com###Tinfo
 ||qhngmav.com^
 ||qhnhi.bulkbookstore.com^
 ||qhokrckmxeczb.online^
+||qhomcusgjszem.space^
 ||qhonzpl.cn^
 ||qhq5.qyexjolwpv6wvgbet5wp.cfd^
 ||qhqfmdhuxeujk.space^
@@ -739647,6 +739841,7 @@ zzzyk.com###Tinfo
 ||qiqipu.com/ajs/waptj.js
 ||qiqipu.com/nplayer/ckplayer1/ckplayer.js
 ||qiqipu.tv/js/123^
+||qiqybkbj.com^
 ||qirbtkfgqdaug.website^
 ||qirgzaosm.in^
 ||qirloith.com^
@@ -739871,6 +740066,7 @@ zzzyk.com###Tinfo
 ||qlhqkphqbkoxg.site^
 ||qling.com^
 ||qlipsodigital.checkm8.com^
+||qlipxvfhzgvdz.online^
 ||qliqxaxsajpls.space^
 ||qlisv.siemens6es7.com^
 ||qlitics.com^
@@ -739923,6 +740119,7 @@ zzzyk.com###Tinfo
 ||qlvls.perfectlensworld.com^
 ||qlvobmtnqrocw.online^
 ||qlwzyqlwowzpu.online^
+||qlxcaqwtwauvb.site^
 ||qlyvinhfifdwv.site^
 ||qlzn6i1l.com^
 ||qm-g.actonservice.com^
@@ -740673,6 +740870,7 @@ zzzyk.com###Tinfo
 ||qtns.k5r7x3b.pics^
 ||qtnsjtkniokp.com^
 ||qtnzjwddynjdh.online^
+||qtnzxygfbpapx.online^
 ||qtojd.barntools.com^
 ||qtoonoecxthnl.space^
 ||qtotkxbumapye.website^
@@ -741683,6 +741881,7 @@ zzzyk.com###Tinfo
 ||qyxrwl.com^
 ||qyysqs.color4care.no^
 ||qyyvoquib.com^
+||qyzqivswtpxff.website^
 ||qyzyd.top^
 ||qz496amxfh87mst.com^
 ||qz496amxfh87mst.com^$popup
@@ -742968,6 +743167,7 @@ zzzyk.com###Tinfo
 ||rbcdn.com^
 ||rbcdp.charleskeith.com^
 ||rbcore-wlc-3.net.jumia.co.ke^
+||rbcxfemcnoobvw.com^
 ||rbdata.boostymark.com^
 ||rbdfwuffoodto.online^
 ||rbdomain.ru^
@@ -743708,6 +743908,7 @@ zzzyk.com###Tinfo
 ||rebel.ai^
 ||rebelclover.com^
 ||rebelhen.com^
+||rebellyimmix.cyou^
 ||rebelmouse.com/pharos/
 ||rebelswing.com^
 ||rebevengwas.com^
@@ -745135,6 +745336,7 @@ zzzyk.com###Tinfo
 ||remotedesk.life^
 ||remotelyhundreds.com^
 ||remotepwn.com^
+||remoterkittershutoku.qpon^
 ||remotupload.com/js/bigtouch.js$script
 ||removalchest.com^
 ||removalozonizehafted.cfd^
@@ -746249,6 +746451,7 @@ zzzyk.com###Tinfo
 ||reverencecolourful.com^
 ||reverencepolite.com^
 ||reverendfry.com^
+||reveresbilsted.qpon^
 ||reversetickets.com^
 ||reverseuntidy.com^
 ||reversible68.com^
@@ -746837,6 +747040,7 @@ zzzyk.com###Tinfo
 ||ria.ru/flv/livestat.aspx?
 ||ria.ru/polling?ticket=
 ||riaccnavig.store^
+||riadhzmrvqbvn.space^
 ||rialisicur.store^
 ||rialsheldfiendly.qpon^
 ||riamiavid.com^
@@ -747741,6 +747945,7 @@ zzzyk.com###Tinfo
 ||rnpbt.drinktmrw.com^
 ||rnpqa.famousdaves.com^
 ||rnpufzsiovbo.com^
+||rnpxgybienhlb.website^
 ||rnqcffpv.com^
 ||rnqhle.airberry.kr^
 ||rnrjpr8gc.com^
@@ -753325,6 +753530,7 @@ zzzyk.com###Tinfo
 ||sachsenlotto.de^
 ||sackedphil.com^
 ||saclel.zotapay.com^
+||sacobrtfeakk.in^
 ||sacombank.net.vn^
 ||sacombank.vn-ne.top^
 ||sacombankvn.com^
@@ -755591,6 +755797,7 @@ zzzyk.com###Tinfo
 ||scoala1gherla.ro^
 ||scode.randomhouse.com^
 ||scoegp.learnandmaster.com^
+||scoggerobtestslimily.qpon^
 ||scogienaira.cyou^
 ||scogruyyomglj.online^
 ||scoietegenerale.fr^
@@ -757015,6 +757222,7 @@ zzzyk.com###Tinfo
 ||secre.jp^
 ||secret-flirts.com^
 ||secret.xn--oogle-wmc.com^
+||secretaire97.com^
 ||secretbehindporn.com^
 ||secretbehindporn.com^$third-party
 ||secretbenefits.com/js/script.js
@@ -770144,6 +770352,7 @@ zzzyk.com###Tinfo
 ||sky88chinhhang.com^
 ||skyad.video^
 ||skyadsmart.com^
+||skyahimpwbjbn.space^
 ||skyauction.122.2o7.net^
 ||skybaggycollecting.com^
 ||skybet.com^
@@ -770188,6 +770397,7 @@ zzzyk.com###Tinfo
 ||skymedia7.me^
 ||skymobi.agency^
 ||skymobi.agency^$popup
+||skymods.download^
 ||skypack.dev/@amplitude/
 ||skype-online0345.web.app^
 ||skype.dw.land.to^
@@ -776614,6 +776824,7 @@ zzzyk.com###Tinfo
 ||snva.jp/api/bcon/$image
 ||snva.jp/api/bcon/basic?
 ||snva.jp^*/beacon.js
+||snvaamefxswbh.online^
 ||snvbhd.weltbild.at^
 ||snvhtbgxlbamr.com^
 ||snvkkflgdoekk.site^
@@ -778214,6 +778425,7 @@ zzzyk.com###Tinfo
 ||southcoasttoday.112.2o7.net^
 ||southcoasttodaycom.112.2o7.net^
 ||southefface.com^
+||southernalarm.screenconnect.com^
 ||southethudcd.org^
 ||southflannelclassic.com^
 ||southfloridagaynews.com/images/banners/
@@ -778728,6 +778940,7 @@ zzzyk.com###Tinfo
 ||spdmg.i-mobile.co.jp^
 ||spdn.splice.com/next-integrations/integrations/google-tag-manager/
 ||spdn.splice.com/next-integrations/middleware/analytics.
+||spdrcfdwhvjdj.site^
 ||spdtrk.com^
 ||spdzmyui.sigevent.pro^
 ||spe.atdmt.com^
@@ -780002,6 +780215,7 @@ zzzyk.com###Tinfo
 ||src.leju.com^
 ||src.vector.com^
 ||src.zf313.com^
+||src1.minibai.com^
 ||srcap.4patriots.com^
 ||srch-telemeter10.g.smailru.net^
 ||srch.atdmt.com^
@@ -784333,6 +784547,7 @@ zzzyk.com###Tinfo
 ||sshu.avo-miami.com^
 ||ssi.emanuelhacker.com^
 ||ssi.statusfalgar.se^
+||ssi1gqcx0m.com^
 ||sside.audaxxia.com^
 ||sside.colesia.it^
 ||sside.danielesita.com^
@@ -798491,6 +798706,7 @@ zzzyk.com###Tinfo
 ||stawhoph.com^
 ||stawhoph.com^$popup
 ||stax.kr^
+||staxwbrw.com^
 ||stay-center.rest^
 ||stay.decentralappps.com^
 ||stay.lottehotel.com^
@@ -802176,6 +802392,7 @@ zzzyk.com###Tinfo
 ||swa.vodafone.cz^
 ||swa.vodafone.pt^
 ||swa.wowcher.co.uk^
+||swaegoagzuctm.website^
 ||swagshoponline.pl^
 ||swagster.pl^
 ||swailsrecoal.com^
@@ -802341,6 +802558,7 @@ zzzyk.com###Tinfo
 ||swellstocking.com^
 ||swelteringcatch.com^
 ||swelzor.site^
+||swepcepheusspurry.cfd^
 ||swervedenflame.cfd^
 ||swervemonkey.com^
 ||swervemunchfibber.com^
@@ -807195,6 +807413,7 @@ zzzyk.com###Tinfo
 ||taskapi.net^
 ||taskdelight.com^
 ||tasker.shop^
+||taskercounselling.com^
 ||taskgridly.top^
 ||tasksimplify.com^
 ||tasktrivialaggregated.com^
@@ -807561,6 +807780,7 @@ zzzyk.com###Tinfo
 ||tbyvvwvv.tantec-gmbh.de^
 ||tbyvvwvv.tantec.com^
 ||tbyvvwvv.tantec.mx^
+||tbyywoshougjp.online^
 ||tbzku.intimaterose.com^
 ||tc-bic.appspot.com^
 ||tc-clicks.com^
@@ -811274,6 +811494,7 @@ zzzyk.com###Tinfo
 ||tidaltv.com.akadns.net^
 ||tidaltv.com^
 ||tidbitscom.skimlinks.com^
+||tiddqqcojoygc.space^
 ||tide-cdn.lol^
 ||tide-cdn.online^
 ||tidebuy.com^
@@ -824339,6 +824560,7 @@ zzzyk.com###Tinfo
 ||tuty.tutyiandsisu.com.au^
 ||tuudibopjoxmy.site^
 ||tuulelipp.jyrgenson.xyz^
+||tuumdollop.com^
 ||tuusjwrgtxigs.space^
 ||tuvanruttien.com^
 ||tuvevx.agent-sana.com^
@@ -826571,6 +826793,7 @@ zzzyk.com###Tinfo
 ||uiwire.org^
 ||uiwire.store^
 ||uiwock.epantofi.ro^
+||uiwxobfcvxrki.online^
 ||uiwyirmq.kids-world.com^
 ||uiwyirmq.kids-world.dk^
 ||uixbwmrkfrvmc.space^
@@ -826619,12 +826842,14 @@ zzzyk.com###Tinfo
 ||ujndb.moventashop.com^
 ||ujnkn.com^
 ||ujnsh.discovericl.com^
+||ujosjyaidtlgb.online^
 ||ujpcgbe9.xyz^
 ||ujpqiykehtfry.online^
 ||ujq1.destinia.is^
 ||ujqgr.twothirds.com^
 ||ujquwo.thesdelapagode.com^
 ||ujraj.ghidfarmaceutic.com^
+||ujrxtnjxtxzrt.space^
 ||ujscdn.com^
 ||ujth40hl4i.com^
 ||ujtvxvmkmncua.online^
@@ -827853,6 +828078,7 @@ zzzyk.com###Tinfo
 ||unoldluridly.com^
 ||unonoticias.net^
 ||unovertkiths.qpon^
+||unownedswipes.cyou^
 ||unownluluai.cfd^
 ||unpackelasticlens.com^
 ||unpackstaleintended.com^
@@ -827885,6 +828111,7 @@ zzzyk.com###Tinfo
 ||unproudcneorum.qpon^
 ||unputexorate.cyou^
 ||unpydqpidsfb.cdnvideo3.com^
+||unqm8c9dfk.com^
 ||unqsnzyrsdkuz.website^
 ||unquodbubaupfly.qpon^
 ||unqvaof.xyz^
@@ -829611,6 +829838,7 @@ zzzyk.com###Tinfo
 ||uswvideo.adsrvr.org^
 ||uswvvrisswcbd.site^
 ||usybvizjdfyur.website^
+||usylqhhzhfyrg.site^
 ||usync.aws.rubiconproject.com^
 ||usyuqcezbvhqr.online^
 ||usyyaonmtfscc.space^
@@ -831688,6 +831916,7 @@ zzzyk.com###Tinfo
 ||vapingunderground.com/js/vapingunderground/3253a5a323gaw352.js$domain=vapingunderground.com
 ||vapixel.adsafeprotected.com^
 ||vaplsncgeszec.site^
+||vaporsallody.cyou^
 ||vaporysuavest.cfd^
 ||vapourdifferenceszealot.com^
 ||vappajamnia.cfd^
@@ -832280,12 +832509,14 @@ zzzyk.com###Tinfo
 ||vcsphxpnlxnrm.online^
 ||vcsservice.eu^
 ||vcstrading.eu^
+||vctdyqcatdfqc.space^
 ||vctzdx.mundoalfombra.com^
 ||vcvbnmto.xyz^
 ||vcvbnmto.xyz^$third-party
 ||vcvbogndkwheb.space^
 ||vcvncewkfhtmp.website^
 ||vcvnl.fashionnova.com^
+||vcvyvahlcxjah.online^
 ||vcxtkb.myomee.com^
 ||vcxzp.com^
 ||vcydrfif.com^
@@ -833385,6 +833616,7 @@ zzzyk.com###Tinfo
 ||viaatomvideo.112.2o7.net^
 ||viabeldumchan.com^
 ||viabestweekever.112.2o7.net^
+||viablekimcheecommise.qpon^
 ||viacom.oewabox.at^
 ||viacom.sc.omtrdc.net^
 ||viacomedycentral.112.2o7.net^
@@ -833920,6 +834152,7 @@ zzzyk.com###Tinfo
 ||vidigital.ru^
 ||vidigital.ru^$third-party
 ||vidilife.crwdcntrl.net^
+||vidimusagyria.qpon^
 ||vidio.com/embed/*&autoplay=true$domain=bola.net
 ||vidlink.pro/api/adcash
 ||vidlink.pro/api/mercury
@@ -837372,6 +837605,7 @@ zzzyk.com###Tinfo
 ||vqmzk.radianthotyoga.com^
 ||vqndh.frankincensemyrrh.com^
 ||vqnkmosjemdjyq.com^
+||vqnvib2h7e.com^
 ||vqooisjexmusf.space^
 ||vqoqlebzyzbkz.top^
 ||vqoqlebzyzbyq.top^
@@ -837891,6 +838125,7 @@ zzzyk.com###Tinfo
 ||vuevgiavjbplr.space^
 ||vufskqjnnhnjt.site^
 ||vufwvjmuiqixg.site^
+||vufydkrucdgys.site^
 ||vugjyr.icu^
 ||vugqkeanmhm.com^
 ||vugurafesoru.com^
@@ -838155,6 +838390,7 @@ zzzyk.com###Tinfo
 ||vw8xm2oteburhtq2mf88.cfd^
 ||vwakpz.vidri.com.sv^
 ||vwasiabet.com^
+||vwatrqyjlxtod.website^
 ||vwbbpe.aircaraibes.com^
 ||vwbetasia.com^
 ||vwbjalrunlqrl.site^
@@ -838414,6 +838650,7 @@ zzzyk.com###Tinfo
 ||vz99.app^
 ||vz99vietnam.com^
 ||vzafeclhxfuym.website^
+||vzahusxfeqscw.website^
 ||vzal21mooz.hyperwrite.ai^
 ||vzarabotke.ru^
 ||vzayis1qa.com^
@@ -838797,6 +839034,7 @@ zzzyk.com###Tinfo
 ||w5daa5.com^
 ||w5eep9esa.com^
 ||w5k1ni9cuphb1xb87rytjpyl.rest^
+||w5q.eu^
 ||w5sac788c1.360doc.cn^
 ||w6.chabad.org^
 ||w6.hitbox.com^
@@ -842724,6 +842962,7 @@ zzzyk.com###Tinfo
 ||whoppngzrzsyz.online^
 ||whorledebbets.cyou^
 ||whorlefrisky.cfd^
+||whorlyoclock.cyou^
 ||whortsiddat.com^
 ||whos.amung.us^
 ||whosclickingwho.com^
@@ -842834,6 +843073,7 @@ zzzyk.com###Tinfo
 ||wickscindieyeuky.cfd^
 ||wicmdokqlpdso.space^
 ||wicomicociviccenter.go-static.info^
+||wicreset.online^
 ||wiczcu.xyz^
 ||widcxrmwusqhe.online^
 ||widdecedbpoks.space^
@@ -843664,6 +843904,7 @@ zzzyk.com###Tinfo
 ||wish.securedtouch.com^
 ||wishabi.com/track.gif
 ||wishdownget.com^
+||wishersamoebae.qpon^
 ||wishesantennarightfully.com^
 ||wishesen.com^
 ||wishfulresemble.com^
@@ -843841,6 +844082,7 @@ zzzyk.com###Tinfo
 ||wjmghujaluysu.online^
 ||wjmuqxznbxbpw.website^
 ||wjmyfp.billetdavion.be^
+||wjnidjxjkingy.website^
 ||wjopvkcozzxif.online^
 ||wjpgaw.intercityhotel.com^
 ||wjqernneeknag.space^
@@ -872271,6 +872513,7 @@ zzzyk.com###Tinfo
 ||xc3-s.tlnk.io^
 ||xc3.services.livejournal.com/ljcounter/
 ||xc5r5huxrr.com^
+||xc8yfo8ll29t9l134bh.cfd^
 ||xcache.ad360.vn^
 ||xcafe.com/*.jsf?m=
 ||xcafe.com/*.php
@@ -873331,6 +873574,7 @@ zzzyk.com###Tinfo
 ||xkbzom.jobblitz.de^
 ||xkcd.com^$removeparam=trk
 ||xkcjchvzhrtio.com^
+||xkcmzdyxaodtd.online^
 ||xkcsdxyexvzgj.site^
 ||xkcxh.com^
 ||xkd*.com/layer/layer.js
@@ -873530,6 +873774,7 @@ zzzyk.com###Tinfo
 ||xmgysweb.com^
 ||xmh-resc.9icph.cn^
 ||xmh57jrzrnw6insl.onion.pet^
+||xmhusdidqnptw.site^
 ||xmiggrrnkvrzf.online^
 ||xmilf.com/0eckuwtxfr/
 ||xmind.app/_api/plsbl/gtag
@@ -875533,6 +875778,7 @@ zzzyk.com###Tinfo
 ||xtendmedia.com^$third-party
 ||xtewwhvhyrazi.site^
 ||xtfdijwt2.stape.qa^
+||xtfixejstruli.site^
 ||xtfxjlpglilrdo.com^
 ||xtg5gdugqi.com^
 ||xtgem.com/images/influenza/$domain=sextgem.com
@@ -875671,6 +875917,7 @@ zzzyk.com###Tinfo
 ||xuexila.com^*-xxl.js
 ||xuexingkeji.cn^
 ||xuexiwa.com^$script,third-party
+||xufbyaikmokau.space^
 ||xufihfrsmrbvv.website^
 ||xugsrpmdnvcwq.website^
 ||xugtlwwuiamtq.space^
@@ -875977,6 +876224,7 @@ zzzyk.com###Tinfo
 ||xxsowlfycllbg.space^
 ||xxss6677.com^
 ||xxsweety.com^
+||xxsywqgtrmfro.website^
 ||xxsywxj.com^
 ||xxtalp.xyz^
 ||xxts11130zs.com^
@@ -876418,6 +876666,7 @@ zzzyk.com###Tinfo
 ||y3dx36f6.love6d.com^
 ||y3j9f.drownertraff.cc^
 ||y3nouy9uobo.g3owuqu9y613jxqffj73o6.cyou^
+||y3yuih3s1.com^
 ||y4.97env3zux49c22i1i65tkw1tjnbq2yi.cyou^
 ||y4.o2v2nj7l366i9ihty6oq2ofrixm1fly.cyou^
 ||y4.zfoo2relcykev7olu9okic9kq34pbye.cfd^
@@ -876512,6 +876761,7 @@ zzzyk.com###Tinfo
 ||yadtbk.blacks.co.uk^
 ||yaebhbyweyxvt.store^
 ||yaffenbtrdlkx.website^
+||yafoivqxiuaby.online^
 ||yag.redefine.pl/events/
 ||yagcntwmijjcs.online^
 ||yagjugaevqdek.space^
@@ -877306,6 +877556,7 @@ zzzyk.com###Tinfo
 ||yeur7.4djnjhd.pics^
 ||yeuszfvmmzsng.website^
 ||yev.moviesdirectpro.com^
+||yevenchangos.cyou^
 ||yevvzltyoxbuy.website^
 ||yevzxhxxmukvi.online^
 ||yewrcd.govoyages.com^
@@ -877412,6 +877663,7 @@ zzzyk.com###Tinfo
 ||ygdy8.com/js$script
 ||ygdy8.com/jsy1/
 ||ygecho.wenz.de^
+||ygernechalcis.cyou^
 ||ygfesvqrqtwba.space^
 ||ygg.re^
 ||ygg1e0gmc.com^
@@ -878804,6 +879056,7 @@ zzzyk.com###Tinfo
 ||yp868.com/js/54h/
 ||ypa.focusoftime.com^
 ||ypa.focusoftime.com^$third-party
+||ypbdycgslddln.site^
 ||ypbfjo.paulsmith.co.jp^
 ||ypbvyc.mpa-pro.fr^
 ||ypcdbw.drive2.com^
@@ -878841,6 +879094,7 @@ zzzyk.com###Tinfo
 ||ypqgnx.morizon.pl^
 ||ypqowrizpahrb.space^
 ||ypsozc.com^
+||yptlmddhhoppx.website^
 ||yptolkbcxepbh.online^
 ||yptqys.tianqistatic.com^
 ||yptrupbkfmlue.site^
@@ -881491,6 +881745,7 @@ zzzyk.com###Tinfo
 ||zhuuv.maoyumao.net^
 ||zhuvufyqrzmta.site^
 ||zhuwang.cc/api.php?op=ad_
+||zhvnkakudizjd.online^
 ||zhy333.com^
 ||zhy333.com^$3p
 ||zhy333.com^$third-party
@@ -882273,6 +882528,7 @@ zzzyk.com###Tinfo
 ||zogaptujudlkq.site^
 ||zogczipe5hp25gempz.rest^
 ||zogio.kiauraeyewear.com^
+||zogkhrjeuzhon.site^
 ||zogle.sithealthier.com^
 ||zogmfiyljbdvf.space^
 ||zogrepsili.com^
