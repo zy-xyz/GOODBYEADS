@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2026-10-31 01:34:51（北京时间）
+! Version: 2026-10-31 11:36:23（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 19689
+! Total count: 19693
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$cookie=_pcus,domain=buerstaedter-zeitung.de|allgemeine-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de|ruhrnachrichten.de
@@ -6007,6 +6007,7 @@
 @@||csm.cxpublic.com^$script,domain=tarzanweb.jp
 @@||csoonline.com/js/demandbase.js
 @@||csr.inspsearchapi.com/lib/infospace.search.js$domain=search.pch.com
+@@||css-load.com/loader.min.js$script,domain=dogdrip.net
 @@||css-load.com^$stealth=referrer
 @@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
 @@||cstaticdun.126.net^
@@ -12364,6 +12365,7 @@
 @@||nashe.ru/wp-content/uploads/*-300x600.
 @@||naszraciborz.pl^$generichide
 @@||natalie.mu^$generichide
+@@||natgeotv.com^$stealth=dpi
 @@||nationalgeographic.com/global/js/advertising.js$script
 @@||nationwide.co.uk/_/js/webAnalytics.js
 @@||nationwide.com/myaccount/includes/images/x.gif$~third-party
@@ -13108,6 +13110,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apps2app.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arhplyrics.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arkadium.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aryplus.tv
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=as-selection.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=asiaon.top
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=asiatv.one
@@ -16013,6 +16016,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=abccar.com.tw
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=agario-play.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=ani.gamer.com.tw
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=aryplus.tv
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=aternos.org
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=bloomberg.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=britannica.com
